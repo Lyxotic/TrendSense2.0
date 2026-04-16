@@ -1,0 +1,105 @@
+{
+    "report_generated_time": "2026-04-16T14:24:11.592487",
+    "niche": "Web3 & Decentralized Infrastructure",
+    "final_score": 6.96,
+    "alert_status": "PRE_TREND_ALERT",
+    "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
+    "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
+    "signals": {
+        "academic": {
+            "normalized_score": 10,
+            "data": [
+                {
+                    "title": "KindHML: formal verification of smart contracts based on Hennessy-Milner logic",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.14038v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.13611v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Graph-based Hierarchical Deep Reinforcement Learning for Deliverable Block Propagation with Optimal Hybrid Cost in Web 3.0",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2604.12920v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "UniDetect: LLM-Driven Universal Fraud Detection across Heterogeneous Blockchains",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.12329v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "BLAST: Blockchain-based LLM-powered Agentic Spectrum Trading",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.12127v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "AmBox: Device-to-Blockchain Ambient Sensing for Food Traceability",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.11681v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "AI Identification: An Integrated Framework for Sustainable Governance in Digital Enterprises",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.10473v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "GasLiteAA: Optimizing ERC-4337 for Efficient and Secure Gas Sponsorship",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.10160v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Competitive Transaction Admission in PCNs: Online Knapsack with Positive and Negative Items",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.08205v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "MEV-ACE: Identity-Authenticated Fair Ordering for Proposer-Controlled MEV Mitigation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.07568v1",
+                    "published": "Last 7 Days"
+                }
+            ]
+        },
+        "developer": {
+            "normalized_score": 1.32,
+            "data": [
+                {
+                    "repo_name": "ethereum/go-ethereum",
+                    "recent_commits": 26,
+                    "increase_pct": "52.9%",
+                    "score_contribution": 2.65
+                },
+                {
+                    "repo_name": "solana-labs/solana",
+                    "recent_commits": 0,
+                    "increase_pct": "0.0%",
+                    "score_contribution": 0
+                }
+            ]
+        },
+        "buzz": {
+            "normalized_score": 10.0,
+            "data": [
+                {
+                    "title": "MetaMask Adds Support for Societe Generale\u2019s Stablecoin",
+                    "source": "Bitcoinfoundation.org"
+                },
+                {
+                    "title": "Bitcoin ETFs post $412M in inflows as Goldman Sachs files for BTC ETF",
+                    "source": "Cointelegraph"
+                }
+            ]
+        }
+    }
+}
