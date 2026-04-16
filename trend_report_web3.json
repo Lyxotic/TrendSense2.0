@@ -1,8 +1,8 @@
 {
-    "report_generated_time": "2026-04-16T14:24:11.592487",
+    "report_generated_time": "2026-04-16T15:36:49.811039",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.96,
-    "alert_status": "PRE_TREND_ALERT",
+    "final_score": 7.05,
+    "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
@@ -72,13 +72,13 @@
             ]
         },
         "developer": {
-            "normalized_score": 1.32,
+            "normalized_score": 1.56,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
                     "recent_commits": 26,
-                    "increase_pct": "52.9%",
-                    "score_contribution": 2.65
+                    "increase_pct": "62.5%",
+                    "score_contribution": 3.12
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "MetaMask Adds Support for Societe Generale\u2019s Stablecoin",
-                    "source": "Bitcoinfoundation.org"
+                    "title": "'We are currently being extorted' \u2014 crypto giant Kraken says it is facing extortion attack, here's what we know",
+                    "source": "TechRadar"
                 },
                 {
-                    "title": "Bitcoin ETFs post $412M in inflows as Goldman Sachs files for BTC ETF",
-                    "source": "Cointelegraph"
+                    "title": "Bitcoin Faces Quantum Risk \u2014 New Proposal Could Lock Vulnerable Coins",
+                    "source": "Bitcoinist"
                 }
             ]
         }

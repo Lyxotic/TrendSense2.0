@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-04-16T14:23:50.683829",
+    "report_generated_time": "2026-04-16T15:36:39.694719",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.8,
+    "final_score": 6.75,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,7 +72,7 @@
             ]
         },
         "developer": {
-            "normalized_score": 0.86,
+            "normalized_score": 0.72,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -83,14 +83,14 @@
                 {
                     "repo_name": "crewAIInc/crewAI",
                     "recent_commits": 41,
-                    "increase_pct": "-37.9%",
+                    "increase_pct": "-34.9%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 44,
-                    "increase_pct": "51.7%",
-                    "score_contribution": 2.59
+                    "recent_commits": 43,
+                    "increase_pct": "43.3%",
+                    "score_contribution": 2.17
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Why Google\u2019s New Gemma 4 AI is a Game-Changer for Your Laptop",
-                    "source": "Geeky Gadgets"
+                    "title": "LIC must bridge tech gap with private peers, says DFS secretary Nagaraju",
+                    "source": "Livemint"
                 },
                 {
-                    "title": "ASML Targets 60+ EUV Shipments in 2026 as Memory Demand Surges",
-                    "source": "Techpowerup.com"
+                    "title": "IBM warns AI-powered hackers are coming, so it built AI to fight them",
+                    "source": "Slashdot.org"
                 }
             ]
         }

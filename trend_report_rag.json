@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-04-16T14:24:02.846850",
+    "report_generated_time": "2026-04-16T15:36:45.584579",
     "niche": "RAG & Vector Databases",
-    "final_score": 6.63,
+    "final_score": 6.81,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,13 +72,13 @@
             ]
         },
         "developer": {
-            "normalized_score": 0.37,
+            "normalized_score": 0.9,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 61,
-                    "increase_pct": "22.0%",
-                    "score_contribution": 1.1
+                    "recent_commits": 66,
+                    "increase_pct": "50.0%",
+                    "score_contribution": 2.5
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -88,9 +88,9 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 26,
-                    "increase_pct": "-3.7%",
-                    "score_contribution": 0
+                    "recent_commits": 28,
+                    "increase_pct": "3.7%",
+                    "score_contribution": 0.19
                 }
             ]
         },
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "lecture-forge 0.5.6",
+                    "title": "l402sdk-langchain added to PyPI",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "langchain-timbr 5.0.0",
+                    "title": "l402sdk-langchain 0.1.0",
                     "source": "Pypi.org"
                 }
             ]
