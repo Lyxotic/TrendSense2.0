@@ -1,0 +1,111 @@
+{
+    "report_generated_time": "2026-04-16T14:23:50.683829",
+    "niche": "AI Agents & Multi-Agent Systems",
+    "final_score": 6.8,
+    "alert_status": "PRE_TREND_ALERT",
+    "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
+    "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
+    "signals": {
+        "academic": {
+            "normalized_score": 10,
+            "data": [
+                {
+                    "title": "TREX: Automating LLM Fine-tuning via Agent-Driven Tree-based Exploration",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.14116v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Acts of Configuration: Rethinking Provenance, Temporality and Legitimacy in Post-Mortem Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.13996v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "AI Coding Agents Need Better Compiler Remarks",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.13927v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Topology Estimation for Open Multi-Agent Systems",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2604.13628v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Towards Scalable Lightweight GUI Agents via Multi-role Orchestration",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2604.13488v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "MERRIN: A Benchmark for Multimodal Evidence Retrieval and Reasoning in Noisy Web Environments",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2604.13418v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Distributed Resilient Fixed-Time Control for Cooperative Output Regulation of MASs over Directed Graphs under DoS Attacks",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.13394v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Agentic Open RAN: A Deterministic and Auditable Framework for Intent-Driven Radio Control",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.13384v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "When Less Latent Leads to Better Relay: Information-Preserving Compression for Latent Multi-Agent LLM Collaboration",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2604.13349v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "AgentSPEX: An Agent SPecification and EXecution Language",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.13346v1",
+                    "published": "Last 7 Days"
+                }
+            ]
+        },
+        "developer": {
+            "normalized_score": 0.86,
+            "data": [
+                {
+                    "repo_name": "microsoft/autogen",
+                    "recent_commits": 0,
+                    "increase_pct": "-100.0%",
+                    "score_contribution": 0
+                },
+                {
+                    "repo_name": "crewAIInc/crewAI",
+                    "recent_commits": 41,
+                    "increase_pct": "-37.9%",
+                    "score_contribution": 0
+                },
+                {
+                    "repo_name": "pydantic/pydantic-ai",
+                    "recent_commits": 44,
+                    "increase_pct": "51.7%",
+                    "score_contribution": 2.59
+                }
+            ]
+        },
+        "buzz": {
+            "normalized_score": 10.0,
+            "data": [
+                {
+                    "title": "Why Google\u2019s New Gemma 4 AI is a Game-Changer for Your Laptop",
+                    "source": "Geeky Gadgets"
+                },
+                {
+                    "title": "ASML Targets 60+ EUV Shipments in 2026 as Memory Demand Surges",
+                    "source": "Techpowerup.com"
+                }
+            ]
+        }
+    }
+}

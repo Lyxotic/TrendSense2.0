@@ -1,0 +1,105 @@
+{
+    "report_generated_time": "2026-04-16T14:24:20.486089",
+    "niche": "Cloud Native & DevOps",
+    "final_score": 7.19,
+    "alert_status": "TRENDING_NOW",
+    "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
+    "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
+    "signals": {
+        "academic": {
+            "normalized_score": 10,
+            "data": [
+                {
+                    "title": "Self-adaptive Multi-Access Edge Architectures: A Robotics Case",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.13542v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "TORAI: Unsupervised Fine-grained RCA using Multi-Source Telemetry Data",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.13522v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "LIFE -- an energy efficient advanced continual learning agentic AI framework for frontier systems",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.12874v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Intelligent resource prediction for SAP HANA continuous integration build workloads",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2604.12673v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Beyond Pre-Training: The Full Lifecycle of Foundation Models on HPC Systems",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.12599v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Predictive Bayesian Arbitration: A Scalable Noisy-OR Model with Service Criticality Awareness",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.11989v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Context Kubernetes: Declarative Orchestration of Enterprise Knowledge for Agentic AI Systems",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.11623v2",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "AgentForge: Execution-Grounded Multi-Agent LLM Framework for Autonomous Software Engineering",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2604.13120v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "E2E-REME: Towards End-to-End Microservices Auto-Remediation via Experience-Simulation Reinforcement Fine-Tuning",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.11094v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "NimbusGuard: A Novel Framework for Proactive Kubernetes Autoscaling Using Deep Q-Networks",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.11017v1",
+                    "published": "Last 7 Days"
+                }
+            ]
+        },
+        "developer": {
+            "normalized_score": 1.96,
+            "data": [
+                {
+                    "repo_name": "kubernetes/kubernetes",
+                    "recent_commits": 25,
+                    "increase_pct": "78.6%",
+                    "score_contribution": 3.93
+                },
+                {
+                    "repo_name": "docker/compose",
+                    "recent_commits": 9,
+                    "increase_pct": "0.0%",
+                    "score_contribution": 0
+                }
+            ]
+        },
+        "buzz": {
+            "normalized_score": 10.0,
+            "data": [
+                {
+                    "title": "Show HN: IBANforge \u2013 $6/mo alternative to $9,500/yr IBAN validation APIs",
+                    "source": "Ibanforge.com"
+                },
+                {
+                    "title": "XRP flips green after a 63% wipeout as retail fear hits a 2-year extreme \u2013 now one Wall Street metric is spiking",
+                    "source": "CryptoSlate"
+                }
+            ]
+        }
+    }
+}

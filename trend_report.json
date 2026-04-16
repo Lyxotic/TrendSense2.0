@@ -1,0 +1,111 @@
+{
+    "report_generated_time": "2026-03-15T09:27:35.728650",
+    "niche": "AI Agents & Multi-Agent Systems",
+    "final_score": 6.4,
+    "alert_status": "PRE_TREND_ALERT",
+    "alert_message": "Topic is showing massive momentum. The shift from static LLMs to autonomous Agents is underway.",
+    "human_summary": "The field is moving beyond simple chat. Developers are flocking to frameworks like AutoGen and CrewAI to build systems that can 'plan' and 'act' autonomously. Academic research confirms that Multi-Agent collaboration significantly outperforms single-model performance.",
+    "signals": {
+        "academic": {
+            "normalized_score": 10,
+            "data": [
+                {
+                    "title": "MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2603.12266v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams",
+                    "summary": "An important advancement in autonomous agent logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2603.12265v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously",
+                    "summary": "An important advancement in autonomous agent logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2603.12262v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "HumDex:Humanoid Dexterous Manipulation Made Easy",
+                    "summary": "An important advancement in autonomous agent logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2603.12260v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing",
+                    "summary": "An important advancement in autonomous agent logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2603.12254v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Binding Free Energies without Alchemy",
+                    "summary": "An important advancement in autonomous agent logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2603.12253v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "$\\bar{D}$-meson Nucleon Scattering from Lattice QCD at the Physical Point",
+                    "summary": "An important advancement in autonomous agent logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2603.12251v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "SciMDR: Benchmarking and Advancing Scientific Multimodal Document Reasoning",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2603.12249v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2603.12246v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Separable neural architectures as a primitive for unified predictive and generative intelligence",
+                    "summary": "An important advancement in autonomous agent logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2603.12244v1",
+                    "published": "Last 7 Days"
+                }
+            ]
+        },
+        "developer": {
+            "normalized_score": 1.75,
+            "data": [
+                {
+                    "repo_name": "microsoft/autogen",
+                    "recent_commits": 1,
+                    "increase_pct": "100.0%",
+                    "score_contribution": 5.0
+                },
+                {
+                    "repo_name": "crewAIInc/crewAI",
+                    "recent_commits": 20,
+                    "increase_pct": "5.3%",
+                    "score_contribution": 0.26
+                },
+                {
+                    "repo_name": "pydantic/pydantic-ai",
+                    "recent_commits": 3,
+                    "increase_pct": "-89.3%",
+                    "score_contribution": 0
+                }
+            ]
+        },
+        "buzz": {
+            "normalized_score": 7.13,
+            "data": [
+                {
+                    "title": "OpenAI's 'Operator' agent rumors spark new wave of agentic startups.",
+                    "source": "Industry Insider"
+                },
+                {
+                    "title": "VC funding for Autonomous Agent Orchestration grows 400% YoY.",
+                    "source": "Financial Trends"
+                }
+            ]
+        }
+    }
+}

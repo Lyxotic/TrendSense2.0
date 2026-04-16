@@ -1,0 +1,45 @@
+name: TrendSense Daily Intelligence Update
+
+# This tells GitHub WHEN to run the script
+on:
+  schedule:
+    # Runs at 00:00 UTC every day. You can tweak this cron syntax later!
+    - cron: '0 0 * * *'
+  workflow_dispatch: 
+    # This line adds a "Run workflow" button in GitHub so you can trigger it manually anytime
+
+# We need to give the automated bot permission to push code back to your repository
+permissions:
+  contents: write
+
+jobs:
+  update-trends:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11' 
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Trend Intelligence Engine
+        env:
+          # This passes the secrets securely to your Python script
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          NEWS_API: ${{ secrets.NEWS_API }}
+        run: python trend_collector.py
+
+      - name: Commit and Push Updated JSON Reports
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add trend_report_*.json
+          # Only commit if there are actually changes to the files
+          git diff --quiet && git diff --staged --quiet || git commit -m "Automated update: Trend intelligence JSON reports"
+          git push
