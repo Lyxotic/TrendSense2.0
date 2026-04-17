@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-04-16T15:36:45.584579",
+    "report_generated_time": "2026-04-17T02:26:22.823464",
     "niche": "RAG & Vector Databases",
-    "final_score": 6.81,
+    "final_score": 6.89,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,75 +10,75 @@
             "normalized_score": 10,
             "data": [
                 {
+                    "title": "Enhancing Large Language Models with Retrieval Augmented Generation for Software Testing and Inspection Automation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.15270v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "UrbanClipAtlas: A Visual Analytics Framework for Event and Scene Retrieval in Urban Videos",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.15225v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.14967v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Toward Agentic RAG for Ukrainian",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.14896v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "LR-Robot: An Human-in-the-Loop LLM Framework for Systematic Literature Reviews with Applications in Financial Research",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.14793v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Enhancing Mental Health Counseling Support in Bangladesh using Culturally-Grounded Knowledge",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.14576v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Don't Retrieve, Navigate: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.14572v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "A Unified Model and Document Representation for On-Device Retrieval-Augmented Generation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.14403v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Shuffle the Context: RoPE-Perturbed Self-Distillation for Long-Context Adaptation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.14339v1",
+                    "published": "Last 7 Days"
+                },
+                {
                     "title": "ROSE: Retrieval-Oriented Segmentation Enhancement",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.14147v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Large Language Models to Enhance Business Process Modeling: Past, Present, and Future Trends",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.14034v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Beyond Arrow's Impossibility: Fairness as an Emergent Property of Multi-Agent Collaboration",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.13705v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Automatically Inferring Teachers' Geometric Content Knowledge: A Skills Based Approach",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.13666v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "VRAG-DFD: Verifiable Retrieval-Augmentation for MLLM-based Deepfake Detection",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.13660v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "MM-Doc-R1: Training Agents for Long Document Visual Question Answering through Multi-turn Reinforcement Learning",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.13579v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "A Unified HI Rotation Curve Corpus for Computational Astrophysics: 438 Galaxies from SPARC, THINGS, LITTLE THINGS, and WALLABY DR2",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.13489v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "The Cognitive Circuit Breaker: A Systems Engineering Framework for Intrinsic AI Reliability",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2604.13417v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "SemiFA: An Agentic Multi-Modal Framework for Autonomous Semiconductor Failure Analysis Report Generation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.13236v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Representation geometry shapes task performance in vision-language modeling for CT enterography",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.13021v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.9,
+            "normalized_score": 1.12,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 66,
-                    "increase_pct": "50.0%",
-                    "score_contribution": 2.5
+                    "recent_commits": 72,
+                    "increase_pct": "67.4%",
+                    "score_contribution": 3.37
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -88,9 +88,9 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 28,
-                    "increase_pct": "3.7%",
-                    "score_contribution": 0.19
+                    "recent_commits": 20,
+                    "increase_pct": "-41.2%",
+                    "score_contribution": 0
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "l402sdk-langchain added to PyPI",
-                    "source": "Pypi.org"
+                    "title": "AI optimization: 7 powerful techniques you can use today!",
+                    "source": "Redhat.com"
                 },
                 {
-                    "title": "l402sdk-langchain 0.1.0",
-                    "source": "Pypi.org"
+                    "title": "Manager, Machine Learning Engineering",
+                    "source": "Nlppeople.com"
                 }
             ]
         }

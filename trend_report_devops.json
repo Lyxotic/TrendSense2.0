@@ -1,14 +1,20 @@
 {
-    "report_generated_time": "2026-04-16T15:36:54.077443",
+    "report_generated_time": "2026-04-17T02:26:30.313275",
     "niche": "Cloud Native & DevOps",
-    "final_score": 7.24,
-    "alert_status": "TRENDING_NOW",
+    "final_score": 6.75,
+    "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "Towards Trustworthy 6G Network Digital Twins: A Framework for Validating Counterfactual What-If Analysis in Edge Computing Resources",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.14787v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Self-adaptive Multi-Access Edge Architectures: A Robotics Case",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -34,6 +40,12 @@
                     "published": "Last 7 Days"
                 },
                 {
+                    "title": "TRACE: A Conversational Framework for Sustainable Tourism Recommendation with Agentic Counterfactual Explanations",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.14223v1",
+                    "published": "Last 7 Days"
+                },
+                {
                     "title": "Beyond Pre-Training: The Full Lifecycle of Foundation Models on HPC Systems",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.12599v1",
@@ -48,7 +60,7 @@
                 {
                     "title": "Context Kubernetes: Declarative Orchestration of Enterprise Knowledge for Agentic AI Systems",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.11623v2",
+                    "link": "https://arxiv.org/pdf/2604.11623v3",
                     "published": "Last 7 Days"
                 },
                 {
@@ -56,35 +68,23 @@
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
                     "link": "https://arxiv.org/pdf/2604.13120v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "E2E-REME: Towards End-to-End Microservices Auto-Remediation via Experience-Simulation Reinforcement Fine-Tuning",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.11094v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "NimbusGuard: A Novel Framework for Proactive Kubernetes Autoscaling Using Deep Q-Networks",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.11017v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 2.12,
+            "normalized_score": 0.71,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 24,
-                    "increase_pct": "84.6%",
-                    "score_contribution": 4.23
+                    "recent_commits": 17,
+                    "increase_pct": "-10.5%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
                     "recent_commits": 9,
-                    "increase_pct": "0.0%",
-                    "score_contribution": 0
+                    "increase_pct": "28.6%",
+                    "score_contribution": 1.43
                 }
             ]
         },
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Silverline's Latest SEI\u00b2\u2122 Report Maps the National Media Convergence of Energy and AI Infrastructure that will Drive Communications Strategy in 2026",
-                    "source": "GlobeNewswire"
+                    "title": "FSU men's basketball lands Kameron Taylor in transfer portal",
+                    "source": "Tallahassee Democrat"
                 },
                 {
-                    "title": "Ex-UFC star Mark Hunt arrested following alleged domestic violence incident",
-                    "source": "Sherdog.com"
+                    "title": "Rovo Dev in Frontend Platform Engineering \u2013 AI for small tasks, AI for big tasks",
+                    "source": "Atlassian.com"
                 }
             ]
         }

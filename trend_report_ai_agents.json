@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-04-16T15:36:39.694719",
+    "report_generated_time": "2026-04-17T02:26:18.616358",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.75,
+    "final_score": 6.95,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,69 +10,69 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "TREX: Automating LLM Fine-tuning via Agent-Driven Tree-based Exploration",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.14116v1",
+                    "title": "RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography",
+                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
+                    "link": "https://arxiv.org/pdf/2604.15231v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Acts of Configuration: Rethinking Provenance, Temporality and Legitimacy in Post-Mortem Agents",
+                    "title": "Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.13996v1",
+                    "link": "https://arxiv.org/pdf/2604.15186v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "AI Coding Agents Need Better Compiler Remarks",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.13927v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Topology Estimation for Open Multi-Agent Systems",
+                    "title": "CoGrid & the Multi-User Gymnasium: A Framework for Multi-Agent Experimentation",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.13628v1",
+                    "link": "https://arxiv.org/pdf/2604.15044v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Towards Scalable Lightweight GUI Agents via Multi-role Orchestration",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2604.13488v1",
+                    "title": "Autogenesis: A Self-Evolving Agent Protocol",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.15034v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "MERRIN: A Benchmark for Multimodal Evidence Retrieval and Reasoning in Noisy Web Environments",
+                    "title": "SWE-TRACE: Optimizing Long-Horizon SWE Agents Through Rubric Process Reward Models and Heuristic Test-Time Scaling",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.14820v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Knowing When Not to Answer: Evaluating Abstention in Multimodal Reasoning Systems",
                     "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2604.13418v1",
+                    "link": "https://arxiv.org/pdf/2604.14799v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Distributed Resilient Fixed-Time Control for Cooperative Output Regulation of MASs over Directed Graphs under DoS Attacks",
+                    "title": "DR$^{3}$-Eval: Towards Realistic and Reproducible Deep Research Evaluation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.13394v1",
+                    "link": "https://arxiv.org/pdf/2604.14683v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Agentic Open RAN: A Deterministic and Auditable Framework for Intent-Driven Radio Control",
+                    "title": "AIPC: Agent-Based Automation for AI Model Deployment with Qualcomm AI Runtime",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.13384v1",
+                    "link": "https://arxiv.org/pdf/2604.14661v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "When Less Latent Leads to Better Relay: Information-Preserving Compression for Latent Multi-Agent LLM Collaboration",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.13349v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "AgentSPEX: An Agent SPecification and EXecution Language",
+                    "title": "CoDaS: AI Co-Data-Scientist for Biomarker Discovery via Wearable Sensors",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.13346v1",
+                    "link": "https://arxiv.org/pdf/2604.14615v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "El Agente Forjador: Task-Driven Agent Generation for Quantum Simulation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.14609v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.72,
+            "normalized_score": 1.28,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,15 +82,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 41,
-                    "increase_pct": "-34.9%",
+                    "recent_commits": 49,
+                    "increase_pct": "-12.5%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 43,
-                    "increase_pct": "43.3%",
-                    "score_contribution": 2.17
+                    "recent_commits": 46,
+                    "increase_pct": "76.9%",
+                    "score_contribution": 3.85
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "LIC must bridge tech gap with private peers, says DFS secretary Nagaraju",
-                    "source": "Livemint"
+                    "title": "Russians will surrender to robots. Russian robots won\u2019t.",
+                    "source": "Defense One"
                 },
                 {
-                    "title": "IBM warns AI-powered hackers are coming, so it built AI to fight them",
-                    "source": "Slashdot.org"
+                    "title": "Dublin start-up targets space data bottleneck with on-board AI",
+                    "source": "The Irish Times"
                 }
             ]
         }

@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-04-16T15:36:49.811039",
+    "report_generated_time": "2026-04-17T02:26:26.883212",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 7.05,
+    "final_score": 7.16,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -9,6 +9,18 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "Codes with Large Minimum Distance in Product Codes: Explicit Constructions and Bounds",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.15080v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "From Risk to Rescue: An Agentic Survival Analysis Framework for Liquidation Prevention",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2604.14583v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "KindHML: formal verification of smart contracts based on Hennessy-Milner logic",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -56,29 +68,17 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.10160v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "Competitive Transaction Admission in PCNs: Online Knapsack with Positive and Negative Items",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.08205v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "MEV-ACE: Identity-Authenticated Fair Ordering for Proposer-Controlled MEV Mitigation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.07568v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 1.56,
+            "normalized_score": 1.88,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 26,
-                    "increase_pct": "62.5%",
-                    "score_contribution": 3.12
+                    "recent_commits": 28,
+                    "increase_pct": "75.0%",
+                    "score_contribution": 3.75
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "'We are currently being extorted' \u2014 crypto giant Kraken says it is facing extortion attack, here's what we know",
-                    "source": "TechRadar"
+                    "title": "X\u304c\u682a\u5f0f\u5e02\u5834\u3084\u4eee\u60f3\u901a\u8ca8\u306e\u30c1\u30e3\u30fc\u30c8\u3092\u30bf\u30a4\u30e0\u30e9\u30a4\u30f3\u4e0a\u3067\u76f4\u63a5\u898b\u3089\u308c\u308b\u300cCashtags\u300d\u6a5f\u80fd\u3092\u63d0\u4f9b\u958b\u59cb",
+                    "source": "Livedoor.com"
                 },
                 {
-                    "title": "Bitcoin Faces Quantum Risk \u2014 New Proposal Could Lock Vulnerable Coins",
-                    "source": "Bitcoinist"
+                    "title": "Bitcoin exchange inflows hit 11K BTC/hour as price reaches $76K resistance",
+                    "source": "Crypto Briefing"
                 }
             ]
         }
