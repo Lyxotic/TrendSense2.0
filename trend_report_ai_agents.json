@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-04-17T02:26:18.616358",
+    "report_generated_time": "2026-04-18T02:09:14.465213",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.95,
+    "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,7 +72,7 @@
             ]
         },
         "developer": {
-            "normalized_score": 1.28,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,15 +82,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 49,
-                    "increase_pct": "-12.5%",
+                    "recent_commits": 43,
+                    "increase_pct": "-32.8%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 46,
-                    "increase_pct": "76.9%",
-                    "score_contribution": 3.85
+                    "recent_commits": 37,
+                    "increase_pct": "0.0%",
+                    "score_contribution": 0
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Russians will surrender to robots. Russian robots won\u2019t.",
-                    "source": "Defense One"
+                    "title": "nous-lang 4.4.3",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "Dublin start-up targets space data bottleneck with on-board AI",
-                    "source": "The Irish Times"
+                    "title": "agent-security-harness 4.2.0",
+                    "source": "Pypi.org"
                 }
             ]
         }

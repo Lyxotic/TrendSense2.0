@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-04-17T02:26:26.883212",
+    "report_generated_time": "2026-04-18T02:09:22.966435",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 7.16,
+    "final_score": 7.01,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,13 +72,13 @@
             ]
         },
         "developer": {
-            "normalized_score": 1.88,
+            "normalized_score": 1.47,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 28,
-                    "increase_pct": "75.0%",
-                    "score_contribution": 3.75
+                    "recent_commits": 27,
+                    "increase_pct": "58.8%",
+                    "score_contribution": 2.94
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "X\u304c\u682a\u5f0f\u5e02\u5834\u3084\u4eee\u60f3\u901a\u8ca8\u306e\u30c1\u30e3\u30fc\u30c8\u3092\u30bf\u30a4\u30e0\u30e9\u30a4\u30f3\u4e0a\u3067\u76f4\u63a5\u898b\u3089\u308c\u308b\u300cCashtags\u300d\u6a5f\u80fd\u3092\u63d0\u4f9b\u958b\u59cb",
-                    "source": "Livedoor.com"
+                    "title": "Trump invites Netanyahu, Aoun to White House for Israel-Lebanon talks",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Bitcoin exchange inflows hit 11K BTC/hour as price reaches $76K resistance",
+                    "title": "Pentagon shakeup continues with ouster of Army Chief Gen. Randy George",
                     "source": "Crypto Briefing"
                 }
             ]
