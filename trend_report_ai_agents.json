@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-04-18T02:09:14.465213",
+    "report_generated_time": "2026-04-19T02:31:05.442903",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.5,
+    "final_score": 6.53,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,7 +72,7 @@
             ]
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 0.09,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -88,9 +88,9 @@
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 37,
-                    "increase_pct": "0.0%",
-                    "score_contribution": 0
+                    "recent_commits": 38,
+                    "increase_pct": "5.6%",
+                    "score_contribution": 0.28
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "nous-lang 4.4.3",
-                    "source": "Pypi.org"
+                    "title": "Jason Ballard: Technology must prioritize families\u2019 needs, long commutes harm mental health, and military construction is set for explosive growth | TWIST",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "agent-security-harness 4.2.0",
-                    "source": "Pypi.org"
+                    "title": "Claude Design debut marks Anthropic\u2019s expansion into visual creation",
+                    "source": "The Indian Express"
                 }
             ]
         }

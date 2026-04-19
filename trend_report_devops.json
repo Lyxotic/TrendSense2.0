@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-04-18T02:09:26.777687",
+    "report_generated_time": "2026-04-19T02:31:16.222743",
     "niche": "Cloud Native & DevOps",
     "final_score": 6.65,
     "alert_status": "PRE_TREND_ALERT",
@@ -76,8 +76,8 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 16,
-                    "increase_pct": "-23.8%",
+                    "recent_commits": 15,
+                    "increase_pct": "-25.0%",
                     "score_contribution": 0
                 },
                 {
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "pydantable-native 1.18.1",
-                    "source": "Pypi.org"
+                    "title": "Vandals sign former Washington State guard, Idaho high school record-breaker Kase Wynott",
+                    "source": "The Spokesman-Review"
                 },
                 {
-                    "title": "Massive XRP Adoption Trend Paints The Most Bullish Picture Yet",
-                    "source": "Bitcoinist"
+                    "title": "proxmox-mcp-plus added to PyPI",
+                    "source": "Pypi.org"
                 }
             ]
         }

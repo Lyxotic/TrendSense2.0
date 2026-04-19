@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-04-18T02:09:22.966435",
+    "report_generated_time": "2026-04-19T02:31:12.931176",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 7.01,
+    "final_score": 7.32,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,13 +72,13 @@
             ]
         },
         "developer": {
-            "normalized_score": 1.47,
+            "normalized_score": 2.33,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 27,
-                    "increase_pct": "58.8%",
-                    "score_contribution": 2.94
+                    "recent_commits": 29,
+                    "increase_pct": "93.3%",
+                    "score_contribution": 4.67
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Trump invites Netanyahu, Aoun to White House for Israel-Lebanon talks",
+                    "title": "Jason Ballard: Technology must prioritize families\u2019 needs, long commutes harm mental health, and military construction is set for explosive growth | TWIST",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Pentagon shakeup continues with ouster of Army Chief Gen. Randy George",
+                    "title": "Meta to cut 8,000 jobs amid big tech cost-cutting efforts",
                     "source": "Crypto Briefing"
                 }
             ]
