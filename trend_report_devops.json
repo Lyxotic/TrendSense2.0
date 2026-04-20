@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-04-19T02:31:16.222743",
+    "report_generated_time": "2026-04-20T02:31:51.819313",
     "niche": "Cloud Native & DevOps",
     "final_score": 6.65,
     "alert_status": "PRE_TREND_ALERT",
@@ -9,6 +9,24 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "Supporting the Comprehension of Data Analysis Scripts",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.15963v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Feature Toggle Dynamics in Large-Scale Systems: Prevalence, Growth, Lifespan, and Benchmarking",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.15872v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Sparse regression, classification, and microbial network estimation in QIIME2 with q2-classo and q2-gglasso",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.15520v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Towards Trustworthy 6G Network Digital Twins: A Framework for Validating Counterfactual What-If Analysis in Edge Computing Resources",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -50,24 +68,6 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.12599v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "Predictive Bayesian Arbitration: A Scalable Noisy-OR Model with Service Criticality Awareness",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.11989v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Context Kubernetes: Declarative Orchestration of Enterprise Knowledge for Agentic AI Systems",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.11623v3",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "AgentForge: Execution-Grounded Multi-Agent LLM Framework for Autonomous Software Engineering",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.13120v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
@@ -76,8 +76,8 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 15,
-                    "increase_pct": "-25.0%",
+                    "recent_commits": 14,
+                    "increase_pct": "-33.3%",
                     "score_contribution": 0
                 },
                 {
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Vandals sign former Washington State guard, Idaho high school record-breaker Kase Wynott",
-                    "source": "The Spokesman-Review"
+                    "title": "torchcrop 1.0.0",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "proxmox-mcp-plus added to PyPI",
-                    "source": "Pypi.org"
+                    "title": "EU to shrink by 50m people as birth rate hits record low",
+                    "source": "Freerepublic.com"
                 }
             ]
         }
