@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-04-20T02:31:39.613505",
+    "report_generated_time": "2026-04-21T02:27:15.697689",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.55,
+    "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,87 +10,87 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Convergence Time Distributions for Max-Consensus over Unreliable Networks",
+                    "title": "First, Do No Harm (With LLMs): Mitigating Racial Bias via Agentic Workflows",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.16069v1",
+                    "link": "https://arxiv.org/pdf/2604.18038v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "AstroVLM: Expert Multi-agent Collaborative Reasoning for Astronomical Imaging Quality Diagnosis",
+                    "title": "Diversity Collapse in Multi-Agent LLM Systems: Structural Coupling and Collective Failure in Open-Ended Idea Generation",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.16024v1",
+                    "link": "https://arxiv.org/pdf/2604.18005v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "SocialGrid: A Benchmark for Planning and Social Reasoning in Embodied Multi-Agent Systems",
+                    "title": "AIT Academy: Cultivating the Complete Agent with a Confucian Three-Domain Curriculum",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.17989v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "WebUncertainty: Dual-Level Uncertainty Driven Planning and Reasoning For Autonomous Web Agent",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2604.17821v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Bridging the Reasoning Gap in Vietnamese with Small Language Models via Test-Time Scaling",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2604.17794v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Prompt Optimization Enables Stable Algorithmic Collusion in LLM Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.17774v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Co-evolving Agent Architectures and Interpretable Reasoning for Automated Optimization",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2604.17708v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "SelfHeal: Empirical Fix Pattern Analysis and Bug Repair in LLM Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.17699v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Towards Self-Improving Error Diagnosis in Multi-Agent Systems",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.16022v1",
+                    "link": "https://arxiv.org/pdf/2604.17658v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Weak-Link Optimization for Multi-Agent Reasoning and Collaboration",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.15972v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Exploring Agentic Visual Analytics: A Co-Evolutionary Framework of Roles and Workflows",
+                    "title": "Provable Coordination for LLM Agents via Message Sequence Charts",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.15813v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Just Type It in Isabelle! AI Agents Drafting, Mechanizing, and Generalizing from Human Hints",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.15713v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Long-Term Memory for VLA-based Agents in Open-World Task Execution",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.15671v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Stargazer: A Scalable Model-Fitting Benchmark Environment for AI Agents under Astrophysical Constraints",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.15664v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Imperfectly Cooperative Human-AI Interactions: Comparing the Impacts of Human and AI Attributes in Simulated and User Studies",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.15607v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Spec2Cov: An Agentic Framework for Code Coverage Closure of Digital Hardware Designs",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.15606v1",
+                    "link": "https://arxiv.org/pdf/2604.17612v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.14,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
                     "recent_commits": 0,
-                    "increase_pct": "-100.0%",
+                    "increase_pct": "0.0%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 40,
-                    "increase_pct": "-40.3%",
+                    "recent_commits": 36,
+                    "increase_pct": "-43.8%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 38,
-                    "increase_pct": "8.6%",
-                    "score_contribution": 0.43
+                    "recent_commits": 29,
+                    "increase_pct": "-25.6%",
+                    "score_contribution": 0
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Bramridge Trust Unveiled: Should You Join Bramridge Trust? Features, Performance, Fees & Real User Insights!",
-                    "source": "GlobeNewswire"
+                    "title": "Harley Quinn #61 Preview: Double Trouble, Double the Insanity",
+                    "source": "Bleeding Cool News"
                 },
                 {
-                    "title": "argus-redteam 0.2.3",
-                    "source": "Pypi.org"
+                    "title": "Odisha gets 3D chip packaging unit",
+                    "source": "The Times of India"
                 }
             ]
         }

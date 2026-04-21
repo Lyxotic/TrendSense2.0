@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-04-20T02:31:51.819313",
+    "report_generated_time": "2026-04-21T02:27:27.299941",
     "niche": "Cloud Native & DevOps",
     "final_score": 6.65,
     "alert_status": "PRE_TREND_ALERT",
@@ -9,6 +9,30 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "Cloud-native and Distributed Systems for Efficient and Scalable Large Language Models -- A Research Agenda",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.17227v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Sarus Suite: Cloud-native Containers for HPC",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2604.17064v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Gleaner: A Semantically-Rich and Efficient Online Sampler for Microservice Diagnostics",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.16810v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Evaluating Temporal and Structural Anomaly Detection Paradigms for DDoS Traffic",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.16575v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Supporting the Comprehension of Data Analysis Scripts",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -40,33 +64,9 @@
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "TORAI: Unsupervised Fine-grained RCA using Multi-Source Telemetry Data",
+                    "title": "TORAI: Multi-source Root Cause Analysis for Blind Spots in Microservice Service Call Graph",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.13522v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "LIFE -- an energy efficient advanced continual learning agentic AI framework for frontier systems",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.12874v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Intelligent resource prediction for SAP HANA continuous integration build workloads",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2604.12673v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "TRACE: A Conversational Framework for Sustainable Tourism Recommendation with Agentic Counterfactual Explanations",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.14223v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Beyond Pre-Training: The Full Lifecycle of Foundation Models on HPC Systems",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.12599v1",
+                    "link": "https://arxiv.org/pdf/2604.13522v2",
                     "published": "Last 7 Days"
                 }
             ]
@@ -76,8 +76,8 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 14,
-                    "increase_pct": "-33.3%",
+                    "recent_commits": 10,
+                    "increase_pct": "-60.0%",
                     "score_contribution": 0
                 },
                 {
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "torchcrop 1.0.0",
+                    "title": "pictograph 1.0.0",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "EU to shrink by 50m people as birth rate hits record low",
-                    "source": "Freerepublic.com"
+                    "title": "bee2bee added to PyPI",
+                    "source": "Pypi.org"
                 }
             ]
         }

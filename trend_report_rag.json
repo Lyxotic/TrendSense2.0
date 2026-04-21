@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-04-20T02:31:44.624984",
+    "report_generated_time": "2026-04-21T02:27:20.510322",
     "niche": "RAG & Vector Databases",
-    "final_score": 7.05,
+    "final_score": 7.36,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,75 +10,75 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "A Case Study on the Impact of Anonymization Along the RAG Pipeline",
+                    "title": "Architecture Matters More Than Scale: A Comparative Study of Retrieval and Memory Augmentation for Financial QA Under SME Compute Constraints",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.15958v1",
+                    "link": "https://arxiv.org/pdf/2604.17979v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "RAGognizer: Hallucination-Aware Fine-Tuning via Detection Head Integration",
+                    "title": "RAVEN: Retrieval-Augmented Vulnerability Exploration Network for Memory Corruption Analysis in User Code and Binary Programs",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.15945v1",
+                    "link": "https://arxiv.org/pdf/2604.17948v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "CHOP: Chunkwise Context-Preserving Framework for RAG on Multi Documents",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.15802v1",
+                    "title": "AeroRAG: Structured Multimodal Retrieval-Augmented LLM for Fine-Grained Aerial Visual Reasoning",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2604.17889v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Skill-RAG: Failure-State-Aware Retrieval Augmentation via Hidden-State Probing and Skill Routing",
+                    "title": "Latent Abstraction for Retrieval-Augmented Generation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.15771v1",
+                    "link": "https://arxiv.org/pdf/2604.17866v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "EvoRAG: Making Knowledge Graph-based RAG Automatically Evolve through Feedback-driven Backpropagation",
+                    "title": "TeleEmbedBench: A Multi-Corpus Embedding Benchmark for RAG in Telecommunications",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.15676v1",
+                    "link": "https://arxiv.org/pdf/2604.17778v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "CodeMMR: Bridging Natural Language, Code, and Image for Unified Retrieval",
+                    "title": "Semantic Entanglement in Vector-Based Retrieval: A Formal Framework and Context-Conditioned Disentanglement Pipeline for Agentic RAG Systems",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.15663v1",
+                    "link": "https://arxiv.org/pdf/2604.17677v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Rethinking the Necessity of Adaptive Retrieval-Augmented Generation through the Lens of Adaptive Listwise Ranking",
+                    "title": "EHRAG: Bridging Semantic Gaps in Lightweight GraphRAG via Hybrid Hypergraph Construction and Retrieval",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.15621v1",
+                    "link": "https://arxiv.org/pdf/2604.17458v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "SAGE: Selective Attention-Guided Extraction for Token-Efficient",
+                    "title": "STRIDE: Strategic Iterative Decision-Making for Retrieval-Augmented Multi-Hop Question Answering",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.17405v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Neuro-Symbolic Resolution of Recommendation Conflicts in Multimorbidity Clinical Guidelines",
                     "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2604.15583v1",
+                    "link": "https://arxiv.org/pdf/2604.17340v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "LLM4C2Rust: Large Language Models for Automated Memory-Safe Code Transpilation",
+                    "title": "AutoSearch: Adaptive Search Depth for Efficient Agentic RAG via Reinforcement Learning",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.15485v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Enhancing Large Language Models with Retrieval Augmented Generation for Software Testing and Inspection Automation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.15270v1",
+                    "link": "https://arxiv.org/pdf/2604.17337v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 1.58,
+            "normalized_score": 2.47,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
                     "recent_commits": 72,
-                    "increase_pct": "94.6%",
-                    "score_contribution": 4.73
+                    "increase_pct": "148.3%",
+                    "score_contribution": 7.41
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -88,8 +88,8 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 17,
-                    "increase_pct": "-45.2%",
+                    "recent_commits": 15,
+                    "increase_pct": "-46.4%",
                     "score_contribution": 0
                 }
             ]
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "langchain-cachly added to PyPI",
+                    "title": "microsoft-agents-a365-observability-extensions-langchain 0.3.0.dev4",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "agentgovern added to PyPI",
-                    "source": "Pypi.org"
+                    "title": "From RAG to agentic AI: When models stop answering and start acting",
+                    "source": "Redhat.com"
                 }
             ]
         }

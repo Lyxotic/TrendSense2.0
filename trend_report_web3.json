@@ -1,14 +1,44 @@
 {
-    "report_generated_time": "2026-04-20T02:31:48.013781",
+    "report_generated_time": "2026-04-21T02:27:23.743117",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 7.38,
-    "alert_status": "TRENDING_NOW",
+    "final_score": 6.57,
+    "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "Vault as a credit instrument",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.17579v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "A Model and Estimation of the Bitcoin Transaction Fee",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.17183v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Decentralised Trust and Security Mechanisms for IoT Networks at the Edge: A Comprehensive Review",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.17179v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "The Hidden Plumbing of Stablecoins: Financial and Technological Risks in the GENIUS Act Era",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.17167v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "ParikkhaChain: Blockchain-Based Result Processing and Privacy-Preserving Academic Record Management for the Complete Examination Lifecycle",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.16827v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "T-RBFT: A Scalable and Efficient Byzantine Consensus Based on Trusted Execution Environment for Consortium Blockchain",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -22,6 +52,12 @@
                     "published": "Last 7 Days"
                 },
                 {
+                    "title": "Polynomial Multiproofs for Scalable Data Availability Sampling in Blockchain Light Clients",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.16559v1",
+                    "published": "Last 7 Days"
+                },
+                {
                     "title": "BlockRaFT: A Distributed Framework for Fault-Tolerant and Scalable Blockchain Nodes",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.15731v1",
@@ -32,53 +68,17 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.15674v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "Codes with Large Minimum Distance in Product Codes: Explicit Constructions and Bounds",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.15080v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "From Risk to Rescue: An Agentic Survival Analysis Framework for Liquidation Prevention",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2604.14583v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "KindHML: formal verification of smart contracts based on Hennessy-Milner logic",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.14038v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.13611v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Graph-based Hierarchical Deep Reinforcement Learning for Deliverable Block Propagation with Optimal Hybrid Cost in Web 3.0",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2604.12920v2",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "UniDetect: LLM-Driven Universal Fraud Detection across Heterogeneous Blockchains",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.12329v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 2.5,
+            "normalized_score": 0.2,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 30,
-                    "increase_pct": "100.0%",
-                    "score_contribution": 5.0
+                    "recent_commits": 27,
+                    "increase_pct": "8.0%",
+                    "score_contribution": 0.4
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Bitcoin Sentiment Remains At Extreme Low Despite Price Surge Above $77K",
-                    "source": "Bitcoinist"
+                    "title": "Inland Revenue urges crypto-asset investors to become tax compliant",
+                    "source": "New Zealand Herald"
                 },
                 {
-                    "title": "US-Iran talks resume in Pakistan amid optimism for breakthrough",
+                    "title": "US forces destroy drug vessel in Caribbean, killing three narco-terrorists",
                     "source": "Crypto Briefing"
                 }
             ]
