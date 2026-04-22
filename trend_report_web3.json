@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-04-21T02:27:23.743117",
+    "report_generated_time": "2026-04-22T02:25:20.994191",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.57,
+    "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,9 +10,27 @@
             "normalized_score": 10,
             "data": [
                 {
+                    "title": "Blockchain-Driven AI-Enhanced Post-Quantum Multivariate Identity-based Signature and Privacy-Preserving Data Aggregation Scheme for Fog-enabled Flying Ad-Hoc Networks",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.18819v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "From Tokens to Ties: Network and Discourse Analysis of Web3 Ecosystems",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2604.18761v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Capturing Monetarily Exploitable Vulnerability in Smart Contracts via Auditor Knowledge-Learning Fuzzing",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.18395v1",
+                    "published": "Last 7 Days"
+                },
+                {
                     "title": "Vault as a credit instrument",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.17579v1",
+                    "link": "https://arxiv.org/pdf/2604.17579v2",
                     "published": "Last 7 Days"
                 },
                 {
@@ -50,35 +68,17 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.15973v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "Polynomial Multiproofs for Scalable Data Availability Sampling in Blockchain Light Clients",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.16559v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "BlockRaFT: A Distributed Framework for Fault-Tolerant and Scalable Blockchain Nodes",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.15731v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Can LLMs Help Decentralized Dispute Arbitration? A Case Study of UMA-Resolved Markets on Polymarket",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.15674v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.2,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 27,
-                    "increase_pct": "8.0%",
-                    "score_contribution": 0.4
+                    "recent_commits": 24,
+                    "increase_pct": "-7.7%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Inland Revenue urges crypto-asset investors to become tax compliant",
-                    "source": "New Zealand Herald"
+                    "title": "Glowix Fundrail Review: Reliable Trading Platform or Scam? Our Findings",
+                    "source": "Whatjapanthinks.com"
                 },
                 {
-                    "title": "US forces destroy drug vessel in Caribbean, killing three narco-terrorists",
+                    "title": "White House credits Trump, Operation Epic Fury for nearing Iran peace deal",
                     "source": "Crypto Briefing"
                 }
             ]
