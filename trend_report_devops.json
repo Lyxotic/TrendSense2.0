@@ -1,8 +1,8 @@
 {
-    "report_generated_time": "2026-04-22T02:25:25.055069",
+    "report_generated_time": "2026-04-23T02:28:55.211438",
     "niche": "Cloud Native & DevOps",
-    "final_score": 6.5,
-    "alert_status": "PRE_TREND_ALERT",
+    "final_score": 7.74,
+    "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
@@ -12,13 +12,19 @@
                 {
                     "title": "Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.19705v1",
+                    "link": "https://arxiv.org/pdf/2604.19705v2",
                     "published": "Last 7 Days"
                 },
                 {
                     "title": "API Security Based on Automatic OpenAPI Mapping",
                     "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
                     "link": "https://arxiv.org/pdf/2604.19471v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "More Is Different: Toward a Theory of Emergence in AI-Native Software Ecosystems",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.19827v1",
                     "published": "Last 7 Days"
                 },
                 {
@@ -62,28 +68,22 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.15520v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "Towards Trustworthy 6G Network Digital Twins: A Framework for Validating Counterfactual What-If Analysis in Edge Computing Resources",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.14787v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 3.56,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 8,
-                    "increase_pct": "-66.7%",
-                    "score_contribution": 0
+                    "recent_commits": 109,
+                    "increase_pct": "142.2%",
+                    "score_contribution": 7.11
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 6,
-                    "increase_pct": "0.0%",
+                    "recent_commits": 2,
+                    "increase_pct": "-71.4%",
                     "score_contribution": 0
                 }
             ]
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "CRM Implementation: What Businesses Pay to Get Organized",
-                    "source": "Designer-daily.com"
+                    "title": "Show HN: Individual App Power Usage Tracking on Mac in Native Swift",
+                    "source": "Macbookbatterymonitor.com"
                 },
                 {
-                    "title": "interviewsignal 0.7.9",
-                    "source": "Pypi.org"
+                    "title": "Kuri \u2013 Zig based agent-browser alternative",
+                    "source": "Github.com"
                 }
             ]
         }

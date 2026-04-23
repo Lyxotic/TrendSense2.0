@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-04-22T02:25:11.969499",
+    "report_generated_time": "2026-04-23T02:28:44.443753",
     "niche": "AI Agents & Multi-Agent Systems",
     "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -10,63 +10,63 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "ECLASS-Augmented Semantic Product Search for Electronic Components",
+                    "title": "SWE-chat: Coding Agent Interactions From Real Users in the Wild",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.19664v1",
+                    "link": "https://arxiv.org/pdf/2604.20779v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "An AI Agent Execution Environment to Safeguard User Data",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.19657v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2604.19638v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Goal-Oriented Semantic Communication for Logical Decision Making",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.19614v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "TeamFusion: Supporting Open-ended Teamwork with Multi-Agent Systems",
+                    "title": "Global Hopf Bifurcation and Symmetric Periodic Solutions in Multi-Agent Systems with Neutral Distributed Delays",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.19589v1",
+                    "link": "https://arxiv.org/pdf/2604.20740v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.19541v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Mesh Memory Protocol: Semantic Infrastructure for Multi-Agent LLM Systems",
+                    "title": "Learning to Evolve: A Self-Improving Framework for Multi-Agent Systems via Textual Parameter Graph Optimization",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.19540v1",
+                    "link": "https://arxiv.org/pdf/2604.20714v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Revac: A Social Deduction Reasoning Agent",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2604.19523v1",
+                    "title": "Cooperative Profiles Predict Multi-Agent LLM Team Performance in AI for Science Workflows",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2604.20658v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Large Language Models Exhibit Normative Conformity",
+                    "title": "CHORUS: An Agentic Framework for Generating Realistic Deliberation Data",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.19301v1",
+                    "link": "https://arxiv.org/pdf/2604.20651v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Rethinking Scale: Deployment Trade-offs of Small Language Models under Agent Paradigms",
+                    "title": "pAI/MSc: ML Theory Research with Humans on the Loop",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.19299v1",
+                    "link": "https://arxiv.org/pdf/2604.20622v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Enhancing Research Idea Generation through Combinatorial Innovation and Multi-Agent Iterative Search Strategies",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2604.20548v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "MedSkillAudit: A Domain-Specific Audit Framework for Medical Research Agent Skills",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.20441v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Memory-Augmented LLM-based Multi-Agent System for Automated Feature Generation on Tabular Data",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2604.20261v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Chasing the Public Score: User Pressure and Evaluation Exploitation in Coding Agent Workflows",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.20200v1",
                     "published": "Last 7 Days"
                 }
             ]
@@ -83,13 +83,13 @@
                 {
                     "repo_name": "crewAIInc/crewAI",
                     "recent_commits": 42,
-                    "increase_pct": "-20.8%",
+                    "increase_pct": "0.0%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 26,
-                    "increase_pct": "-40.9%",
+                    "recent_commits": 19,
+                    "increase_pct": "-56.8%",
                     "score_contribution": 0
                 }
             ]
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Glowix Fundrail Review: Reliable Trading Platform or Scam? Our Findings",
-                    "source": "Whatjapanthinks.com"
+                    "title": "Vampirella #1 Preview: Draculina's Quest for Less Blood",
+                    "source": "Bleeding Cool News"
                 },
                 {
-                    "title": "First national reading week begins as China builds book-loving society",
-                    "source": "Peoplesreview.com.np"
+                    "title": "Anthropic's Claude Mythos AI Finds 271 Vulnerabilities in Firefox\u2014Yes, It's Seriously Powerful",
+                    "source": "Decrypt"
                 }
             ]
         }
