@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-04-23T02:28:55.211438",
+    "report_generated_time": "2026-04-24T02:29:20.022718",
     "niche": "Cloud Native & DevOps",
-    "final_score": 7.74,
+    "final_score": 8.25,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -9,6 +9,36 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.21910v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.21889v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "NEST: Network Enforced Session Types (Technical Report)",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.21795v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "AGNT2: Autonomous Agent Economies on Interaction-Optimized Layer 2 Infrastructure",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.21129v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "A Cloud-Native Architecture for Human-in-Control LLM-Assisted OpenSearch in Investigative Settings",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.21125v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -38,52 +68,22 @@
                     "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
                     "link": "https://arxiv.org/pdf/2604.17064v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "Gleaner: A Semantically-Rich and Efficient Online Sampler for Microservice Diagnostics",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.16810v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Evaluating Temporal and Structural Anomaly Detection Paradigms for DDoS Traffic",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.16575v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Supporting the Comprehension of Data Analysis Scripts",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.15963v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Feature Toggle Dynamics in Large-Scale Systems: Prevalence, Growth, Lifespan, and Benchmarking",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.15872v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Sparse regression, classification, and microbial network estimation in QIIME2 with q2-classo and q2-gglasso",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.15520v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 3.56,
+            "normalized_score": 5.0,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 109,
-                    "increase_pct": "142.2%",
-                    "score_contribution": 7.11
+                    "recent_commits": 137,
+                    "increase_pct": "234.1%",
+                    "score_contribution": 10.0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 2,
-                    "increase_pct": "-71.4%",
+                    "recent_commits": 0,
+                    "increase_pct": "-100.0%",
                     "score_contribution": 0
                 }
             ]
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Show HN: Individual App Power Usage Tracking on Mac in Native Swift",
-                    "source": "Macbookbatterymonitor.com"
+                    "title": "agentcore-graph 0.1.7",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "Kuri \u2013 Zig based agent-browser alternative",
-                    "source": "Github.com"
+                    "title": "thaw-native 0.3.2",
+                    "source": "Pypi.org"
                 }
             ]
         }

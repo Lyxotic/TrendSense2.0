@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-04-23T02:28:48.222696",
+    "report_generated_time": "2026-04-24T02:29:12.904383",
     "niche": "RAG & Vector Databases",
     "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -10,9 +10,21 @@
             "normalized_score": 10,
             "data": [
                 {
+                    "title": "Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.21284v1",
+                    "published": "Last 7 Days"
+                },
+                {
                     "title": "Coverage, Not Averages: Semantic Stratification for Trustworthy Retrieval Evaluation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.20763v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "SCM: Sleep-Consolidated Memory with Algorithmic Forgetting for Large Language Models",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.20943v1",
                     "published": "Last 7 Days"
                 },
                 {
@@ -30,7 +42,13 @@
                 {
                     "title": "Knowledge Capsules: Structured Nonparametric Memory Units for LLMs",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.20487v1",
+                    "link": "https://arxiv.org/pdf/2604.20487v2",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Adaptive Defense Orchestration for RAG: A Sentinel-Strategist Architecture against Multi-Vector Attacks",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.20932v1",
                     "published": "Last 7 Days"
                 },
                 {
@@ -42,31 +60,13 @@
                 {
                     "title": "FSFM: A Biologically-Inspired Framework for Selective Forgetting of Agent Memory",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.20300v1",
+                    "link": "https://arxiv.org/pdf/2604.20300v2",
                     "published": "Last 7 Days"
                 },
                 {
                     "title": "All Languages Matter: Understanding and Mitigating Language Bias in Multilingual RAG",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.20199v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "A GPU-Accelerated Framework for Multi-Attribute Range Filtered Approximate Nearest Neighbor Search",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.20121v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "A Reproducibility Study of Metacognitive Retrieval-Augmented Generation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.19899v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "GenerativeMPC: VLM-RAG-guided Whole-Body MPC with Virtual Impedance for Bimanual Mobile Manipulation",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2604.19522v1",
                     "published": "Last 7 Days"
                 }
             ]
@@ -76,8 +76,8 @@
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 51,
-                    "increase_pct": "-5.6%",
+                    "recent_commits": 36,
+                    "increase_pct": "-50.0%",
                     "score_contribution": 0
                 },
                 {
@@ -88,8 +88,8 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 10,
-                    "increase_pct": "-61.5%",
+                    "recent_commits": 12,
+                    "increase_pct": "-40.0%",
                     "score_contribution": 0
                 }
             ]
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "databricks-langchain 0.19.0",
+                    "title": "langchain-sandrpod added to PyPI",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "agent_os_kernel 3.2.0",
+                    "title": "langchain-sandrpod 0.1.0",
                     "source": "Pypi.org"
                 }
             ]

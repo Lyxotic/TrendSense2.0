@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-04-23T02:28:44.443753",
+    "report_generated_time": "2026-04-24T02:29:08.633726",
     "niche": "AI Agents & Multi-Agent Systems",
     "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -10,63 +10,63 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "SWE-chat: Coding Agent Interactions From Real Users in the Wild",
+                    "title": "Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.20779v1",
+                    "link": "https://arxiv.org/pdf/2604.21896v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Global Hopf Bifurcation and Symmetric Periodic Solutions in Multi-Agent Systems with Neutral Distributed Delays",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.20740v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Learning to Evolve: A Self-Improving Framework for Multi-Agent Systems via Textual Parameter Graph Optimization",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.20714v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Cooperative Profiles Predict Multi-Agent LLM Team Performance in AI for Science Workflows",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.20658v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "CHORUS: An Agentic Framework for Generating Realistic Deliberation Data",
+                    "title": "Phenomenological Detector Design and Optimization in Vertically-Integrated Differentiable Full Simulations with Agentic-AI",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.20651v1",
+                    "link": "https://arxiv.org/pdf/2604.21804v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "pAI/MSc: ML Theory Research with Humans on the Loop",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.20622v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Enhancing Research Idea Generation through Combinatorial Innovation and Multi-Agent Iterative Search Strategies",
+                    "title": "Learning to Communicate: Toward End-to-End Optimization of Multi-Agent Language Systems",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.20548v1",
+                    "link": "https://arxiv.org/pdf/2604.21794v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "MedSkillAudit: A Domain-Specific Audit Framework for Medical Research Agent Skills",
+                    "title": "ADMM-Based Distributed Kalman-like Observer with Applications to Cooperative Localization",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.20441v1",
+                    "link": "https://arxiv.org/pdf/2604.21608v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Memory-Augmented LLM-based Multi-Agent System for Automated Feature Generation on Tabular Data",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.20261v1",
+                    "title": "Do MLLMs Understand Pointing? Benchmarking and Enhancing Referential Reasoning in Egocentric Vision",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2604.21461v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Chasing the Public Score: User Pressure and Evaluation Exploitation in Coding Agent Workflows",
+                    "title": "AI-Gram: When Visual Agents Interact in a Social Network",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.20200v1",
+                    "link": "https://arxiv.org/pdf/2604.21446v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Generalized String-Stability Criteria for Consensus Protocols",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.21329v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "The Platform Is Mostly Not a Platform: Token Economies and Agent Discourse on Moltbook",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.21295v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "StabilizerBench: A Benchmark for AI-Assisted Quantum Error Correction Circuit Synthesis",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2604.21287v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "SpatiO: Adaptive Test-Time Orchestration of Vision-Language Agents for Spatial Reasoning",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2604.21190v1",
                     "published": "Last 7 Days"
                 }
             ]
@@ -82,14 +82,14 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 42,
-                    "increase_pct": "0.0%",
+                    "recent_commits": 37,
+                    "increase_pct": "-24.5%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
                     "recent_commits": 19,
-                    "increase_pct": "-56.8%",
+                    "increase_pct": "-58.7%",
                     "score_contribution": 0
                 }
             ]
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Vampirella #1 Preview: Draculina's Quest for Less Blood",
-                    "source": "Bleeding Cool News"
+                    "title": "Personalized Vaccine For 'Deadliest Major Cancer' Keeps Patients Alive 6 Years Later",
+                    "source": "ScienceAlert"
                 },
                 {
-                    "title": "Anthropic's Claude Mythos AI Finds 271 Vulnerabilities in Firefox\u2014Yes, It's Seriously Powerful",
-                    "source": "Decrypt"
+                    "title": "Kalshi suspends three congressional candidates for making bets on their own elections",
+                    "source": "SiliconANGLE News"
                 }
             ]
         }
