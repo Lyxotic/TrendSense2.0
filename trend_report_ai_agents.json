@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-04-24T02:29:08.633726",
+    "report_generated_time": "2026-04-25T02:11:07.468865",
     "niche": "AI Agents & Multi-Agent Systems",
     "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -82,14 +82,14 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 37,
-                    "increase_pct": "-24.5%",
+                    "recent_commits": 33,
+                    "increase_pct": "-23.3%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 19,
-                    "increase_pct": "-58.7%",
+                    "recent_commits": 21,
+                    "increase_pct": "-43.2%",
                     "score_contribution": 0
                 }
             ]
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Personalized Vaccine For 'Deadliest Major Cancer' Keeps Patients Alive 6 Years Later",
-                    "source": "ScienceAlert"
+                    "title": "NIQ and INTAGE HD Partner to Expand Retail Measurement Across Japan and Global Markets",
+                    "source": "Financial Post"
                 },
                 {
-                    "title": "Kalshi suspends three congressional candidates for making bets on their own elections",
-                    "source": "SiliconANGLE News"
+                    "title": "Firme Fondaenzo Review: Secure or Risky Trading Tool? Tested & Analyzed",
+                    "source": "Whatjapanthinks.com"
                 }
             ]
         }

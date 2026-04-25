@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-04-24T02:29:16.312612",
+    "report_generated_time": "2026-04-25T02:11:16.024821",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.5,
+    "final_score": 6.6,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,13 +72,13 @@
             ]
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 0.28,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 26,
-                    "increase_pct": "-7.1%",
-                    "score_contribution": 0
+                    "recent_commits": 30,
+                    "increase_pct": "11.1%",
+                    "score_contribution": 0.56
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Aberdeen sees \u00a32.9B outflows in Q1 amid US-Iran conflict volatility",
+                    "title": "US maintains pressure on Iran, unlikely to ease oil sanctions by April 30",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Circle launches USDC Nanopayments testnet for gas-free micro-transactions",
-                    "source": "Crypto Briefing"
+                    "title": "Firme Fondaenzo Review: Secure or Risky Trading Tool? Tested & Analyzed",
+                    "source": "Whatjapanthinks.com"
                 }
             ]
         }
