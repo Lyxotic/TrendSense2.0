@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-04-25T02:11:20.589921",
+    "report_generated_time": "2026-04-26T02:33:59.381761",
     "niche": "Cloud Native & DevOps",
     "final_score": 8.25,
     "alert_status": "TRENDING_NOW",
@@ -76,8 +76,8 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 171,
-                    "increase_pct": "271.7%",
+                    "recent_commits": 179,
+                    "increase_pct": "289.1%",
                     "score_contribution": 10.0
                 },
                 {
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Panthers NFL Draft 2026: Carolina selects OT Monroe Freeling with the 19th overall pick",
-                    "source": "Cat Scratch Reader"
+                    "title": "Panthers select WR Chris Brazzell II with 83rd pick of 2026 draft",
+                    "source": "USA Today"
                 },
                 {
-                    "title": "Panthers select Georgia OT Monroe Freeling with 19th pick of 2026 NFL Draft",
-                    "source": "USA Today"
+                    "title": "Arizona women\u2019s basketball gets commitment from former Boston University forward Anastasiia Semenova",
+                    "source": "Arizona Desert Swarm"
                 }
             ]
         }

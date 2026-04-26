@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-04-25T02:11:12.309102",
+    "report_generated_time": "2026-04-26T02:33:50.764427",
     "niche": "RAG & Vector Databases",
-    "final_score": 6.5,
+    "final_score": 6.71,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,12 +72,12 @@
             ]
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 0.59,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
                     "recent_commits": 38,
-                    "increase_pct": "-47.9%",
+                    "increase_pct": "-48.6%",
                     "score_contribution": 0
                 },
                 {
@@ -88,9 +88,9 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 14,
-                    "increase_pct": "-22.2%",
-                    "score_contribution": 0
+                    "recent_commits": 23,
+                    "increase_pct": "35.3%",
+                    "score_contribution": 1.76
                 }
             ]
         },
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "langchain-sourcey 0.1.1",
-                    "source": "Pypi.org"
+                    "title": "Show HN: Building a local FIX protocol triage agent on an RTX 3070",
+                    "source": "Substack.com"
                 },
                 {
-                    "title": "langchain-sourcey 0.1.0",
+                    "title": "langchain-protocol 0.0.12",
                     "source": "Pypi.org"
                 }
             ]
