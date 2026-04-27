@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-04-26T02:33:54.557742",
+    "report_generated_time": "2026-04-27T02:36:08.002549",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -9,6 +9,30 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "A dataset of early blockchain-registered AI agents on Ethereum",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.22652v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "PASS: A Provenanced Access Subaccount System for Blockchain Wallets",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.22602v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "From Monolithic to Compositional: A Compositional Operational Semantics for Crystality",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.22210v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Who Audits the Auditor? Tamper-Proof Fraud Detection with Blockchain-Anchored Explainable ML",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.22096v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Systematizing Blockchain Research Themes and Design Patterns: Insights from the University Blockchain Research Initiative (UBRI)",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -44,30 +68,6 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.20374v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "Federated Learning over Blockchain-Enabled Cloud Infrastructure",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.20062v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "On-chain Peak Shaving",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.19956v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Blockchain-Driven AI-Enhanced Post-Quantum Multivariate Identity-based Signature and Privacy-Preserving Data Aggregation Scheme for Fog-enabled Flying Ad-Hoc Networks",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.18819v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "From Tokens to Ties: Network and Discourse Analysis of Web3 Ecosystems",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2604.18761v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
@@ -76,8 +76,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 28,
-                    "increase_pct": "-3.4%",
+                    "recent_commits": 29,
+                    "increase_pct": "-3.3%",
                     "score_contribution": 0
                 },
                 {
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "MEXC faces $260M USDC debt on AAVE V3, liquidation risk in 6-8 days",
+                    "title": "BIS warns crypto exchanges acting as \u201cshadow banks,\u201d raising systemic risk concerns",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "US energy exports hit records amid Middle East supply chain disruptions",
-                    "source": "Crypto Briefing"
+                    "title": "Top buyers of Trump meme coin join Mike Tyson, others at lavish Mar-a-Lago event - The Washington Post",
+                    "source": "Slashdot.org"
                 }
             ]
         }

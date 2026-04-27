@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-04-26T02:33:45.667393",
+    "report_generated_time": "2026-04-27T02:35:58.424683",
     "niche": "AI Agents & Multi-Agent Systems",
     "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -10,63 +10,63 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models",
+                    "title": "How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.21896v1",
+                    "link": "https://arxiv.org/pdf/2604.22750v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Phenomenological Detector Design and Optimization in Vertically-Integrated Differentiable Full Simulations with Agentic-AI",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.21804v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Learning to Communicate: Toward End-to-End Optimization of Multi-Agent Language Systems",
+                    "title": "Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.21794v1",
+                    "link": "https://arxiv.org/pdf/2604.22708v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "ADMM-Based Distributed Kalman-like Observer with Applications to Cooperative Localization",
+                    "title": "PASS: A Provenanced Access Subaccount System for Blockchain Wallets",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.21608v1",
+                    "link": "https://arxiv.org/pdf/2604.22602v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Do MLLMs Understand Pointing? Benchmarking and Enhancing Referential Reasoning in Egocentric Vision",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2604.21461v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "AI-Gram: When Visual Agents Interact in a Social Network",
+                    "title": "QuantClaw: Precision Where It Matters for OpenClaw",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.21446v1",
+                    "link": "https://arxiv.org/pdf/2604.22577v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Generalized String-Stability Criteria for Consensus Protocols",
+                    "title": "Relational Archetypes: A Comparative Analysis of AV-Human and Agent-Human Interactions",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.21329v1",
+                    "link": "https://arxiv.org/pdf/2604.22564v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "The Platform Is Mostly Not a Platform: Token Economies and Agent Discourse on Moltbook",
+                    "title": "Dr.Sai: An agentic AI for real-world physics analysis at BESIII",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.21295v1",
+                    "link": "https://arxiv.org/pdf/2604.22541v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "StabilizerBench: A Benchmark for AI-Assisted Quantum Error Correction Circuit Synthesis",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2604.21287v1",
+                    "title": "Superminds Test: Actively Evaluating Collective Intelligence of Agent Society via Probing Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.22452v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "SpatiO: Adaptive Test-Time Orchestration of Vision-Language Agents for Spatial Reasoning",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2604.21190v1",
+                    "title": "From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.22446v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "AgentSearchBench: A Benchmark for AI Agent Search in the Wild",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.22436v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Automation-Exploit: A Multi-Agent LLM Framework for Adaptive Offensive Security with Digital Twin-Based Risk-Mitigated Exploitation",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2604.22427v1",
                     "published": "Last 7 Days"
                 }
             ]
@@ -83,7 +83,7 @@
                 {
                     "repo_name": "crewAIInc/crewAI",
                     "recent_commits": 33,
-                    "increase_pct": "-23.3%",
+                    "increase_pct": "-17.5%",
                     "score_contribution": 0
                 },
                 {
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "The most exciting laptop I\u2019ve seen in forever",
-                    "source": "The Verge"
+                    "title": "Japan Warns of AI 'Claude Mythos' Cyber Risks",
+                    "source": "Newsonjapan.com"
                 },
                 {
-                    "title": "Batman/Wonder Woman: Truth #1 Preview: Lasso Theft, Clown Edition",
-                    "source": "Bleeding Cool News"
+                    "title": "Crypto News: Ethereum Based Crypto Pepeto Stage Update While Cardano Price Prediction Turns Bullish on Leios Upgrade",
+                    "source": "GlobeNewswire"
                 }
             ]
         }
