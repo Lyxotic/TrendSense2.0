@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-04-27T02:36:08.002549",
+    "report_generated_time": "2026-04-28T02:43:34.715953",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -9,6 +9,36 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "GoAT-X: A Graph of Auditing Thoughts for Securing Token Transactions in Cross-Chain Contracts",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.24341v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Breaking the Secret: Economic Interventions for Combating Collusion in Embodied Multi-Agent Systems",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2604.23511v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Do Transaction-Level and Actor-Level AML Queues Agree? An Empirical Evaluation of Granularity Effects on the Elliptic++ Graph",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.23494v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Advanced Anomaly Detection and Threat Intelligence in Zero Trust IoT Environments Using Machine Learning",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.23332v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "The Blockchain Execution Dilemma: Optimizing Revenue XOR Fair Ordering",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.23266v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "A dataset of early blockchain-registered AI agents on Ethereum",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -38,36 +68,6 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.21517v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "AGNT2: Autonomous Agent Economies on Interaction-Optimized Layer 2 Infrastructure",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.21129v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Layer 2 Blockchains Simplified: A Survey of Vector Commitment Schemes, ZKP Frameworks, Layer-2 Data Structures and Verkle Trees",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.21055v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Decoupling Speculation from Merit: The Identity-Bound Asset Integrity Model (IBAIM) for Sustainable Web3 Gaming",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2604.20737v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Automatic Code and Test Generation of Smart Contracts from Coordination Models",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.20507v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Towards Event-Aware Forecasting in DeFi: Insights from On-chain Automated Market Maker Protocols",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.20374v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
@@ -76,8 +76,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 29,
-                    "increase_pct": "-3.3%",
+                    "recent_commits": 25,
+                    "increase_pct": "-7.4%",
                     "score_contribution": 0
                 },
                 {
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "BIS warns crypto exchanges acting as \u201cshadow banks,\u201d raising systemic risk concerns",
+                    "title": "US-Israeli airstrikes destroy Iran\u2019s Pasteur Institute headquarters",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Top buyers of Trump meme coin join Mike Tyson, others at lavish Mar-a-Lago event - The Washington Post",
-                    "source": "Slashdot.org"
+                    "title": "Rooster Recap: Mentors and Mascots",
+                    "source": "Vulture"
                 }
             ]
         }

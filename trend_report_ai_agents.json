@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-04-27T02:35:58.424683",
+    "report_generated_time": "2026-04-28T02:43:26.926262",
     "niche": "AI Agents & Multi-Agent Systems",
     "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -10,63 +10,63 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks",
+                    "title": "The Last Human-Written Paper: Agent-Native Research Artifacts",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.22750v1",
+                    "link": "https://arxiv.org/pdf/2604.24658v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems",
+                    "title": "AgentWard: A Lifecycle Security Architecture for Autonomous AI Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.24657v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Verification of Correlated Equilibria in Concurrent Reachability Games",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2604.24655v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "K-MetBench: A Multi-Dimensional Benchmark for Fine-Grained Evaluation of Expert Reasoning, Locality, and Multimodality in Meteorology",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2604.24645v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "FastOMOP: A Foundational Architecture for Reliable Agentic Real-World Evidence Generation on OMOP CDM data",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.24572v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "GAMMAF: A Common Framework for Graph-Based Anomaly Monitoring Benchmarking in LLM Multi-Agent Systems",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.22708v1",
+                    "link": "https://arxiv.org/pdf/2604.24477v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "PASS: A Provenanced Access Subaccount System for Blockchain Wallets",
+                    "title": "On the Footprints of Reviewer Bots Feedback on Agentic Pull Requests in OSS GitHub Repositories",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.22602v1",
+                    "link": "https://arxiv.org/pdf/2604.24450v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "QuantClaw: Precision Where It Matters for OpenClaw",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.22577v1",
+                    "title": "AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2604.24441v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Relational Archetypes: A Comparative Analysis of AV-Human and Agent-Human Interactions",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.22564v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Dr.Sai: An agentic AI for real-world physics analysis at BESIII",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.22541v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Superminds Test: Actively Evaluating Collective Intelligence of Agent Society via Probing Agents",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.22452v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.22446v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "AgentSearchBench: A Benchmark for AI Agent Search in the Wild",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.22436v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Automation-Exploit: A Multi-Agent LLM Framework for Adaptive Offensive Security with Digital Twin-Based Risk-Mitigated Exploitation",
+                    "title": "How Personal Characteristics Shape User Exploration of Diverse Movie Recommendations with a LLM-Based Multi-Agent System",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.22427v1",
+                    "link": "https://arxiv.org/pdf/2604.24405v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.24212v1",
                     "published": "Last 7 Days"
                 }
             ]
@@ -82,14 +82,14 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 33,
-                    "increase_pct": "-17.5%",
+                    "recent_commits": 29,
+                    "increase_pct": "-19.4%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
                     "recent_commits": 20,
-                    "increase_pct": "-47.4%",
+                    "increase_pct": "-31.0%",
                     "score_contribution": 0
                 }
             ]
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Japan Warns of AI 'Claude Mythos' Cyber Risks",
-                    "source": "Newsonjapan.com"
+                    "title": "Techie reveals how how he landed Rs 36 LPA job with no work experience, 8 backlogs, low college grades: \u2018You don't just write code\u2026.\u2019",
+                    "source": "The Times of India"
                 },
                 {
-                    "title": "Crypto News: Ethereum Based Crypto Pepeto Stage Update While Cardano Price Prediction Turns Bullish on Leios Upgrade",
-                    "source": "GlobeNewswire"
+                    "title": "Gigabyte B860M DS3H (rev. 1.0) Control Center Utility 26.03.31.01",
+                    "source": "Softpedia.com"
                 }
             ]
         }

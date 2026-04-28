@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-04-27T02:36:03.847330",
+    "report_generated_time": "2026-04-28T02:43:31.257674",
     "niche": "RAG & Vector Databases",
-    "final_score": 6.71,
+    "final_score": 6.93,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,74 +10,74 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation",
+                    "title": "XGRAG: A Graph-Native Framework for Explaining KG-based Retrieval-Augmented Generation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.22722v1",
+                    "link": "https://arxiv.org/pdf/2604.24623v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "BERAG: Bayesian Ensemble Retrieval-Augmented Generation for Knowledge-based Visual Question Answering",
+                    "title": "MEG-RAG: Quantifying Multi-modal Evidence Grounding for Evidence Selection in RAG",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.22678v1",
+                    "link": "https://arxiv.org/pdf/2604.24564v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Can QPP Choose the Right Query Variant? Evaluating Query Variant Selection for RAG Pipelines",
+                    "title": "BoomHQ: Learning to Boost Multiple Hybrid Queries on Vector DBMSs",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.22661v1",
+                    "link": "https://arxiv.org/pdf/2604.24552v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "LARA: Validation-Driven Agentic Supercomputer Workflows for Atomistic Modeling",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.22571v1",
+                    "title": "Agentic clinical reasoning over longitudinal myeloma records: a retrospective evaluation against expert consensus",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2604.24473v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Bridging the Long-Tail Gap: Robust Retrieval-Augmented Relation Completion via Multi-Stage Paraphrase Infusion",
+                    "title": "Geometric Analysis of Self-Supervised Vision Representations for Semantic Image Retrieval",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.22261v1",
+                    "link": "https://arxiv.org/pdf/2604.24469v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Evaluating LLM-Based Goal Extraction in Requirements Engineering: Prompting Strategies and Their Limitations",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2604.22207v1",
+                    "title": "Reducing Redundancy in Retrieval-Augmented Generation through Chunk Filtering",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.24334v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "An End-to-End Ukrainian RAG for Local Deployment. Optimized Hybrid Search and Lightweight Generation",
+                    "title": "MEMCoder: Multi-dimensional Evolving Memory for Private-Library-Oriented Code Generation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.22095v1",
+                    "link": "https://arxiv.org/pdf/2604.24222v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Lightweight Retrieval-Augmented Generation and Large Language Model-Based Modeling for Scalable Patient-Trial Matching",
+                    "title": "Domain Fine-Tuning vs. Retrieval-Augmented Generation for Medical Multiple-Choice Question Answering: A Controlled Comparison at the 4B-Parameter Scale",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.22061v1",
+                    "link": "https://arxiv.org/pdf/2604.23801v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture",
+                    "title": "S2G-RAG: Structured Sufficiency and Gap Judging for Iterative Retrieval-Augmented QA",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.21284v1",
+                    "link": "https://arxiv.org/pdf/2604.23783v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Coverage, Not Averages: Semantic Stratification for Trustworthy Retrieval Evaluation",
+                    "title": "The Override Gap: A Magnitude Account of Knowledge Conflict Failure in Hypernetwork-Based Instant LLM Adaptation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.20763v1",
+                    "link": "https://arxiv.org/pdf/2604.23750v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.59,
+            "normalized_score": 1.22,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 39,
-                    "increase_pct": "-45.8%",
+                    "recent_commits": 41,
+                    "increase_pct": "-43.1%",
                     "score_contribution": 0
                 },
                 {
@@ -88,9 +88,9 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 23,
-                    "increase_pct": "35.3%",
-                    "score_contribution": 1.76
+                    "recent_commits": 26,
+                    "increase_pct": "73.3%",
+                    "score_contribution": 3.67
                 }
             ]
         },
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "licos-agent-runtime 0.2.1",
+                    "title": "confidence-escalation added to PyPI",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "neograph-engine added to PyPI",
+                    "title": "mentedb-langchain 0.9.0",
                     "source": "Pypi.org"
                 }
             ]
