@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-04-28T02:43:39.340370",
+    "report_generated_time": "2026-04-29T02:43:35.561524",
     "niche": "Cloud Native & DevOps",
     "final_score": 8.25,
     "alert_status": "TRENDING_NOW",
@@ -9,6 +9,30 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "Key Developer Roles and Organizational Coupling in Microservices: A Longitudinal Analysis",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.25804v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Adaptive Management of Microservices in Dynamic Computing Environments: A Taxonomy and Future Directions",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.25222v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "NeuroClaw Technical Report",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.24696v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "ITAS: A Multi-Agent Architecture for LLM-Based Intelligent Tutoring",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2604.24808v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "KubePACS: Kubernetes Cluster Using Performant, Highly Available, and Cost Efficient Spot Instances",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -44,30 +68,6 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.21795v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "AGNT2: Autonomous Agent Economies on Interaction-Optimized Layer 2 Infrastructure",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.21129v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "A Cloud-Native Architecture for Human-in-Control LLM-Assisted OpenSearch in Investigative Settings",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.21125v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.19705v2",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "API Security Based on Automatic OpenAPI Mapping",
-                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
-                    "link": "https://arxiv.org/pdf/2604.19471v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
@@ -76,8 +76,8 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 214,
-                    "increase_pct": "336.7%",
+                    "recent_commits": 230,
+                    "increase_pct": "400.0%",
                     "score_contribution": 10.0
                 },
                 {
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Spring News Roundup: First Release Candidates of Boot, Security, Integration, Modulith, AMQP",
-                    "source": "InfoQ.com"
+                    "title": "skchat-sovereign 0.6.2",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "Spring News Roundup: First Release Candidates of Boot, Security, Integration, Modulith, AMQP",
-                    "source": "InfoQ.com"
+                    "title": "skchat-sovereign 0.6.1",
+                    "source": "Pypi.org"
                 }
             ]
         }

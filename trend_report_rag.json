@@ -1,14 +1,56 @@
 {
-    "report_generated_time": "2026-04-28T02:43:31.257674",
+    "report_generated_time": "2026-04-29T02:43:26.438441",
     "niche": "RAG & Vector Databases",
-    "final_score": 6.93,
-    "alert_status": "PRE_TREND_ALERT",
+    "final_score": 7.28,
+    "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "CORAL: Adaptive Retrieval Loop for Culturally-Aligned Multilingual RAG",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.25676v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Navigating Global AI Regulation: A Multi-Jurisdictional Retrieval-Augmented Generation System",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.25448v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "GeoSearch: Augmenting Worldwide Geolocalization with Web-Scale Reverse Image Search and Image Matching",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2604.25390v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Faithfulness-QA: A Counterfactual Entity Substitution Dataset for Training Context-Faithful RAG Models",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.25313v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "CroSearch-R1: Better Leveraging Cross-lingual Knowledge for Retrieval-Augmented Generation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.25182v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "CacheFlow: Efficient LLM Serving with 3D-Parallel KV Cache Restoration",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.25080v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "FGDM: Reasoning Aware Multi-Agentic Framework for Software Bug Detection using Chain of Thought and Tree of Thought Prompting",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2604.24831v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "XGRAG: A Graph-Native Framework for Explaining KG-based Retrieval-Augmented Generation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -26,58 +68,16 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.24552v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "Agentic clinical reasoning over longitudinal myeloma records: a retrospective evaluation against expert consensus",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2604.24473v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Geometric Analysis of Self-Supervised Vision Representations for Semantic Image Retrieval",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.24469v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Reducing Redundancy in Retrieval-Augmented Generation through Chunk Filtering",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.24334v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "MEMCoder: Multi-dimensional Evolving Memory for Private-Library-Oriented Code Generation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.24222v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Domain Fine-Tuning vs. Retrieval-Augmented Generation for Medical Multiple-Choice Question Answering: A Controlled Comparison at the 4B-Parameter Scale",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.23801v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "S2G-RAG: Structured Sufficiency and Gap Judging for Iterative Retrieval-Augmented QA",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.23783v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "The Override Gap: A Magnitude Account of Knowledge Conflict Failure in Hypernetwork-Based Instant LLM Adaptation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.23750v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 1.22,
+            "normalized_score": 2.22,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 41,
-                    "increase_pct": "-43.1%",
+                    "recent_commits": 36,
+                    "increase_pct": "-49.3%",
                     "score_contribution": 0
                 },
                 {
@@ -88,9 +88,9 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 26,
-                    "increase_pct": "73.3%",
-                    "score_contribution": 3.67
+                    "recent_commits": 35,
+                    "increase_pct": "133.3%",
+                    "score_contribution": 6.67
                 }
             ]
         },
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "confidence-escalation added to PyPI",
+                    "title": "inference-catalyst-tracing added to PyPI",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "mentedb-langchain 0.9.0",
+                    "title": "catalyst-tracing added to PyPI",
                     "source": "Pypi.org"
                 }
             ]
