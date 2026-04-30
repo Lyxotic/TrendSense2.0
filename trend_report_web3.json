@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-04-29T02:43:30.169608",
+    "report_generated_time": "2026-04-30T02:44:38.650862",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.57,
+    "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -9,6 +9,36 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "Catching the Fly: Practical Challenges in Making Blockchain FlyClient Real",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.26736v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Comparing Smart Contract Paradigms: A Preliminary Study of Security and Developer Experience",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.26727v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "An Effective Orchestral Approach to Satisfiability Modulo Prime Fields",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.26709v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Identifying and Characterizing Semantic Clones of Solidity Functions",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.26526v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "GenDetect: Generalizing Reactive Detection for Resilience Against Imitative DeFi Attack Cascade",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.26094v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "From CRUD to Autonomous Agents: Formal Validation and Zero-Trust Security for Semantic Gateways in AI-Native Enterprise Systems",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -22,6 +52,12 @@
                     "published": "Last 7 Days"
                 },
                 {
+                    "title": "On the Centralization of Governance Power in Decentralized Autonomous Organizations",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.25959v1",
+                    "published": "Last 7 Days"
+                },
+                {
                     "title": "A systematic literature Review for Transformer-based Software Vulnerability detection",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.24822v1",
@@ -32,53 +68,17 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.24341v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "Breaking the Secret: Economic Interventions for Combating Collusion in Embodied Multi-Agent Systems",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.23511v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Do Transaction-Level and Actor-Level AML Queues Agree? An Empirical Evaluation of Granularity Effects on the Elliptic++ Graph",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.23494v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Advanced Anomaly Detection and Threat Intelligence in Zero Trust IoT Environments Using Machine Learning",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.23332v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "The Blockchain Execution Dilemma: Optimizing Revenue XOR Fair Ordering",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.23266v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "A dataset of early blockchain-registered AI agents on Ethereum",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.22652v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "PASS: A Provenanced Access Subaccount System for Blockchain Wallets",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.22602v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.21,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 26,
-                    "increase_pct": "8.3%",
-                    "score_contribution": 0.42
+                    "recent_commits": 19,
+                    "increase_pct": "-36.7%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Arthur Hayes predicts Bitcoin to hit $125K by December amid war spending, deregulation",
-                    "source": "Crypto Briefing"
+                    "title": "Gemini Space Station, Inc. Notice of May 18, 2026 Application Deadline for Class Action Lawsuit - Contact Lewis Kahn, Esq. at Kahn Swick & Foti, LLC, Before Application Deadline",
+                    "source": "GlobeNewswire"
                 },
                 {
-                    "title": "Israel-Hezbollah conflict persists despite ceasefire market certainty",
+                    "title": "Panama Canal fees hit $4M as Hormuz blockade reroutes shipping traffic",
                     "source": "Crypto Briefing"
                 }
             ]

@@ -1,14 +1,44 @@
 {
-    "report_generated_time": "2026-04-29T02:43:35.561524",
+    "report_generated_time": "2026-04-30T02:44:43.982847",
     "niche": "Cloud Native & DevOps",
-    "final_score": 8.25,
-    "alert_status": "TRENDING_NOW",
+    "final_score": 6.84,
+    "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "KAYRA: A Microservice Architecture for AI-Assisted Karyotyping with Cloud and On-Premise Deployment",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.26869v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Which Types of Heterogeneity Matter for Root Cause Localization in Microservice Systems ?",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.26670v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "STLGT: A Scalable Trace-Based Linear Graph Transformer for Tail Latency Prediction in Microservices",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.26422v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Towards Intelligent Computation Offloading in Dynamic Vehicular Networks: A Scalable Multilayer Pipeline",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.26416v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "SWE-Bench 5G: Benchmarking AI Coding Agents on Telecom Network Engineering Tasks",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.26278v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Key Developer Roles and Organizational Coupling in Microservices: A Longitudinal Analysis",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -38,47 +68,17 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.24027v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "KISS Sorcar: A Stupidly-Simple General-Purpose and Software Engineering AI Assistant",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.23822v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Gamifying Architectural Governance to Reduce Organizational Coupling in Microservice Systems",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.22454v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.21910v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.21889v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "NEST: Network Enforced Session Types (Technical Report)",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.21795v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 5.0,
+            "normalized_score": 0.98,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 230,
-                    "increase_pct": "400.0%",
-                    "score_contribution": 10.0
+                    "recent_commits": 167,
+                    "increase_pct": "39.2%",
+                    "score_contribution": 1.96
                 },
                 {
                     "repo_name": "docker/compose",
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "skchat-sovereign 0.6.2",
-                    "source": "Pypi.org"
+                    "title": "How to Use Amazon Marketing Services in 2026",
+                    "source": "Stackinfluence.com"
                 },
                 {
-                    "title": "skchat-sovereign 0.6.1",
-                    "source": "Pypi.org"
+                    "title": "Parag Agrawal\u2019s startup raises $100M to build a parallel web for AI agents",
+                    "source": "SiliconANGLE News"
                 }
             ]
         }
