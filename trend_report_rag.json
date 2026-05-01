@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-04-30T02:44:34.722830",
+    "report_generated_time": "2026-05-01T02:51:07.340828",
     "niche": "RAG & Vector Databases",
-    "final_score": 7.67,
+    "final_score": 7.46,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,75 +10,75 @@
             "normalized_score": 10,
             "data": [
                 {
+                    "title": "FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.28157v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "NeocorRAG: Less Irrelevant Information, More Explicit Evidence, and More Effective Recall via Evidence Chains",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.27852v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.27724v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Contextual Agentic Memory is a Memo, Not True Memory",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.27707v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Purifying Multimodal Retrieval: Fragment-Level Evidence Selection for RAG",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.27600v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "ChipLingo: A Systematic Training Framework for Large Language Models in EDA",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.27415v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "NuggetIndex: Governed Atomic Retrieval for Maintainable RAG",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.27306v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Enhancing Linux Privilege Escalation Attack Capabilities of Local LLM Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.27143v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2604.27096v1",
+                    "published": "Last 7 Days"
+                },
+                {
                     "title": "Decoupling Knowledge and Task Subspaces for Composable Parametric Retrieval Augmented Generation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.26768v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "When to Retrieve During Reasoning: Adaptive Retrieval for Large Reasoning Models",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2604.26649v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "PRAG End-to-End Privacy-Preserving Retrieval-Augmented Generation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.26525v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Efficient Listwise Reranking with Compressed Document Representations",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.26483v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "CacheRAG: A Semantic Caching System for Retrieval-Augmented Generation in Knowledge Graph Question Answering",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.26176v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "RAG-Enhanced Kernel-Based Heuristic Synthesis (RKHS): A Structured Methodology Using Large Language Models for Hardware Design",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.26153v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "ImproBR: Bug Report Improver Using LLMs",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.26142v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "CORAL: Adaptive Retrieval Loop for Culturally-Aligned Multilingual RAG",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.25676v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Navigating Global AI Regulation: A Multi-Jurisdictional Retrieval-Augmented Generation System",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.25448v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "GeoSearch: Augmenting Worldwide Geolocalization with Web-Scale Reverse Image Search and Image Matching",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2604.25390v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 3.33,
+            "normalized_score": 2.73,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 36,
-                    "increase_pct": "-29.4%",
-                    "score_contribution": 0
+                    "recent_commits": 38,
+                    "increase_pct": "5.6%",
+                    "score_contribution": 0.28
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -88,9 +88,9 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 33,
-                    "increase_pct": "230.0%",
-                    "score_contribution": 10.0
+                    "recent_commits": 31,
+                    "increase_pct": "158.3%",
+                    "score_contribution": 7.92
                 }
             ]
         },
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "langchain-pathcourse 0.1.0",
+                    "title": "difend added to PyPI",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "langchain-pathcourse added to PyPI",
+                    "title": "langchain-quickjs 0.1.0a1",
                     "source": "Pypi.org"
                 }
             ]

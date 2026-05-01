@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-04-30T02:44:29.778282",
+    "report_generated_time": "2026-05-01T02:51:01.555641",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.65,
+    "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,69 +10,69 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Hot Fixing in the Wild",
+                    "title": "FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.26892v1",
+                    "link": "https://arxiv.org/pdf/2604.28157v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Preserving Disagreement: Architectural Heterogeneity and Coherence Validation in Multi-Agent Policy Simulation",
+                    "title": "Crab: A Semantics-Aware Checkpoint/Restore Runtime for Agent Sandboxes",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.28138v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "TopBench: A Benchmark for Implicit Prediction and Reasoning over Tabular Question Answering",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2604.28076v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "A Collective Variational Principle Unifying Bayesian Inference, Game Theory, and Thermodynamics",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.27942v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "A Logic of Inability",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2604.27917v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Building Persona-Based Agents On Demand: Tailoring Multi-Agent Workflows to User Needs",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.26561v1",
+                    "link": "https://arxiv.org/pdf/2604.27882v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents",
+                    "title": "Rethinking Agentic Reinforcement Learning In Large Language Models",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.26522v1",
+                    "link": "https://arxiv.org/pdf/2604.27859v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Split over $n$ resource sharing problem: Are fewer capable agents better than many simpler ones?",
+                    "title": "CastFlow: Learning Role-Specialized Agentic Workflows for Time Series Forecasting",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.26374v1",
+                    "link": "https://arxiv.org/pdf/2604.27840v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "When Agents Shop for You: Role Coherence in AI-Mediated Markets",
+                    "title": "Contextual Agentic Memory is a Memo, Not True Memory",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.26220v1",
+                    "link": "https://arxiv.org/pdf/2604.27707v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Beyond Screenshots: Evaluating VLMs' Understanding of UI Animations",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2604.26148v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "I Would If I Could: Reasoning about Dynamics of Actions in Multi-Agent Systems",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.26053v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Recursive Multi-Agent Systems",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.25917v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Towards Agentic Investigation of Security Alerts",
+                    "title": "Bridging Values and Behavior: A Hierarchical Framework for Proactive Embodied Agents",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.25846v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Scalable Inference Architectures for Compound AI Systems: A Production Deployment Study",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.25724v1",
+                    "link": "https://arxiv.org/pdf/2604.27699v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.44,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -83,14 +83,14 @@
                 {
                     "repo_name": "crewAIInc/crewAI",
                     "recent_commits": 31,
-                    "increase_pct": "-26.2%",
+                    "increase_pct": "-16.2%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 24,
-                    "increase_pct": "26.3%",
-                    "score_contribution": 1.32
+                    "recent_commits": 16,
+                    "increase_pct": "-15.8%",
+                    "score_contribution": 0
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Anthropic's Claude Mythos AI Finds 271 Vulnerabilities in Firefox -- Yes, It's Seriously Powerful",
-                    "source": "Freerepublic.com"
+                    "title": "Qualcomm rises on smartphone rebound hopes, data-center chip push",
+                    "source": "The Times of India"
                 },
                 {
-                    "title": "Parag Agrawal\u2019s startup raises $100M to build a parallel web for AI agents",
-                    "source": "SiliconANGLE News"
+                    "title": "Crypto News: Pepeto Updates Presale Website While XRP Price Prediction Targets $200",
+                    "source": "GlobeNewswire"
                 }
             ]
         }
