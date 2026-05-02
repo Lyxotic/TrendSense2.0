@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-05-01T02:51:07.340828",
+    "report_generated_time": "2026-05-02T02:33:04.923685",
     "niche": "RAG & Vector Databases",
     "final_score": 7.46,
     "alert_status": "TRENDING_NOW",
@@ -72,13 +72,13 @@
             ]
         },
         "developer": {
-            "normalized_score": 2.73,
+            "normalized_score": 2.74,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 38,
-                    "increase_pct": "5.6%",
-                    "score_contribution": 0.28
+                    "recent_commits": 49,
+                    "increase_pct": "28.9%",
+                    "score_contribution": 1.45
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -88,9 +88,9 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 31,
-                    "increase_pct": "158.3%",
-                    "score_contribution": 7.92
+                    "recent_commits": 33,
+                    "increase_pct": "135.7%",
+                    "score_contribution": 6.79
                 }
             ]
         },
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "difend added to PyPI",
-                    "source": "Pypi.org"
+                    "title": "Tether-backed Oobit rolls out virtual Visa cards for AI agent USDT spending",
+                    "source": "Cointelegraph"
                 },
                 {
-                    "title": "langchain-quickjs 0.1.0a1",
+                    "title": "velesdb 1.14.2",
                     "source": "Pypi.org"
                 }
             ]
