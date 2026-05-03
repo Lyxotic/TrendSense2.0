@@ -1,8 +1,8 @@
 {
-    "report_generated_time": "2026-05-02T02:33:04.923685",
+    "report_generated_time": "2026-05-03T02:43:15.100939",
     "niche": "RAG & Vector Databases",
-    "final_score": 7.46,
-    "alert_status": "TRENDING_NOW",
+    "final_score": 6.69,
+    "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
@@ -72,7 +72,7 @@
             ]
         },
         "developer": {
-            "normalized_score": 2.74,
+            "normalized_score": 0.55,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
@@ -88,9 +88,9 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 33,
-                    "increase_pct": "135.7%",
-                    "score_contribution": 6.79
+                    "recent_commits": 24,
+                    "increase_pct": "4.3%",
+                    "score_contribution": 0.22
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Tether-backed Oobit rolls out virtual Visa cards for AI agent USDT spending",
-                    "source": "Cointelegraph"
+                    "title": "licos-agent-runtime 0.2.11",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "velesdb 1.14.2",
-                    "source": "Pypi.org"
+                    "title": "Show HN: MemHub, Turn Your GPT/Claude/Gemini History into LLM-Wiki Mindmap",
+                    "source": "Github.com"
                 }
             ]
         }

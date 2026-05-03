@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-05-02T02:33:16.403305",
+    "report_generated_time": "2026-05-03T02:43:23.695520",
     "niche": "Cloud Native & DevOps",
     "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -76,8 +76,8 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 127,
-                    "increase_pct": "-36.8%",
+                    "recent_commits": 125,
+                    "increase_pct": "-39.9%",
                     "score_contribution": 0
                 },
                 {
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Agentic engineering startup JuliaHub lands $65M to automate the design and testing of industrial products",
-                    "source": "SiliconANGLE News"
+                    "title": "Why Goncalo Ramos Is Not Playing for PSG Against Lorient",
+                    "source": "Psgworld.io"
                 },
                 {
-                    "title": "Show HN: Winpodx \u2013 run Windows apps on Linux as native windows",
+                    "title": "I built the Playwright for desktop apps. 80% token savings",
                     "source": "Github.com"
                 }
             ]

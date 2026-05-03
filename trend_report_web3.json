@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-05-02T02:33:10.157866",
+    "report_generated_time": "2026-05-03T02:43:18.397029",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -76,8 +76,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 20,
-                    "increase_pct": "-33.3%",
+                    "recent_commits": 21,
+                    "increase_pct": "-25.0%",
                     "score_contribution": 0
                 },
                 {
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "North Korean troops employ suicide tactics in Ukraine, deepening Russia alliance",
-                    "source": "Crypto Briefing"
+                    "title": "Russia introduces bill to criminalize unregistered crypto services",
+                    "source": "Activistpost.com"
                 },
                 {
-                    "title": "Pentagon pauses War Powers clock amid Iran ceasefire, de-escalation efforts",
+                    "title": "Apple\u2019s Q1 revenue beat may bolster market cap race against Nvidia",
                     "source": "Crypto Briefing"
                 }
             ]

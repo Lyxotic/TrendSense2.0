@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-05-02T02:32:59.869467",
+    "report_generated_time": "2026-05-03T02:43:10.931054",
     "niche": "AI Agents & Multi-Agent Systems",
     "final_score": 6.54,
     "alert_status": "PRE_TREND_ALERT",
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Agentic engineering startup JuliaHub lands $65M to automate the design and testing of industrial products",
-                    "source": "SiliconANGLE News"
+                    "title": "/C O R R E C T I O N -- Applied Intuition, Inc./",
+                    "source": "Associated Press"
                 },
                 {
-                    "title": "Sandisk has thumping quarter on AI boom, secures long-term contracts and unveils big buyback",
-                    "source": "CNA"
+                    "title": "Pentagon Taps Seven AI Companies for Classified Work, Leaves Out Anthropic",
+                    "source": "Freerepublic.com"
                 }
             ]
         }
