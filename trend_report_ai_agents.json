@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-03T02:43:10.931054",
+    "report_generated_time": "2026-05-04T02:40:43.932437",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.54,
+    "final_score": 6.57,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -9,6 +9,48 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "Learning to Act and Cooperate for Distributed Black-Box Consensus Optimization",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.00691v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "A11y-Compressor: A Framework for Enhancing the Efficiency of GUI Agent Observations through Visual Context Reconstruction and Redundancy Reduction",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2605.00551v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.00528v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "LLM-Oriented Information Retrieval: A Denoising-First Perspective",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.00505v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Scaling Video Understanding via Compact Latent Multi-Agent Collaboration",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2605.00444v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Foresight Arena: An On-Chain Benchmark for Evaluating AI Forecasting Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.00420v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "AgentFloor: How Far Up the tool use Ladder Can Small Open-Weight Models Go?",
+                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
+                    "link": "https://arxiv.org/pdf/2605.00334v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -26,53 +68,11 @@
                     "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
                     "link": "https://arxiv.org/pdf/2604.28076v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "A Collective Variational Principle Unifying Bayesian Inference, Game Theory, and Thermodynamics",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.27942v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "A Logic of Inability",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.27917v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Building Persona-Based Agents On Demand: Tailoring Multi-Agent Workflows to User Needs",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.27882v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Rethinking Agentic Reinforcement Learning In Large Language Models",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.27859v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "CastFlow: Learning Role-Specialized Agentic Workflows for Time Series Forecasting",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.27840v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Contextual Agentic Memory is a Memo, Not True Memory",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.27707v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Bridging Values and Behavior: A Hierarchical Framework for Proactive Embodied Agents",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.27699v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.1,
+            "normalized_score": 0.2,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,9 +82,9 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 35,
-                    "increase_pct": "6.1%",
-                    "score_contribution": 0.3
+                    "recent_commits": 37,
+                    "increase_pct": "12.1%",
+                    "score_contribution": 0.61
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "/C O R R E C T I O N -- Applied Intuition, Inc./",
-                    "source": "Associated Press"
+                    "title": "Batman/Static: Beyond #6 Preview: Lights Out, Aliens In",
+                    "source": "Bleeding Cool News"
                 },
                 {
-                    "title": "Pentagon Taps Seven AI Companies for Classified Work, Leaves Out Anthropic",
-                    "source": "Freerepublic.com"
+                    "title": "CRM and Marketing Automation: How We Connect HubSpot and Salesforce for Seamless Growth | Vantage Point",
+                    "source": "Vantagepoint.io"
                 }
             ]
         }

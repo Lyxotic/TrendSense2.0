@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-05-03T02:43:23.695520",
+    "report_generated_time": "2026-05-04T02:40:59.995564",
     "niche": "Cloud Native & DevOps",
     "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -9,6 +9,12 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "Hypergraph and Latent ODE Learning for Multimodal Root Cause Localization in Microservices",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.00351v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Libra: Accelerating Socket I/O via Programmable Selective Data Copying",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -62,12 +68,6 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.25804v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "Adaptive Management of Microservices in Dynamic Computing Environments: A Taxonomy and Future Directions",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.25222v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
@@ -76,8 +76,8 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 125,
-                    "increase_pct": "-39.9%",
+                    "recent_commits": 128,
+                    "increase_pct": "-38.8%",
                     "score_contribution": 0
                 },
                 {
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Why Goncalo Ramos Is Not Playing for PSG Against Lorient",
-                    "source": "Psgworld.io"
+                    "title": "nativeready 0.3.0",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "I built the Playwright for desktop apps. 80% token savings",
-                    "source": "Github.com"
+                    "title": "Political spin: Secretary of State Marco Rubio adds new job as wedding DJ",
+                    "source": "New York Post"
                 }
             ]
         }

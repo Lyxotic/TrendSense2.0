@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-03T02:43:15.100939",
+    "report_generated_time": "2026-05-04T02:40:49.689034",
     "niche": "RAG & Vector Databases",
-    "final_score": 6.69,
+    "final_score": 6.72,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,75 +10,75 @@
             "normalized_score": 10,
             "data": [
                 {
+                    "title": "When RAG Chatbots Expose Their Backend: An Anonymized Case Study of Privacy and Security Risks in Patient-Facing Medical AI",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.00796v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "BlenderRAG: High-Fidelity 3D Object Generation via Retrieval-Augmented Code Synthesis",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.00632v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "H-RAG at SemEval-2026 Task 8: Hierarchical Parent-Child Retrieval for Multi-Turn RAG Conversations",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.00631v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Hierarchical Abstract Tree for Cross-Document Retrieval-Augmented Generation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.00529v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "LLM-Oriented Information Retrieval: A Denoising-First Perspective",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.00505v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "CleanBase: Detecting Malicious Documents in RAG Knowledge Databases",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.00460v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Agentic AI for Substance Use Education: Integrating Regulatory and Scientific Knowledge Sources",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.00383v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Structure-Aware Chunking for Tabular Data in Retrieval-Augmented Generation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.00318v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Retrieval-Augmented Reasoning for Chartered Accountancy",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2605.00257v1",
+                    "published": "Last 7 Days"
+                },
+                {
                     "title": "FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.28157v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "NeocorRAG: Less Irrelevant Information, More Explicit Evidence, and More Effective Recall via Evidence Chains",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.27852v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.27724v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Contextual Agentic Memory is a Memo, Not True Memory",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.27707v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Purifying Multimodal Retrieval: Fragment-Level Evidence Selection for RAG",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.27600v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "ChipLingo: A Systematic Training Framework for Large Language Models in EDA",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.27415v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "NuggetIndex: Governed Atomic Retrieval for Maintainable RAG",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.27306v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Enhancing Linux Privilege Escalation Attack Capabilities of Local LLM Agents",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.27143v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.27096v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Decoupling Knowledge and Task Subspaces for Composable Parametric Retrieval Augmented Generation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.26768v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.55,
+            "normalized_score": 0.63,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 49,
-                    "increase_pct": "28.9%",
-                    "score_contribution": 1.45
+                    "recent_commits": 52,
+                    "increase_pct": "33.3%",
+                    "score_contribution": 1.67
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "licos-agent-runtime 0.2.11",
+                    "title": "campii added to PyPI",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "Show HN: MemHub, Turn Your GPT/Claude/Gemini History into LLM-Wiki Mindmap",
-                    "source": "Github.com"
+                    "title": "bulwark-agent-security added to PyPI",
+                    "source": "Pypi.org"
                 }
             ]
         }

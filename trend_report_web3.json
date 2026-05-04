@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-05-03T02:43:18.397029",
+    "report_generated_time": "2026-05-04T02:40:53.579195",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -9,6 +9,18 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "Foresight Arena: An On-Chain Benchmark for Evaluating AI Forecasting Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.00420v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Semia: Auditing Agent Skills via Constraint-Guided Representation Synthesis",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2605.00314v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "From Impermanent Loss to Sustainable Gain: Quantifying Profitability Zones for Liquidity Providers on DEX",
                     "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
@@ -28,6 +40,12 @@
                     "published": "Last 7 Days"
                 },
                 {
+                    "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.00073v1",
+                    "published": "Last 7 Days"
+                },
+                {
                     "title": "Intent2Tx: Benchmarking LLMs for Translating Natural Language Intents into Ethereum Transactions",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.27763v1",
@@ -40,33 +58,15 @@
                     "published": "Last 7 Days"
                 },
                 {
+                    "title": "Lightweight Tamper-Evident Log Integrity Verification for IoT Edge Environments: A Merkle Tree Pipeline with Adaptive Chunking",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.00065v1",
+                    "published": "Last 7 Days"
+                },
+                {
                     "title": "End-to-End and Phase-Level Performance Optimization for Hyperledger Fabric",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2604.27174v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Catching the Fly: Practical Challenges in Making Blockchain FlyClient Real",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.26736v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Comparing Smart Contract Paradigms: A Preliminary Study of Security and Developer Experience",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.26727v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "An Effective Orchestral Approach to Satisfiability Modulo Prime Fields",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.26709v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Identifying and Characterizing Semantic Clones of Solidity Functions",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.26526v1",
                     "published": "Last 7 Days"
                 }
             ]
@@ -76,8 +76,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 21,
-                    "increase_pct": "-25.0%",
+                    "recent_commits": 19,
+                    "increase_pct": "-34.5%",
                     "score_contribution": 0
                 },
                 {
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Russia introduces bill to criminalize unregistered crypto services",
-                    "source": "Activistpost.com"
+                    "title": "US federal debt reaches record $39T amid economic growth concerns",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Apple\u2019s Q1 revenue beat may bolster market cap race against Nvidia",
+                    "title": "Iran criticizes Europe over nuclear deal, diplomatic tensions rise",
                     "source": "Crypto Briefing"
                 }
             ]
