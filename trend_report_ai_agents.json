@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-04T02:40:43.932437",
+    "report_generated_time": "2026-05-05T02:34:31.491237",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.57,
+    "final_score": 7.0,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,69 +10,69 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Learning to Act and Cooperate for Distributed Black-Box Consensus Optimization",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.00691v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "A11y-Compressor: A Framework for Enhancing the Efficiency of GUI Agent Observations through Visual Context Reconstruction and Redundancy Reduction",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2605.00551v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.00528v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "LLM-Oriented Information Retrieval: A Denoising-First Perspective",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.00505v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Scaling Video Understanding via Compact Latent Multi-Agent Collaboration",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.00444v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Foresight Arena: An On-Chain Benchmark for Evaluating AI Forecasting Agents",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.00420v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "AgentFloor: How Far Up the tool use Ladder Can Small Open-Weight Models Go?",
+                    "title": "Tool Use as Action: Towards Agentic Control in Mobile Core Networks",
                     "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
-                    "link": "https://arxiv.org/pdf/2605.00334v1",
+                    "link": "https://arxiv.org/pdf/2605.02811v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption",
+                    "title": "Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2605.02801v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Mitigating Misalignment Contagion by Steering with Implicit Traits",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.28157v1",
+                    "link": "https://arxiv.org/pdf/2605.02751v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Crab: A Semantics-Aware Checkpoint/Restore Runtime for Agent Sandboxes",
+                    "title": "An Empirical Study of Agent Skills for Healthcare: Practice, Gaps, and Governance",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.28138v1",
+                    "link": "https://arxiv.org/pdf/2605.02709v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "TopBench: A Benchmark for Implicit Prediction and Reasoning over Tabular Question Answering",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2604.28076v1",
+                    "title": "AcademiClaw: When Students Set Challenges for AI Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.02661v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Beyond State Machines: Executing Network Procedures with Agentic Tool-Calling Sequences",
+                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
+                    "link": "https://arxiv.org/pdf/2605.02584v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "IteRate: Autonomous AI Synthesis of In-Kernel eBPF Wi-Fi Rate Control Algorithms",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.02542v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "From Experimental Limits to Physical Insight: A Retrieval-Augmented Multi-Agent Framework for Interpreting Searches Beyond the Standard Model",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2605.02491v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "A Fresh Look on Network Synchronization",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.02386v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "SOTOPIA-TOM: Evaluating Information Management in Multi-Agent Interaction with Theory of Mind",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2605.02307v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.2,
+            "normalized_score": 1.42,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,15 +82,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 37,
-                    "increase_pct": "12.1%",
-                    "score_contribution": 0.61
+                    "recent_commits": 45,
+                    "increase_pct": "55.2%",
+                    "score_contribution": 2.76
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 19,
-                    "increase_pct": "-5.0%",
-                    "score_contribution": 0
+                    "recent_commits": 26,
+                    "increase_pct": "30.0%",
+                    "score_contribution": 1.5
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Batman/Static: Beyond #6 Preview: Lights Out, Aliens In",
-                    "source": "Bleeding Cool News"
+                    "title": "AI exposes attacks traditional detection methods can\u2019t see",
+                    "source": "SiliconANGLE News"
                 },
                 {
-                    "title": "CRM and Marketing Automation: How We Connect HubSpot and Salesforce for Seamless Growth | Vantage Point",
-                    "source": "Vantagepoint.io"
+                    "title": "g0dam/Awesome-GPT-Image-2-Work-Prompts: 50 bilingual GPT Image 2 prompts for practical work visuals: marketing, ecommerce, sales, brand systems, operations, education, HR, customer success, community, and founder strategy.",
+                    "source": "Github.com"
                 }
             ]
         }
