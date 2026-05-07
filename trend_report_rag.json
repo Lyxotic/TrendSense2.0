@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-05T02:34:36.133423",
+    "report_generated_time": "2026-05-07T02:40:45.057459",
     "niche": "RAG & Vector Databases",
-    "final_score": 6.59,
+    "final_score": 6.78,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,75 +10,75 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Benchmarking Retrieval Strategies for Biomedical Retrieval-Augmented Generation: A Controlled Empirical Study",
+                    "title": "How Does Chunking Affect Retrieval-Augmented Code Completion? A Controlled Empirical Study",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.02520v1",
+                    "link": "https://arxiv.org/pdf/2605.04763v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Fight Poison with Poison: Enhancing Robustness in Few-shot Machine-Generated Text Detection with Adversarial Training",
+                    "title": "Graph-Augmented LLMs for Swiss MP Ideology Prediction",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.02374v1",
+                    "link": "https://arxiv.org/pdf/2605.04643v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "A Compound AI Agent for Conversational Grant Discovery",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.02366v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "DocSync: Agentic Documentation Maintenance via Critic-Guided Reflexion",
+                    "title": "CAR: Query-Guided Confidence-Aware Reranking for Retrieval-Augmented Generation",
                     "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2605.02163v1",
+                    "link": "https://arxiv.org/pdf/2605.04495v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Enhancing Judgment Document Generation via Agentic Legal Information Collection and Rubric-Guided Optimization",
+                    "title": "DoGMaTiQ: Automated Generation of Question-and-Answer Nuggets for Report Evaluation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.04458v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "An Agent-Oriented Pluggable Experience-RAG Skill for Experience-Driven Retrieval Strategy Orchestration",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.03989v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Beyond Rules: LLM-Powered Linting for Quantum Programs",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.03943v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Natural Language Processing: A Comprehensive Practical Guide from Tokenisation to RLHF",
                     "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2605.02011v1",
+                    "link": "https://arxiv.org/pdf/2605.03799v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Retrieval with Multiple Query Vectors through Anomalous Pattern Detection",
+                    "title": "Deep Graph-Language Fusion for Structure-Aware Code Generation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.01965v1",
+                    "link": "https://arxiv.org/pdf/2605.03689v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Needle-in-RAG: Prompt-Conditioned Character-Level Traceback of Poisoned Spans in Retrieved Evidence",
+                    "title": "SURE-RAG: Sufficiency and Uncertainty-Aware Evidence Verification for Selective Retrieval-Augmented Generation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.01782v1",
+                    "link": "https://arxiv.org/pdf/2605.03534v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "TrajRAG: Retrieving Geometric-Semantic Experience for Zero-Shot Object Navigation",
+                    "title": "From prompting to evidence-based translation: A RAG+prompt system for Japanese-Chinese translation and its pedagogical potential",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.01700v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "A Hybrid Retrieval and Reranking Framework for Evidence-Grounded Retrieval-Augmented Generation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.01664v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Led to Mislead: Adversarial Content Injection for Attacks on Neural Ranking Models",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.01591v1",
+                    "link": "https://arxiv.org/pdf/2605.03387v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.24,
+            "normalized_score": 0.79,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 47,
-                    "increase_pct": "14.6%",
-                    "score_contribution": 0.73
+                    "recent_commits": 53,
+                    "increase_pct": "47.2%",
+                    "score_contribution": 2.36
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -88,8 +88,8 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 23,
-                    "increase_pct": "-11.5%",
+                    "recent_commits": 12,
+                    "increase_pct": "-63.6%",
                     "score_contribution": 0
                 }
             ]
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "getmnemo-langchain 0.1.0",
+                    "title": "ascend-langchain 2.0.1",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "getmnemo-langchain added to PyPI",
-                    "source": "Pypi.org"
+                    "title": "Google Expands Gemini API File Search: Multimodal RAG and Enhanced Verification",
+                    "source": "C-sharpcorner.com"
                 }
             ]
         }

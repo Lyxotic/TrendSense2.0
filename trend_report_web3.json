@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-05T02:34:39.536503",
+    "report_generated_time": "2026-05-07T02:40:48.424680",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.5,
+    "final_score": 6.59,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,75 +10,75 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "EvoPoC: Automated Exploit Synthesis for DeFi Smart Contracts via Hierarchical Knowledge Graphs",
+                    "title": "Toward a Risk Assessment Framework for Institutional DeFi: A Nine-Dimension Approach",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.02868v1",
+                    "link": "https://arxiv.org/pdf/2605.05145v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "InsureConnect: Blockchain and Digital Identity for the Property Insurance Market",
+                    "title": "Dynamic Collateral Control for Permissionless Spot Perpetual Basis Trading",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.02824v1",
+                    "link": "https://arxiv.org/pdf/2605.05089v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Obscura: Privacy-Preserving Protocol for the Algorand Blockchain Using LSAG Ring Signatures",
+                    "title": "Probabilistic Atomic Swaps for Bitcoin and Friends",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.02077v1",
+                    "link": "https://arxiv.org/pdf/2605.04975v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Phishing Detection in Ethereum via Temporal Graph Contrastive Learning",
+                    "title": "Knowledge-Free Correlated Agreement for Incentivizing Federated Learning",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.01207v1",
+                    "link": "https://arxiv.org/pdf/2605.04747v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Foresight Arena: An On-Chain Benchmark for Evaluating AI Forecasting Agents",
+                    "title": "A Blockchain-as-a-Service Solution for TAFES-Compliant Verification of Fair Trade Certifications",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.00420v2",
+                    "link": "https://arxiv.org/pdf/2605.04600v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Semia: Auditing Agent Skills via Constraint-Guided Representation Synthesis",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2605.00314v1",
+                    "title": "DAO-enabled decentralized physical AI: A new paradigm for human-machine collaboration",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2605.04522v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "From Impermanent Loss to Sustainable Gain: Quantifying Profitability Zones for Liquidity Providers on DEX",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2604.28014v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "The Origins of MEV: Systematic Attribution of Arbitrage Opportunity Creation at Scale",
+                    "title": "Revocation-Ready CP-ABE Key Management for Blockchain-Based IoT Data Sharing",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.27979v1",
+                    "link": "https://arxiv.org/pdf/2605.04280v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Feature-Centric Methodology for Analyzing Cross-Chain NFT Migration Compatibility",
+                    "title": "Firmware Distribution as Attack Surface: A Security Study of ASIC Cryptocurrency Miners",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.27805v1",
+                    "link": "https://arxiv.org/pdf/2605.03770v2",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
+                    "title": "Tailored Prompts, Targeted Protection: Vulnerability-Specific LLM Analysis for Smart Contracts",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.00073v1",
+                    "link": "https://arxiv.org/pdf/2605.03697v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "SILMARILS: Information-Theoretic and Quantum-Secure Designated-Verifier Signatures",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.03230v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 0.26,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 17,
-                    "increase_pct": "-32.0%",
-                    "score_contribution": 0
+                    "recent_commits": 21,
+                    "increase_pct": "10.5%",
+                    "score_contribution": 0.53
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "US to guide ships through Strait of Hormuz amid Iran tensions",
+                    "title": "Iran introduces permit system for Strait of Hormuz vessel transit amid tensions",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Iran vows retaliation if US resumes attacks amid ceasefire tensions",
-                    "source": "Crypto Briefing"
+                    "title": "Institutions Are Buying 6x Bitcoin\u2019s Daily Supply: Is $96,000 Next?",
+                    "source": "newsBTC"
                 }
             ]
         }

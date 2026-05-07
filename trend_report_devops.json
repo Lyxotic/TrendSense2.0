@@ -1,14 +1,38 @@
 {
-    "report_generated_time": "2026-05-05T02:34:44.666853",
+    "report_generated_time": "2026-05-07T02:40:53.332305",
     "niche": "Cloud Native & DevOps",
-    "final_score": 6.5,
-    "alert_status": "PRE_TREND_ALERT",
+    "final_score": 8.25,
+    "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "ClusterLess: Deadline-Aware Serverless Workflow Orchestration on Federated Edge Clusters",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.04310v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Multi-Agent Systems for Root Cause Analysis in Microservices",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2605.03505v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "From TinyGo to gc Compiler: Extending Zorya's Concolic Framework to Real-World Go Binaries",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.03492v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Cryptographic Registry Provenance: Structural Defense Against Dependency Confusion in AI Package Ecosystems",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.03309v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "AcademiClaw: When Students Set Challenges for AI Agents",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -44,47 +68,23 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2605.01454v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "A Domain-Driven Design Simulator for Business Logic-Rich Microservice Systems",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.01159v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Hypergraph and Latent ODE Learning for Multimodal Root Cause Localization in Microservices",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.00351v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Libra: Accelerating Socket I/O via Programmable Selective Data Copying",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2604.27686v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2604.27096v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 5.0,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 141,
-                    "increase_pct": "-38.7%",
+                    "recent_commits": 145,
+                    "increase_pct": "-26.0%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 0,
-                    "increase_pct": "0.0%",
-                    "score_contribution": 0
+                    "recent_commits": 2,
+                    "increase_pct": "200.0%",
+                    "score_contribution": 10.0
                 }
             ]
         },
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "pywebapp-native 1.0.3",
+                    "title": "efterlev 0.1.12",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "reticulum-meshchatx added to PyPI",
+                    "title": "atomr-view 0.3.1",
                     "source": "Pypi.org"
                 }
             ]
