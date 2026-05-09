@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-07T02:40:48.424680",
+    "report_generated_time": "2026-05-09T02:40:15.794382",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.59,
+    "final_score": 6.54,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -9,6 +9,18 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "Arbitrage and the Stability of AMM Price Tracking",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.06060v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Adversarial procurement in blockchains",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.05559v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Toward a Risk Assessment Framework for Institutional DeFi: A Nine-Dimension Approach",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -56,29 +68,17 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2605.03770v2",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "Tailored Prompts, Targeted Protection: Vulnerability-Specific LLM Analysis for Smart Contracts",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.03697v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "SILMARILS: Information-Theoretic and Quantum-Secure Designated-Verifier Signatures",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.03230v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.26,
+            "normalized_score": 0.12,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
                     "recent_commits": 21,
-                    "increase_pct": "10.5%",
-                    "score_contribution": 0.53
+                    "increase_pct": "5.0%",
+                    "score_contribution": 0.25
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Iran introduces permit system for Strait of Hormuz vessel transit amid tensions",
-                    "source": "Crypto Briefing"
+                    "title": "Coinbase posts steep first-quarter loss after slide in crypto prices; shares fall 4% - CNBC",
+                    "source": "Slashdot.org"
                 },
                 {
-                    "title": "Institutions Are Buying 6x Bitcoin\u2019s Daily Supply: Is $96,000 Next?",
-                    "source": "newsBTC"
+                    "title": "DMG Blockchain Solutions Announces April Preliminary Operational Results",
+                    "source": "Financial Post"
                 }
             ]
         }

@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-05-07T02:40:53.332305",
+    "report_generated_time": "2026-05-09T02:40:19.901986",
     "niche": "Cloud Native & DevOps",
     "final_score": 8.25,
     "alert_status": "TRENDING_NOW",
@@ -9,6 +9,12 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "Constraining Host-Level Abuse in Self-Hosted Computer-Use Agents via TEE-Backed Isolation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.06393v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "ClusterLess: Deadline-Aware Serverless Workflow Orchestration on Federated Edge Clusters",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -62,12 +68,6 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2605.01533v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "PQC Validator: Validating Post-Quantum Readiness in Cloud-Native 5G Core Networks",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.01454v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
@@ -76,14 +76,14 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 145,
-                    "increase_pct": "-26.0%",
+                    "recent_commits": 161,
+                    "increase_pct": "-3.0%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 2,
-                    "increase_pct": "200.0%",
+                    "recent_commits": 6,
+                    "increase_pct": "600.0%",
                     "score_contribution": 10.0
                 }
             ]
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "efterlev 0.1.12",
-                    "source": "Pypi.org"
+                    "title": "2000-Year-Old Amazonian \u201cDark Earth\u201d Causes Mysterious Plant Growth at Accelerated Levels, Baffling Researchers",
+                    "source": "Freerepublic.com"
                 },
                 {
-                    "title": "atomr-view 0.3.1",
-                    "source": "Pypi.org"
+                    "title": "Show HN: AnamDB \u2013 An AI-native, differentiable Datalog engine written in Rust",
+                    "source": "Github.com"
                 }
             ]
         }

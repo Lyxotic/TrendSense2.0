@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-07T02:40:40.450818",
+    "report_generated_time": "2026-05-09T02:40:07.696596",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.57,
+    "final_score": 6.81,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,69 +10,69 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Delegation",
+                    "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.05007v1",
+                    "link": "https://arxiv.org/pdf/2605.06651v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Evolving Idea Graphs with Learnable Edits-and-Commits for Multi-Agent Scientific Ideation",
+                    "title": "MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.04922v1",
+                    "link": "https://arxiv.org/pdf/2605.06623v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.04808v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "AgentTrust: Runtime Safety Evaluation and Interception for AI Agent Tool Use",
-                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
-                    "link": "https://arxiv.org/pdf/2605.04785v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "SWE-WebDevBench: Evaluating Coding Agent Application Platforms as Virtual Software Agencies",
+                    "title": "Process Matters more than Output for Distinguishing Humans from Machines",
                     "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2605.04637v1",
+                    "link": "https://arxiv.org/pdf/2605.06524v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "SensingAgents: A Multi-Agent Collaborative Framework for Robust IMU Activity Recognition",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.04608v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Accountable Agents in Software Engineering: An Analysis of Terms of Service and a Research Roadmap",
+                    "title": "Instrumental Choices: Measuring the Propensity of LLM Agents to Pursue Instrumental Behaviors",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.04532v1",
+                    "link": "https://arxiv.org/pdf/2605.06490v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Experiment-as-Code Labs: A Declarative Stack for AI-Driven Scientific Discovery",
+                    "title": "Beyond Task Success: Measuring Workflow Fidelity in LLM-Based Agentic Payment Systems",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.04375v1",
+                    "link": "https://arxiv.org/pdf/2605.06457v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Structural Equivalence and Learning Dynamics in Delayed MARL",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2605.04345v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Material Database Agent: A Multimodal Agentic Framework for Scientific Literature Mining",
+                    "title": "Knowledge Graphs, the Missing Link in Agentic AI-based Formal Verification",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.04278v1",
+                    "link": "https://arxiv.org/pdf/2605.06434v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Automated alignment is harder than you think",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.06390v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "From Agent Loops to Deterministic Graphs: Execution Lineage for Reproducible AI-Native Work",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.06365v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Prediction and Empowerment: A Theory of Agency through Bridge Interfaces",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.06346v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Safactory: A Scalable Agent Factory for Trustworthy Autonomous Intelligence",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.06230v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.21,
+            "normalized_score": 0.88,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,15 +82,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 31,
-                    "increase_pct": "0.0%",
+                    "recent_commits": 29,
+                    "increase_pct": "-17.1%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 27,
-                    "increase_pct": "12.5%",
-                    "score_contribution": 0.62
+                    "recent_commits": 29,
+                    "increase_pct": "52.6%",
+                    "score_contribution": 2.63
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "BigEndian Semiconductors bags $6 million funding, to scale indigenous VisionAI chips",
-                    "source": "The Times of India"
+                    "title": "Eclipse Tradista 2026.05 Graduation",
+                    "source": "Eclipse.org"
                 },
                 {
-                    "title": "India orders infosec red alert in case Mythos sparks crime spree",
-                    "source": "Theregister.com"
+                    "title": "Musk vs. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+                    "source": "Wired"
                 }
             ]
         }
