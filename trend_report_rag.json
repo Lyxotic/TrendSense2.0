@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-09T02:40:12.620697",
+    "report_generated_time": "2026-05-10T02:45:37.030368",
     "niche": "RAG & Vector Databases",
-    "final_score": 7.67,
+    "final_score": 7.74,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,13 +72,13 @@
             ]
         },
         "developer": {
-            "normalized_score": 3.33,
+            "normalized_score": 3.54,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 32,
-                    "increase_pct": "-34.7%",
-                    "score_contribution": 0
+                    "recent_commits": 55,
+                    "increase_pct": "12.2%",
+                    "score_contribution": 0.61
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -88,8 +88,8 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 12,
-                    "increase_pct": "-63.6%",
+                    "recent_commits": 13,
+                    "increase_pct": "-45.8%",
                     "score_contribution": 0
                 }
             ]
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "LiteLLM\u3068LangGraph\u3067Linkup\u30fbTavily\u30fbParallel\u30fbExa\u30fbFirecrawl\u306e5\u3064\u306eWeb\u691c\u7d22API\u3092\u5171\u901a\u30a4\u30f3\u30bf\u30fc\u30d5\u30a7\u30fc\u30b9\u3067\u547c\u3073\u5206\u3051\u3066\u307f\u308b",
-                    "source": "Classmethod.jp"
+                    "title": "autochatlib 0.1.1",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "langchain-ladybug 0.3.0",
+                    "title": "autochatlib 0.1.0",
                     "source": "Pypi.org"
                 }
             ]

@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-05-09T02:40:15.794382",
+    "report_generated_time": "2026-05-10T02:45:40.162800",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 6.54,
     "alert_status": "PRE_TREND_ALERT",
@@ -76,9 +76,9 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 21,
-                    "increase_pct": "5.0%",
-                    "score_contribution": 0.25
+                    "recent_commits": 22,
+                    "increase_pct": "4.8%",
+                    "score_contribution": 0.24
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Coinbase posts steep first-quarter loss after slide in crypto prices; shares fall 4% - CNBC",
-                    "source": "Slashdot.org"
+                    "title": "China unveils LineShine supercomputer, aims to surpass US\u2019s El Capitan",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "DMG Blockchain Solutions Announces April Preliminary Operational Results",
-                    "source": "Financial Post"
+                    "title": "Jan Leike leads Anthropic\u2019s alignment science team, doubling down on AI safety research",
+                    "source": "Crypto Briefing"
                 }
             ]
         }

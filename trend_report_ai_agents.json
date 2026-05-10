@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-05-09T02:40:07.696596",
+    "report_generated_time": "2026-05-10T02:45:32.399328",
     "niche": "AI Agents & Multi-Agent Systems",
     "final_score": 6.81,
     "alert_status": "PRE_TREND_ALERT",
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Eclipse Tradista 2026.05 Graduation",
-                    "source": "Eclipse.org"
+                    "title": "China unveils LineShine supercomputer, aims to surpass US\u2019s El Capitan",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Musk vs. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-                    "source": "Wired"
+                    "title": "Jan Leike leads Anthropic\u2019s alignment science team, doubling down on AI safety research",
+                    "source": "Crypto Briefing"
                 }
             ]
         }
