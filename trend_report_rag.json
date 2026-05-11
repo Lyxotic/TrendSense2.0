@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-10T02:45:37.030368",
+    "report_generated_time": "2026-05-11T02:55:08.373528",
     "niche": "RAG & Vector Databases",
-    "final_score": 7.74,
+    "final_score": 7.67,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,75 +10,75 @@
             "normalized_score": 10,
             "data": [
                 {
+                    "title": "FAVOR: Efficient Filter-Agnostic Vector ANNS Based on Selectivity-Aware Exclusion Distances",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.07770v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Characterizing and Mitigating False-Positive Bug Reports in the Linux Kernel",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.07678v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "TRACE: Tourism Recommendation with Accountable Citation Evidence",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.07677v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "LARAG: Link-Aware Retrieval Strategy for RAG Systems in Hyperlinked Technical Documentation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.07517v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "From Clouds to Hallucinations: Atmospheric Retrieval Hijacking in Remote Sensing Vision-Language RAG",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.07273v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "MLAIRE: Multilingual Language-Aware Information Retrieval Evaluation Protocal",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.07249v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Topic Is Not Agenda: A Citation-Community Audit of Text Embeddings",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.07158v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "From Standard English to Singlish: A Retrieval-Augmented Approach for Code-Switched Creole Generation in Large Language Models",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.07132v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.06963v1",
+                    "published": "Last 7 Days"
+                },
+                {
                     "title": "Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research Agents",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2605.06635v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "LatentRAG: Latent Reasoning and Retrieval for Efficient Agentic RAG",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2605.06285v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Event-Causal RAG: A Retrieval-Augmented Generation Framework for Long Video Reasoning in Complex Scenarios",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2605.06185v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Retina-RAG: Retrieval-Augmented Vision-Language Modeling for Joint Retinal Diagnosis and Clinical Report Generation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.06173v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Quantizing With Randomized Hadamard Transforms: Efficient Heuristic Now Proven",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.06014v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Tatarstan Toponyms: A Bilingual Dataset and Hybrid RAG System for Geospatial Question Answering",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.05962v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "LLM-Driven Design Space Exploration of FPGA-based Accelerators",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.05920v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "LeakDojo: Decoding the Leakage Threats of RAG Systems",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.05818v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "LCC-LLM: Leveraging Code-Centric Large Language Models for Malware Attribution",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.05807v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Retrieval from Within: An Intrinsic Capability of Attention-Based Models",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.05806v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 3.54,
+            "normalized_score": 3.33,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 55,
-                    "increase_pct": "12.2%",
-                    "score_contribution": 0.61
+                    "recent_commits": 50,
+                    "increase_pct": "-3.8%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "autochatlib 0.1.1",
+                    "title": "surveyshield-py added to PyPI",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "autochatlib 0.1.0",
+                    "title": "langchain-docker added to PyPI",
                     "source": "Pypi.org"
                 }
             ]

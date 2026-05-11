@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-10T02:45:40.162800",
+    "report_generated_time": "2026-05-11T02:55:11.929924",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.54,
+    "final_score": 6.96,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -9,6 +9,18 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "Zombies in Alternate Realities: The Afterlife of Domain Names in DNS Integrations",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.06880v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "The Cost of Quantum Resistance: A Hash-Based Commit-Reveal Alternative for Minimizing Blockchain Infrastructure Overhead",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.06853v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Arbitrage and the Stability of AMM Price Tracking",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -56,29 +68,17 @@
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
                     "link": "https://arxiv.org/pdf/2605.04522v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "Revocation-Ready CP-ABE Key Management for Blockchain-Based IoT Data Sharing",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.04280v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Firmware Distribution as Attack Surface: A Security Study of ASIC Cryptocurrency Miners",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.03770v2",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.12,
+            "normalized_score": 1.32,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 22,
-                    "increase_pct": "4.8%",
-                    "score_contribution": 0.24
+                    "recent_commits": 29,
+                    "increase_pct": "52.6%",
+                    "score_contribution": 2.63
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "China unveils LineShine supercomputer, aims to surpass US\u2019s El Capitan",
-                    "source": "Crypto Briefing"
+                    "title": "New Crypto Pepeto Presale Nears $10 Million While Ethereum Price Prediction Charts a $4,900 Target as Bitmine Loads 5.18 Million ETH",
+                    "source": "GlobeNewswire"
                 },
                 {
-                    "title": "Jan Leike leads Anthropic\u2019s alignment science team, doubling down on AI safety research",
-                    "source": "Crypto Briefing"
+                    "title": "What are stablecoins? Why Amazon, BlackRock and big banks are adopting digital dollars amid tighter crypto rules",
+                    "source": "Livemint"
                 }
             ]
         }
