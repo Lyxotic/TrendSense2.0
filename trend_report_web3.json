@@ -1,8 +1,8 @@
 {
-    "report_generated_time": "2026-05-11T02:55:11.929924",
+    "report_generated_time": "2026-05-12T02:46:50.297947",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.96,
-    "alert_status": "PRE_TREND_ALERT",
+    "final_score": 7.53,
+    "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
@@ -10,75 +10,75 @@
             "normalized_score": 10,
             "data": [
                 {
+                    "title": "Mapping Partisan Fault Lines Within DAOs",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.10316v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Formal Verification of Imperative First-Class Functions in Move",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.10007v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "SmartEval: A Benchmark for Evaluating LLM-Generated Smart Contracts from Natural Language Specifications",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.09610v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "CHAINTRIX: A multi-pipeline LLM-augmented framework for automated smart-contract security auditing",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.09350v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Smart Contract Security Beyond Detection",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.09124v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "ParityFuzz: Finding Inconsistencies across Solidity Compilers via Fine-Grained Mutation and Differential Analysis",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.09051v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Toward Web 4.0: Bidirectional Trust between AI Agents and Blockchain",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2605.08922v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "TS-Verkle: A TypeScript Native Verkle Library With On-chain Verifier",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.08682v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "QUANTAS 2 An Abstract, Concrete and Byzantine Simulator",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.08547v1",
+                    "published": "Last 7 Days"
+                },
+                {
                     "title": "Zombies in Alternate Realities: The Afterlife of Domain Names in DNS Integrations",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2605.06880v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "The Cost of Quantum Resistance: A Hash-Based Commit-Reveal Alternative for Minimizing Blockchain Infrastructure Overhead",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.06853v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Arbitrage and the Stability of AMM Price Tracking",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.06060v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Adversarial procurement in blockchains",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.05559v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Toward a Risk Assessment Framework for Institutional DeFi: A Nine-Dimension Approach",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.05145v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Dynamic Collateral Control for Permissionless Spot Perpetual Basis Trading",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.05089v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Probabilistic Atomic Swaps for Bitcoin and Friends",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.04975v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Knowledge-Free Correlated Agreement for Incentivizing Federated Learning",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.04747v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "A Blockchain-as-a-Service Solution for TAFES-Compliant Verification of Fair Trade Certifications",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.04600v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "DAO-enabled decentralized physical AI: A new paradigm for human-machine collaboration",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.04522v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 1.32,
+            "normalized_score": 2.94,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 29,
-                    "increase_pct": "52.6%",
-                    "score_contribution": 2.63
+                    "recent_commits": 37,
+                    "increase_pct": "117.6%",
+                    "score_contribution": 5.88
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "New Crypto Pepeto Presale Nears $10 Million While Ethereum Price Prediction Charts a $4,900 Target as Bitmine Loads 5.18 Million ETH",
-                    "source": "GlobeNewswire"
+                    "title": "Private-credit firms report decline in returns amid Fed rate cuts",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "What are stablecoins? Why Amazon, BlackRock and big banks are adopting digital dollars amid tighter crypto rules",
-                    "source": "Livemint"
+                    "title": "Meet The Taylor\u2019s University Student Who Won Over 30 Global Hackathons Before Graduating",
+                    "source": "Mashable"
                 }
             ]
         }

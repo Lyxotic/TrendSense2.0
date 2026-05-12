@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-11T02:55:01.756471",
+    "report_generated_time": "2026-05-12T02:46:41.945036",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.81,
+    "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,69 +10,69 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Ask Early, Ask Late, Ask Right: When Does Clarification Timing Matter for Long-Horizon Agents?",
+                    "title": "AgentRx: A Benchmark Study of LLM Agents for Multimodal Clinical Prediction Tasks",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.07937v1",
+                    "link": "https://arxiv.org/pdf/2605.10286v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "ADKO: Agentic Decentralized Knowledge Optimization",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.07863v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "CyBiasBench: Benchmarking Bias in LLM Agents for Cyber-Attack Scenarios",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.07830v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "SARC: A Governance-by-Architecture Framework for Agentic AI Systems",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.07728v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "The Endogeneity of Miscalibration: Impossibility and Escape in Scored Reporting",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.07671v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Operating Within the Operational Design Domain: Zero-Shot Perception with Vision-Language Models",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.07649v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "MASPrism: Lightweight Failure Attribution for Multi-Agent Systems Using Prefill-Stage Signals",
+                    "title": "Swarm Skills: A Portable, Self-Evolving Multi-Agent System Specification for Coordination Engineering",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.07509v1",
+                    "link": "https://arxiv.org/pdf/2605.10052v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Low-code and no-code with BESSER to create and deploy smart web applications",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2605.07376v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.07306v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "EnvSimBench: A Benchmark for Evaluating and Improving LLM-Based Environment Simulation",
+                    "title": "Bridging the Cognitive Gap: A Unified Memory Paradigm for 6G Agentic AI-RAN",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.07247v1",
+                    "link": "https://arxiv.org/pdf/2605.10036v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Merlin: Deterministic Byte-Exact Deduplication for Lossless Context Optimization in Large Language Model Inference",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.09990v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Position: Academic Conferences are Potentially Facing Denominator Gaming Caused by Fully Automated Scientific Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.09915v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "RADAR: Redundancy-Aware Diffusion for Multi-Agent Communication Structure Generation",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2605.09907v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Deterministic vs. LLM-Controlled Orchestration for COBOL-to-Python Modernization",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.09894v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "EnactToM: An Evolving Benchmark for Functional Theory of Mind in Embodied Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.09826v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "CalBench: Evaluating Coordination-Privacy Trade-offs in Multi-Agent LLMs",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2605.09823v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Oracle Poisoning: Corrupting Knowledge Graphs to Weaponise AI Agent Reasoning",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2605.09822v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.88,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,15 +82,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 27,
-                    "increase_pct": "-27.0%",
+                    "recent_commits": 17,
+                    "increase_pct": "-62.2%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 29,
-                    "increase_pct": "52.6%",
-                    "score_contribution": 2.63
+                    "recent_commits": 24,
+                    "increase_pct": "-7.7%",
+                    "score_contribution": 0
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Tight-knit Midwest town becomes ground zero in America's war on AI\u2026 and local politicians get swift justice",
-                    "source": "Dailymail.com"
+                    "title": "Meet The Taylor\u2019s University Student Who Won Over 30 Global Hackathons Before Graduating",
+                    "source": "Mashable"
                 },
                 {
-                    "title": "Green Lantern Corps #16 Preview: Jessica Cruz Plays Space Referee",
-                    "source": "Bleeding Cool News"
+                    "title": "3vo \u2013 Use AI agents to design, build, and launch your product in days",
+                    "source": "Betalist.com"
                 }
             ]
         }

@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-11T02:55:08.373528",
+    "report_generated_time": "2026-05-12T02:46:47.165633",
     "niche": "RAG & Vector Databases",
-    "final_score": 7.67,
+    "final_score": 8.01,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,86 +10,86 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "FAVOR: Efficient Filter-Agnostic Vector ANNS Based on Selectivity-Aware Exclusion Distances",
+                    "title": "Knowledge Poisoning Attacks on Medical Multi-Modal Retrieval-Augmented Generation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.07770v1",
+                    "link": "https://arxiv.org/pdf/2605.10253v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Characterizing and Mitigating False-Positive Bug Reports in the Linux Kernel",
+                    "title": "Route Before Retrieve: Activating Latent Routing Abilities of LLMs for RAG vs. Long-Context Selection",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.07678v1",
+                    "link": "https://arxiv.org/pdf/2605.10235v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "TRACE: Tourism Recommendation with Accountable Citation Evidence",
+                    "title": "ASTRA-QA: A Benchmark for Abstract Question Answering over Documents",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.07677v1",
+                    "link": "https://arxiv.org/pdf/2605.10168v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "LARAG: Link-Aware Retrieval Strategy for RAG Systems in Hyperlinked Technical Documentation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.07517v1",
+                    "title": "NyayaAI: An AI-Powered Legal Assistant Using Multi-Agent Architecture and Retrieval-Augmented Generation",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2605.10155v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "From Clouds to Hallucinations: Atmospheric Retrieval Hijacking in Remote Sensing Vision-Language RAG",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.07273v1",
+                    "title": "RFAmpDesigner: A Self-Evolving Multi-Agent LLM Framework for Automated Radio Frequency Amplifier Design",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2605.10093v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "MLAIRE: Multilingual Language-Aware Information Retrieval Evaluation Protocal",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.07249v1",
+                    "title": "PlantMarkerBench: A Multi-Species Benchmark for Evidence-Grounded Plant Marker Reasoning",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2605.10032v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Topic Is Not Agenda: A Citation-Community Audit of Text Embeddings",
+                    "title": "Merlin: Deterministic Byte-Exact Deduplication for Lossless Context Optimization in Large Language Model Inference",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.07158v1",
+                    "link": "https://arxiv.org/pdf/2605.09990v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "From Standard English to Singlish: A Retrieval-Augmented Approach for Code-Switched Creole Generation in Large Language Models",
+                    "title": "MedMeta: A Benchmark for LLMs in Synthesizing Meta-Analysis Conclusion from Medical Studies",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.07132v1",
+                    "link": "https://arxiv.org/pdf/2605.09661v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle",
+                    "title": "Byte-Exact Deduplication in Retrieval-Augmented Generation: A Three-Regime Empirical Analysis Across Public Benchmarks",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.06963v1",
+                    "link": "https://arxiv.org/pdf/2605.09611v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research Agents",
+                    "title": "Governing AI-Assisted Security Operations: A Design Science Framework for Operational Decision Support",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.06635v1",
+                    "link": "https://arxiv.org/pdf/2605.09534v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 3.33,
+            "normalized_score": 4.33,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 50,
-                    "increase_pct": "-3.8%",
-                    "score_contribution": 0
+                    "recent_commits": 75,
+                    "increase_pct": "59.6%",
+                    "score_contribution": 2.98
                 },
                 {
                     "repo_name": "qdrant/qdrant",
-                    "recent_commits": 305,
-                    "increase_pct": "30500.0%",
+                    "recent_commits": 306,
+                    "increase_pct": "30600.0%",
                     "score_contribution": 10.0
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 13,
-                    "increase_pct": "-45.8%",
+                    "recent_commits": 10,
+                    "increase_pct": "-56.5%",
                     "score_contribution": 0
                 }
             ]
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "surveyshield-py added to PyPI",
+                    "title": "epistemic-vectors 0.1.1",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "langchain-docker added to PyPI",
+                    "title": "chain-receipt-sdk 0.1.2",
                     "source": "Pypi.org"
                 }
             ]
