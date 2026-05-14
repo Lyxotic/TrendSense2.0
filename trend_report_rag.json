@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-12T02:46:47.165633",
+    "report_generated_time": "2026-05-14T02:54:26.034954",
     "niche": "RAG & Vector Databases",
-    "final_score": 8.01,
+    "final_score": 7.92,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,87 +10,87 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Knowledge Poisoning Attacks on Medical Multi-Modal Retrieval-Augmented Generation",
+                    "title": "VectorSmuggle: Steganographic Exfiltration in Embedding Stores and a Cryptographic Provenance Defense",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.10253v1",
+                    "link": "https://arxiv.org/pdf/2605.13764v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Route Before Retrieve: Activating Latent Routing Abilities of LLMs for RAG vs. Long-Context Selection",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.10235v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "ASTRA-QA: A Benchmark for Abstract Question Answering over Documents",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.10168v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "NyayaAI: An AI-Powered Legal Assistant Using Multi-Agent Architecture and Retrieval-Augmented Generation",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.10155v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "RFAmpDesigner: A Self-Evolving Multi-Agent LLM Framework for Automated Radio Frequency Amplifier Design",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.10093v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "PlantMarkerBench: A Multi-Species Benchmark for Evidence-Grounded Plant Marker Reasoning",
+                    "title": "PersonalAI 2.0: Enhancing knowledge graph traversal/retrieval with planning mechanism for Personalized LLM Agents",
                     "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2605.10032v1",
+                    "link": "https://arxiv.org/pdf/2605.13481v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Merlin: Deterministic Byte-Exact Deduplication for Lossless Context Optimization in Large Language Model Inference",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.09990v1",
+                    "title": "RS-Claw: Progressive Active Tool Exploration via Hierarchical Skill Trees for Remote Sensing Agents",
+                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
+                    "link": "https://arxiv.org/pdf/2605.13391v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "MedMeta: A Benchmark for LLMs in Synthesizing Meta-Analysis Conclusion from Medical Studies",
+                    "title": "CANTANTE: Optimizing Agentic Systems via Contrastive Credit Attribution",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.09661v1",
+                    "link": "https://arxiv.org/pdf/2605.13295v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Byte-Exact Deduplication in Retrieval-Augmented Generation: A Three-Regime Empirical Analysis Across Public Benchmarks",
+                    "title": "Utility-Oriented Visual Evidence Selection for Multimodal Retrieval-Augmented Generation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.09611v1",
+                    "link": "https://arxiv.org/pdf/2605.13277v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Governing AI-Assisted Security Operations: A Design Science Framework for Operational Decision Support",
+                    "title": "An Agentic AI Framework with Large Language Models and Chain-of-Thought for UAV-Assisted Logistics Scheduling with Mobile Edge Computing",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.09534v1",
+                    "link": "https://arxiv.org/pdf/2605.13221v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.12988v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Retrieval is Cheap, Show Me the Code: Executable Multi-Hop Reasoning for Retrieval-Augmented Generation",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2605.12975v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Synthesizing the Expert: A Validated Multimodal Dataset for Trustworthy AI-Assisted Swimming Coaching",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.12799v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "A categorical error sensitivity index (ISEC): A preventive ordinal decision-support measure for irrecoverable errors in manual data entry systems",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.12328v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 4.33,
+            "normalized_score": 4.06,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 75,
-                    "increase_pct": "59.6%",
-                    "score_contribution": 2.98
+                    "recent_commits": 63,
+                    "increase_pct": "18.9%",
+                    "score_contribution": 0.94
                 },
                 {
                     "repo_name": "qdrant/qdrant",
-                    "recent_commits": 306,
-                    "increase_pct": "30600.0%",
+                    "recent_commits": 307,
+                    "increase_pct": "30700.0%",
                     "score_contribution": 10.0
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 10,
-                    "increase_pct": "-56.5%",
-                    "score_contribution": 0
+                    "recent_commits": 15,
+                    "increase_pct": "25.0%",
+                    "score_contribution": 1.25
                 }
             ]
         },
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "epistemic-vectors 0.1.1",
+                    "title": "langchain-agentx-python 0.1.8",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "chain-receipt-sdk 0.1.2",
+                    "title": "agentmesh-proto added to PyPI",
                     "source": "Pypi.org"
                 }
             ]

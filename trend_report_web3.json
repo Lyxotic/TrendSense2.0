@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-12T02:46:50.297947",
+    "report_generated_time": "2026-05-14T02:54:29.159155",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 7.53,
+    "final_score": 7.08,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,75 +10,75 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Mapping Partisan Fault Lines Within DAOs",
+                    "title": "Extending Blockchain Untraceability with Plausible Deniability",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.10316v1",
+                    "link": "https://arxiv.org/pdf/2605.13132v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Formal Verification of Imperative First-Class Functions in Move",
+                    "title": "Empirical confirmation of bosonic wealth statistics in Bitcoin UTXOs",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.10007v1",
+                    "link": "https://arxiv.org/pdf/2605.12853v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "SmartEval: A Benchmark for Evaluating LLM-Generated Smart Contracts from Natural Language Specifications",
+                    "title": "Dynamic Transaction Scheduling and Pricing in the Ethereum Mempool",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.09610v1",
+                    "link": "https://arxiv.org/pdf/2605.12794v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "CHAINTRIX: A multi-pipeline LLM-augmented framework for automated smart-contract security auditing",
+                    "title": "ORCHID: Orchestrated Reduction Consensus for Hash-based Integrity in Distributed Ledgers",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.09350v1",
+                    "link": "https://arxiv.org/pdf/2605.12211v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Smart Contract Security Beyond Detection",
+                    "title": "PROTECT-DB: Protecting Data using Replicated State Machines: Efficient Corruption Detection & Recovery",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.09124v1",
+                    "link": "https://arxiv.org/pdf/2605.11953v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "ParityFuzz: Finding Inconsistencies across Solidity Compilers via Fine-Grained Mutation and Differential Analysis",
+                    "title": "Five Attacks on x402 Agentic Payment Protocol",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.09051v1",
+                    "link": "https://arxiv.org/pdf/2605.11781v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Toward Web 4.0: Bidirectional Trust between AI Agents and Blockchain",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2605.08922v1",
+                    "title": "Deanonymizable Scoped Linkable Ring Signatures",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.11715v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "TS-Verkle: A TypeScript Native Verkle Library With On-chain Verifier",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.08682v1",
+                    "title": "State Twins: An Off-Chain Substrate for Agentic Reasoning over Decentralized Finance Protocols",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2605.11522v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "QUANTAS 2 An Abstract, Concrete and Byzantine Simulator",
+                    "title": "Optimal Control of the Ethena Yield-Bearing Stablecoin",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.08547v1",
+                    "link": "https://arxiv.org/pdf/2605.11263v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Zombies in Alternate Realities: The Afterlife of Domain Names in DNS Integrations",
+                    "title": "Benchmarking LLM-Based Static Analysis for Secure Smart Contract Development: Reliability, Limitations, and Potential Hybrid Solutions",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.06880v1",
+                    "link": "https://arxiv.org/pdf/2605.11163v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 2.94,
+            "normalized_score": 1.67,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 37,
-                    "increase_pct": "117.6%",
-                    "score_contribution": 5.88
+                    "recent_commits": 35,
+                    "increase_pct": "66.7%",
+                    "score_contribution": 3.33
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Private-credit firms report decline in returns amid Fed rate cuts",
+                    "title": "Quality Technology Services used 30 million gallons of water without payment in Georgia",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Meet The Taylor\u2019s University Student Who Won Over 30 Global Hackathons Before Graduating",
-                    "source": "Mashable"
+                    "title": "US imposes sanctions on companies aiding Iran\u2019s oil shipments to China",
+                    "source": "Crypto Briefing"
                 }
             ]
         }
