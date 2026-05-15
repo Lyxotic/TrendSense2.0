@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-14T02:54:20.443814",
+    "report_generated_time": "2026-05-15T02:54:43.480598",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.72,
+    "final_score": 6.59,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,69 +10,69 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context",
+                    "title": "FutureSim: Replaying World Events to Evaluate Adaptive Agents",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.13831v1",
+                    "link": "https://arxiv.org/pdf/2605.15188v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "How to Interpret Agent Behavior",
+                    "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.13625v1",
+                    "link": "https://arxiv.org/pdf/2605.15184v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "OpenAaaS: An Open Agent-as-a-Service Framework for Distributed Materials-Informatics Research",
+                    "title": "APWA: A Distributed Architecture for Parallelizable Agentic Workflows",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.13618v1",
+                    "link": "https://arxiv.org/pdf/2605.15132v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Sleeper Channels and Provenance Gates: Persistent Prompt Injection in Always-on Autonomous AI Agents",
+                    "title": "Orchard: An Open-Source Agentic Modeling Framework",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.13471v1",
+                    "link": "https://arxiv.org/pdf/2605.15040v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Cognifold: Always-On Proactive Memory via Cognitive Folding",
+                    "title": "AI Knows When It's Being Watched: Functional Strategic Action and Contextual Register Modulation in Large Language Models",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.13438v1",
+                    "link": "https://arxiv.org/pdf/2605.15034v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "TRIAGE: Evaluating Prospective Metacognitive Control in LLMs under Resource Constraints",
+                    "title": "Toward Securing AI Agents Like Operating Systems",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.13414v1",
+                    "link": "https://arxiv.org/pdf/2605.14932v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Building Interactive Real-Time Agents with Asynchronous I/O and Speculative Tool Calling",
-                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
-                    "link": "https://arxiv.org/pdf/2605.13360v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Multi-Agent Systems in Emergency Departments: Validation Study on a ED Digital Twin",
+                    "title": "Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.13345v1",
+                    "link": "https://arxiv.org/pdf/2605.14892v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "CANTANTE: Optimizing Agentic Systems via Contrastive Credit Attribution",
+                    "title": "Holistic Evaluation and Failure Diagnosis of AI Agents",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.13295v1",
+                    "link": "https://arxiv.org/pdf/2605.14865v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Hierarchical Attacks for Multi-Modal Multi-Agent Reasoning",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.13213v1",
+                    "title": "A Deterministic Agentic Workflow for HS Tariff Classification: Multi-Dimensional Rule Reasoning with Interpretable Decisions",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2605.14857v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Beyond AI as Assistants: Toward Autonomous Discovery in Cosmology",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.14791v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.62,
+            "normalized_score": 0.26,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,15 +82,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 22,
-                    "increase_pct": "-29.0%",
+                    "recent_commits": 18,
+                    "increase_pct": "-37.9%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
                     "recent_commits": 37,
-                    "increase_pct": "37.0%",
-                    "score_contribution": 1.85
+                    "increase_pct": "15.6%",
+                    "score_contribution": 0.78
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Sipeed's new K3 RISC-V SBCs can run 30B-parameter LLMs at 10 tokens per second",
-                    "source": "TweakTown"
+                    "title": "10 Best Digital Marketing Tools Free for 2026",
+                    "source": "Adstellar.ai"
                 },
                 {
-                    "title": "decodingtrust-agent-sdk added to PyPI",
-                    "source": "Pypi.org"
+                    "title": "Cisco accelerates AI push with Silicon One gains and major restructuring plan",
+                    "source": "Digitimes"
                 }
             ]
         }

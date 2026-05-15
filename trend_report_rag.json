@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-14T02:54:26.034954",
+    "report_generated_time": "2026-05-15T02:54:50.470130",
     "niche": "RAG & Vector Databases",
-    "final_score": 7.92,
+    "final_score": 8.07,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,87 +10,87 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "VectorSmuggle: Steganographic Exfiltration in Embedding Stores and a Cryptographic Provenance Defense",
+                    "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.13764v1",
+                    "link": "https://arxiv.org/pdf/2605.15184v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "PersonalAI 2.0: Enhancing knowledge graph traversal/retrieval with planning mechanism for Personalized LLM Agents",
+                    "title": "Why Neighborhoods Matter: Traversal Context and Provenance in Agentic GraphRAG",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.15109v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "From Scenes to Elements: Multi-Granularity Evidence Retrieval for Verifiable Multimodal RAG",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.15019v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Emotion-Attended Stateful Memory (EASM):The Architecture for Hyper-Personalization at Scale",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.14833v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Falkor-IRAC: Graph-Constrained Generation for Verified Legal Reasoning in Indian Judicial AI",
                     "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2605.13481v1",
+                    "link": "https://arxiv.org/pdf/2605.14665v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "RS-Claw: Progressive Active Tool Exploration via Hierarchical Skill Trees for Remote Sensing Agents",
-                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
-                    "link": "https://arxiv.org/pdf/2605.13391v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "CANTANTE: Optimizing Agentic Systems via Contrastive Credit Attribution",
+                    "title": "A Picture is Worth a Thousand Words? An Empirical Study of Aggregation Strategies for Visual Financial Document Retrieval",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.13295v1",
+                    "link": "https://arxiv.org/pdf/2605.14581v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Utility-Oriented Visual Evidence Selection for Multimodal Retrieval-Augmented Generation",
+                    "title": "Not All RAGs Are Created Equal: A Component-Wise Empirical Study for Software Engineering Tasks",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.13277v1",
+                    "link": "https://arxiv.org/pdf/2605.14503v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "An Agentic AI Framework with Large Language Models and Chain-of-Thought for UAV-Assisted Logistics Scheduling with Mobile Edge Computing",
+                    "title": "Deepchecks: Evaluating Retrieval-Augmented Generation (RAG)",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.13221v1",
+                    "link": "https://arxiv.org/pdf/2605.14488v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education",
+                    "title": "Does RAG Know When Retrieval Is Wrong? Diagnosing Context Compliance under Knowledge Conflict",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.12988v1",
+                    "link": "https://arxiv.org/pdf/2605.14473v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Retrieval is Cheap, Show Me the Code: Executable Multi-Hop Reasoning for Retrieval-Augmented Generation",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2605.12975v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Synthesizing the Expert: A Validated Multimodal Dataset for Trustworthy AI-Assisted Swimming Coaching",
+                    "title": "Why Retrieval-Augmented Generation Fails: A Graph Perspective",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.12799v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "A categorical error sensitivity index (ISEC): A preventive ordinal decision-support measure for irrecoverable errors in manual data entry systems",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.12328v1",
+                    "link": "https://arxiv.org/pdf/2605.14192v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 4.06,
+            "normalized_score": 4.49,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 63,
-                    "increase_pct": "18.9%",
-                    "score_contribution": 0.94
+                    "recent_commits": 78,
+                    "increase_pct": "56.0%",
+                    "score_contribution": 2.8
                 },
                 {
                     "repo_name": "qdrant/qdrant",
-                    "recent_commits": 307,
-                    "increase_pct": "30700.0%",
+                    "recent_commits": 308,
+                    "increase_pct": "30800.0%",
                     "score_contribution": 10.0
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 15,
-                    "increase_pct": "25.0%",
-                    "score_contribution": 1.25
+                    "recent_commits": 17,
+                    "increase_pct": "13.3%",
+                    "score_contribution": 0.67
                 }
             ]
         },
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "langchain-agentx-python 0.1.8",
+                    "title": "shieldops-sdk added to PyPI",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "agentmesh-proto added to PyPI",
+                    "title": "tessen added to PyPI",
                     "source": "Pypi.org"
                 }
             ]

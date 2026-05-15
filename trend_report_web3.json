@@ -1,8 +1,8 @@
 {
-    "report_generated_time": "2026-05-14T02:54:29.159155",
+    "report_generated_time": "2026-05-15T02:54:54.306003",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 7.08,
-    "alert_status": "TRENDING_NOW",
+    "final_score": 6.76,
+    "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
@@ -72,13 +72,13 @@
             ]
         },
         "developer": {
-            "normalized_score": 1.67,
+            "normalized_score": 0.73,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 35,
-                    "increase_pct": "66.7%",
-                    "score_contribution": 3.33
+                    "recent_commits": 31,
+                    "increase_pct": "29.2%",
+                    "score_contribution": 1.46
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Quality Technology Services used 30 million gallons of water without payment in Georgia",
+                    "title": "eBay rejects GameStop\u2019s $56B acquisition bid as unappealing",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "US imposes sanctions on companies aiding Iran\u2019s oil shipments to China",
+                    "title": "Anthropic rejects Chinese think tank\u2019s request for AI model access",
                     "source": "Crypto Briefing"
                 }
             ]
