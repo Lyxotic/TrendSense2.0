@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-15T02:54:50.470130",
+    "report_generated_time": "2026-05-16T02:43:37.289725",
     "niche": "RAG & Vector Databases",
-    "final_score": 8.07,
+    "final_score": 7.71,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,25 +72,25 @@
             ]
         },
         "developer": {
-            "normalized_score": 4.49,
+            "normalized_score": 3.45,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 78,
-                    "increase_pct": "56.0%",
-                    "score_contribution": 2.8
+                    "recent_commits": 85,
+                    "increase_pct": "165.6%",
+                    "score_contribution": 8.28
                 },
                 {
                     "repo_name": "qdrant/qdrant",
-                    "recent_commits": 308,
-                    "increase_pct": "30800.0%",
-                    "score_contribution": 10.0
+                    "recent_commits": 3,
+                    "increase_pct": "-99.0%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "chroma-core/chroma",
                     "recent_commits": 17,
-                    "increase_pct": "13.3%",
-                    "score_contribution": 0.67
+                    "increase_pct": "41.7%",
+                    "score_contribution": 2.08
                 }
             ]
         },
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "shieldops-sdk added to PyPI",
-                    "source": "Pypi.org"
+                    "title": "Senior AI/ML Engineer \u2013 LLM and Agentic AI Systems \u2013 Fulltime",
+                    "source": "Nlppeople.com"
                 },
                 {
-                    "title": "tessen added to PyPI",
+                    "title": "agentity-sdk-python added to PyPI",
                     "source": "Pypi.org"
                 }
             ]

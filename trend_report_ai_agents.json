@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-15T02:54:43.480598",
+    "report_generated_time": "2026-05-16T02:43:29.813219",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.59,
+    "final_score": 6.76,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,7 +72,7 @@
             ]
         },
         "developer": {
-            "normalized_score": 0.26,
+            "normalized_score": 0.75,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,15 +82,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 18,
-                    "increase_pct": "-37.9%",
+                    "recent_commits": 16,
+                    "increase_pct": "-44.8%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 37,
-                    "increase_pct": "15.6%",
-                    "score_contribution": 0.78
+                    "recent_commits": 42,
+                    "increase_pct": "44.8%",
+                    "score_contribution": 2.24
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "10 Best Digital Marketing Tools Free for 2026",
-                    "source": "Adstellar.ai"
+                    "title": "Buzzing stocks: Adani group, Inox Clean, IRB Infra, RailTel, Lloyds Metals, Kamat Hotels, Indigo, Fujiyama, Indian Metals",
+                    "source": "BusinessLine"
                 },
                 {
-                    "title": "Cisco accelerates AI push with Silicon One gains and major restructuring plan",
-                    "source": "Digitimes"
+                    "title": "Goldman Sachs scales operations with AI, reducing hiring needs",
+                    "source": "Crypto Briefing"
                 }
             ]
         }

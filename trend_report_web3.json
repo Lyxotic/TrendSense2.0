@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-15T02:54:54.306003",
+    "report_generated_time": "2026-05-16T02:43:41.054284",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.76,
+    "final_score": 6.83,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,13 +72,13 @@
             ]
         },
         "developer": {
-            "normalized_score": 0.73,
+            "normalized_score": 0.95,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 31,
-                    "increase_pct": "29.2%",
-                    "score_contribution": 1.46
+                    "recent_commits": 29,
+                    "increase_pct": "38.1%",
+                    "score_contribution": 1.9
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "eBay rejects GameStop\u2019s $56B acquisition bid as unappealing",
+                    "title": "Goldman Sachs scales operations with AI, reducing hiring needs",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Anthropic rejects Chinese think tank\u2019s request for AI model access",
+                    "title": "US-Iran tensions ease, WTI crude oil price predictions fall for May 2026",
                     "source": "Crypto Briefing"
                 }
             ]
