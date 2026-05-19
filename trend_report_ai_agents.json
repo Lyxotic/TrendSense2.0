@@ -1,8 +1,8 @@
 {
-    "report_generated_time": "2026-05-16T02:43:29.813219",
+    "report_generated_time": "2026-05-19T02:58:10.996678",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.76,
-    "alert_status": "PRE_TREND_ALERT",
+    "final_score": 7.09,
+    "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
@@ -10,69 +10,69 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "FutureSim: Replaying World Events to Evaluate Adaptive Agents",
+                    "title": "A-ProS: Towards Reliable Autonomous Programming Through Multi-Model Feedback",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.15188v1",
+                    "link": "https://arxiv.org/pdf/2605.18073v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.15184v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "APWA: A Distributed Architecture for Parallelizable Agentic Workflows",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.15132v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Orchard: An Open-Source Agentic Modeling Framework",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.15040v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "AI Knows When It's Being Watched: Functional Strategic Action and Contextual Register Modulation in Large Language Models",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.15034v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Toward Securing AI Agents Like Operating Systems",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.14932v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems",
+                    "title": "PROTEA: Offline Evaluation and Iterative Refinement for Multi-Agent LLM Workflows",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.14892v1",
+                    "link": "https://arxiv.org/pdf/2605.18032v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Holistic Evaluation and Failure Diagnosis of AI Agents",
+                    "title": "TeleCom-Bench: How Far Are Large Language Models from Industrial Telecommunication Applications?",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.14865v1",
+                    "link": "https://arxiv.org/pdf/2605.18025v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "A Deterministic Agentic Workflow for HS Tariff Classification: Multi-Dimensional Rule Reasoning with Interpretable Decisions",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2605.14857v1",
+                    "title": "Verify-Gated Completion as Admission Control in a Governed Multi-Agent Runtime: A Bounded Architecture Case Study",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2605.17998v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Beyond AI as Assistants: Toward Autonomous Discovery in Cosmology",
+                    "title": "LivePI: More Realistic Benchmarking of Agents Against Indirect Prompt Injectio",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.14791v1",
+                    "link": "https://arxiv.org/pdf/2605.17986v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Ethical Hyper-Velocity (EHV): A Provably Deterministic Governance-Aware JIT Compiler Architecture for Agentic Systems",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.17909v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Agentic Chunking and Bayesian De-chunking of AI Generated Fuzzy Cognitive Maps: A Model of the Thucydides Trap",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.17903v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Evaluating Cognitive Age Alignment in Interactive AI Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.17894v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Multi-agent AI systems outperform human teams in creativity",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2605.17885v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Learning Empirical Evidence Equilibria under Weak Environmental Coupling",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2605.17848v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.75,
+            "normalized_score": 1.68,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,15 +82,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 16,
-                    "increase_pct": "-44.8%",
-                    "score_contribution": 0
+                    "recent_commits": 20,
+                    "increase_pct": "17.6%",
+                    "score_contribution": 0.88
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 42,
-                    "increase_pct": "44.8%",
-                    "score_contribution": 2.24
+                    "recent_commits": 44,
+                    "increase_pct": "83.3%",
+                    "score_contribution": 4.17
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Buzzing stocks: Adani group, Inox Clean, IRB Infra, RailTel, Lloyds Metals, Kamat Hotels, Indigo, Fujiyama, Indian Metals",
-                    "source": "BusinessLine"
+                    "title": "Revisiting Last Week: Governance and Growing Tensions",
+                    "source": "Khabarhub.com"
                 },
                 {
-                    "title": "Goldman Sachs scales operations with AI, reducing hiring needs",
-                    "source": "Crypto Briefing"
+                    "title": "Nigerian schoolgirls earn global AI recognition",
+                    "source": "The Punch"
                 }
             ]
         }

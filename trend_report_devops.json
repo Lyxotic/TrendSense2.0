@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-16T02:43:46.546955",
+    "report_generated_time": "2026-05-19T02:58:25.439382",
     "niche": "Cloud Native & DevOps",
-    "final_score": 7.38,
+    "final_score": 7.59,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,81 +10,81 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Towards In-Depth Root Cause Localization for Microservices with Multi-Agent Recursion-of-Thought",
+                    "title": "PyNMC: An Open-Source Framework for Neutron Multiplicity Counting Simulation Coupling OpenMC, FREYA, and ALPHANSO",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.17440v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "quantum-safe: Bridging the Post-Quantum Production Gap with a Hybrid-by-Default Python Cryptography Library",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.17061v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "A GPU Accelerated Temporal Window-Based Random Walk Sampler",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.16182v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Evaluating Container Orchestration for Neuromorphic Workloads in Virtual Edge Environments",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.15866v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "BootstrapAgent: Distilling Repository Setup into Reusable Agent Knowledge",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.15815v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "TopoEvo: A Topology-Aware Self-Evolving Multi-Agent Framework for Root Cause Analysis in Microservices",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.14866v1",
+                    "link": "https://arxiv.org/pdf/2605.15611v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "SR-Platform: An Agentic Pipeline for Natural Language-Driven Robot Simulation Environment Synthesis",
+                    "title": "STAR: A Stage-attributed Triage and Repair framework for RCA Agents in Microservices",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.14700v1",
+                    "link": "https://arxiv.org/pdf/2605.15581v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Making OpenAPI Documentation Agent-Ready: Detecting Documentation and REST Smells with a Multi-Agent LLM System",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.14312v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "LLM-Based Robustness Testing of Microservice Applications: An Empirical Study",
+                    "title": "Detecting Privilege Escalation in Polyglot Microservices via Agentic Program Analysis",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.14202v1",
+                    "link": "https://arxiv.org/pdf/2605.15569v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "CLOUDBURST: Cloud-Layer Observations Using Beacons for Unified Real-time Surveillance and Threat Attribution",
+                    "title": "Operator-Controlled 6G: From Connectivity Infrastructure to Guaranteed Digital Services",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.12976v1",
+                    "link": "https://arxiv.org/pdf/2605.15553v2",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Basilisk and Docker for Reproducible GN&C Simulation: A Workflow Reference",
+                    "title": "Runtime-Structured Task Decomposition for Agentic Coding Systems",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.12443v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "BatchBench: Toward a Workload-Aware Benchmark for Autoscaling Policies in Big Data Batch Processing -- A Proposed Framework",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.12272v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "A microservices-based endpoint monitoring platform with predictive NLP models for real-time security and hate-speech risk alerting",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.11997v2",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.10913v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.10912v1",
+                    "link": "https://arxiv.org/pdf/2605.15425v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 2.5,
+            "normalized_score": 3.12,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 176,
-                    "increase_pct": "-1.7%",
+                    "recent_commits": 156,
+                    "increase_pct": "-17.9%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 12,
-                    "increase_pct": "100.0%",
-                    "score_contribution": 5.0
+                    "recent_commits": 18,
+                    "increase_pct": "125.0%",
+                    "score_contribution": 6.25
                 }
             ]
         },
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Goldman Sachs scales operations with AI, reducing hiring needs",
-                    "source": "Crypto Briefing"
+                    "title": "Katie Holmes, 47, reveals her 'minimal' makeup routine that keeps her feeling 'confident' and looking youthful",
+                    "source": "Dailymail.com"
                 },
                 {
-                    "title": "Former Ohio college teammates reuniting at LPGA's Queen City event",
-                    "source": "USA Today"
+                    "title": "aksara-framework 0.5.47",
+                    "source": "Pypi.org"
                 }
             ]
         }

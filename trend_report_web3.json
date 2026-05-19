@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-16T02:43:41.054284",
+    "report_generated_time": "2026-05-19T02:58:20.589587",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.83,
+    "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -9,6 +9,48 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "DARTIC: Decentralized Anonymous Reputation at Scale for Trustworthy Crowdsourcing",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.18146v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "The Viability of Blockchain Markets under Discrete Clearing and Paid Priority",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.17425v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Send: Objects, History, and Transactions in a Single-Verb Kernel",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.17401v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Optimizing an IDE for an Evolving Language Ecosystem",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.16664v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Quantum Futures Interactive: A Live Demonstration of Post-Quantum Blockchain Security, Infrastructure Tradeoffs, and Sustainable Distributed Trust",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.15991v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Privacy is Fungibility: Why Endogenous Tokens Are Not Money",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.15934v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Optimum Peer-Turbo: A Scalable and Efficient Solution for P2P Broadcasting",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.15715v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Extending Blockchain Untraceability with Plausible Deniability",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -26,59 +68,17 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2605.12794v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "ORCHID: Orchestrated Reduction Consensus for Hash-based Integrity in Distributed Ledgers",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.12211v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "PROTECT-DB: Protecting Data using Replicated State Machines: Efficient Corruption Detection & Recovery",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.11953v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Five Attacks on x402 Agentic Payment Protocol",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.11781v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Deanonymizable Scoped Linkable Ring Signatures",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.11715v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "State Twins: An Off-Chain Substrate for Agentic Reasoning over Decentralized Finance Protocols",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2605.11522v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Optimal Control of the Ethena Yield-Bearing Stablecoin",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.11263v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Benchmarking LLM-Based Static Analysis for Secure Smart Contract Development: Reliability, Limitations, and Potential Hybrid Solutions",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.11163v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.95,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 29,
-                    "increase_pct": "38.1%",
-                    "score_contribution": 1.9
+                    "recent_commits": 13,
+                    "increase_pct": "-64.9%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Goldman Sachs scales operations with AI, reducing hiring needs",
+                    "title": "Asian currencies weaken against dollar as oil prices rise",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "US-Iran tensions ease, WTI crude oil price predictions fall for May 2026",
+                    "title": "Japan\u2019s Takaichi to announce extra budget as commodity prices surge from Middle East conflict",
                     "source": "Crypto Briefing"
                 }
             ]
