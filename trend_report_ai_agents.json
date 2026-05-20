@@ -1,8 +1,8 @@
 {
-    "report_generated_time": "2026-05-19T02:58:10.996678",
+    "report_generated_time": "2026-05-20T02:58:25.649192",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 7.09,
-    "alert_status": "TRENDING_NOW",
+    "final_score": 6.55,
+    "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
@@ -10,69 +10,69 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "A-ProS: Towards Reliable Autonomous Programming Through Multi-Model Feedback",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.18073v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "PROTEA: Offline Evaluation and Iterative Refinement for Multi-Agent LLM Workflows",
+                    "title": "Robust synchronization for multi-agent systems governed by PDEs with observable and unobservable disturbances",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.18032v1",
+                    "link": "https://arxiv.org/pdf/2605.19992v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "TeleCom-Bench: How Far Are Large Language Models from Industrial Telecommunication Applications?",
+                    "title": "LLM Agents Make Collective Belief Dynamics Programmable: Challenges and Research Directions",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.18025v1",
+                    "link": "https://arxiv.org/pdf/2605.19915v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Verify-Gated Completion as Admission Control in a Governed Multi-Agent Runtime: A Bounded Architecture Case Study",
+                    "title": "Distribution-Free Uncertainty Quantification for Continuous AI Agent Evaluation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.19779v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "EngiAI: A Multi-Agent Framework and Benchmark Suite for LLM-Driven Engineering Design",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.17998v1",
+                    "link": "https://arxiv.org/pdf/2605.19743v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "LivePI: More Realistic Benchmarking of Agents Against Indirect Prompt Injectio",
+                    "title": "Physics-in-the-Loop: A Hybrid Agentic Architecture for Validated CAD Engineering Design",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.17986v1",
+                    "link": "https://arxiv.org/pdf/2605.19717v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Ethical Hyper-Velocity (EHV): A Provably Deterministic Governance-Aware JIT Compiler Architecture for Agentic Systems",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.17909v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Agentic Chunking and Bayesian De-chunking of AI Generated Fuzzy Cognitive Maps: A Model of the Thucydides Trap",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.17903v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Evaluating Cognitive Age Alignment in Interactive AI Agents",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.17894v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Multi-agent AI systems outperform human teams in creativity",
+                    "title": "Conflict-Resilient Multi-Agent Reasoning via Signed Graph Modeling",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.17885v1",
+                    "link": "https://arxiv.org/pdf/2605.19418v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Learning Empirical Evidence Equilibria under Weak Environmental Coupling",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2605.17848v1",
+                    "title": "Vision Harnessing Agent for Open Ad-hoc Segmentation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.19410v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "STAR-P\u00f3lyaMath: Multi-Agent Reasoning under Persistent Meta-Strategic Supervision",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2605.19338v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "CASPIAN: Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems via Cross-Channel Causal Monitoring",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2605.19240v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "DecisionBench: A Benchmark for Emergent Delegation in Long-Horizon Agentic Workflows",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.19099v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 1.68,
+            "normalized_score": 0.15,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,15 +82,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 20,
-                    "increase_pct": "17.6%",
-                    "score_contribution": 0.88
+                    "recent_commits": 16,
+                    "increase_pct": "-36.0%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 44,
-                    "increase_pct": "83.3%",
-                    "score_contribution": 4.17
+                    "recent_commits": 37,
+                    "increase_pct": "8.8%",
+                    "score_contribution": 0.44
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Revisiting Last Week: Governance and Growing Tensions",
-                    "source": "Khabarhub.com"
+                    "title": "Google to unveil AI breakthroughs at Google I/O 2026 livestream",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Nigerian schoolgirls earn global AI recognition",
-                    "source": "The Punch"
+                    "title": "Fangzhou Ranked among 2025 Guangzhou AI Innovation \u201cMost Promising Enterprises\u201d for AI\u2011Powered Chronic Disease Services",
+                    "source": "GlobeNewswire"
                 }
             ]
         }
