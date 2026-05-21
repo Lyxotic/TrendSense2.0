@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-05-20T02:58:34.345034",
+    "report_generated_time": "2026-05-21T03:29:12.287664",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -9,6 +9,18 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "Automated Byzantine-Resilient Clustered Decentralized Federated Learning for Battery Intelligence in Connected EVs",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.21115v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Modern Portfolio Theory in the Crypto-Wilderness",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.20528v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Swimming with Whales: Analysis of Power Imbalances in Stake-Weighted Governance",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -28,7 +40,7 @@
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Bridging the Cybersecurity Gap Between Web2 and Web3 - An Incident-Based Analysis of Organizational and Application-Level Security Failures",
+                    "title": "Bridging the Cybersecurity Gap Between Web2 and Web3 -- An Incident-Based Analysis of Organizational and Application-Level Security Failures",
                     "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
                     "link": "https://arxiv.org/pdf/2605.18484v1",
                     "published": "Last 7 Days"
@@ -56,18 +68,6 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2605.16664v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "Quantum Futures Interactive: A Live Demonstration of Post-Quantum Blockchain Security, Infrastructure Tradeoffs, and Sustainable Distributed Trust",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.15991v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Privacy is Fungibility: Why Endogenous Tokens Are Not Money",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.15934v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
@@ -76,8 +76,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 15,
-                    "increase_pct": "-60.5%",
+                    "recent_commits": 14,
+                    "increase_pct": "-60.0%",
                     "score_contribution": 0
                 },
                 {
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Google to unveil AI breakthroughs at Google I/O 2026 livestream",
-                    "source": "Crypto Briefing"
+                    "title": "nultra added to PyPI",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "Goldman Sachs outlines hedging strategies amid AI trade momentum",
-                    "source": "Crypto Briefing"
+                    "title": "Bankr temporarily disables transactions after 14 wallets hacked",
+                    "source": "Cointelegraph"
                 }
             ]
         }

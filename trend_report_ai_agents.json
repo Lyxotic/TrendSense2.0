@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-20T02:58:25.649192",
+    "report_generated_time": "2026-05-21T03:29:00.704210",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.55,
+    "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,69 +10,69 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Robust synchronization for multi-agent systems governed by PDEs with observable and unobservable disturbances",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.19992v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "LLM Agents Make Collective Belief Dynamics Programmable: Challenges and Research Directions",
+                    "title": "Quality and Security Signals in AI-Generated Python Refactoring Pull Requests",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.19915v1",
+                    "link": "https://arxiv.org/pdf/2605.21453v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Distribution-Free Uncertainty Quantification for Continuous AI Agent Evaluation",
+                    "title": "Open-source LLMs administer maximum electric shocks in a Milgram-like obedience experiment",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.19779v1",
+                    "link": "https://arxiv.org/pdf/2605.21401v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "EngiAI: A Multi-Agent Framework and Benchmark Suite for LLM-Driven Engineering Design",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.19743v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Physics-in-the-Loop: A Hybrid Agentic Architecture for Validated CAD Engineering Design",
+                    "title": "Towards Resilient and Autonomous Networks: A BlueSky Vision on AI-Native 6G",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.19717v1",
+                    "link": "https://arxiv.org/pdf/2605.21395v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Conflict-Resilient Multi-Agent Reasoning via Signed Graph Modeling",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.19418v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Vision Harnessing Agent for Open Ad-hoc Segmentation",
+                    "title": "Insights Generator: Systematic Corpus-Level Trace Diagnostics for LLM Agents",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.19410v1",
+                    "link": "https://arxiv.org/pdf/2605.21347v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "STAR-P\u00f3lyaMath: Multi-Agent Reasoning under Persistent Meta-Strategic Supervision",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.19338v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "CASPIAN: Online Detection and Attribution of Cascade Attacks in LLM Multi-Agent Systems via Cross-Channel Causal Monitoring",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.19240v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "DecisionBench: A Benchmark for Emergent Delegation in Long-Horizon Agentic Workflows",
+                    "title": "Causal Past Logic for Runtime Verification of Distributed LLM Agent Workflows",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.19099v1",
+                    "link": "https://arxiv.org/pdf/2605.20923v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "GenAI-Driven Threat Detection with Microsoft Security Copilot",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.20896v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Hack-Verifiable Environments: Towards Evaluating Reward Hacking at Scale",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.20744v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "MTR-Suite: A Framework for Evaluating and Synthesizing Conversational Retrieval Benchmarks",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2605.20729v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Heartbeat-Bound Hierarchical Credentials: Cryptographic Revocation for AI Agent Swarms",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.20704v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Multi-agent Collaboration with State Management",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2605.20563v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.15,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,15 +82,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 16,
-                    "increase_pct": "-36.0%",
+                    "recent_commits": 19,
+                    "increase_pct": "-13.6%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 37,
-                    "increase_pct": "8.8%",
-                    "score_contribution": 0.44
+                    "recent_commits": 35,
+                    "increase_pct": "-5.4%",
+                    "score_contribution": 0
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Google to unveil AI breakthroughs at Google I/O 2026 livestream",
-                    "source": "Crypto Briefing"
+                    "title": "WisPaper Examines How AI Is Changing Early-Stage Scientific Exploration",
+                    "source": "PRNewswire"
                 },
                 {
-                    "title": "Fangzhou Ranked among 2025 Guangzhou AI Innovation \u201cMost Promising Enterprises\u201d for AI\u2011Powered Chronic Disease Services",
-                    "source": "GlobeNewswire"
+                    "title": "\u2018I\u2019m working in my own grave\u2019: Workers in India are training robots that may replace them",
+                    "source": "The Indian Express"
                 }
             ]
         }
