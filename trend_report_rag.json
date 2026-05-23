@@ -1,14 +1,50 @@
 {
-    "report_generated_time": "2026-05-21T03:29:08.487263",
+    "report_generated_time": "2026-05-23T02:47:49.518963",
     "niche": "RAG & Vector Databases",
-    "final_score": 6.76,
-    "alert_status": "PRE_TREND_ALERT",
+    "final_score": 7.67,
+    "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "GS-QA: A Benchmark for Geospatial Question Answering",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.22811v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "More Context, Larger Models, or Moral Knowledge? A Systematic Study of Schwartz Value Detection in Political Texts",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.22641v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Evaluation of Chunking Strategies for Effective Text Embedding in Low-Resource Language on Agricultural Documents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.22203v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "A Unified H i Rotation Curve Database for 129 Local Volume Dwarf and Irregular Galaxies",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.22163v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "A Comparative Study of Language Models for Khmer Retrieval-Augmented Question Answering",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.22099v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "NasZip: Software and Hardware Co-Design to Accelerate Approximate Nearest Neighbor Search with DIMM-Based Near-Data Processing",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.21952v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "WCXB: A Multi-Type Web Content Extraction Benchmark",
                     "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
@@ -24,7 +60,7 @@
                 {
                     "title": "Fine-grained Claim-level RAG Benchmark for Law",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.21071v1",
+                    "link": "https://arxiv.org/pdf/2605.21071v2",
                     "published": "Last 7 Days"
                 },
                 {
@@ -32,64 +68,28 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2605.20815v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "MTR-Suite: A Framework for Evaluating and Synthesizing Conversational Retrieval Benchmarks",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2605.20729v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "CALMem : Application-Layer Dual Memory for Conversational AI",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.20724v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Beyond Semantic Similarity: A Two-Phase Non-Parametric Retrieval Workflow for Corporate Credit Underwriting",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.20684v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "PlanRAG-Audio: Planning and Retrieval Augmented Generation for Long-form Audio Understanding",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2605.20414v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "BiRD: A Bidirectional Ranking Defense Mechanism for Retrieval Augmented Generation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.20123v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "BalanceRAG: Joint Risk Calibration for Cascaded Retrieval-Augmented Generation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.20084v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.74,
+            "normalized_score": 3.33,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 91,
-                    "increase_pct": "44.4%",
-                    "score_contribution": 2.22
-                },
-                {
-                    "repo_name": "qdrant/qdrant",
-                    "recent_commits": 1,
-                    "increase_pct": "-99.7%",
+                    "recent_commits": 74,
+                    "increase_pct": "-12.9%",
                     "score_contribution": 0
                 },
                 {
+                    "repo_name": "qdrant/qdrant",
+                    "recent_commits": 105,
+                    "increase_pct": "3400.0%",
+                    "score_contribution": 10.0
+                },
+                {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 12,
-                    "increase_pct": "-20.0%",
+                    "recent_commits": 13,
+                    "increase_pct": "-23.5%",
                     "score_contribution": 0
                 }
             ]
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "langchain-agentx-cli 0.2.0",
+                    "title": "agentmesh-ai added to PyPI",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "hermes-context-engine added to PyPI",
+                    "title": "langchain-chdb added to PyPI",
                     "source": "Pypi.org"
                 }
             ]

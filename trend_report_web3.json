@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-05-21T03:29:12.287664",
+    "report_generated_time": "2026-05-23T02:47:53.227897",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -9,6 +9,30 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "Monotone Erasure Codes",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.22426v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "An Architecture for Decentralised Deployment and Operation of Blockchain Applications",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.22239v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Single-Item Auctions with a Monopolist Intermediary",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.21934v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "bioETH-PRS: Confidential Polygenic Risk Scoring without a Trusted Evaluator via Fully Homomorphic Encryption on a Programmable Blockchain",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.21634v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Automated Byzantine-Resilient Clustered Decentralized Federated Learning for Battery Intelligence in Connected EVs",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -44,30 +68,6 @@
                     "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
                     "link": "https://arxiv.org/pdf/2605.18484v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "DARTIC: Decentralized Anonymous Reputation at Scale for Trustworthy Crowdsourcing",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.18146v2",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "The Viability of Blockchain Markets under Discrete Clearing and Paid Priority",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.17425v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Send: Objects, History, and Transactions in a Single-Verb Kernel",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.17401v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Optimizing an IDE for an Evolving Language Ecosystem",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.16664v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
@@ -76,8 +76,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 14,
-                    "increase_pct": "-60.0%",
+                    "recent_commits": 20,
+                    "increase_pct": "-31.0%",
                     "score_contribution": 0
                 },
                 {
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "nultra added to PyPI",
-                    "source": "Pypi.org"
+                    "title": "Google Flow expands globally, introduces Gemini Omni and new music features",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Bankr temporarily disables transactions after 14 wallets hacked",
-                    "source": "Cointelegraph"
+                    "title": "\u9ad8\u984d\u6295\u8cc7\u5bb6\u307b\u3069\u300c\u4e0b\u843d\u306f\u597d\u6a5f\u300d\u3002\u6697\u53f7\u8cc7\u7523\u306e\u542b\u307f\u640d\u3067\u300c\u5373\u58f2\u308b\u4eba\u300d\u3068\u300c\u8010\u3048\u308b\u4eba\u300d\u3092\u5206\u3051\u308b\u5883\u754c\u7dda",
+                    "source": "Prtimes.jp"
                 }
             ]
         }

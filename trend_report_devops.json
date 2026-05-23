@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-21T03:29:18.322251",
+    "report_generated_time": "2026-05-23T02:47:58.864553",
     "niche": "Cloud Native & DevOps",
-    "final_score": 6.5,
+    "final_score": 6.65,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -9,6 +9,18 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "Nf-PEAK: Process-Based Energy Attribution for Nextflow Workflows on Kubernetes Clusters",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.22393v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "SepsisAI Orchestrator: A Containerized and Scalable Platform for Deploying AI Models and Real-Time Monitoring in Early Sepsis Detection",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.22331v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Cloud-Native Operation of Roadside Infrastructure Enabling Demand-Driven Collective Perception via V2X",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -56,35 +68,23 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2605.17061v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "A GPU Accelerated Temporal Window-Based Random Walk Sampler",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.16182v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Evaluating Container Orchestration for Neuromorphic Workloads in Virtual Edge Environments",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.15866v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 0.42,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 143,
-                    "increase_pct": "-36.7%",
+                    "recent_commits": 139,
+                    "increase_pct": "-34.4%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 13,
-                    "increase_pct": "-18.8%",
-                    "score_contribution": 0
+                    "recent_commits": 14,
+                    "increase_pct": "16.7%",
+                    "score_contribution": 0.83
                 }
             ]
         },
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Wildlife charity ACRES doubles sanctuary space as animal rescues hit record high",
-                    "source": "CNA"
+                    "title": "1 Player Who Baltimore Orioles Desperately Need To Bounce Back",
+                    "source": "Roundtable.io"
                 },
                 {
-                    "title": "Bradley hires former OSF fundraising ace as general manager of basketball",
-                    "source": "Peoria Journal Star"
+                    "title": "agent-framework-tools added to PyPI",
+                    "source": "Pypi.org"
                 }
             ]
         }
