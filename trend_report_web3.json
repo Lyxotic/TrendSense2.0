@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-05-23T02:47:53.227897",
+    "report_generated_time": "2026-05-25T03:36:44.787733",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -9,6 +9,30 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "AMP: Arc Multi-Proposer Protocol with Bounded Inclusion Guarantees",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.23677v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Herring: Parallel Batch-Order-Fairness on DAG-based Blockchain Consensus",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.23648v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "BCTuner: LLM-Guided Monte Carlo Tree Search for Efficient Blockchain Knob Tuning",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2605.23280v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "SolarChain: Bridging Physical Law, Verifiable Trust, and Sustainable Markets for Urban Energy Resilience",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.23162v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Monotone Erasure Codes",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -44,30 +68,6 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2605.20528v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "Swimming with Whales: Analysis of Power Imbalances in Stake-Weighted Governance",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.19264v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Designing On-Chain Options: Amortizing Perpetual Options",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.19146v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Concave is the New Linear: The Impossibility of Anti-Plutocratic DAO Governance",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.18990v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Bridging the Cybersecurity Gap Between Web2 and Web3 -- An Incident-Based Analysis of Organizational and Application-Level Security Failures",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2605.18484v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
@@ -76,8 +76,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 20,
-                    "increase_pct": "-31.0%",
+                    "recent_commits": 19,
+                    "increase_pct": "-9.5%",
                     "score_contribution": 0
                 },
                 {
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Google Flow expands globally, introduces Gemini Omni and new music features",
+                    "title": "Trump close to signing significant nuclear deal with Iran: Axios",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "\u9ad8\u984d\u6295\u8cc7\u5bb6\u307b\u3069\u300c\u4e0b\u843d\u306f\u597d\u6a5f\u300d\u3002\u6697\u53f7\u8cc7\u7523\u306e\u542b\u307f\u640d\u3067\u300c\u5373\u58f2\u308b\u4eba\u300d\u3068\u300c\u8010\u3048\u308b\u4eba\u300d\u3092\u5206\u3051\u308b\u5883\u754c\u7dda",
-                    "source": "Prtimes.jp"
+                    "title": "Bitcoin bounces as Trump prepares to announce \u2018negotiated\u2019 Iran deal",
+                    "source": "Cointelegraph"
                 }
             ]
         }

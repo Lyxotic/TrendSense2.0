@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-23T02:47:43.468945",
+    "report_generated_time": "2026-05-25T03:36:37.311624",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.88,
+    "final_score": 6.95,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,69 +10,69 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.22794v1",
+                    "title": "Routing Equilibrium in Mixed-Autonomy Traffic Networks with Altruistic Autonomous Agents",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2605.23782v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems",
+                    "title": "ARMS: Automatic Reward Shaping for Sparse-Reward Multi-Agent Reinforcement Learning",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.22786v1",
+                    "link": "https://arxiv.org/pdf/2605.23562v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "DeltaBox: Scaling Stateful AI Agents with Millisecond-Level Sandbox Checkpoint/Rollback",
+                    "title": "AI Assurance: A Comprehensive Testing Strategy for Enterprise AI Systems",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.22781v1",
+                    "link": "https://arxiv.org/pdf/2605.23459v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Self-Evolving Multi-Agent Systems via Decentralized Memory",
+                    "title": "Socially fluent AI decouples conversational signals from source identity in online interaction",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.23426v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.22721v1",
+                    "link": "https://arxiv.org/pdf/2605.23414v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning",
+                    "title": "A Distributed Framework for Data-Driven Safe Coordination in Leader-Follower Networks",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.22642v1",
+                    "link": "https://arxiv.org/pdf/2605.23356v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Measuring Security Without Fooling Ourselves: Why Benchmarking Agents Is Hard",
+                    "title": "Security, Privacy, and Ethical Risks in OpenClaw",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.22568v1",
+                    "link": "https://arxiv.org/pdf/2605.23330v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Benchmarking Autonomous Agents against Temporal, Spatial, and Semantic Evasions",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.22321v1",
+                    "title": "Self-Refining Topology Optimization via an LLM-Based Multi-Agent Framework",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2605.23273v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Cross-domain benchmarks reveal when coordinated AI agents improve scientific inference from partial evidence",
+                    "title": "EvalVerse: Pipeline-Aware and Expert-Calibrated Benchmarking for Professional Cinematic Video Generation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.22300v1",
+                    "link": "https://arxiv.org/pdf/2605.23271v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles",
+                    "title": "Foundation Protocol: A Coordination Layer for Agentic Society",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.22177v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "ExComm: Exploration-Stage Communication for Error-Resilient Agentic Test-Time Scaling",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.22102v1",
+                    "link": "https://arxiv.org/pdf/2605.23218v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 1.08,
+            "normalized_score": 1.29,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -88,9 +88,9 @@
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 43,
-                    "increase_pct": "2.4%",
-                    "score_contribution": 0.12
+                    "recent_commits": 47,
+                    "increase_pct": "14.6%",
+                    "score_contribution": 0.73
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "agentmesh-ai added to PyPI",
-                    "source": "Pypi.org"
+                    "title": "Green Lantern #35 Preview: Odyssey's Hollywood Star Power",
+                    "source": "Bleeding Cool News"
                 },
                 {
-                    "title": "JPMorgan plans to hire more AI experts, fewer bankers",
-                    "source": "Crypto Briefing"
+                    "title": "OpenAI will pay \u20b93.7 crore to worry about a problem that may not exist yet. The job? Stop AI from building itself",
+                    "source": "Livemint"
                 }
             ]
         }
