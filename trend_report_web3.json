@@ -1,8 +1,8 @@
 {
-    "report_generated_time": "2026-05-25T03:36:44.787733",
+    "report_generated_time": "2026-06-01T03:51:14.703943",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.5,
-    "alert_status": "PRE_TREND_ALERT",
+    "final_score": 7.28,
+    "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
@@ -10,75 +10,75 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "AMP: Arc Multi-Proposer Protocol with Bounded Inclusion Guarantees",
+                    "title": "Neuroforger: certified violation witnesses for smart contracts verification via LLMs",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.23677v1",
+                    "link": "https://arxiv.org/pdf/2605.31389v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Herring: Parallel Batch-Order-Fairness on DAG-based Blockchain Consensus",
+                    "title": "Free-Riding in the AI Economy: Demystifying Logic Flaws in x402-Enabled Payment Systems",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.23648v1",
+                    "link": "https://arxiv.org/pdf/2605.30998v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "BCTuner: LLM-Guided Monte Carlo Tree Search for Efficient Blockchain Knob Tuning",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2605.23280v1",
+                    "title": "Agora: Toward Autonomous Bug Detection in Production-Level Consensus Protocols with LLM Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.29910v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "SolarChain: Bridging Physical Law, Verifiable Trust, and Sustainable Markets for Urban Energy Resilience",
+                    "title": "Ciphera: A Decentralised Biometric Identity Framework",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.23162v1",
+                    "link": "https://arxiv.org/pdf/2605.29868v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Monotone Erasure Codes",
+                    "title": "Temporal Motif-aware Graph Test-time Adaptation for OOD Blockchain Anomaly Detection",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.22426v1",
+                    "link": "https://arxiv.org/pdf/2605.29526v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "An Architecture for Decentralised Deployment and Operation of Blockchain Applications",
+                    "title": "DeepFake Forensics AI: A Multi-Modal Detection and Blockchain-Anchored Evidence Management Platform",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.22239v1",
+                    "link": "https://arxiv.org/pdf/2605.29353v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Single-Item Auctions with a Monopolist Intermediary",
+                    "title": "Techreport: Evaluating Tor-based Location Privacy for Ethereum Validators",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.21934v1",
+                    "link": "https://arxiv.org/pdf/2605.29131v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "bioETH-PRS: Confidential Polygenic Risk Scoring without a Trusted Evaluator via Fully Homomorphic Encryption on a Programmable Blockchain",
+                    "title": "SCDBench: A Benchmark for LLM-Based Smart Contract Decompilers",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.21634v1",
+                    "link": "https://arxiv.org/pdf/2605.29059v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Automated Byzantine-Resilient Clustered Decentralized Federated Learning for Battery Intelligence in Connected EVs",
+                    "title": "SwarmHarness: Skill-Based Task Routing via Decentralized Incentive-Aligned AI Agent Networks",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.21115v1",
+                    "link": "https://arxiv.org/pdf/2605.28764v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Modern Portfolio Theory in the Crypto-Wilderness",
+                    "title": "A Trilemma in AMM Mechanism Design",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.20528v1",
+                    "link": "https://arxiv.org/pdf/2605.27602v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 2.24,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 19,
-                    "increase_pct": "-9.5%",
-                    "score_contribution": 0
+                    "recent_commits": 36,
+                    "increase_pct": "89.5%",
+                    "score_contribution": 4.47
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Trump close to signing significant nuclear deal with Iran: Axios",
+                    "title": "BNB, Aster surge double digits ahead of Binance\u2019s Monday product reveal",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Bitcoin bounces as Trump prepares to announce \u2018negotiated\u2019 Iran deal",
-                    "source": "Cointelegraph"
+                    "title": "IDF captures Beaufort Castle, signals escalation in Lebanon conflict",
+                    "source": "Crypto Briefing"
                 }
             ]
         }

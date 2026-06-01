@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-25T03:36:37.311624",
+    "report_generated_time": "2026-06-01T03:51:04.462190",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.95,
+    "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,69 +10,69 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Routing Equilibrium in Mixed-Autonomy Traffic Networks with Altruistic Autonomous Agents",
+                    "title": "EGOSTREAM: A Diagnostic Benchmark for Streaming Episodic Memory in Egocentric Vision",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.31557v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "SVI-Bench: A Dynamic Microworld for Strategic Video Intelligence",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.31529v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.31514v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Answer-Set-Programming-based Abstractions for Reinforcement Learning",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.31444v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Personalized to Persuade: The Effects of Contextualization and Warmth on Trust and Reliance in Conversational AI",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.31275v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Extending the UXR Point of View Playbook: Triangulating Insights in Complex Developer Domains",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.31104v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Learning Multi-Agent Coordination via Sheaf-ADMM",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2605.31005v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Free-Riding in the AI Economy: Demystifying Logic Flaws in x402-Enabled Payment Systems",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.30998v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "CoMem: Context Management with A Decoupled Long-Context Model",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.30842v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "COMPASS: Cognitive MCTS-Guided Process Alignment for Safe Search Agents",
                     "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2605.23782v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "ARMS: Automatic Reward Shaping for Sparse-Reward Multi-Agent Reinforcement Learning",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.23562v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "AI Assurance: A Comprehensive Testing Strategy for Enterprise AI Systems",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.23459v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Socially fluent AI decouples conversational signals from source identity in online interaction",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.23426v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.23414v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "A Distributed Framework for Data-Driven Safe Coordination in Leader-Follower Networks",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.23356v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Security, Privacy, and Ethical Risks in OpenClaw",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.23330v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Self-Refining Topology Optimization via an LLM-Based Multi-Agent Framework",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2605.23273v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "EvalVerse: Pipeline-Aware and Expert-Calibrated Benchmarking for Professional Cinematic Video Generation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.23271v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Foundation Protocol: A Coordination Layer for Agentic Society",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.23218v1",
+                    "link": "https://arxiv.org/pdf/2605.30838v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 1.29,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,15 +82,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 26,
-                    "increase_pct": "62.5%",
-                    "score_contribution": 3.12
+                    "recent_commits": 23,
+                    "increase_pct": "-11.5%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 47,
-                    "increase_pct": "14.6%",
-                    "score_contribution": 0.73
+                    "recent_commits": 18,
+                    "increase_pct": "-61.7%",
+                    "score_contribution": 0
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Green Lantern #35 Preview: Odyssey's Hollywood Star Power",
-                    "source": "Bleeding Cool News"
+                    "title": "BNB, Aster surge double digits ahead of Binance\u2019s Monday product reveal",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "OpenAI will pay \u20b93.7 crore to worry about a problem that may not exist yet. The job? Stop AI from building itself",
-                    "source": "Livemint"
+                    "title": "Solana Unchained Outlines Fixed-Supply Utility Architecture and AI Tool Hub Ahead of Late May Public Allocation Launch",
+                    "source": "GlobeNewswire"
                 }
             ]
         }

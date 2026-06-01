@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-25T03:36:41.661512",
+    "report_generated_time": "2026-06-01T03:51:10.622357",
     "niche": "RAG & Vector Databases",
-    "final_score": 7.7,
+    "final_score": 7.67,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,87 +10,87 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "When Is Next-Token Prediction Useful? Marginalization, Ergodicity, Mixture Identifiability, Local Sufficiency, RAG, Tools, and Programming",
-                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
-                    "link": "https://arxiv.org/pdf/2605.23278v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Test-Time Training Undermines Safety Guardrails",
+                    "title": "Evaluating Factual Density in Multi-Source RAG: A Study in Medical AI Accuracy",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.22984v1",
+                    "link": "https://arxiv.org/pdf/2605.31506v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "AI-Friendly LaTeX: Using LaTeX Code as a Knowledge Source for Retrieval-Augmented Generation",
+                    "title": "DynaTree: Dynamic Agentic Retrieval Tree for Time-Sensitive News Retrieval",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.22923v1",
+                    "link": "https://arxiv.org/pdf/2605.31377v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "GS-QA: A Benchmark for Geospatial Question Answering",
+                    "title": "Learning Whom to Trust: Market-Feedback Adaptive Retrieval for Frozen LLMs in Event-Driven Financial RAG",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.22811v1",
+                    "link": "https://arxiv.org/pdf/2605.31201v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "More Context, Larger Models, or Moral Knowledge? A Systematic Study of Schwartz Value Detection in Political Texts",
+                    "title": "Retriever Portfolios: A Principled Approach to Adaptive RAG",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.22641v2",
+                    "link": "https://arxiv.org/pdf/2605.31176v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Evaluation of Chunking Strategies for Effective Text Embedding in Low-Resource Language on Agricultural Documents",
+                    "title": "Vector Linking via Cross-Model Local Isometric Consistency",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.22203v1",
+                    "link": "https://arxiv.org/pdf/2605.31100v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "A Unified H i Rotation Curve Database for 129 Local Volume Dwarf and Irregular Galaxies",
+                    "title": "Beyond Static Dialogues: Benchmarking Realistic, Heterogeneous, and Evolving Long-Term Memory",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.22163v1",
+                    "link": "https://arxiv.org/pdf/2605.31086v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "A Comparative Study of Language Models for Khmer Retrieval-Augmented Question Answering",
+                    "title": "Fighting Numerical Hallucinations via Data-centric Compilation for Online Financial QA",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.22099v1",
+                    "link": "https://arxiv.org/pdf/2605.31064v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "NasZip: Software and Hardware Co-Design to Accelerate Approximate Nearest Neighbor Search with DIMM-Based Near-Data Processing",
+                    "title": "MoG: Mixture of Experts for Graph-based Retrieval-Augmented Generation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.21952v1",
+                    "link": "https://arxiv.org/pdf/2605.31010v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "WCXB: A Multi-Type Web Content Extraction Benchmark",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2605.21097v1",
+                    "title": "Reading Between the Citations: A Typed Claim Network for Scientific Literature",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.30966v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "On the impact of retrieved content representations in RAG Pipelines",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2605.30790v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 3.43,
+            "normalized_score": 3.33,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 71,
-                    "increase_pct": "6.0%",
-                    "score_contribution": 0.3
+                    "recent_commits": 26,
+                    "increase_pct": "-63.4%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "qdrant/qdrant",
-                    "recent_commits": 105,
-                    "increase_pct": "3400.0%",
-                    "score_contribution": 10.0
+                    "recent_commits": 0,
+                    "increase_pct": "-100.0%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 13,
-                    "increase_pct": "-18.8%",
-                    "score_contribution": 0
+                    "recent_commits": 42,
+                    "increase_pct": "223.1%",
+                    "score_contribution": 10.0
                 }
             ]
         },
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "LiteLLM\u3068LangGraph\u306eFunctional API\uff08@entrypoint / @task\uff09\u3067\u30ef\u30fc\u30af\u30d5\u30ed\u30fc\u3092\u7d20\u306ePython\u95a2\u6570\u3068\u3057\u3066\u66f8\u3044\u3066\u307f\u308b",
-                    "source": "Classmethod.jp"
+                    "title": "langchain-agentx-python 0.7.7",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "ergo-agent-pay 0.3.2",
+                    "title": "mymagicpencil-langchain 1.0.1",
                     "source": "Pypi.org"
                 }
             ]

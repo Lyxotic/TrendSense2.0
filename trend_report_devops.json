@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-05-25T03:36:49.329284",
+    "report_generated_time": "2026-06-01T03:51:20.512220",
     "niche": "Cloud Native & DevOps",
-    "final_score": 6.65,
+    "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,81 +10,81 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Flare: Leveraging Serverless Elasticity to Absorb Microservice Load Spikes",
+                    "title": "Offloading L7 Policies to the Kernel",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.23707v1",
+                    "link": "https://arxiv.org/pdf/2605.31084v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "A measurement substrate for agentic Kubernetes operations: Methodology and a case study in retrieval-compounding falsification",
+                    "title": "Kairos: Lightweight Testing Framework for Timing-Induced Interaction Failures in LTE and 5G Core Networks",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.23058v1",
+                    "link": "https://arxiv.org/pdf/2605.30985v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Nf-PEAK: Process-Based Energy Attribution for Nextflow Workflows on Kubernetes Clusters",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.22393v1",
+                    "title": "SpecBench: Evaluating Specification-Level Reasoning for Software Engineering LLM Agents",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2605.30314v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "SepsisAI Orchestrator: A Containerized and Scalable Platform for Deploying AI Models and Real-Time Monitoring in Early Sepsis Detection",
+                    "title": "elasticAI.explorer: Towards a Unified End-to-End Framework for Hardware-Aware Neural Architecture Search",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.22331v1",
+                    "link": "https://arxiv.org/pdf/2605.30019v2",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Cloud-Native Operation of Roadside Infrastructure Enabling Demand-Driven Collective Perception via V2X",
+                    "title": "AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.21145v1",
+                    "link": "https://arxiv.org/pdf/2605.29801v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "MemGym: a Long-Horizon Memory Environment for LLM Agents",
+                    "title": "Design and Implementation of a Serverless MapReduce Framework for Scalable Data Pipelines",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.20833v1",
+                    "link": "https://arxiv.org/pdf/2605.29573v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "HyFrac.fun: A 3D Hydraulic Fracturing Simulator on Cloud",
+                    "title": "Analyzing Quality-Latency-Resource Trade-offs in a Technical Documentation RAG Assistant Using LoRA Adaptation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.20764v1",
+                    "link": "https://arxiv.org/pdf/2605.28222v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "A Multi-Layer Testing Framework for Automated Data Quality Assurance in Cloud-Native ELT Pipelines",
+                    "title": "ICAN-Deploy: Identity-Stable Canary Deployment for Safety-Critical Embodied Agents",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.20500v1",
+                    "link": "https://arxiv.org/pdf/2605.28097v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "A Meshtastic-based LoRa Mesh System for Smart Campus Applications: From Solar-Powered Sensing to Containerized Data Management",
+                    "title": "Intent-based Security Management Using the TM Forum TR292I Security Ontology",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.20379v1",
+                    "link": "https://arxiv.org/pdf/2605.27743v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Causely: A Causal Intelligence Layer for Enterprise AI A Benchmark Study on SRE and Reliability Workflows",
+                    "title": "Agyn: An Open-Source Platform for AI Agents with Scalable On-Demand Execution, Agent Definition as a Code, and Zero-Trust Access",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.18327v1",
+                    "link": "https://arxiv.org/pdf/2605.27575v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.42,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 137,
-                    "increase_pct": "-29.4%",
+                    "recent_commits": 104,
+                    "increase_pct": "-32.5%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 14,
-                    "increase_pct": "16.7%",
-                    "score_contribution": 0.83
+                    "recent_commits": 1,
+                    "increase_pct": "-92.9%",
+                    "score_contribution": 0
                 }
             ]
         },
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Sinister warning signs moments before crazed shooter struck White House as it's revealed suspect 'thought he was Jesus'",
-                    "source": "Dailymail.com"
+                    "title": "BNB, Aster surge double digits ahead of Binance\u2019s Monday product reveal",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "No. 2 Texas softball survives elimination with comeback win over ASU",
-                    "source": "USA Today"
+                    "title": "argus-ai-scanner 1.11.1",
+                    "source": "Pypi.org"
                 }
             ]
         }
