@@ -1,8 +1,8 @@
 {
-    "report_generated_time": "2026-06-01T03:51:14.703943",
+    "report_generated_time": "2026-06-06T02:54:50.018338",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 7.28,
-    "alert_status": "TRENDING_NOW",
+    "final_score": 6.5,
+    "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
@@ -10,75 +10,75 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Neuroforger: certified violation witnesses for smart contracts verification via LLMs",
+                    "title": "AttackPathGNN: Cross-function vulnerability detection in smart contracts using state interference graphs and conjunction pooling",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.31389v1",
+                    "link": "https://arxiv.org/pdf/2606.05986v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Free-Riding in the AI Economy: Demystifying Logic Flaws in x402-Enabled Payment Systems",
+                    "title": "Sustainability by Design in Decentralized Autonomous Organizations: An Empirical Review of Governance, Innovation, and Institutional Design",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.30998v1",
+                    "link": "https://arxiv.org/pdf/2606.05667v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Agora: Toward Autonomous Bug Detection in Production-Level Consensus Protocols with LLM Agents",
+                    "title": "PoCQ: Proof of Contribution Quality as a Lightweight Blockchain Consensus for Secure Federated Learning",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.29910v1",
+                    "link": "https://arxiv.org/pdf/2606.05642v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Ciphera: A Decentralised Biometric Identity Framework",
+                    "title": "A formal framework for the economic security of DeFi compositions",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.29868v1",
+                    "link": "https://arxiv.org/pdf/2606.05418v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Temporal Motif-aware Graph Test-time Adaptation for OOD Blockchain Anomaly Detection",
+                    "title": "ODYSSEY: Reestablishing Confidentiality in Confidential Blockchain via Delegated Execution",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.29526v1",
+                    "link": "https://arxiv.org/pdf/2606.04892v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "DeepFake Forensics AI: A Multi-Modal Detection and Blockchain-Anchored Evidence Management Platform",
+                    "title": "The Usefulness Gap in Proof-of-Useful-Work: An Empirical Study of Pearl's cuPOW Protocol",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.29353v1",
+                    "link": "https://arxiv.org/pdf/2606.04819v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Techreport: Evaluating Tor-based Location Privacy for Ethereum Validators",
+                    "title": "TITAN-FedAnil+: Trust-Based Adaptive Blockchain Federated Learning for Resource-Constrained Intelligent Enterprises",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.29131v1",
+                    "link": "https://arxiv.org/pdf/2606.04388v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "SCDBench: A Benchmark for LLM-Based Smart Contract Decompilers",
+                    "title": "Formal verification of the S-two AIR",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.29059v1",
+                    "link": "https://arxiv.org/pdf/2606.04311v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "SwarmHarness: Skill-Based Task Routing via Decentralized Incentive-Aligned AI Agent Networks",
+                    "title": "Polymarket-v1 Database",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.28764v1",
+                    "link": "https://arxiv.org/pdf/2606.04217v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "A Trilemma in AMM Mechanism Design",
+                    "title": "Fast TetraBFT: Optimizing Latency Where It Matters",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.27602v1",
+                    "link": "https://arxiv.org/pdf/2606.03754v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 2.24,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 36,
-                    "increase_pct": "89.5%",
-                    "score_contribution": 4.47
+                    "recent_commits": 22,
+                    "increase_pct": "-26.7%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "BNB, Aster surge double digits ahead of Binance\u2019s Monday product reveal",
+                    "title": "Schneider Electric plans \u20ac800M debt sale to support data centers",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "IDF captures Beaufort Castle, signals escalation in Lebanon conflict",
-                    "source": "Crypto Briefing"
+                    "title": "dank-mids 4.20.211",
+                    "source": "Pypi.org"
                 }
             ]
         }

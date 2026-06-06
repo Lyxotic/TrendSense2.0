@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-06-01T03:51:10.622357",
+    "report_generated_time": "2026-06-06T02:54:46.187972",
     "niche": "RAG & Vector Databases",
-    "final_score": 7.67,
+    "final_score": 7.83,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,87 +10,87 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Evaluating Factual Density in Multi-Source RAG: A Study in Medical AI Accuracy",
+                    "title": "Self-Augmenting Retrieval for Diffusion Language Models",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.31506v1",
+                    "link": "https://arxiv.org/pdf/2606.06474v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "DynaTree: Dynamic Agentic Retrieval Tree for Time-Sensitive News Retrieval",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.31377v1",
+                    "title": "IA-RAG: Interval-Algebra-Driven Temporal Reasoning for Dynamic Knowledge Retrieval",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2606.06044v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Learning Whom to Trust: Market-Feedback Adaptive Retrieval for Frozen LLMs in Event-Driven Financial RAG",
+                    "title": "Beyond Vector Similarity: A Structural Analysis of Graph-Augmented Retrieval for Industrial Knowledge Graphs",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.31201v1",
+                    "link": "https://arxiv.org/pdf/2606.06003v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Retriever Portfolios: A Principled Approach to Adaptive RAG",
+                    "title": "Reducing Hallucinations in Complex Question Answering using Simple Graph-based Retrieval-Augmented Generation (long version)",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.31176v1",
+                    "link": "https://arxiv.org/pdf/2606.05901v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Vector Linking via Cross-Model Local Isometric Consistency",
+                    "title": "QCFuse: Query-Aware Cache Fusion via Compressed View for Efficient RAG Serving",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.31100v1",
+                    "link": "https://arxiv.org/pdf/2606.05875v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Beyond Static Dialogues: Benchmarking Realistic, Heterogeneous, and Evolving Long-Term Memory",
+                    "title": "MolE-RAG: Molecular Structure-Enhanced Retrieval-Augmented Generation for Chemistry",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.31086v1",
+                    "link": "https://arxiv.org/pdf/2606.05693v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Fighting Numerical Hallucinations via Data-centric Compilation for Online Financial QA",
+                    "title": "Agent-Orchestrated Adaptive RAG: A Comparative Study on Structured and Multi-Hop Retrieval",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.31064v1",
+                    "link": "https://arxiv.org/pdf/2606.05658v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "MoG: Mixture of Experts for Graph-based Retrieval-Augmented Generation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.31010v1",
+                    "title": "LLM-Guided ANN Index Optimization for Human-Object Interaction Retrieval",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2606.05489v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Reading Between the Citations: A Typed Claim Network for Scientific Literature",
+                    "title": "Revisiting Vul-RAG: Reproducibility and Replicability of RAG-based Vulnerability Detection with Open-Weight Models",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.30966v1",
+                    "link": "https://arxiv.org/pdf/2606.04739v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "On the impact of retrieved content representations in RAG Pipelines",
+                    "title": "QO-Bench: Diagnosing Query-Operator-Preserving Retrieval over Typed Event Tuples",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.30790v1",
+                    "link": "https://arxiv.org/pdf/2606.04646v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 3.33,
+            "normalized_score": 3.81,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 26,
-                    "increase_pct": "-63.4%",
-                    "score_contribution": 0
+                    "recent_commits": 36,
+                    "increase_pct": "28.6%",
+                    "score_contribution": 1.43
                 },
                 {
                     "repo_name": "qdrant/qdrant",
-                    "recent_commits": 0,
-                    "increase_pct": "-100.0%",
-                    "score_contribution": 0
+                    "recent_commits": 104,
+                    "increase_pct": "10400.0%",
+                    "score_contribution": 10.0
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 42,
-                    "increase_pct": "223.1%",
-                    "score_contribution": 10.0
+                    "recent_commits": 24,
+                    "increase_pct": "-40.0%",
+                    "score_contribution": 0
                 }
             ]
         },
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "langchain-agentx-python 0.7.7",
+                    "title": "langchain-talor-serp added to PyPI",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "mymagicpencil-langchain 1.0.1",
+                    "title": "django-agentic 0.6.1",
                     "source": "Pypi.org"
                 }
             ]

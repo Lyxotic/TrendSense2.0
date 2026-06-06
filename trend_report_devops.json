@@ -1,8 +1,8 @@
 {
-    "report_generated_time": "2026-06-01T03:51:20.512220",
+    "report_generated_time": "2026-06-06T02:54:54.787144",
     "niche": "Cloud Native & DevOps",
-    "final_score": 6.5,
-    "alert_status": "PRE_TREND_ALERT",
+    "final_score": 8.25,
+    "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
@@ -10,81 +10,81 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Offloading L7 Policies to the Kernel",
+                    "title": "Performance Evaluation of GraphCast for Medium-Range Weather Forecasting over Brazil",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.31084v1",
+                    "link": "https://arxiv.org/pdf/2606.06348v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Kairos: Lightweight Testing Framework for Timing-Induced Interaction Failures in LTE and 5G Core Networks",
+                    "title": "Microskill Architecture: A Modular Skill-Driven Framework for AI-Native Code Generation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.30985v1",
+                    "link": "https://arxiv.org/pdf/2606.05720v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "SpecBench: Evaluating Specification-Level Reasoning for Software Engineering LLM Agents",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2605.30314v1",
+                    "title": "ADK Arena: Evaluating Agent Development Kits via LLM-as-a-Developer",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.05548v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "elasticAI.explorer: Towards a Unified End-to-End Framework for Hardware-Aware Neural Architecture Search",
+                    "title": "Real-World Deployment of a 5G-Connected Edge-Controlled Aerial Robot in Industrial Subterranean Mines",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.30019v2",
+                    "link": "https://arxiv.org/pdf/2606.04818v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security",
+                    "title": "Predicting Lakehouse Performance in Clouds: An Empirical Exploration of Query Runtime Variance",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.29801v1",
+                    "link": "https://arxiv.org/pdf/2606.03464v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Design and Implementation of a Serverless MapReduce Framework for Scalable Data Pipelines",
+                    "title": "BlobShuffle: Cost-Effective Repartitioning in Stream Processing Systems via Object Storage Exemplified with Kafka Streams",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.29573v1",
+                    "link": "https://arxiv.org/pdf/2606.03364v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Analyzing Quality-Latency-Resource Trade-offs in a Technical Documentation RAG Assistant Using LoRA Adaptation",
+                    "title": "Analyzing the Evolution of Structural Communities within Microservice Architecture",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.28222v1",
+                    "link": "https://arxiv.org/pdf/2606.04047v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "ICAN-Deploy: Identity-Stable Canary Deployment for Safety-Critical Embodied Agents",
+                    "title": "Implement Kubernetes Pod-Level Remote Attestation for Confidential Workloads on dstack",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.28097v1",
+                    "link": "https://arxiv.org/pdf/2606.03323v2",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Intent-based Security Management Using the TM Forum TR292I Security Ontology",
+                    "title": "Synthetic Hallucinations, Real Gains: Hard Negatives from Frontier Models for FIM Hallucination Mitigation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.27743v1",
+                    "link": "https://arxiv.org/pdf/2606.03130v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Agyn: An Open-Source Platform for AI Agents with Scalable On-Demand Execution, Agent Definition as a Code, and Zero-Trust Access",
+                    "title": "SeClaw: Spec-Driven Security Task Synthesis for Evaluating Autonomous Agents",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2605.27575v1",
+                    "link": "https://arxiv.org/pdf/2606.02302v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 5.0,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 104,
-                    "increase_pct": "-32.5%",
+                    "recent_commits": 85,
+                    "increase_pct": "-24.8%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 1,
-                    "increase_pct": "-92.9%",
-                    "score_contribution": 0
+                    "recent_commits": 4,
+                    "increase_pct": "300.0%",
+                    "score_contribution": 10.0
                 }
             ]
         },
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "BNB, Aster surge double digits ahead of Binance\u2019s Monday product reveal",
-                    "source": "Crypto Briefing"
+                    "title": "Unaware Of Health Risks, Bhopal Municipal Corporation Planted Thousands Of Now-Banned Conocarpus Trees",
+                    "source": "Free Press Journal"
                 },
                 {
-                    "title": "argus-ai-scanner 1.11.1",
+                    "title": "hermes-vault 0.13.0",
                     "source": "Pypi.org"
                 }
             ]
