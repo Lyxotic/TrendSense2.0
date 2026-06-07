@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-06-06T02:54:40.646354",
+    "report_generated_time": "2026-06-07T03:40:08.911145",
     "niche": "AI Agents & Multi-Agent Systems",
     "final_score": 6.73,
     "alert_status": "PRE_TREND_ALERT",
@@ -89,7 +89,7 @@
                 {
                     "repo_name": "pydantic/pydantic-ai",
                     "recent_commits": 12,
-                    "increase_pct": "-45.5%",
+                    "increase_pct": "-42.9%",
                     "score_contribution": 0
                 }
             ]
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Schneider Electric plans \u20ac800M debt sale to support data centers",
+                    "title": "Yoland Yan: Comfy UI revolutionizes image generation with node-based precision, the ideogram model enhances control with bounding boxes, and granular prompting maximizes AI effectiveness | TWIST",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "AI needs brake pedal: Anthropic's Jack Clark warns AI could soon build itself, says 'I am worried for my kids'",
-                    "source": "Livemint"
+                    "title": "Bots now generate more web traffic than humans \u2013 Cloudflare",
+                    "source": "RT"
                 }
             ]
         }

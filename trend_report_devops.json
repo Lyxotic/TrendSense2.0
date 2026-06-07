@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-06-06T02:54:54.787144",
+    "report_generated_time": "2026-06-07T03:40:23.060627",
     "niche": "Cloud Native & DevOps",
     "final_score": 8.25,
     "alert_status": "TRENDING_NOW",
@@ -76,8 +76,8 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 85,
-                    "increase_pct": "-24.8%",
+                    "recent_commits": 86,
+                    "increase_pct": "-23.2%",
                     "score_contribution": 0
                 },
                 {
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Unaware Of Health Risks, Bhopal Municipal Corporation Planted Thousands Of Now-Banned Conocarpus Trees",
-                    "source": "Free Press Journal"
+                    "title": "Debut novelist Jessamine O\u2019Connor: \u2018Trying fiction was really refreshing. I have been doing poetry for 20 years\u2019",
+                    "source": "The Irish Times"
                 },
                 {
-                    "title": "hermes-vault 0.13.0",
-                    "source": "Pypi.org"
+                    "title": "Alison Lee could erase years of heartbreak with hometown victory in U.S. Women's Open",
+                    "source": "Yahoo Entertainment"
                 }
             ]
         }

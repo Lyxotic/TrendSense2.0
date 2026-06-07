@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-06-06T02:54:46.187972",
+    "report_generated_time": "2026-06-07T03:40:14.385434",
     "niche": "RAG & Vector Databases",
-    "final_score": 7.83,
+    "final_score": 7.87,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,13 +72,13 @@
             ]
         },
         "developer": {
-            "normalized_score": 3.81,
+            "normalized_score": 3.91,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 36,
-                    "increase_pct": "28.6%",
-                    "score_contribution": 1.43
+                    "recent_commits": 35,
+                    "increase_pct": "34.6%",
+                    "score_contribution": 1.73
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -88,8 +88,8 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 24,
-                    "increase_pct": "-40.0%",
+                    "recent_commits": 23,
+                    "increase_pct": "-43.9%",
                     "score_contribution": 0
                 }
             ]
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "langchain-talor-serp added to PyPI",
+                    "title": "langchain-talor-serp 0.1.4",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "django-agentic 0.6.1",
-                    "source": "Pypi.org"
+                    "title": "Show HN: The Deterministic Core Architecture for AI-Augmented Applications",
+                    "source": "Brandonbellsystems.com"
                 }
             ]
         }
