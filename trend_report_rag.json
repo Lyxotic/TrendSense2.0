@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-06-07T03:40:14.385434",
+    "report_generated_time": "2026-06-08T03:46:11.870276",
     "niche": "RAG & Vector Databases",
-    "final_score": 7.87,
+    "final_score": 7.96,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -9,6 +9,36 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "Constrained Dominant Sets for Multimodal Document Question Answering",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.07252v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Didact: A Cross-Domain Capability Discovery System for Defence",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.06942v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "TA-RAG: Tone-Aware Retrieval-Augmented Generation for Peer-Support Health Communication",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.06794v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Mind the Gap: Bridging Behavioral Silos with LLMs in Multi-Vertical Recommendations",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.06779v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Evidence Graph Consistency in Retrieval-Augmented Generation: A Model-Dependent Analysis of Hallucination Detection",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.06748v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Self-Augmenting Retrieval for Diffusion Language Models",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -38,47 +68,17 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2606.05875v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "MolE-RAG: Molecular Structure-Enhanced Retrieval-Augmented Generation for Chemistry",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.05693v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Agent-Orchestrated Adaptive RAG: A Comparative Study on Structured and Multi-Hop Retrieval",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.05658v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "LLM-Guided ANN Index Optimization for Human-Object Interaction Retrieval",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2606.05489v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Revisiting Vul-RAG: Reproducibility and Replicability of RAG-based Vulnerability Detection with Open-Weight Models",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.04739v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "QO-Bench: Diagnosing Query-Operator-Preserving Retrieval over Typed Event Tuples",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.04646v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 3.91,
+            "normalized_score": 4.17,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 35,
-                    "increase_pct": "34.6%",
-                    "score_contribution": 1.73
+                    "recent_commits": 39,
+                    "increase_pct": "50.0%",
+                    "score_contribution": 2.5
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -88,8 +88,8 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 23,
-                    "increase_pct": "-43.9%",
+                    "recent_commits": 22,
+                    "increase_pct": "-47.6%",
                     "score_contribution": 0
                 }
             ]
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "langchain-talor-serp 0.1.4",
+                    "title": "konan added to PyPI",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "Show HN: The Deterministic Core Architecture for AI-Augmented Applications",
-                    "source": "Brandonbellsystems.com"
+                    "title": "langchain-ledgerproof 0.1.1",
+                    "source": "Pypi.org"
                 }
             ]
         }

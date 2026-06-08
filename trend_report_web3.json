@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-06-07T03:40:18.285060",
+    "report_generated_time": "2026-06-08T03:46:15.171998",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -9,6 +9,30 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "On the Shoulders of Giants: Empowering Automated Smart Contract Auditing via the GiAnt Corpus",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.07363v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Blockchain Infrastructure for Intelligent Cyber--Physical--Social Systems:Post-Quantum Security, Interoperability, and Trustworthy Data Economies in the Era of Embodied AI",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.06895v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "On the Incentive Compatibility of Block Propagation in Bitcoin",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.06860v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "The Economics of Proof-of-Useful-Work",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.06700v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "AttackPathGNN: Cross-function vulnerability detection in smart contracts using state interference graphs and conjunction pooling",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -44,30 +68,6 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2606.04819v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "TITAN-FedAnil+: Trust-Based Adaptive Blockchain Federated Learning for Resource-Constrained Intelligent Enterprises",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.04388v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Formal verification of the S-two AIR",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.04311v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Polymarket-v1 Database",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.04217v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Fast TetraBFT: Optimizing Latency Where It Matters",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.03754v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
@@ -76,8 +76,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 22,
-                    "increase_pct": "-26.7%",
+                    "recent_commits": 16,
+                    "increase_pct": "-55.6%",
                     "score_contribution": 0
                 },
                 {
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Yoland Yan: Comfy UI revolutionizes image generation with node-based precision, the ideogram model enhances control with bounding boxes, and granular prompting maximizes AI effectiveness | TWIST",
+                    "title": "House Ways and Means Committee circulates seven digital asset tax bills ahead of June 9 hearing",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "US intercepts Iranian missiles, drones targeting Kuwait, Bahrain",
+                    "title": "Federal Reserve\u2019s reverse repo facility drops to $761M as liquidity drains toward risk assets",
                     "source": "Crypto Briefing"
                 }
             ]

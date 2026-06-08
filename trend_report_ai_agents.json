@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-06-07T03:40:08.911145",
+    "report_generated_time": "2026-06-08T03:46:07.296779",
     "niche": "AI Agents & Multi-Agent Systems",
     "final_score": 6.73,
     "alert_status": "PRE_TREND_ALERT",
@@ -10,6 +10,54 @@
             "normalized_score": 10,
             "data": [
                 {
+                    "title": "How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.07489v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "OPENPATH: A Supervisor--Specialist Agent System for Personalized, Accessible, and Multi-stop Urban Trip Planning",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2606.07486v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "An End-to-End Encrypted Control Pipeline for Multi-Agent Coordination via CKKS Homomorphic Encryption",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2606.07375v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Learning Multi-Agent Communication Protocol: Study on Information Entropy Efficiency in MARL",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2606.07200v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Declarative Skills for AI Agents in Knowledge-Grounded Tool-Use Workflows",
+                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
+                    "link": "https://arxiv.org/pdf/2606.06923v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "SCOUT: Semantic scene COverage via Uncertainty-guided Traversal",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2606.06721v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Comparing Sentiment Contagion in AI-Agent and Human Social Networks: Evidence from MOLTBOOK",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.06665v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "CAF-Gen: A Multi-Agent System for Enriching Argumentation Structures",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2606.06646v1",
+                    "published": "Last 7 Days"
+                },
+                {
                     "title": "Benchmark Everything Everywhere All at Once",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2606.06462v1",
@@ -19,54 +67,6 @@
                     "title": "Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2606.06453v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "CollabSim: A CSCW-Grounded Methodology for Investigating Collaborative Competence of LLM Agents through Controlled Multi-Agent Experiments",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2606.06399v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "WebMCP Tool Surface Poisoning: Runtime Manipulation Attacks on LLM Agents",
-                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
-                    "link": "https://arxiv.org/pdf/2606.06387v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "A Finite Certificate for the Positive $n=9$ Vasc Inequality",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.06136v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Beyond Similarity: Trustworthy Memory Search for Personal AI Agents",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.06054v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "EGTR-Review: Efficient Evidence-Grounded Scientific Peer Review Generation via Multi-Agent Teacher Distillation",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2606.06025v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Beyond Alignment: Value Diversity as a Collective Property in Multicultural Agent Systems",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.05985v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Retrospective Harness Optimization: Improving LLM Agents via Self-Preference over Trajectory Rollouts",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.05922v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Entropy-Based Evaluation of AI Agents: A Lightweight Framework for Measuring Behavioral Patterns",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.05872v1",
                     "published": "Last 7 Days"
                 }
             ]
@@ -89,7 +89,7 @@
                 {
                     "repo_name": "pydantic/pydantic-ai",
                     "recent_commits": 12,
-                    "increase_pct": "-42.9%",
+                    "increase_pct": "-33.3%",
                     "score_contribution": 0
                 }
             ]
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Yoland Yan: Comfy UI revolutionizes image generation with node-based precision, the ideogram model enhances control with bounding boxes, and granular prompting maximizes AI effectiveness | TWIST",
-                    "source": "Crypto Briefing"
+                    "title": "The most powerful AI stories right now are not chatbots. They are the quiet algorithms reading burnt Roman scrolls, trawling through millions of galaxies, and finding things hidden in data no human team could ever finish searching.",
+                    "source": "Space Daily"
                 },
                 {
-                    "title": "Bots now generate more web traffic than humans \u2013 Cloudflare",
-                    "source": "RT"
+                    "title": "agbr 0.3.3",
+                    "source": "Pypi.org"
                 }
             ]
         }
