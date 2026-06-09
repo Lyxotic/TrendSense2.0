@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-06-08T03:46:15.171998",
+    "report_generated_time": "2026-06-09T02:53:39.990585",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -9,6 +9,36 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "Parent-Hash DAG: A Cost Analysis of Constant-Time Append for On-Chain Registries",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.09593v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Proof of Stake economy under centralized exchanges--a mean field model",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.09003v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "A Taxonomy of Real-World Asset Tokenization for Blockchain-Based Financial Infrastructure",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.08534v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "From Validator Selection to Portfolio Collection Optimization in Proof-of-Stake Blockchains",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.08282v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "The Dodona Protocol: A Living Design Science Experiment in Oracle Design",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.08012v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "On the Shoulders of Giants: Empowering Automated Smart Contract Auditing via the GiAnt Corpus",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -38,36 +68,6 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2606.05986v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "Sustainability by Design in Decentralized Autonomous Organizations: An Empirical Review of Governance, Innovation, and Institutional Design",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.05667v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "PoCQ: Proof of Contribution Quality as a Lightweight Blockchain Consensus for Secure Federated Learning",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.05642v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "A formal framework for the economic security of DeFi compositions",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.05418v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "ODYSSEY: Reestablishing Confidentiality in Confidential Blockchain via Delegated Execution",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.04892v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "The Usefulness Gap in Proof-of-Useful-Work: An Empirical Study of Pearl's cuPOW Protocol",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.04819v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
@@ -76,8 +76,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 16,
-                    "increase_pct": "-55.6%",
+                    "recent_commits": 20,
+                    "increase_pct": "-45.9%",
                     "score_contribution": 0
                 },
                 {
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "House Ways and Means Committee circulates seven digital asset tax bills ahead of June 9 hearing",
-                    "source": "Crypto Briefing"
+                    "title": "HTX Launches \"Appreciation Program\" with Over $10 Million to Reward User Trust",
+                    "source": "PRNewswire"
                 },
                 {
-                    "title": "Federal Reserve\u2019s reverse repo facility drops to $761M as liquidity drains toward risk assets",
-                    "source": "Crypto Briefing"
+                    "title": "\u65e5\u672c\u306e\u6697\u53f7\u8cc7\u7523\u306e\u6295\u8cc7\u74b0\u5883\u3001\u6e80\u8db3\u3057\u3066\u3044\u308b\u4eba\u306f5\uff05\u672a\u6e80",
+                    "source": "Prtimes.jp"
                 }
             ]
         }

@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-06-08T03:46:19.401491",
+    "report_generated_time": "2026-06-09T02:53:44.224093",
     "niche": "Cloud Native & DevOps",
     "final_score": 8.25,
     "alert_status": "TRENDING_NOW",
@@ -9,6 +9,36 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "Containerizing BIDSme : A Reproducible Tool for BIDS Conversion",
+                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
+                    "link": "https://arxiv.org/pdf/2606.09144v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "A Low-Latency Semantic State Estimator using Latent Predictive Learning for Dynamic Network Monitoring and Orchestration",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.08869v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Auditable Graph-Guided Root Cause Analysis for Kubernetes Incidents",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2606.08590v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "LogNEO: A GPT-Neo Reinforcement Learning Framework for Accurate Real-Time Log Anomaly Detection",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.08153v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Semantic Quorum Assurance: Collective Certification for Non-Deterministic AI Infrastructure",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.08021v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "MalSkillBench: A Runtime-Verified Benchmark of Malicious Agent Skills",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -38,36 +68,6 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2606.05548v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "Real-World Deployment of a 5G-Connected Edge-Controlled Aerial Robot in Industrial Subterranean Mines",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.04818v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Predicting Lakehouse Performance in Clouds: An Empirical Exploration of Query Runtime Variance",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.03464v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "BlobShuffle: Cost-Effective Repartitioning in Stream Processing Systems via Object Storage Exemplified with Kafka Streams",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.03364v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Analyzing the Evolution of Structural Communities within Microservice Architecture",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.04047v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Implement Kubernetes Pod-Level Remote Attestation for Confidential Workloads on dstack",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.03323v2",
-                    "published": "Last 7 Days"
                 }
             ]
         },
@@ -76,14 +76,14 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 86,
-                    "increase_pct": "-23.2%",
+                    "recent_commits": 84,
+                    "increase_pct": "-31.7%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 4,
-                    "increase_pct": "300.0%",
+                    "recent_commits": 21,
+                    "increase_pct": "2000.0%",
                     "score_contribution": 10.0
                 }
             ]
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Alabama Lands Another Recruiting Win, Flips Syracuse Tight End Commit Michael Nnabuife",
-                    "source": "Roundtable.io"
+                    "title": "90210 \u2013 running the show without property tax",
+                    "source": "Github.com"
                 },
                 {
-                    "title": "antihook 0.1.7",
+                    "title": "vmware-harden 1.5.32",
                     "source": "Pypi.org"
                 }
             ]

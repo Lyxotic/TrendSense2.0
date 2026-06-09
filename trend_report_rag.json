@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-06-08T03:46:11.870276",
+    "report_generated_time": "2026-06-09T02:53:36.560828",
     "niche": "RAG & Vector Databases",
-    "final_score": 7.96,
+    "final_score": 7.87,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,75 +10,75 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Constrained Dominant Sets for Multimodal Document Question Answering",
+                    "title": "Closing the Prior-Posterior Loop: Self-Reflective Molecular Design with Analysis-Driven LLM Iteration",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.07252v1",
+                    "link": "https://arxiv.org/pdf/2606.09520v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Didact: A Cross-Domain Capability Discovery System for Defence",
+                    "title": "AbstRAG: Learning to Abstract for Retrieval Problems",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.06942v1",
+                    "link": "https://arxiv.org/pdf/2606.09459v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "TA-RAG: Tone-Aware Retrieval-Augmented Generation for Peer-Support Health Communication",
+                    "title": "SIFT: Selective-Index For Fast Compute of RAG Prefill by Exploiting Attention Invariance",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.06794v1",
+                    "link": "https://arxiv.org/pdf/2606.09441v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Mind the Gap: Bridging Behavioral Silos with LLMs in Multi-Vertical Recommendations",
+                    "title": "Anything2Skill: Compiling External Knowledge into Reusable Skills for Agents",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.06779v1",
+                    "link": "https://arxiv.org/pdf/2606.09316v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Evidence Graph Consistency in Retrieval-Augmented Generation: A Model-Dependent Analysis of Hallucination Detection",
+                    "title": "Crop Recommendation and Agricultural Query Answering System Using Spatio-Temporal Graph Neural Networks and Hybrid Retrieval Augmentation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.06748v1",
+                    "link": "https://arxiv.org/pdf/2606.09160v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Self-Augmenting Retrieval for Diffusion Language Models",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.06474v1",
+                    "title": "A Multi-Agent System for IPMSM Design Optimization via an FEA-AI Hybrid Approach",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2606.09037v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "IA-RAG: Interval-Algebra-Driven Temporal Reasoning for Dynamic Knowledge Retrieval",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2606.06044v1",
+                    "title": "Document-Authored Control-Signal Impersonation: A Low-Cost Indirect Prompt Attack on RAG Safety Boundaries",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.09005v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Beyond Vector Similarity: A Structural Analysis of Graph-Augmented Retrieval for Industrial Knowledge Graphs",
+                    "title": "When More Cores Hurts: The Vector Database Scaling Paradox in HPC",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.06003v1",
+                    "link": "https://arxiv.org/pdf/2606.08950v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Reducing Hallucinations in Complex Question Answering using Simple Graph-based Retrieval-Augmented Generation (long version)",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.05901v1",
+                    "title": "LongRTL: Graph-Similarity-Guided LLM-driven Long Context RTL Optimization",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2606.08944v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "QCFuse: Query-Aware Cache Fusion via Compressed View for Efficient RAG Serving",
+                    "title": "Generalized Rank-based Evaluation for Knowledge Graph Completion: Perspectives, Framework, and Analyses",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.05875v1",
+                    "link": "https://arxiv.org/pdf/2606.08921v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 4.17,
+            "normalized_score": 3.91,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
                     "recent_commits": 39,
-                    "increase_pct": "50.0%",
-                    "score_contribution": 2.5
+                    "increase_pct": "34.5%",
+                    "score_contribution": 1.72
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -88,8 +88,8 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 22,
-                    "increase_pct": "-47.6%",
+                    "recent_commits": 21,
+                    "increase_pct": "-50.0%",
                     "score_contribution": 0
                 }
             ]
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "konan added to PyPI",
+                    "title": "langchain-talordata 0.1.2",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "langchain-ledgerproof 0.1.1",
+                    "title": "langchain-lyrenth 0.1.0",
                     "source": "Pypi.org"
                 }
             ]
