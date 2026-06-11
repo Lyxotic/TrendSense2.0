@@ -1,8 +1,8 @@
 {
-    "report_generated_time": "2026-06-09T02:53:31.758906",
+    "report_generated_time": "2026-06-11T03:43:05.232620",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.73,
-    "alert_status": "PRE_TREND_ALERT",
+    "final_score": 7.3,
+    "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
@@ -10,69 +10,69 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "MAVIS: Multi-Agent Video Retrieval via Structured Video Understanding",
+                    "title": "A Five-Plane Reference Architecture for Runtime Governance of Production AI Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.12320v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "The Impossibility of Eliciting Latent Knowledge",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.12268v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "From Agent Identity to Agent Economy: Measuring the Operational Readiness of ERC-8004 AI Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.12128v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "A Lightweight Multi-Agent Framework for Automated Concrete Barrier Design",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2606.09641v1",
+                    "link": "https://arxiv.org/pdf/2606.12040v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "A Robust Agentic Framework for Expert-Level Automation of Atomistic Simulations",
+                    "title": "Exploration Structure in LLM Agents for Multi-File Change Localization",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.09422v1",
+                    "link": "https://arxiv.org/pdf/2606.11976v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Self-Paced Curriculum Reinforcement Learning for Autonomous Superbike Racing in Simulation",
+                    "title": "Toward Generalist Autonomous Research via Hypothesis-Tree Refinement",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.09236v1",
+                    "link": "https://arxiv.org/pdf/2606.11926v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Trustworthy Smart Fabs via Professional Proxies: Scaling Safe and Sustainable by Design (SSbD) through Industrial Data Spaces",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.09227v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Autonomous Incident Resolution at Hyperscale: An Agentic AI Architecture for Network Operations",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.09122v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Agent Economics: An Entropy-Controlled Pluralistic Alignment Framework for Preventing Artificial Hivemind in Autonomous Agents",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.09039v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting",
+                    "title": "Embodied-BenchClaw: An Autonomous Multi-Agent System for Embodied Spatial Intelligence Benchmark Construction",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2606.08878v1",
+                    "link": "https://arxiv.org/pdf/2606.11909v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Building Customer Support AI Agents at 100M-User Scale: An Evaluation-Driven Framework",
+                    "title": "Notes2Skills: From Lab Notebooks to Certainty-Aware Scientific Agent Skills",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.11897v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "SG2Loc: Sequential Visual Localization on 3D Scene Graphs",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.11880v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Agents All the Way Down; A Methodology for Building Custom AI Agents from Substrate to Production",
                     "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2606.08867v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "RAILS: Verification-Native Clearing For Agentic Commerce",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.08790v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Artificial Intelligence for Mathematical Reasoning: An Integrated Survey of Language Models, Neuro-symbolic Systems, and Verified Discovery",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2606.08728v1",
+                    "link": "https://arxiv.org/pdf/2606.11869v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.67,
+            "normalized_score": 2.28,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,15 +82,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 35,
-                    "increase_pct": "40.0%",
-                    "score_contribution": 2.0
+                    "recent_commits": 34,
+                    "increase_pct": "25.9%",
+                    "score_contribution": 1.3
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 10,
-                    "increase_pct": "-23.1%",
-                    "score_contribution": 0
+                    "recent_commits": 19,
+                    "increase_pct": "111.1%",
+                    "score_contribution": 5.56
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "darwin-proxy added to PyPI",
+                    "title": "agentic-testops added to PyPI",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "marm-mcp-server 2.12.1",
-                    "source": "Pypi.org"
+                    "title": "Agentic AI Governance: Designing for Accountability and Control",
+                    "source": "Jetbrains.com"
                 }
             ]
         }
