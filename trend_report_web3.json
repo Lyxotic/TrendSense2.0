@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-06-11T03:43:17.586399",
+    "report_generated_time": "2026-06-12T03:42:46.981009",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -9,6 +9,12 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "JiRAIYA: A Reputation-Based Hierarchical Federated Learning Framework on Web3",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2606.13180v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "From Agent Identity to Agent Economy: Measuring the Operational Readiness of ERC-8004 AI Agents",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -62,12 +68,6 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2606.09593v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "Proof of Stake economy under centralized exchanges--a mean field model",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.09003v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
@@ -76,8 +76,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 17,
-                    "increase_pct": "-41.4%",
+                    "recent_commits": 15,
+                    "increase_pct": "-42.3%",
                     "score_contribution": 0
                 },
                 {
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Jordan intercepts five missiles launched by Iran targeting US base",
+                    "title": "3Jane launches with $10M warehouse line and $50M forward flow agreement to bridge DeFi and consumer lending",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "India freezes approvals for Starlink\u2019s commercial operations amid Iran war concerns",
+                    "title": "Joshua Kimmich reveals PSG interest from Luis Enrique, Bayern Munich open to offers",
                     "source": "Crypto Briefing"
                 }
             ]

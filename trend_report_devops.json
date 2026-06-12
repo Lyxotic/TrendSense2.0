@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-06-11T03:43:33.320414",
+    "report_generated_time": "2026-06-12T03:42:52.598397",
     "niche": "Cloud Native & DevOps",
-    "final_score": 8.25,
+    "final_score": 8.72,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -9,6 +9,12 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "LNTest: A Testbed for Evaluating Bitcoin Lightning Network-Based Botnets",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.12887v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -62,23 +68,17 @@
                     "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
                     "link": "https://arxiv.org/pdf/2606.08590v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "LogNEO: A GPT-Neo Reinforcement Learning Framework for Accurate Real-Time Log Anomaly Detection",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.08153v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 5.0,
+            "normalized_score": 6.34,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 105,
-                    "increase_pct": "-12.5%",
-                    "score_contribution": 0
+                    "recent_commits": 152,
+                    "increase_pct": "53.5%",
+                    "score_contribution": 2.68
                 },
                 {
                     "repo_name": "docker/compose",
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "OpenCV 5 release \u2013 New DNN engine with enhanced ONNX and LLM/VLM support, Intel, Arm, and RISC-V hardware optimizations",
-                    "source": "CNX Software"
+                    "title": "NASA addresses criticism over all-male crew selected for Artemis III test mission - Yahoo",
+                    "source": "Slashdot.org"
                 },
                 {
-                    "title": "hermes-hive-v4 added to PyPI",
-                    "source": "Pypi.org"
+                    "title": "3Jane launches with $10M warehouse line and $50M forward flow agreement to bridge DeFi and consumer lending",
+                    "source": "Crypto Briefing"
                 }
             ]
         }

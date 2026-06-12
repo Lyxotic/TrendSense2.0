@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-06-11T03:43:11.670761",
+    "report_generated_time": "2026-06-12T03:42:39.851106",
     "niche": "RAG & Vector Databases",
-    "final_score": 7.14,
+    "final_score": 7.15,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,75 +10,75 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "uva-irlab-conv at SemEval-2026 Task 8: Multi-Turn RAG with Learned Sparse Retrieval and Listwise Reranking",
+                    "title": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.11945v1",
+                    "link": "https://arxiv.org/pdf/2606.13680v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "An Ontology-Guided Multi-Anchor Graph Retrieval Framework for Traffic Legal Liability Determination",
+                    "title": "SkMTEB: Slovak Massive Text Embedding Benchmark and Model Adaptation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.13647v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Uncertainty-Aware Hybrid Retrieval for Long-Document RAG",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.13550v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "CQC-RAG: Robust Retrieval-Augmented Generation via Cross-Query Consistency",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.13438v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Mod-Guide: An LLM-based Content Moderation Feedback System to Address Insensitive Speech toward Indigenous Ethnic and Religious Minority Communities",
                     "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2606.11910v1",
+                    "link": "https://arxiv.org/pdf/2606.13397v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Tail-Aware Adaptive-k: Query-Adaptive Context Selection for Retrieval-Augmented Generation",
+                    "title": "TimeLens: On-Device Artifact Recognition with Retrieval-Augmented Question Answering for the Grand Egyptian Museum",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.11907v1",
+                    "link": "https://arxiv.org/pdf/2606.13267v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "What Limits Does Quantization Place on Dense Top-$k$ Retrieval? A Theoretical Study",
+                    "title": "Multi-Field Hybrid Retrieval-Augmented Generation for Maritime Accident Root Cause Analysis",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.11780v1",
+                    "link": "https://arxiv.org/pdf/2606.13249v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "CompRank: Efficient LLM Reranking via Token-Level Compression and Decoding-Free Scoring",
+                    "title": "Rethinking RAG in Long Videos: What to Retrieve and How to Use It?",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.11700v1",
+                    "link": "https://arxiv.org/pdf/2606.13141v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "When More Documents Hurt RAG: Mitigating Vector Search Dilution with Domain-Scoped, Model-Agnostic Retrieval",
+                    "title": "X-MADAM-RAG: Diagnosing and Handling Chinese-English Evidence Conflict in Retrieval-Augmented Generation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.11350v1",
+                    "link": "https://arxiv.org/pdf/2606.12903v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Towards Autonomous Accelerator Design: FPGA Accelerator Generation with SECDA",
+                    "title": "SafeLLM: Extraction as a Hallucination-Resistant Alternative to Rewriting in Safety-Critical Settings",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.11117v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Trace Only What You Need: Structure-Aware On-Demand Hypergraph Memory for Long-Document Question Answering",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.10921v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "3D-CoS: A New 3D Reconstruction Paradigm Based on VLM Code Synthesis",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.10478v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "When Poison Fails After Retrieval: Revisiting Corpus Poisoning under Chunking and Reranking Pipelines",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.11265v1",
+                    "link": "https://arxiv.org/pdf/2606.12897v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 1.82,
+            "normalized_score": 1.85,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 69,
-                    "increase_pct": "109.1%",
-                    "score_contribution": 5.45
+                    "recent_commits": 76,
+                    "increase_pct": "111.1%",
+                    "score_contribution": 5.56
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -88,8 +88,8 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 7,
-                    "increase_pct": "-84.1%",
+                    "recent_commits": 4,
+                    "increase_pct": "-90.0%",
                     "score_contribution": 0
                 }
             ]
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "memnos-sdk 0.1.2",
+                    "title": "langchain-model-profiles 0.0.6",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "The Evolution of 'More Like This'",
-                    "source": "Manticoresearch.com"
+                    "title": "vectormeta 0.2.0",
+                    "source": "Pypi.org"
                 }
             ]
         }
