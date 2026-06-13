@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-06-12T03:42:32.519152",
+    "report_generated_time": "2026-06-13T03:31:02.990302",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 7.05,
+    "final_score": 7.14,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,7 +72,7 @@
             ]
         },
         "developer": {
-            "normalized_score": 1.57,
+            "normalized_score": 1.82,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -83,14 +83,14 @@
                 {
                     "repo_name": "crewAIInc/crewAI",
                     "recent_commits": 35,
-                    "increase_pct": "25.0%",
-                    "score_contribution": 1.25
+                    "increase_pct": "9.4%",
+                    "score_contribution": 0.47
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 22,
-                    "increase_pct": "69.2%",
-                    "score_contribution": 3.46
+                    "recent_commits": 24,
+                    "increase_pct": "100.0%",
+                    "score_contribution": 5.0
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Anthropic wants tougher AI rules, new safety framework seeks stronger government oversight",
-                    "source": "The Indian Express"
+                    "title": "Science fiction? Musk\u2019s lofty SpaceX goals unrealistic, skeptics say",
+                    "source": "Digital Journal"
                 },
                 {
-                    "title": "The \"Skynet\" moment has happened, no one noticed.",
-                    "source": "Freerepublic.com"
+                    "title": "Greenland Energy Company Announces Addition of Carol Craig to Board of Directors",
+                    "source": "Associated Press"
                 }
             ]
         }

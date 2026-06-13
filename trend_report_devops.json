@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-06-12T03:42:52.598397",
+    "report_generated_time": "2026-06-13T03:31:20.394813",
     "niche": "Cloud Native & DevOps",
-    "final_score": 8.72,
+    "final_score": 9.04,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,18 +72,18 @@
             ]
         },
         "developer": {
-            "normalized_score": 6.34,
+            "normalized_score": 7.26,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 152,
-                    "increase_pct": "53.5%",
-                    "score_contribution": 2.68
+                    "recent_commits": 179,
+                    "increase_pct": "90.4%",
+                    "score_contribution": 4.52
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 24,
-                    "increase_pct": "2300.0%",
+                    "recent_commits": 23,
+                    "increase_pct": "475.0%",
                     "score_contribution": 10.0
                 }
             ]
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "NASA addresses criticism over all-male crew selected for Artemis III test mission - Yahoo",
-                    "source": "Slashdot.org"
+                    "title": "ICE agents make two arrests at pre-school graduation ceremony with children 'heard crying' as they're carted off",
+                    "source": "Freerepublic.com"
                 },
                 {
-                    "title": "3Jane launches with $10M warehouse line and $50M forward flow agreement to bridge DeFi and consumer lending",
-                    "source": "Crypto Briefing"
+                    "title": "Pochettino's Plan For World Cup Success Is Short, Simple, And To The Point",
+                    "source": "Fox Sports"
                 }
             ]
         }
