@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-06-13T03:31:02.990302",
+    "report_generated_time": "2026-06-14T03:50:50.224881",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 7.14,
+    "final_score": 7.66,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,7 +72,7 @@
             ]
         },
         "developer": {
-            "normalized_score": 1.82,
+            "normalized_score": 3.32,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,15 +82,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 35,
-                    "increase_pct": "9.4%",
-                    "score_contribution": 0.47
+                    "recent_commits": 37,
+                    "increase_pct": "15.6%",
+                    "score_contribution": 0.78
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 24,
-                    "increase_pct": "100.0%",
-                    "score_contribution": 5.0
+                    "recent_commits": 34,
+                    "increase_pct": "183.3%",
+                    "score_contribution": 9.17
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Science fiction? Musk\u2019s lofty SpaceX goals unrealistic, skeptics say",
-                    "source": "Digital Journal"
+                    "title": "knowledge-catalog/okf/SPEC.md at main \u00b7 GoogleCloudPlatform/knowledge-catalog",
+                    "source": "Github.com"
                 },
                 {
-                    "title": "Greenland Energy Company Announces Addition of Carol Craig to Board of Directors",
-                    "source": "Associated Press"
+                    "title": "How the Open Knowledge Format can improve data sharing | Google Cloud Blog",
+                    "source": "Google News"
                 }
             ]
         }
