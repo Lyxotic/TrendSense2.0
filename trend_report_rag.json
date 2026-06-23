@@ -1,8 +1,8 @@
 {
-    "report_generated_time": "2026-06-14T03:50:54.724989",
+    "report_generated_time": "2026-06-23T02:57:51.744852",
     "niche": "RAG & Vector Databases",
-    "final_score": 7.5,
-    "alert_status": "TRENDING_NOW",
+    "final_score": 6.58,
+    "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
@@ -10,86 +10,86 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+                    "title": "FeLoG: Scalable and Efficient Distributed Graph Embedding with Feedback Loop Mechanism",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.13680v1",
+                    "link": "https://arxiv.org/pdf/2606.22180v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "SkMTEB: Slovak Massive Text Embedding Benchmark and Model Adaptation",
+                    "title": "$\u03c0$-RAG: Oblivious Retrieval via Semantic Quantization and Transcendental Addressing for Large Language Models",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.13647v1",
+                    "link": "https://arxiv.org/pdf/2606.22153v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Uncertainty-Aware Hybrid Retrieval for Long-Document RAG",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.13550v1",
+                    "title": "Novelty-Aware Agentic Retrieval: Comparing Research Contributions Through Structured Multi-Step Reasoning",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2606.22151v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "CQC-RAG: Robust Retrieval-Augmented Generation via Cross-Query Consistency",
+                    "title": "Nous: A Predictive World Model for Long-Term Agent Memory",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.13438v1",
+                    "link": "https://arxiv.org/pdf/2606.22030v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Mod-Guide: An LLM-based Content Moderation Feedback System to Address Insensitive Speech toward Indigenous Ethnic and Religious Minority Communities",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2606.13397v1",
+                    "title": "Agent-Assisted Side-Channel Attacks on Non-Prefix KV Cache in RAG",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.21842v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "TimeLens: On-Device Artifact Recognition with Retrieval-Augmented Question Answering for the Grand Egyptian Museum",
+                    "title": "Fixed RAG Compression Collapses Measured Reader Scaling",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.13267v1",
+                    "link": "https://arxiv.org/pdf/2606.21807v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Multi-Field Hybrid Retrieval-Augmented Generation for Maritime Accident Root Cause Analysis",
+                    "title": "Dissecting Agentic RAG: A Component Ablation for Multi-Hop QA with a Local 7B Model",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.13249v1",
+                    "link": "https://arxiv.org/pdf/2606.21553v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Rethinking RAG in Long Videos: What to Retrieve and How to Use It?",
+                    "title": "From Embedding Geometry to Spectral Search: Energy Dispersion Networks For Vector Retrieval",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.13141v1",
+                    "link": "https://arxiv.org/pdf/2606.21535v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "X-MADAM-RAG: Diagnosing and Handling Chinese-English Evidence Conflict in Retrieval-Augmented Generation",
+                    "title": "Fast-TurboQuant: A Multiplier-Free Online Vector Quantization Approach",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.12903v1",
+                    "link": "https://arxiv.org/pdf/2606.21448v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "SafeLLM: Extraction as a Hallucination-Resistant Alternative to Rewriting in Safety-Critical Settings",
+                    "title": "Context-Aware Generative AI for Automated Telecom Test Script Generation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.12897v1",
+                    "link": "https://arxiv.org/pdf/2606.21151v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 2.86,
+            "normalized_score": 0.22,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 95,
-                    "increase_pct": "171.4%",
-                    "score_contribution": 8.57
+                    "recent_commits": 111,
+                    "increase_pct": "13.3%",
+                    "score_contribution": 0.66
                 },
                 {
                     "repo_name": "qdrant/qdrant",
                     "recent_commits": 0,
-                    "increase_pct": "-100.0%",
+                    "increase_pct": "0.0%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 17,
-                    "increase_pct": "-26.1%",
+                    "recent_commits": 8,
+                    "increase_pct": "-66.7%",
                     "score_contribution": 0
                 }
             ]
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "dacli added to PyPI",
+                    "title": "langchain-agentx-cli 0.6.8",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "langchain-vercel-sandbox 0.0.1",
+                    "title": "mambo-agents 0.2.0a26",
                     "source": "Pypi.org"
                 }
             ]

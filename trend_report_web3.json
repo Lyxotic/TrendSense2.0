@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-06-14T03:50:57.847083",
+    "report_generated_time": "2026-06-23T02:57:55.107222",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.5,
+    "final_score": 6.65,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,75 +10,75 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "JiRAIYA: A Reputation-Based Hierarchical Federated Learning Framework on Web3",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2606.13180v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "From Agent Identity to Agent Economy: Measuring the Operational Readiness of ERC-8004 AI Agents",
+                    "title": "TRACE: A Threat Modelling Methodology for Distributed, Cloud-First, and Decentralized Organisations",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.12128v1",
+                    "link": "https://arxiv.org/pdf/2606.22214v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Zero Knowledge Verification of Transaction Guides for P2P Energy Trading in Distribution Networks",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2606.12085v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "MHOT: Height-Optimized Authenticated Data Structure for Blockchain State Commitment",
+                    "title": "Energy Trading Potential Index for a Peer-to-Peer Smart Grid Community with Flexible Prosumer Role Switching",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.11736v1",
+                    "link": "https://arxiv.org/pdf/2606.22087v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "PriME-Deal: Privacy-Preserving Bilateral Data Trading with Efficient Matchmaking and Auditable Fair Exchange on Blockchain",
+                    "title": "A Blockchain Consensus Mechanism for Distributed Electricity Trading",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.11539v1",
+                    "link": "https://arxiv.org/pdf/2606.21060v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Post-Quantum Secure Federated DeFi for Inclusive Banking",
+                    "title": "bioETH-Beacon: A Confidential On-Chain Genomic Beacon with Encrypted Counts, Filters, and Bounded Noise over a Fully Homomorphic EVM",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.10658v1",
+                    "link": "https://arxiv.org/pdf/2606.20315v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "From Transactions to Records: Reconceptualizing Blockchain Systems through a Lifecycle Lens",
+                    "title": "Privacy-Preserving Compliance on Public Ledgers via Selective Disclosure Authorization Schemes",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.10631v1",
+                    "link": "https://arxiv.org/pdf/2606.20760v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "snaproot: Decentralized File Integrity Verification Using Blockchain-Anchored Cryptographic Hashing",
+                    "title": "Repository-Level Solidity Code Generation with Large Language Models: From Prompting to Fine-Tuning",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.10625v1",
+                    "link": "https://arxiv.org/pdf/2606.19988v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Proof of Source of Funds: Efficient On-chain Provenance of Cryptoassets",
+                    "title": "EVM Workloads in the Wild: Evidence for Multi-Dimensional Gas Metering, State Growth, Delayed Execution, and Parallelism",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.10172v1",
+                    "link": "https://arxiv.org/pdf/2606.19869v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Parent-Hash DAG: A Cost Analysis of Constant-Time Append for On-Chain Registries",
+                    "title": "A Topos-Theoretic Interpretation of Blockchain Systems: Sheaves of Consensus and the Logic of Decentralized Truth",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.09593v1",
+                    "link": "https://arxiv.org/pdf/2606.19519v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Do Prediction Markets Match Option Prices? Bitcoin Threshold Evidence from Binance and Polymarket",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.19517v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.19501v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 0.44,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
                     "recent_commits": 20,
-                    "increase_pct": "-9.1%",
-                    "score_contribution": 0
+                    "increase_pct": "17.6%",
+                    "score_contribution": 0.88
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Real Madrid seeks special role for Luka Modric after retirement, and crypto has a cameo",
+                    "title": "Kraken\u2019s FIFA World Cup debut gets a spotlight as Egypt rallies past New Zealand in Group G",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Christian Pulisic substituted at halftime after precautionary injury",
+                    "title": "World Cup underdogs Cabo Verde highlight crypto\u2019s blind spot in global football",
                     "source": "Crypto Briefing"
                 }
             ]
