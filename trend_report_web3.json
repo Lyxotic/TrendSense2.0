@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-06-23T02:57:55.107222",
+    "report_generated_time": "2026-06-27T02:53:15.483358",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.65,
+    "final_score": 6.79,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,75 +10,75 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "TRACE: A Threat Modelling Methodology for Distributed, Cloud-First, and Decentralized Organisations",
+                    "title": "Tilikum: Transaction Fair Ordering on a DAG without Weak Edges",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.22214v1",
+                    "link": "https://arxiv.org/pdf/2606.27250v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Energy Trading Potential Index for a Peer-to-Peer Smart Grid Community with Flexible Prosumer Role Switching",
+                    "title": "zQR: A Verifiable QR-Driven zkSNARK Proof Verification Framework for Mobile Platforms",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.22087v1",
+                    "link": "https://arxiv.org/pdf/2606.27092v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "A Blockchain Consensus Mechanism for Distributed Electricity Trading",
+                    "title": "The Fungible Reserve Standard: A Deterministic Framework for Encoding Carrying Costs in Asset-Backed Tokens",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.21060v1",
+                    "link": "https://arxiv.org/pdf/2606.26704v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "bioETH-Beacon: A Confidential On-Chain Genomic Beacon with Encrypted Counts, Filters, and Bounded Noise over a Fully Homomorphic EVM",
+                    "title": "CyberChainBench: Can AI Agents Secure Smart Contracts Against Real-World On-Chain Vulnerabilities?",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.20315v1",
+                    "link": "https://arxiv.org/pdf/2606.26216v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Privacy-Preserving Compliance on Public Ledgers via Selective Disclosure Authorization Schemes",
+                    "title": "A Tattered Cloak of Invisibility: Measuring Anonymity Loss in Railgun on Ethereum",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.20760v1",
+                    "link": "https://arxiv.org/pdf/2606.25926v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Repository-Level Solidity Code Generation with Large Language Models: From Prompting to Fine-Tuning",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.19988v1",
+                    "title": "The Web4 Agent Economy: A Large-Scale Empirical Study of the Landscape, Challenges, and Opportunities",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2606.25876v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "EVM Workloads in the Wild: Evidence for Multi-Dimensional Gas Metering, State Growth, Delayed Execution, and Parallelism",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.19869v1",
+                    "title": "SkyChain Intelligence: A Blockchain-Secured Multi-Agent DRL Framework for Low-Altitude Embodied Artificial Intelligence",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2606.24193v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "A Topos-Theoretic Interpretation of Blockchain Systems: Sheaves of Consensus and the Logic of Decentralized Truth",
+                    "title": "Quantum-Resilient Decentralized AI Economies: Proof-of-Useful-Work and Post-Quantum Security",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.19519v1",
+                    "link": "https://arxiv.org/pdf/2606.24942v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Do Prediction Markets Match Option Prices? Bitcoin Threshold Evidence from Binance and Polymarket",
+                    "title": "OptChain: Achieving Optimal Throughput of Permissionless Blockchains",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.19517v1",
+                    "link": "https://arxiv.org/pdf/2606.23405v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.19501v1",
+                    "title": "Mitigating Adverse Selection in Concentrated Liquidity AMMs with Dynamic Fees: An Agent-Based Model Approach",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2606.23070v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.44,
+            "normalized_score": 0.83,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 20,
-                    "increase_pct": "17.6%",
-                    "score_contribution": 0.88
+                    "recent_commits": 16,
+                    "increase_pct": "33.3%",
+                    "score_contribution": 1.67
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Kraken\u2019s FIFA World Cup debut gets a spotlight as Egypt rallies past New Zealand in Group G",
+                    "title": "Netherlands beats Tunisia 3-1 as crypto prediction markets and fan tokens ride World Cup wave",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "World Cup underdogs Cabo Verde highlight crypto\u2019s blind spot in global football",
+                    "title": "Tether surpasses Ethereum in market cap, reaching $186B",
                     "source": "Crypto Briefing"
                 }
             ]

@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-06-23T02:57:51.744852",
+    "report_generated_time": "2026-06-27T02:53:11.299223",
     "niche": "RAG & Vector Databases",
-    "final_score": 6.58,
+    "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,75 +10,75 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "FeLoG: Scalable and Efficient Distributed Graph Embedding with Feedback Loop Mechanism",
+                    "title": "PhysRAG: Enhancing Physics-Awareness in Video Generation via Retrieval-Augmented Generation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.22180v1",
+                    "link": "https://arxiv.org/pdf/2606.26916v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "$\u03c0$-RAG: Oblivious Retrieval via Semantic Quantization and Transcendental Addressing for Large Language Models",
+                    "title": "LCAi: Life Cycle Assessment with big data fusion and retrieval-augmented generation-assisted interpretation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.22153v1",
+                    "link": "https://arxiv.org/pdf/2606.26857v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Novelty-Aware Agentic Retrieval: Comparing Research Contributions Through Structured Multi-Step Reasoning",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2606.22151v1",
+                    "title": "MIRROR: Novelty-Constrained Memory-Guided MCTS Red-Teaming for Agentic RAG",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2606.26793v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Nous: A Predictive World Model for Long-Term Agent Memory",
+                    "title": "Agents That Know Too Much: A Data-Centric Survey of Privacy in LLM Agents",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.22030v1",
+                    "link": "https://arxiv.org/pdf/2606.26627v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Agent-Assisted Side-Channel Attacks on Non-Prefix KV Cache in RAG",
+                    "title": "Temporal Validity in Retrieval Memory: Eliminating Stale-Fact Errors for AI Agents over Evolving Knowledge",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.21842v1",
+                    "link": "https://arxiv.org/pdf/2606.26511v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Fixed RAG Compression Collapses Measured Reader Scaling",
+                    "title": "MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.21807v1",
+                    "link": "https://arxiv.org/pdf/2606.26458v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Dissecting Agentic RAG: A Component Ablation for Multi-Hop QA with a Local 7B Model",
+                    "title": "Hybrid privacy-aware semantic search: SVD-truncated document geometry and CKKS-encrypted query reranking under a restricted threat model",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.21553v1",
+                    "link": "https://arxiv.org/pdf/2606.26373v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "From Embedding Geometry to Spectral Search: Energy Dispersion Networks For Vector Retrieval",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.21535v1",
+                    "title": "How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?",
+                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
+                    "link": "https://arxiv.org/pdf/2606.26346v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Fast-TurboQuant: A Multiplier-Free Online Vector Quantization Approach",
+                    "title": "Dziri Voicebot: An End-to-End Low-Resource Speech-to-Speech Conversational System for Algerian Dialect",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.21448v1",
+                    "link": "https://arxiv.org/pdf/2606.26003v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Context-Aware Generative AI for Automated Telecom Test Script Generation",
+                    "title": "Tracing Target Answers in Poisoned Retrieval Corpora via Token Influence Attribution",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.21151v1",
+                    "link": "https://arxiv.org/pdf/2606.25721v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.22,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 111,
-                    "increase_pct": "13.3%",
-                    "score_contribution": 0.66
+                    "recent_commits": 38,
+                    "increase_pct": "-63.8%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -88,8 +88,8 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 8,
-                    "increase_pct": "-66.7%",
+                    "recent_commits": 12,
+                    "increase_pct": "-47.8%",
                     "score_contribution": 0
                 }
             ]
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "langchain-agentx-cli 0.6.8",
+                    "title": "lc-agent-app 0.2.3",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "mambo-agents 0.2.0a26",
+                    "title": "elitea-sdk 0.7.58",
                     "source": "Pypi.org"
                 }
             ]
