@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-06-27T02:53:15.483358",
+    "report_generated_time": "2026-06-28T03:35:29.827493",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.79,
+    "final_score": 6.63,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,13 +72,13 @@
             ]
         },
         "developer": {
-            "normalized_score": 0.83,
+            "normalized_score": 0.38,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 16,
-                    "increase_pct": "33.3%",
-                    "score_contribution": 1.67
+                    "recent_commits": 15,
+                    "increase_pct": "15.4%",
+                    "score_contribution": 0.77
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Netherlands beats Tunisia 3-1 as crypto prediction markets and fan tokens ride World Cup wave",
-                    "source": "Crypto Briefing"
+                    "title": "pyrxd 0.10.0",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "Tether surpasses Ethereum in market cap, reaching $186B",
+                    "title": "\u00c1lex Baena scores winner against Uruguay and warns Spain\u2019s toughest tests are still ahead",
                     "source": "Crypto Briefing"
                 }
             ]

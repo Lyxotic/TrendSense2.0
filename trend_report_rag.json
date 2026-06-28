@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-06-27T02:53:11.299223",
+    "report_generated_time": "2026-06-28T03:35:25.896853",
     "niche": "RAG & Vector Databases",
-    "final_score": 6.5,
+    "final_score": 6.58,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,12 +72,12 @@
             ]
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 0.24,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 38,
-                    "increase_pct": "-63.8%",
+                    "recent_commits": 33,
+                    "increase_pct": "-69.2%",
                     "score_contribution": 0
                 },
                 {
@@ -88,9 +88,9 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 12,
-                    "increase_pct": "-47.8%",
-                    "score_contribution": 0
+                    "recent_commits": 16,
+                    "increase_pct": "14.3%",
+                    "score_contribution": 0.71
                 }
             ]
         },
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "lc-agent-app 0.2.3",
+                    "title": "osint-mcp added to PyPI",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "elitea-sdk 0.7.58",
+                    "title": "quiver-client 0.29.0",
                     "source": "Pypi.org"
                 }
             ]

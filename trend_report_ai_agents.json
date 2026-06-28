@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-06-27T02:53:04.627028",
+    "report_generated_time": "2026-06-28T03:35:20.249957",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 7.12,
+    "final_score": 7.79,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,7 +72,7 @@
             ]
         },
         "developer": {
-            "normalized_score": 1.76,
+            "normalized_score": 3.69,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,15 +82,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 37,
-                    "increase_pct": "5.7%",
-                    "score_contribution": 0.29
+                    "recent_commits": 40,
+                    "increase_pct": "21.2%",
+                    "score_contribution": 1.06
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
                     "recent_commits": 42,
-                    "increase_pct": "100.0%",
-                    "score_contribution": 5.0
+                    "increase_pct": "250.0%",
+                    "score_contribution": 10.0
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Patronus AI grabs $50M in funding to stress-test AI agents in simulated environments",
-                    "source": "SiliconANGLE News"
+                    "title": "FAA Announces AI Models To Fix Its Safety And Congestion Issues",
+                    "source": "Jalopnik"
                 },
                 {
-                    "title": "Frontiers | Association between vitamin D deficiency and incident varicose veins: a propensity score-matched cohort study",
-                    "source": "Frontiersin.org"
+                    "title": "Hi3D Launches an AI-Powered Workflow for 3D Printing Creators",
+                    "source": "GlobeNewswire"
                 }
             ]
         }
