@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-06-28T03:35:25.896853",
+    "report_generated_time": "2026-06-29T03:39:59.547442",
     "niche": "RAG & Vector Databases",
-    "final_score": 6.58,
+    "final_score": 6.91,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -9,6 +9,24 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "From Detection to Action: Using LLM Agents for Fault-Tolerant Control",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.28011v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "LLM Agents as Static Level-k Players in Behavioural Games",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.27845v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "SHIFT: Gate-Modulated Activation Steering for Knowledge Conflict Mitigation in Retrieval-Augmented Generation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.27786v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "PhysRAG: Enhancing Physics-Awareness in Video Generation via Retrieval-Augmented Generation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -50,34 +68,16 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2606.26373v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?",
-                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
-                    "link": "https://arxiv.org/pdf/2606.26346v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Dziri Voicebot: An End-to-End Low-Resource Speech-to-Speech Conversational System for Algerian Dialect",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.26003v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Tracing Target Answers in Poisoned Retrieval Corpora via Token Influence Attribution",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.25721v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.24,
+            "normalized_score": 1.17,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 33,
-                    "increase_pct": "-69.2%",
+                    "recent_commits": 32,
+                    "increase_pct": "-69.8%",
                     "score_contribution": 0
                 },
                 {
@@ -88,9 +88,9 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 16,
-                    "increase_pct": "14.3%",
-                    "score_contribution": 0.71
+                    "recent_commits": 17,
+                    "increase_pct": "70.0%",
+                    "score_contribution": 3.5
                 }
             ]
         },
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "osint-mcp added to PyPI",
+                    "title": "nodeproxy-tools 0.1.1",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "quiver-client 0.29.0",
+                    "title": "nodeproxy-tools 0.1.0",
                     "source": "Pypi.org"
                 }
             ]

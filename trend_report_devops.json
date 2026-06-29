@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-06-28T03:35:35.567029",
+    "report_generated_time": "2026-06-29T03:40:10.357245",
     "niche": "Cloud Native & DevOps",
     "final_score": 6.51,
     "alert_status": "PRE_TREND_ALERT",
@@ -10,6 +10,18 @@
             "normalized_score": 10,
             "data": [
                 {
+                    "title": "Building a Scalable, Reproducible, Evaluatable, and Closed-Loop Simulation Environment Foundation for Embodied Intelligence Cloud-Native Simulation Infrastructure for Embodied Intelligence Training, Evaluation, and Data Collection",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2606.27962v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Reasoning Beyond Prediction: From Data-Driven to Causal Software Engineering",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2606.27960v1",
+                    "published": "Last 7 Days"
+                },
+                {
                     "title": "CHAMB-GA: A Containerized HPC Scalable Microservice-Based Framework for Genetic Algorithms",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2606.27217v1",
@@ -18,7 +30,7 @@
                 {
                     "title": "BtrLog: Low-Latency Logging for Cloud Database Systems",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.27051v1",
+                    "link": "https://arxiv.org/pdf/2606.27051v2",
                     "published": "Last 7 Days"
                 },
                 {
@@ -56,18 +68,6 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2606.25553v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "A Comparison of Kubernetes Compliance Standards and Configuration Scanners",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.24438v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "CLI-Universe: Towards Verifiable Task Synthesis Engine for Terminal Agents",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.22883v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
@@ -76,7 +76,7 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 173,
+                    "recent_commits": 164,
                     "increase_pct": "1.2%",
                     "score_contribution": 0.06
                 },
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "\"It's So Special To Put On This Jersey\": JP Hurlbert Describes Joining Red Wings As Dream Come True",
-                    "source": "The Hockey News"
+                    "title": "petls-pytorch 1.0.1",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "twzrd-mcp added to PyPI",
+                    "title": "mlx-atomistic 0.0.1",
                     "source": "Pypi.org"
                 }
             ]

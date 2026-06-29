@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-06-28T03:35:29.827493",
+    "report_generated_time": "2026-06-29T03:40:03.688201",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.63,
+    "final_score": 6.56,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,13 +72,13 @@
             ]
         },
         "developer": {
-            "normalized_score": 0.38,
+            "normalized_score": 0.18,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
                     "recent_commits": 15,
-                    "increase_pct": "15.4%",
-                    "score_contribution": 0.77
+                    "increase_pct": "7.1%",
+                    "score_contribution": 0.36
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "pyrxd 0.10.0",
-                    "source": "Pypi.org"
+                    "title": "Argentina\u2019s World Cup win spotlights growing crypto ties between FIFA, fan tokens, and the beautiful game",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "\u00c1lex Baena scores winner against Uruguay and warns Spain\u2019s toughest tests are still ahead",
+                    "title": "Jordan scores first World Cup goal against Argentina as crypto and football deepen their embrace",
                     "source": "Crypto Briefing"
                 }
             ]

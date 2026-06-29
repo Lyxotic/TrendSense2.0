@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-06-28T03:35:20.249957",
+    "report_generated_time": "2026-06-29T03:39:53.560540",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 7.79,
+    "final_score": 7.81,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,69 +10,69 @@
             "normalized_score": 10,
             "data": [
                 {
+                    "title": "Agent-Native Immune System: Architecture, Taxonomy, and Engineering",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.28270v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "GBC: Gradient-Based Connections for Optimizing Multi-Agent Systems",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2606.28187v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "From Detection to Action: Using LLM Agents for Fault-Tolerant Control",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.28011v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "AI Persuasive Framing in Collective Dilemmas",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.27951v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "It Lied to a Doctor to Buy Poison Ingredients: Quantifying Real-World Misuse of Phone-use Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.27944v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "When Multi-Robot Systems Meet Agentic AI:Towards Embodied Collective Intelligence",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.27929v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Training Observable Control Policies to Expose Agent State Through Actions",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2606.27609v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "QueenBee Planner: Skill-Evolving Communication Topologies for Token-Efficient LLM Multi-Agent Systems",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2606.27492v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2606.27443v1",
+                    "published": "Last 7 Days"
+                },
+                {
                     "title": "Resilient Output Containment under Undisclosed Leader Dynamics and Actuator Attacks",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2606.27257v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "AgentX: Towards Agent-Driven Self-Iteration of Industrial Recommender Systems",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.26859v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "IDEA: Insensitive to Dynamics Mismatch via Effect Alignment for Sim-to-Real Transfer in Multi-Agent Control",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2606.26575v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Optimizing CUDA like a Human: Micro-Profiling Tools as Expert Surrogates for LLM-Based GPU Kernel Optimization",
-                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
-                    "link": "https://arxiv.org/pdf/2606.26453v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Closing the Loop to Discover Psychological Theories with an Automated Cognitive Scientist",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.26448v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.26298v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Augmentation with Dilution: A Large-Scale Empirical Study of Human Contributor Ecosystems After AI Coding Agent Adoption",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.26289v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.26057v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Can Trustless Agents Be Trusted? An Empirical Study of the ERC-8004 Decentralized AI Agent Ecosystem",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.26028v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.26203v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 3.69,
+            "normalized_score": 3.75,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -83,13 +83,13 @@
                 {
                     "repo_name": "crewAIInc/crewAI",
                     "recent_commits": 40,
-                    "increase_pct": "21.2%",
-                    "score_contribution": 1.06
+                    "increase_pct": "25.0%",
+                    "score_contribution": 1.25
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 42,
-                    "increase_pct": "250.0%",
+                    "recent_commits": 39,
+                    "increase_pct": "225.0%",
                     "score_contribution": 10.0
                 }
             ]
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "FAA Announces AI Models To Fix Its Safety And Congestion Issues",
-                    "source": "Jalopnik"
+                    "title": "What happens to your social media account in its afterlife?",
+                    "source": "ABC News (AU)"
                 },
                 {
-                    "title": "Hi3D Launches an AI-Powered Workflow for 3D Printing Creators",
-                    "source": "GlobeNewswire"
+                    "title": "Ford hired AI and sacked humans. It backfired badly",
+                    "source": "The-independent.com"
                 }
             ]
         }
