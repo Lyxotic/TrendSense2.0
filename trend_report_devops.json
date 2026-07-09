@@ -1,8 +1,8 @@
 {
-    "report_generated_time": "2026-06-29T03:40:10.357245",
+    "report_generated_time": "2026-07-09T02:45:12.330466",
     "niche": "Cloud Native & DevOps",
-    "final_score": 6.51,
-    "alert_status": "PRE_TREND_ALERT",
+    "final_score": 8.36,
+    "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
@@ -10,81 +10,81 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Building a Scalable, Reproducible, Evaluatable, and Closed-Loop Simulation Environment Foundation for Embodied Intelligence Cloud-Native Simulation Infrastructure for Embodied Intelligence Training, Evaluation, and Data Collection",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2606.27962v1",
+                    "title": "Monitoring Vulnerabilities in Next-Generation Automotive Operating Systems",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2607.07226v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Reasoning Beyond Prediction: From Data-Driven to Causal Software Engineering",
+                    "title": "Seekable OCI: Lazy-Loading Container Images via Range-Request Indexing",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2607.06868v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "GraspIT: A Dataset Bridging the Sim-to-Real gap and back for Validated Grasping SE(3) Pose Generation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2607.05869v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Can Large Language Models Generate Observability-Aware Code?",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2607.05785v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Can LLMs Really Recover Microservice Failures? A Recovery-Aware Evaluation of Diagnosis-to-Action Reasoning",
                     "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2606.27960v1",
+                    "link": "https://arxiv.org/pdf/2607.04623v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "CHAMB-GA: A Containerized HPC Scalable Microservice-Based Framework for Genetic Algorithms",
+                    "title": "Balancing Microservices and Monolithic Architectures",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.27217v1",
+                    "link": "https://arxiv.org/pdf/2607.03898v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "BtrLog: Low-Latency Logging for Cloud Database Systems",
+                    "title": "SkillFab: An Agent-Native Skill Production Platform",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.27051v2",
+                    "link": "https://arxiv.org/pdf/2607.03780v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Toward Agentic SysAdmin: Rethinking System Administration with AI Agents",
+                    "title": "Agentic Orchestration of HPC Applications in Cloud",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.26960v1",
+                    "link": "https://arxiv.org/pdf/2607.02925v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Are LLMs Ready for Anti-Pattern Detection in Microservice Architectures?",
+                    "title": "SMOCS: A Streaming Framework for Simplified Deployment, Monitoring, and Optimization of ML Systems in Production",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.26927v1",
+                    "link": "https://arxiv.org/pdf/2607.02731v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Beyond Feedforward Networks: Reentry Neural Systems as the Fundamental Basis of Subjecthood and Intrinsic Safety of Next-Generation AGI",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.26406v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "The Dependency Black Hole",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.25949v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Interference-Aware Cross-Application Placement: A Multi-Objective Optimization Approach for Microservice Clusters",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.25922v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Latency-Aware Service Placement using Neural Combinatorial Optimisers for Edge--Cloud Systems",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.25553v1",
+                    "title": "HTTP REST API Structure Learning",
+                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
+                    "link": "https://arxiv.org/pdf/2607.02442v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.03,
+            "normalized_score": 5.33,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 164,
-                    "increase_pct": "1.2%",
-                    "score_contribution": 0.06
+                    "recent_commits": 207,
+                    "increase_pct": "13.1%",
+                    "score_contribution": 0.66
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 14,
-                    "increase_pct": "-6.7%",
-                    "score_contribution": 0
+                    "recent_commits": 24,
+                    "increase_pct": "200.0%",
+                    "score_contribution": 10.0
                 }
             ]
         },
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "petls-pytorch 1.0.1",
+                    "title": "tusker-nuclei added to PyPI",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "mlx-atomistic 0.0.1",
-                    "source": "Pypi.org"
+                    "title": "How long will a mourning dove sit on her eggs?",
+                    "source": "Lifesciencesworld.com"
                 }
             ]
         }

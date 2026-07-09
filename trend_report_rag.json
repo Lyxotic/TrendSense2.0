@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-06-29T03:39:59.547442",
+    "report_generated_time": "2026-07-09T02:45:03.656861",
     "niche": "RAG & Vector Databases",
-    "final_score": 6.91,
+    "final_score": 6.69,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,74 +10,74 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "From Detection to Action: Using LLM Agents for Fault-Tolerant Control",
+                    "title": "MMAgent-R$^2$: Learning to Rerank and Reject for Agentic mRAG",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.28011v1",
+                    "link": "https://arxiv.org/pdf/2607.07383v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "LLM Agents as Static Level-k Players in Behavioural Games",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.27845v1",
+                    "title": "Interpretable Uncertainty for Adaptive Retrieval and Reasoning in Question Answering",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2607.07380v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "SHIFT: Gate-Modulated Activation Steering for Knowledge Conflict Mitigation in Retrieval-Augmented Generation",
+                    "title": "Large Behavior Model: A Promptable Digital Twin of the Retail Customer",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.27786v1",
+                    "link": "https://arxiv.org/pdf/2607.06993v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "PhysRAG: Enhancing Physics-Awareness in Video Generation via Retrieval-Augmented Generation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.26916v1",
+                    "title": "End-to-End LLM Flight Planning with RAG-based Memory and Multi-modal Coach Agent",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2607.06964v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "LCAi: Life Cycle Assessment with big data fusion and retrieval-augmented generation-assisted interpretation",
+                    "title": "DynaKRAG: A Unified Framework for Learnable Evidence Control in Multi-Hop Retrieval-Augmented Generation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.26857v1",
+                    "link": "https://arxiv.org/pdf/2607.06507v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "MIRROR: Novelty-Constrained Memory-Guided MCTS Red-Teaming for Agentic RAG",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2606.26793v1",
+                    "title": "Healthier LLMs: Retrieval-Augmented Generation for Public Health Question Answering",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2607.06641v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Agents That Know Too Much: A Data-Centric Survey of Privacy in LLM Agents",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.26627v1",
+                    "title": "Mitigating Errors in LLM-Generated Web API Invocations via Retrieval-Augmented Generation and Constrained Decoding",
+                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
+                    "link": "https://arxiv.org/pdf/2607.05936v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Temporal Validity in Retrieval Memory: Eliminating Stale-Fact Errors for AI Agents over Evolving Knowledge",
+                    "title": "Code-Level Cost Function Generation for Spatial Image Steganography Using RAG-Enhanced Large Language Models",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.26511v1",
+                    "link": "https://arxiv.org/pdf/2607.05868v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation",
+                    "title": "PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.26458v1",
+                    "link": "https://arxiv.org/pdf/2607.05483v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Hybrid privacy-aware semantic search: SVD-truncated document geometry and CKKS-encrypted query reranking under a restricted threat model",
+                    "title": "Privilege and confidentiality in generative AI workflows",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2606.26373v1",
+                    "link": "https://arxiv.org/pdf/2607.05479v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 1.17,
+            "normalized_score": 0.56,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 32,
-                    "increase_pct": "-69.8%",
+                    "recent_commits": 31,
+                    "increase_pct": "-3.1%",
                     "score_contribution": 0
                 },
                 {
@@ -88,9 +88,9 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 17,
-                    "increase_pct": "70.0%",
-                    "score_contribution": 3.5
+                    "recent_commits": 28,
+                    "increase_pct": "33.3%",
+                    "score_contribution": 1.67
                 }
             ]
         },
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "nodeproxy-tools 0.1.1",
+                    "title": "securevector-sdk-langchain 1.2.1",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "nodeproxy-tools 0.1.0",
+                    "title": "licos-agent-runtime 0.2.26",
                     "source": "Pypi.org"
                 }
             ]
