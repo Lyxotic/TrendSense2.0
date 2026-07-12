@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-07-09T02:45:07.115972",
+    "report_generated_time": "2026-07-12T02:31:54.595073",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.61,
+    "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -9,6 +9,36 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "TRM-Raft: A Byzantine-Resistant Raft Consensus via Integrated Trust and Reputation Model",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2607.08666v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Secure Decentralized Federated Learning via Gossip and Virtual Voting",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2607.08651v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Stablecoins under Stress in a National Economy: Transaction-Level Evidence from Austrian Crypto-Asset Service Providers",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2607.08524v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Threshold Authorization Without Threshold Signatures: Signature-Agnostic MPC Custody",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2607.08226v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Closed-Loop Dynamic Validator Node Scaling in Private Substrate Blockchains Using Takagi-Sugeno Fuzzy Inference",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2607.07901v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Embedded Blockchain Infrastructure Management (eBIM): A RISC-V-Empowered Hardware--Software Co-Design Framework Towards Trustworthy Blockchain",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -28,57 +58,27 @@
                     "published": "Last 7 Days"
                 },
                 {
+                    "title": "Forensic Schema for Psychological Manipulation in Cyber Fraud: LLM-Driven Victim Reports Analysis",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2607.07751v1",
+                    "published": "Last 7 Days"
+                },
+                {
                     "title": "MoLIFE: Methodology, Technologies, and Challenges for Mobile Live Intelligent Forensics Examination",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2607.07269v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Finding and Understanding Miscompilation Bugs in the Solidity Compiler",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.07217v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Multi-Trigger Crypto CAT Bonds with On-Chain Settlement: Valuation and Optimal Design",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.06981v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Crossroads: A Smart Contract Layer for Chain-Abstracted Assets",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.06525v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Ordering by Unanimity: Giving Applications Sequencing Rights Without Breaking Composability",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.06144v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "The Masks We (Think We) Wear: Privacy Threats of Browser-Extension Wallets in the Web3 Ecosystem",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2607.06141v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Layer 2 Coordinated Trusted Setup for Continuous CRS Generation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.05776v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.31,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 27,
-                    "increase_pct": "12.5%",
-                    "score_contribution": 0.62
+                    "recent_commits": 18,
+                    "increase_pct": "-48.6%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Bitmine acquires 40,000 Ethereum for $72M from FalconX and Kraken",
+                    "title": "OpenAI safety teams now report to VP of Research as leadership exodus reshapes the company",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Strike launches \u2018volatility-proof\u2019 Bitcoin loans amid bear market, but at a cost",
+                    "title": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report",
                     "source": "Cointelegraph"
                 }
             ]

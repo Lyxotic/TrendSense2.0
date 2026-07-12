@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-07-09T02:44:59.404406",
+    "report_generated_time": "2026-07-12T02:31:47.368846",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.68,
+    "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,69 +10,69 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Agent Delivery Engineering Predictive Reliability Framework",
+                    "title": "ProjAgent: Procedural Similarity Retrieval for Repository-Level Code Generation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.07689v1",
+                    "link": "https://arxiv.org/pdf/2607.08691v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Agents",
+                    "title": "SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.07676v1",
+                    "link": "https://arxiv.org/pdf/2607.08681v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Creativity from Friction: Human-AI Interaction for Exploratory Structural Design",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.07521v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Mitigating Taint-Style Vulnerabilities in MCP Servers via Security-Aware Tool Descriptions",
-                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
-                    "link": "https://arxiv.org/pdf/2607.07461v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Multi-Agent Robotic Control with Onboard Vision-Language Models",
+                    "title": "WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2607.07403v1",
+                    "link": "https://arxiv.org/pdf/2607.08662v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Agentic Data Environments",
+                    "title": "Multi-Modal, Multi-Environment Machine Teaching for Robust Reward Learning",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.07397v1",
+                    "link": "https://arxiv.org/pdf/2607.08647v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Progressive Crystallization: Turning Agent Exploration into Deterministic, Lower-Cost Workflows in Production",
+                    "title": "The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.07052v1",
+                    "link": "https://arxiv.org/pdf/2607.08495v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Learning social norms enhances compatibility in dynamic human-AI coordination",
+                    "title": "OmniFood-Bench: Evaluating VLMs for Nutrient Reasoning and Personalized Health Advice",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2607.08423v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Token-Flow Firewall: Semantic Runtime Auditing for Persistent AI Agents",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.07021v1",
+                    "link": "https://arxiv.org/pdf/2607.08395v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "When Agents Go Rogue: Activation-Based Detection of Malicious Behaviors in Multi-Agent Systems",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2607.06807v1",
+                    "title": "Out of Sight: Compression-Aware Content Protection against Agentic Crawlers",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2607.08180v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Finding H. pylori in the Fine Print: Evidence-Linked Multi-Agent Case Finding from Gastric Biopsy Reports",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2607.06435v1",
+                    "title": "TTHE: Test-Time Harness Evolution",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2607.08124v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2607.08066v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.52,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,15 +82,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 12,
-                    "increase_pct": "-68.4%",
+                    "recent_commits": 19,
+                    "increase_pct": "-9.5%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 88,
-                    "increase_pct": "31.3%",
-                    "score_contribution": 1.57
+                    "recent_commits": 63,
+                    "increase_pct": "-38.8%",
+                    "score_contribution": 0
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "ThunderCats x SilverHawks #4 Preview: Dead Friends Are Best Friends",
-                    "source": "Bleeding Cool News"
+                    "title": "Mouser's Rise of the Robots Program Explores Humanoid Design Considerations",
+                    "source": "Antaranews.com"
                 },
                 {
-                    "title": "Security Now 1086: The Apex Agentic Adversary",
-                    "source": "Twit.tv"
+                    "title": "Meta Removes AI Image Generation Feature That Used Public Instagram Posts Following User Backlash",
+                    "source": "PetaPixel"
                 }
             ]
         }

@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-07-09T02:45:12.330466",
+    "report_generated_time": "2026-07-12T02:31:59.016676",
     "niche": "Cloud Native & DevOps",
-    "final_score": 8.36,
+    "final_score": 8.63,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -9,6 +9,24 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2607.08768v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Log-Insight: Automating Microservice Incident Diagnosis via Neuro-Symbolic Log Analysis",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2607.08529v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Self-Adaptive Anomaly Detection with Reinforcement Learning and Human Feedback in Connected Vehicles",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2607.08373v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Monitoring Vulnerabilities in Next-Generation Automotive Operating Systems",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -50,40 +68,22 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2607.03780v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "Agentic Orchestration of HPC Applications in Cloud",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.02925v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "SMOCS: A Streaming Framework for Simplified Deployment, Monitoring, and Optimization of ML Systems in Production",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.02731v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "HTTP REST API Structure Learning",
-                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
-                    "link": "https://arxiv.org/pdf/2607.02442v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 5.33,
+            "normalized_score": 6.1,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 207,
-                    "increase_pct": "13.1%",
-                    "score_contribution": 0.66
+                    "recent_commits": 239,
+                    "increase_pct": "44.0%",
+                    "score_contribution": 2.2
                 },
                 {
                     "repo_name": "docker/compose",
                     "recent_commits": 24,
-                    "increase_pct": "200.0%",
+                    "increase_pct": "242.9%",
                     "score_contribution": 10.0
                 }
             ]
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "tusker-nuclei added to PyPI",
-                    "source": "Pypi.org"
+                    "title": "PicoPhone: a fast native wrapper around libphonenumber",
+                    "source": "Rubyflow.com"
                 },
                 {
-                    "title": "How long will a mourning dove sit on her eggs?",
-                    "source": "Lifesciencesworld.com"
+                    "title": "Show HN: Persistent Claude Code sessions you drive as a terminal or a chat",
+                    "source": "Github.com"
                 }
             ]
         }
