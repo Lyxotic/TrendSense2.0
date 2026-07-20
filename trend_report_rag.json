@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-07-12T02:31:51.354846",
+    "report_generated_time": "2026-07-20T03:09:33.850639",
     "niche": "RAG & Vector Databases",
-    "final_score": 7.83,
+    "final_score": 7.67,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,87 +10,87 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "VocaDet: Sample-Driven Open-Vocabulary Object Detection and Segmentation via Visual Tokenization and Vector Database Retrieval",
+                    "title": "A Human-Centric Evaluation of a Retrieval-Augmented Generation System for Explaining Quebec Insurance Contracts",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.08541v1",
+                    "link": "https://arxiv.org/pdf/2607.15963v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality",
+                    "title": "TARS: A Theory-of-Mind Agent for Personalized In-IDE Code Comprehension",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.08495v1",
+                    "link": "https://arxiv.org/pdf/2607.15948v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Conversational Retrieval and On-the-Fly Knowledge Modeling of Historical Penitentiary Repression Records",
+                    "title": "EduGuard: A Safe RAG-Based LLM Tutor for Programming Education",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.08459v1",
+                    "link": "https://arxiv.org/pdf/2607.15738v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs",
+                    "title": "Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2607.15095v2",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "AI Prototyper: A Figma Plugin for Decomposition-Based GUI Prototyping with LLMs",
                     "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2607.08269v1",
+                    "link": "https://arxiv.org/pdf/2607.14830v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting",
+                    "title": "Is External Database Protection Static in Retrieval-Augmented Generation? Rethinking Privacy Preservation under Dynamic Queries",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.07858v1",
+                    "link": "https://arxiv.org/pdf/2607.14811v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "VectorizationLLM: Smart Vectorization Based AI Assistant",
+                    "title": "Almost Navigable Graphs",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.07846v1",
+                    "link": "https://arxiv.org/pdf/2607.14564v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "MMAgent-R$^2$: Learning to Rerank and Reject for Agentic mRAG",
+                    "title": "DS@GT ARC at LongEval: Citation Integrity and Factual Grounding in Scientific QA",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.07383v1",
+                    "link": "https://arxiv.org/pdf/2607.14400v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Interpretable Uncertainty for Adaptive Retrieval and Reasoning in Question Answering",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2607.07380v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE",
+                    "title": "Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.07740v1",
+                    "link": "https://arxiv.org/pdf/2607.14387v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Large Behavior Model: A Promptable Digital Twin of the Retail Customer",
+                    "title": "MamaBench: Benchmarking LLM Robustness in Maternal and Child Health Diagnosis through Counterfactual Clinical Perturbation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.06993v1",
+                    "link": "https://arxiv.org/pdf/2607.14385v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 3.81,
+            "normalized_score": 3.33,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 36,
-                    "increase_pct": "28.6%",
-                    "score_contribution": 1.43
-                },
-                {
-                    "repo_name": "qdrant/qdrant",
-                    "recent_commits": 0,
+                    "recent_commits": 28,
                     "increase_pct": "0.0%",
                     "score_contribution": 0
                 },
                 {
-                    "repo_name": "chroma-core/chroma",
-                    "recent_commits": 37,
-                    "increase_pct": "236.4%",
+                    "repo_name": "qdrant/qdrant",
+                    "recent_commits": 2,
+                    "increase_pct": "200.0%",
                     "score_contribution": 10.0
+                },
+                {
+                    "repo_name": "chroma-core/chroma",
+                    "recent_commits": 11,
+                    "increase_pct": "-70.3%",
+                    "score_contribution": 0
                 }
             ]
         },
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "synthelion 1.1.0",
+                    "title": "mentedb-langchain 0.17.3",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "mentedb-langchain 0.11.4",
+                    "title": "gosce-llm-observability-orchestration-agent-langchain-community added to PyPI",
                     "source": "Pypi.org"
                 }
             ]

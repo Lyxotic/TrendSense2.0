@@ -1,8 +1,8 @@
 {
-    "report_generated_time": "2026-07-12T02:31:59.016676",
+    "report_generated_time": "2026-07-20T03:09:44.318875",
     "niche": "Cloud Native & DevOps",
-    "final_score": 8.63,
-    "alert_status": "TRENDING_NOW",
+    "final_score": 6.5,
+    "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
@@ -10,81 +10,81 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.08768v1",
+                    "title": "SQUIRO: A Framework for Security-Aware Quantum-Classical Scheduling on Kubernetes",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2607.16089v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Log-Insight: Automating Microservice Incident Diagnosis via Neuro-Symbolic Log Analysis",
+                    "title": "ADASCALE: An Adaptive Scaling and Placement Framework for Microservices Under Dynamics",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.08529v1",
+                    "link": "https://arxiv.org/pdf/2607.15681v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Self-Adaptive Anomaly Detection with Reinforcement Learning and Human Feedback in Connected Vehicles",
+                    "title": "Ground-Side Mission Plan Compilation with Policy-as-Code Guardrails for Cloud-Native Satellite Platforms",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.08373v1",
+                    "link": "https://arxiv.org/pdf/2607.14798v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Monitoring Vulnerabilities in Next-Generation Automotive Operating Systems",
+                    "title": "Valinor: Architectural Support for Fast, Energy-Efficient and Programmable Physical Memory Allocation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.07226v1",
+                    "link": "https://arxiv.org/pdf/2607.14789v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Seekable OCI: Lazy-Loading Container Images via Range-Request Indexing",
+                    "title": "Design and Implementation of a Microservice-Architecture Master Control System for AIMS",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.06868v1",
+                    "link": "https://arxiv.org/pdf/2607.13561v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "GraspIT: A Dataset Bridging the Sim-to-Real gap and back for Validated Grasping SE(3) Pose Generation",
+                    "title": "How Far Can Root Cause Analysis Go on Real-World Telemetry Data?",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.05869v1",
+                    "link": "https://arxiv.org/pdf/2607.13548v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Can Large Language Models Generate Observability-Aware Code?",
+                    "title": "Evaluating Frontier AI Agents as Autonomous Clinical Security Auditors",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.05785v1",
+                    "link": "https://arxiv.org/pdf/2607.13411v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Can LLMs Really Recover Microservice Failures? A Recovery-Aware Evaluation of Diagnosis-to-Action Reasoning",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2607.04623v1",
+                    "title": "A Measurement Plane for Quantum Networking",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2607.13291v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Balancing Microservices and Monolithic Architectures",
+                    "title": "Taming the Drift: Context-aware Repair of Dockerfile Drift during Software Evolution",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.03898v1",
+                    "link": "https://arxiv.org/pdf/2607.12541v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "SkillFab: An Agent-Native Skill Production Platform",
+                    "title": "Self-Improving AI Coding Agents Through Accumulated Behavioral Rules: A Closed-Loop Framework",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.03780v1",
+                    "link": "https://arxiv.org/pdf/2607.13091v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 6.1,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 239,
-                    "increase_pct": "44.0%",
-                    "score_contribution": 2.2
+                    "recent_commits": 243,
+                    "increase_pct": "-20.3%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 24,
-                    "increase_pct": "242.9%",
-                    "score_contribution": 10.0
+                    "recent_commits": 6,
+                    "increase_pct": "-75.0%",
+                    "score_contribution": 0
                 }
             ]
         },
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "PicoPhone: a fast native wrapper around libphonenumber",
-                    "source": "Rubyflow.com"
+                    "title": "Traders bet against SpaceX following IPO debut as short interest hits 29% of float",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Show HN: Persistent Claude Code sessions you drive as a terminal or a chat",
-                    "source": "Github.com"
+                    "title": "15 Buildings Full of Butterflies (Street Art by Mantra)",
+                    "source": "Streetartutopia.com"
                 }
             ]
         }
