@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-08-25T06:00:06.693717",
+    "report_generated_time": "2026-08-25T06:15:14.379032",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.84,
+    "final_score": 6.85,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,7 +72,7 @@
             ]
         },
         "developer": {
-            "normalized_score": 0.98,
+            "normalized_score": 1.01,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -88,9 +88,9 @@
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 65,
-                    "increase_pct": "14.0%",
-                    "score_contribution": 0.7
+                    "recent_commits": 66,
+                    "increase_pct": "15.8%",
+                    "score_contribution": 0.79
                 }
             ]
         },
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Palantir and Anduril Partner with U.S. State Department for Digital Freedom of Expression Program",
-                    "source": "Naturalnews.com"
+                    "title": "Banks and regulators join quantum-resistant crypto transfer pilot on NEAR testnet",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Anti-Surveillance Protests Escalate: Over 160 Flock Cameras Destroyed Across the U.S.",
+                    "title": "Palantir and Anduril Partner with U.S. State Department for Digital Freedom of Expression Program",
                     "source": "Naturalnews.com"
                 }
             ]

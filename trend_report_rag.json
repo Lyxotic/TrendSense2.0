@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-08-25T06:00:12.749108",
+    "report_generated_time": "2026-08-25T06:15:18.296707",
     "niche": "RAG & Vector Databases",
     "final_score": 6.51,
     "alert_status": "PRE_TREND_ALERT",
@@ -98,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "langchain-vectoramp 0.3.1",
+                    "title": "synapse-cli-agent 0.1.42",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "langchain-azure-ai 1.2.9",
+                    "title": "langchain-vectoramp 0.3.1",
                     "source": "Pypi.org"
                 }
             ]

@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-08-25T06:00:30.405487",
+    "report_generated_time": "2026-08-25T06:15:24.633905",
     "niche": "Cloud Native & DevOps",
-    "final_score": 7.42,
+    "final_score": 7.53,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,7 +72,7 @@
             ]
         },
         "developer": {
-            "normalized_score": 2.64,
+            "normalized_score": 2.95,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
@@ -83,8 +83,8 @@
                 {
                     "repo_name": "docker/compose",
                     "recent_commits": 72,
-                    "increase_pct": "105.7%",
-                    "score_contribution": 5.29
+                    "increase_pct": "118.2%",
+                    "score_contribution": 5.91
                 }
             ]
         },
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Barberries\u2019 Berberine May Lower Blood Sugar and Cholesterol, Dietitians Say",
-                    "source": "Naturalnews.com"
+                    "title": "What are the benefits of bats?",
+                    "source": "Lifesciencesworld.com"
                 },
                 {
-                    "title": "Xperiencify Reviews & Complaints",
-                    "source": "Themattwalshblog.com"
+                    "title": "ocean-agent 0.4.40",
+                    "source": "Pypi.org"
                 }
             ]
         }
