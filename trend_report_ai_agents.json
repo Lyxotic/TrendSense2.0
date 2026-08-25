@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-07-20T03:09:29.081201",
+    "report_generated_time": "2026-08-25T06:00:06.693717",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.59,
+    "final_score": 6.84,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,69 +10,69 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "When Do Multi-Agent Systems Help? An Information Bottleneck Perspective",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2607.16133v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Knowledge-Centric Agents for Workflow Generation",
+                    "title": "Prime Agent: A Self-Improving RLM Harness",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.15845v1",
+                    "link": "https://arxiv.org/pdf/2608.23552v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Data-Native Global Optimization for Big Data K-means Clustering",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.15835v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Do Agents Dream of False Memories? Black-box Visual Attacks on Long-term Memory in Multimodal AI Agents",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.15657v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "From Neural Intent to Cryptographic Authorization: Governing Agentic Workflows",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.15596v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Coercion and Deception in AI-to-AI Management: An Agentic Benchmark of Unprompted Escalation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.15434v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2607.15257v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "AutoSynthesis: An agentic system for automated meta-analysis",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.15247v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Plover: Steering GUI Agents through Plan-Centric Interaction",
+                    "title": "Can Coding Agents Build Robust Baselines? A Skill-Based Approach for Automating the Medical Imaging Model-Development Pipeline",
                     "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2607.15193v1",
+                    "link": "https://arxiv.org/pdf/2608.23336v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "BrainPilot: Automating Brain Discovery with Agentic Research",
+                    "title": "First Demonstration of Multi-Agent LLM System for Million-Scale Optical Link Management in Global Production AIDCs",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2608.23145v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "ARGUS: MCP-Grounded Root Cause Analysis for Kubernetes Incidents",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.15079v2",
+                    "link": "https://arxiv.org/pdf/2608.23084v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "The Compaction Cliff in Long-Running AI Agent Memory",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.22752v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Does Rank Still Matter? Position Bias When AI Agents Shop on Our Behalf",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.22697v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Poetic Heritage for Culturally Grounded Emotional Support: An Interaction Design Framework and Its Multimodal Agentic Instantiation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.22639v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "HANSARD: A Reference Architecture for Forensic Readiness, Runtime Witnessing, and Graded Attribution in Autonomous Multi-Agent AI Systems",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2608.22512v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "JetStream: Generating Query Accelerators for Existing Database Systems",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.22476v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Role-Specialized Mixture-of-Agents with Open-Weight LLMs for Clinical Prediction",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.22176v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.26,
+            "normalized_score": 0.98,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,15 +82,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 22,
-                    "increase_pct": "15.8%",
-                    "score_contribution": 0.79
+                    "recent_commits": 29,
+                    "increase_pct": "45.0%",
+                    "score_contribution": 2.25
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 61,
-                    "increase_pct": "-1.6%",
-                    "score_contribution": 0
+                    "recent_commits": 65,
+                    "increase_pct": "14.0%",
+                    "score_contribution": 0.7
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Security is no longer a human scale thing, it is machine scale: Pankaj Rohatgi, Google",
-                    "source": "The Times of India"
+                    "title": "Palantir and Anduril Partner with U.S. State Department for Digital Freedom of Expression Program",
+                    "source": "Naturalnews.com"
                 },
                 {
-                    "title": "India's IT model is out of date. Can the industry reinvent itself?",
-                    "source": "The Times of India"
+                    "title": "Anti-Surveillance Protests Escalate: Over 160 Flock Cameras Destroyed Across the U.S.",
+                    "source": "Naturalnews.com"
                 }
             ]
         }

@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-07-20T03:09:37.784099",
+    "report_generated_time": "2026-08-25T06:00:19.464529",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.69,
+    "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,75 +10,75 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Beyond Detection: Agentic Attack Synthesis and Simulation for Smart Contracts",
+                    "title": "A Threshold Homomorphic Blockchain Architecture for Secure and Scalable IoT Sensor Data Aggregation",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.15673v1",
+                    "link": "https://arxiv.org/pdf/2608.23396v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier",
+                    "title": "Cryptocurrencies in the Quantum Age: Migration Paths to PQC",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.15258v1",
+                    "link": "https://arxiv.org/pdf/2608.22924v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "The Dynamic Verifiable Multi-Agent Human Agentic Loyalty Loop (DVM-HALL) Model and the Net Human-Agent Score (NHAS) in Autonomous Commerce",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2607.13998v1",
+                    "title": "A Study of Bluetooth Access Control Based on NFT Soft Pairing",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.22754v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Fair on the Surface: Transaction-Ordering Bias and MEV in Mysticeti DAG-based BFT Protocol",
+                    "title": "Obscura-PQ: Post-Quantum Privacy-Preserving Protocol for the Algorand Blockchain Using Lattice-Based Linkable Ring Signatures",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.13378v1",
+                    "link": "https://arxiv.org/pdf/2608.22645v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Experimental demonstration of scalable quantum blockchain with exponentially superior quantum communication complexity",
+                    "title": "On SSI-based Private Decentralized Bidding",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.12250v1",
+                    "link": "https://arxiv.org/pdf/2608.22525v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "A fault-tolerant quantum blockchain deployed on commercial telecommunications network",
+                    "title": "Mitigating Error Propagation in Chain-of-Thought: A Tree-of-Thought Framework for Smart Contract Repair",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.12249v1",
+                    "link": "https://arxiv.org/pdf/2608.22345v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Cardano's Voltaire Governance: Complete Specification and Research Program",
+                    "title": "TessIndex: Capability Verified Identity System for the Agent Economy",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.11601v1",
+                    "link": "https://arxiv.org/pdf/2608.21942v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Time Is Money: Incentivized Causal Transaction Ordering",
+                    "title": "Systematization of Knowledge: Formal Verification of Consensus Protocols",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.11496v1",
+                    "link": "https://arxiv.org/pdf/2608.21935v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Blockchain-Linked Auditable Decision Management for Telecom/IoT Fraud-Control Requests",
+                    "title": "VTRQ: Enabling Verifiable Trajectory Range Queries in Hybrid-Storage Blockchains",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.09259v1",
+                    "link": "https://arxiv.org/pdf/2608.21314v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "TRM-Raft: A Byzantine-Resistant Raft Consensus via Integrated Trust and Reputation Model",
+                    "title": "Catching the Rug: Early Prediction of Fraudulent Memecoins on Solana via Machine Learning",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2607.08666v1",
+                    "link": "https://arxiv.org/pdf/2608.20271v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 0.56,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 22,
-                    "increase_pct": "22.2%",
-                    "score_contribution": 1.11
+                    "recent_commits": 15,
+                    "increase_pct": "-6.2%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Traders bet against SpaceX following IPO debut as short interest hits 29% of float",
-                    "source": "Crypto Briefing"
+                    "title": "Bitcoin\u00e2\u0080\u0099s\u00c2\u00a0latest\u00c2\u00a023% weekly surge\u00c2\u00a0tied to a favorable regulatory climate incoming, as CLARITY Act vote nears",
+                    "source": "Naturalnews.com"
                 },
                 {
-                    "title": "South Korea opens the door wider for foreign investors to trade won-denominated bonds",
+                    "title": "Burnham to deliver long-range missile blueprints to Zelensky in Kyiv visit",
                     "source": "Crypto Briefing"
                 }
             ]
