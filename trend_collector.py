@@ -170,37 +170,39 @@ def run_analysis(niche_key, config):
 
     # 2. Academic Research (arXiv)
     print("--- Fetching arXiv Research ---")
-    query = "abs:(" + " OR ".join(f'"{kw}"' for kw in config["keywords"]) + ")" 
+    query = "abs:(" + " OR ".join(f'"{kw}"' for kw in config["keywords"]) + ")"
     params = {"search_query": query, "max_results": 10, "sortBy": "submittedDate"}
-    try:
-    res = requests.get(
-        ARXIV_API_URL,
-        params=params,
-        timeout=30,
-        headers={"User-Agent": "TrendSense2.0/1.0"}
-    )
-    res.raise_for_status()
-    root = ET.fromstring(res.content)
-except Exception as e:
-    print(f"  [!] arXiv fetch/parse error: {e}")
-    print(f"  [!] HTTP status: {res.status_code if 'res' in locals() else 'unknown'}")
-    print(f"  [!] Response preview: {res.text[:300] if 'res' in locals() else 'unavailable'}")
-    root = ET.Element("feed")
-    
-    papers = []
-    NS = {'atom': 'http://www.w3.org/2005/Atom'}
-    for entry in root.findall('atom:entry', NS):
-        title = clean_text(entry.find('atom:title', NS).text)
-        link = entry.find("atom:link[@type='application/pdf']", NS)
-        pdf_url = link.attrib['href'] if link is not None else "#"
-        
-        papers.append({
-            "title": title,
-            "summary": generate_topic_summary(title, "paper"),
-            "link": pdf_url,
-            "published": "Last 7 Days"
-        })
 
+    papers = []
+
+    try:
+        res = requests.get(
+            ARXIV_API_URL,
+            params=params,
+            timeout=30,
+            headers={"User-Agent": "TrendSense2.0/1.0"}
+        )
+        res.raise_for_status()
+        root = ET.fromstring(res.content)
+
+        NS = {'atom': 'http://www.w3.org/2005/Atom'}
+
+        for entry in root.findall('atom:entry', NS):
+            title = clean_text(entry.find('atom:title', NS).text)
+            link = entry.find("atom:link[@type='application/pdf']", NS)
+            pdf_url = link.attrib['href'] if link is not None else "#"
+
+            papers.append({
+                "title": title,
+                "summary": generate_topic_summary(title, "paper"),
+                "link": pdf_url,
+                "published": "Last 7 Days"
+            })
+
+    except Exception as e:
+        print(f"  [!] arXiv fetch/parse error: {e}")
+        print(f"  [!] HTTP status: {res.status_code if 'res' in locals() else 'unknown'}")
+        print(f"  [!] Response preview: {res.text[:300] if 'res' in locals() else 'unavailable'}")
     # 3. Industry Buzz (Live via NewsAPI)
     print("--- Fetching Industry Buzz ---")
     buzz_data = []
