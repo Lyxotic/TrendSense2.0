@@ -18,7 +18,7 @@ GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini
 # NOTE: Replace 'YOUR_GITHUB_TOKEN' if you have a PAT for higher rate limits.
 GITHUB_TOKEN = os.environ.get("GH_TOKEN", "YOUR_LOCAL_TESTING_TOKEN")
 GITHUB_API_URL = "https://api.github.com/repos/{owner}/{repo}/commits"
-ARXIV_API_URL = "http://export.arxiv.org/api/query?"
+ARXIV_API_URL = "https://export.arxiv.org/api/query?"
 OUTPUT_FILE = "trend_report.json"
 
 #   News API:
@@ -172,8 +172,20 @@ def run_analysis(niche_key, config):
     print("--- Fetching arXiv Research ---")
     query = "abs:(" + " OR ".join(f'"{kw}"' for kw in config["keywords"]) + ")" 
     params = {"search_query": query, "max_results": 10, "sortBy": "submittedDate"}
-    res = requests.get(ARXIV_API_URL, params=params, timeout=15)
+    try:
+    res = requests.get(
+        ARXIV_API_URL,
+        params=params,
+        timeout=30,
+        headers={"User-Agent": "TrendSense2.0/1.0"}
+    )
+    res.raise_for_status()
     root = ET.fromstring(res.content)
+except Exception as e:
+    print(f"  [!] arXiv fetch/parse error: {e}")
+    print(f"  [!] HTTP status: {res.status_code if 'res' in locals() else 'unknown'}")
+    print(f"  [!] Response preview: {res.text[:300] if 'res' in locals() else 'unavailable'}")
+    root = ET.Element("feed")
     
     papers = []
     NS = {'atom': 'http://www.w3.org/2005/Atom'}
