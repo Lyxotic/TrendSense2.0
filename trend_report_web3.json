@@ -1,84 +1,23 @@
 {
-    "report_generated_time": "2026-08-25T06:15:21.356736",
+    "report_generated_time": "2026-08-26T01:09:35.934518",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.5,
+    "final_score": 3.04,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 10,
-            "data": [
-                {
-                    "title": "A Threshold Homomorphic Blockchain Architecture for Secure and Scalable IoT Sensor Data Aggregation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.23396v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Cryptocurrencies in the Quantum Age: Migration Paths to PQC",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.22924v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "A Study of Bluetooth Access Control Based on NFT Soft Pairing",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.22754v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Obscura-PQ: Post-Quantum Privacy-Preserving Protocol for the Algorand Blockchain Using Lattice-Based Linkable Ring Signatures",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.22645v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "On SSI-based Private Decentralized Bidding",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.22525v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Mitigating Error Propagation in Chain-of-Thought: A Tree-of-Thought Framework for Smart Contract Repair",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.22345v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "TessIndex: Capability Verified Identity System for the Agent Economy",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.21942v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Systematization of Knowledge: Formal Verification of Consensus Protocols",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.21935v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "VTRQ: Enabling Verifiable Trajectory Range Queries in Hybrid-Storage Blockchains",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.21314v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Catching the Rug: Early Prediction of Fraudulent Memecoins on Solana via Machine Learning",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.20271v1",
-                    "published": "Last 7 Days"
-                }
-            ]
+            "normalized_score": 0,
+            "data": []
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 1.54,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 15,
-                    "increase_pct": "-6.2%",
-                    "score_contribution": 0
+                    "recent_commits": 21,
+                    "increase_pct": "61.5%",
+                    "score_contribution": 3.08
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,11 +31,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "ECB\u2019s Cipollone rules out stagflation, reassures on inflation outlook",
+                    "title": "JPMorgan sees gold trading between $4,500 and $5,000 as Jackson Hole looms",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "United States cancels joint amphibious drill with South Korea amid Iran tensions and diplomatic shifts",
+                    "title": "Ox Alpha processes 11.6 trillion tokens in three days, dwarfing OpenRouter\u2019s previous record",
                     "source": "Crypto Briefing"
                 }
             ]

@@ -1,78 +1,17 @@
 {
-    "report_generated_time": "2026-08-25T06:15:14.379032",
+    "report_generated_time": "2026-08-26T01:08:28.416681",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.85,
+    "final_score": 3.06,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 10,
-            "data": [
-                {
-                    "title": "Prime Agent: A Self-Improving RLM Harness",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.23552v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Can Coding Agents Build Robust Baselines? A Skill-Based Approach for Automating the Medical Imaging Model-Development Pipeline",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2608.23336v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "First Demonstration of Multi-Agent LLM System for Million-Scale Optical Link Management in Global Production AIDCs",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2608.23145v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "ARGUS: MCP-Grounded Root Cause Analysis for Kubernetes Incidents",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.23084v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "The Compaction Cliff in Long-Running AI Agent Memory",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.22752v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Does Rank Still Matter? Position Bias When AI Agents Shop on Our Behalf",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.22697v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Poetic Heritage for Culturally Grounded Emotional Support: An Interaction Design Framework and Its Multimodal Agentic Instantiation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.22639v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "HANSARD: A Reference Architecture for Forensic Readiness, Runtime Witnessing, and Graded Attribution in Autonomous Multi-Agent AI Systems",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2608.22512v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "JetStream: Generating Query Accelerators for Existing Database Systems",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.22476v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Role-Specialized Mixture-of-Agents with Open-Weight LLMs for Clinical Prediction",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.22176v1",
-                    "published": "Last 7 Days"
-                }
-            ]
+            "normalized_score": 0,
+            "data": []
         },
         "developer": {
-            "normalized_score": 1.01,
+            "normalized_score": 1.59,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,15 +21,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 29,
-                    "increase_pct": "45.0%",
-                    "score_contribution": 2.25
+                    "recent_commits": 32,
+                    "increase_pct": "88.2%",
+                    "score_contribution": 4.41
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 66,
-                    "increase_pct": "15.8%",
-                    "score_contribution": 0.79
+                    "recent_commits": 61,
+                    "increase_pct": "7.0%",
+                    "score_contribution": 0.35
                 }
             ]
         },
@@ -98,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Banks and regulators join quantum-resistant crypto transfer pilot on NEAR testnet",
-                    "source": "Crypto Briefing"
+                    "title": "Nvidia Groq 3 LPX enters full production for faster agentic AI inference",
+                    "source": "Digitimes"
                 },
                 {
-                    "title": "Palantir and Anduril Partner with U.S. State Department for Digital Freedom of Expression Program",
-                    "source": "Naturalnews.com"
+                    "title": "SpaceXAI to use Nvidia Vera CPUs for faster agentic AI at scale",
+                    "source": "Digitimes"
                 }
             ]
         }

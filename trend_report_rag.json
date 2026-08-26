@@ -1,84 +1,23 @@
 {
-    "report_generated_time": "2026-08-25T06:15:18.296707",
+    "report_generated_time": "2026-08-26T01:09:02.561295",
     "niche": "RAG & Vector Databases",
-    "final_score": 6.51,
+    "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 10,
-            "data": [
-                {
-                    "title": "TianoForge: An Automated Bug Triage Approach for the TianoCore UEFI Firmware Development Community",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.23259v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "The Laws of Context Allocation: Causal Measurement and Closed-Loop Orchestration in Generative Search",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.23252v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Retrieval-Augmented Classification of Environmental Mitigations in Hydropower Licensing Documents",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.23241v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Evaluating Modern RAG: Textual, Multimodal, Dense, and Late Interaction Pipelines",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.23176v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Coarse Indexing, Fine Evidence: Decoupling Temporal Granularity in Long-Video RAG",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.23011v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "TSWAP: A Multilingual Retrieval-Augmented Thai Wellness Advisor",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.22917v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Better Retrieval, Worse Robustness:How Multi-hop RAG Amplifies Upstream ASR Errors",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.22872v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "The Compaction Cliff in Long-Running AI Agent Memory",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.22752v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "FashionKG-RAG: Knowledge Graph-Enhanced Retrieval-Augmented Generation for Fashion Question Answering",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.22688v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Evaluating Inference-Time Defenses Against Package Hallucination in LLM-Generated Code",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.22652v1",
-                    "published": "Last 7 Days"
-                }
-            ]
+            "normalized_score": 0,
+            "data": []
         },
         "developer": {
-            "normalized_score": 0.03,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 52,
-                    "increase_pct": "2.0%",
-                    "score_contribution": 0.1
+                    "recent_commits": 38,
+                    "increase_pct": "-32.1%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -88,8 +27,8 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 8,
-                    "increase_pct": "-27.3%",
+                    "recent_commits": 7,
+                    "increase_pct": "-41.7%",
                     "score_contribution": 0
                 }
             ]
@@ -98,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "synapse-cli-agent 0.1.42",
+                    "title": "memnos-sdk 0.1.32",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "langchain-vectoramp 0.3.1",
+                    "title": "langchain-mongodb-deepagents-vfs 0.1.0",
                     "source": "Pypi.org"
                 }
             ]
