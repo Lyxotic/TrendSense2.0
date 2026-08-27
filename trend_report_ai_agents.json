@@ -1,17 +1,78 @@
 {
-    "report_generated_time": "2026-08-26T01:08:28.416681",
+    "report_generated_time": "2026-08-27T07:15:03.504696",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 3.06,
+    "final_score": 6.61,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 0,
-            "data": []
+            "normalized_score": 10,
+            "data": [
+                {
+                    "title": "Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.26093v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "SwarmWorld: Stigmergic technological evolution in societies of language-model agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.26081v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Candidate supply and answer selection shape the value of LLM judging in multi-agent systems",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2608.25937v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Repair or Resample? Rethinking Failure Debugging in LLM Multi-Agent Systems",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2608.25920v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Large Language Model Few-Shot Prompting with Dilemma Training Outperforms Human Surrogates in Predicting Patient Preferences",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.25771v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "HRGuard: Gating Relationship Manipulation in Multi-Turn Agentic AI Conversations",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.25340v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Scalable Tube-Tightened Multi-Agent Safety via Certified Constraint Reduction",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2608.25323v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "BixBench3: Benchmarking AI agents on research-study-scale computational biology tasks",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.25286v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Schr\u00f6dinger Bridges over Kinetic Swarming Models",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.25281v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "SPECMINE: A Large-Scale Corpus of Spec-Driven Development Artifacts",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.25202v1",
+                    "published": "Last 7 Days"
+                }
+            ]
         },
         "developer": {
-            "normalized_score": 1.59,
+            "normalized_score": 0.32,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -21,15 +82,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 32,
-                    "increase_pct": "88.2%",
-                    "score_contribution": 4.41
+                    "recent_commits": 25,
+                    "increase_pct": "19.0%",
+                    "score_contribution": 0.95
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 61,
-                    "increase_pct": "7.0%",
-                    "score_contribution": 0.35
+                    "recent_commits": 49,
+                    "increase_pct": "-23.4%",
+                    "score_contribution": 0
                 }
             ]
         },
@@ -37,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Nvidia Groq 3 LPX enters full production for faster agentic AI inference",
-                    "source": "Digitimes"
+                    "title": "When code is abundant",
+                    "source": "Gitlab.com"
                 },
                 {
-                    "title": "SpaceXAI to use Nvidia Vera CPUs for faster agentic AI at scale",
-                    "source": "Digitimes"
+                    "title": "Website Inspiration: Woblo",
+                    "source": "Onepagelove.com"
                 }
             ]
         }

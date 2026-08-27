@@ -1,22 +1,83 @@
 {
-    "report_generated_time": "2026-08-26T01:09:02.561295",
+    "report_generated_time": "2026-08-27T07:15:07.973199",
     "niche": "RAG & Vector Databases",
-    "final_score": 2.5,
+    "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 0,
-            "data": []
+            "normalized_score": 10,
+            "data": [
+                {
+                    "title": "PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.26091v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.25986v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Pointing the Way, Hiding the Destination: Practical Private Dense Retrieval at Scale",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.25735v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "When RAG Fails to Equalize: Geo-bias in Factual Question Answering over Public Companies",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.25717v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "A Storage-Retrieval Gap in Parametric Knowledge Graph Memory",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.25489v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "ReliableRAG: Combating Misinformation in Retrieval-Augmented Generation via Reliability-Guided Reasoning Chains",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2608.25487v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "PonsRAG: A Pons-Inspired RAG Bridging Cognitive Islands for Coordinated Long Narrative Reasoning",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2608.25486v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Interpretable physics-informed retrieval-augmented generation language model for end-to-end inorganic crystal synthesis planning",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2608.25392v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "SelfGraphRAG: Bridging the Supervision Gap in Graph-Based RAG with Synthetic QA Generation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.25123v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Less can be More: Relieving RAG Bottlenecks via Evidence Frontloading and Pressure-Adaptive Budgeting",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.25115v1",
+                    "published": "Last 7 Days"
+                }
+            ]
         },
         "developer": {
             "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 38,
-                    "increase_pct": "-32.1%",
+                    "recent_commits": 32,
+                    "increase_pct": "-36.0%",
                     "score_contribution": 0
                 },
                 {
@@ -27,8 +88,8 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 7,
-                    "increase_pct": "-41.7%",
+                    "recent_commits": 5,
+                    "increase_pct": "-66.7%",
                     "score_contribution": 0
                 }
             ]
@@ -37,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "memnos-sdk 0.1.32",
+                    "title": "helen-lang 1.46.4",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "langchain-mongodb-deepagents-vfs 0.1.0",
+                    "title": "boxxkite-client 0.8.0",
                     "source": "Pypi.org"
                 }
             ]
