@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-08-27T07:15:15.387819",
+    "report_generated_time": "2026-08-28T09:28:37.875636",
     "niche": "Cloud Native & DevOps",
-    "final_score": 8.25,
+    "final_score": 7.93,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -9,6 +9,24 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "KubeCap: A Framework for Capability Minimization in Kubernetes via Static Analysis and LLM-Assisted Rule Inference",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.26699v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Optimizing API Gateway Placement in Multi-Cloud Kubernetes",
+                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
+                    "link": "https://arxiv.org/pdf/2608.26573v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "DuMateBench: Evaluating Autonomous Agents in Complex Real-World Workflows",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.26546v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Retry Amplification in Distributed Systems: A Systematic Analysis of Retry Policies and Their Role in Cascading Failures",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -50,40 +68,22 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2608.22210v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "PRISM: Predictive Runtime In-place Scaling and Model Selection for Edge Microservices",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.21910v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "GOLEM: Modular Humanoid Autonomy Towards Electric Vehicle Battery Disassembly",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.21550v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Beyond Fault Localization: A Trajectory-Level Study of LLM Agents for Microservice Root Cause Analysis",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.21310v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 5.0,
+            "normalized_score": 4.08,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 57,
-                    "increase_pct": "200.0%",
-                    "score_contribution": 10.0
+                    "recent_commits": 121,
+                    "increase_pct": "163.0%",
+                    "score_contribution": 8.15
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 26,
-                    "increase_pct": "-65.8%",
+                    "recent_commits": 16,
+                    "increase_pct": "-78.9%",
                     "score_contribution": 0
                 }
             ]
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "On teaching AI how you work",
-                    "source": "Karlkoch.me"
+                    "title": "Obscura VPN lands on Windows, bringing its next, gen privacy to PC users",
+                    "source": "TechRadar"
                 },
                 {
-                    "title": "When code is abundant",
-                    "source": "Gitlab.com"
+                    "title": "ya-claw 2.5.0",
+                    "source": "Pypi.org"
                 }
             ]
         }

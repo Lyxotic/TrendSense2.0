@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-08-27T07:15:11.510950",
+    "report_generated_time": "2026-08-28T09:28:32.662048",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 8.25,
     "alert_status": "TRENDING_NOW",
@@ -9,6 +9,12 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "Information Flow Control in Off-Chain Components",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2608.26858v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Defending the Peg: Real-Time Dynamic Protection and Anomaly Detection in DeFi Stablecoins",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -62,12 +68,6 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2608.22345v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "TessIndex: Capability Verified Identity System for the Agent Economy",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.21942v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
@@ -76,8 +76,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 24,
-                    "increase_pct": "242.9%",
+                    "recent_commits": 29,
+                    "increase_pct": "480.0%",
                     "score_contribution": 10.0
                 },
                 {
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Russia escalates hybrid operations against Europe amid Ukraine conflict",
-                    "source": "Crypto Briefing"
+                    "title": "Bithumb wins 2 suits over mistaken Bitcoin credits: Report",
+                    "source": "Cointelegraph"
                 },
                 {
-                    "title": "Dubai airport sees 30% drop in traffic amid Iran conflict",
-                    "source": "Crypto Briefing"
+                    "title": "Bitcoin hit $80,000 but failed to restore BTC treasury premiums at Strategy, Twenty One Capital, or Metaplanet",
+                    "source": "CryptoSlate"
                 }
             ]
         }
