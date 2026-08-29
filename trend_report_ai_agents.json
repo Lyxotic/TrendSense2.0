@@ -1,78 +1,17 @@
 {
-    "report_generated_time": "2026-08-28T09:28:21.074591",
+    "report_generated_time": "2026-08-29T05:36:03.964452",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.71,
+    "final_score": 2.72,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 10,
-            "data": [
-                {
-                    "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.27454v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.27443v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "INTENT-AS-A-TOOL Makes it Easy to Track Agentic Misalignment",
-                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
-                    "link": "https://arxiv.org/pdf/2608.27348v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "One Model, Many Minds: Unlocking Multi-Agent Synergy in a Single Agent via Mixture of Roles",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2608.27338v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Naive Prompt Optimization: Rethinking the Need for Complex Prompt Search",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.27266v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Assessing Company Contributions to Societal Resilience: Extending the Societal Capacity Assessment Framework to Agentic AI",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.27238v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "GRAIN: Bridging Name and Narrative Shifts in Real-World Graph Reasoning through Invariance-Rewarded Agentic RL",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2608.27142v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "PLCBench: Can Autonomous LLM Agents Turn PLC Access into Sustained Physical Impact?",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.26882v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Accelerating Scientific Research with Gemini in the Real-World",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.26701v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Five Primitives for Governing Autonomous AI Agents at Runtime",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.26696v1",
-                    "published": "Last 7 Days"
-                }
-            ]
+            "normalized_score": 0,
+            "data": []
         },
         "developer": {
-            "normalized_score": 0.59,
+            "normalized_score": 0.62,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,15 +21,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 25,
-                    "increase_pct": "31.6%",
-                    "score_contribution": 1.58
+                    "recent_commits": 26,
+                    "increase_pct": "18.2%",
+                    "score_contribution": 0.91
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 57,
-                    "increase_pct": "3.6%",
-                    "score_contribution": 0.18
+                    "recent_commits": 68,
+                    "increase_pct": "19.3%",
+                    "score_contribution": 0.96
                 }
             ]
         },
@@ -98,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "An era when \u201ccollapse theory\u201d",
-                    "source": "Peoplesreview.com.np"
+                    "title": "TIME100 AI 2026: Meet the IIT Delhi graduate who helped build Aadhaar and is now on TIME\u2019s list of 100 most influential people in AI",
+                    "source": "The Times of India"
                 },
                 {
-                    "title": "Mental Health Workers Say Algorithmic Triage Is Hurting Patients",
-                    "source": "The American Prospect"
+                    "title": "What 90 days and a small budget can buy in AI agent security",
+                    "source": "Help Net Security"
                 }
             ]
         }
