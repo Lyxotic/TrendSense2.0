@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-08-29T05:36:03.964452",
+    "report_generated_time": "2026-08-30T03:35:09.366821",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 2.72,
+    "final_score": 2.75,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,7 +11,7 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.62,
+            "normalized_score": 0.71,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -27,9 +27,9 @@
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 68,
-                    "increase_pct": "19.3%",
-                    "score_contribution": 0.96
+                    "recent_commits": 72,
+                    "increase_pct": "24.1%",
+                    "score_contribution": 1.21
                 }
             ]
         },
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "TIME100 AI 2026: Meet the IIT Delhi graduate who helped build Aadhaar and is now on TIME\u2019s list of 100 most influential people in AI",
-                    "source": "The Times of India"
+                    "title": "loci-mem added to PyPI",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "What 90 days and a small budget can buy in AI agent security",
-                    "source": "Help Net Security"
+                    "title": "Is the AI Spending Bubble About to Burst? 250 Years of Market History Say No",
+                    "source": "Freerepublic.com"
                 }
             ]
         }
