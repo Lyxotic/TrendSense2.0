@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-08-30T03:35:09.366821",
+    "report_generated_time": "2026-08-31T03:33:58.141240",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 2.75,
+    "final_score": 2.68,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,7 +11,7 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.71,
+            "normalized_score": 0.51,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -21,15 +21,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 26,
-                    "increase_pct": "18.2%",
-                    "score_contribution": 0.91
+                    "recent_commits": 25,
+                    "increase_pct": "8.7%",
+                    "score_contribution": 0.43
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
                     "recent_commits": 72,
-                    "increase_pct": "24.1%",
-                    "score_contribution": 1.21
+                    "increase_pct": "22.0%",
+                    "score_contribution": 1.1
                 }
             ]
         },
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "loci-mem added to PyPI",
-                    "source": "Pypi.org"
+                    "title": "AGENTPR\u2122 Named Official Media Intelligence Platform for WPRF Abuja 2026",
+                    "source": "PRNewswire"
                 },
                 {
-                    "title": "Is the AI Spending Bubble About to Burst? 250 Years of Market History Say No",
-                    "source": "Freerepublic.com"
+                    "title": "Storm in a wine glass: As climate change and young consumers reshape the wine world, can India take advantage?",
+                    "source": "The Times of India"
                 }
             ]
         }

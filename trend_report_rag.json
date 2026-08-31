@@ -1,83 +1,22 @@
 {
-    "report_generated_time": "2026-08-30T03:35:14.413428",
+    "report_generated_time": "2026-08-31T03:34:03.034454",
     "niche": "RAG & Vector Databases",
-    "final_score": 6.5,
+    "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 10,
-            "data": [
-                {
-                    "title": "Decoupled I/O-Dominant Pipelines for Large-Scale Whole-Slide Image Embedding Extraction",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.27278v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "How AI Experiences Art: Emergent Aesthetic Structure in a Self-Supervised Multimodal Embedding Space",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.27121v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "SymbolLKG: Towards Verifiable Logical Reasoning via Logical Knowledge Graph and Symbolic Solvers",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2608.26836v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "hoBIT: A Profile-Aware Retrieval-Augmented Chatbot for University Academic Advising",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.26604v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Why RAGs Hallucinate: Penalty-Aware Evaluation of Retrieval-Augmented Generation Systems with Knowledge-Gap Canaries",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.26385v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Assessing the Downstream Utility of Evidence-Aware Retrieval in RAG",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.26379v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "On Scope Classification and Current Knowledge-Editing Benchmarks: A Negative Result, with INLAY as a Gradient-Free Case Study",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.26292v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.26091v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.25986v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Pointing the Way, Hiding the Destination: Practical Private Dense Retrieval at Scale",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2608.25735v1",
-                    "published": "Last 7 Days"
-                }
-            ]
+            "normalized_score": 0,
+            "data": []
         },
         "developer": {
             "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 38,
-                    "increase_pct": "-25.5%",
+                    "recent_commits": 36,
+                    "increase_pct": "-32.1%",
                     "score_contribution": 0
                 },
                 {
@@ -88,8 +27,8 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 4,
-                    "increase_pct": "-73.3%",
+                    "recent_commits": 5,
+                    "increase_pct": "-66.7%",
                     "score_contribution": 0
                 }
             ]
@@ -98,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "loci-mem added to PyPI",
+                    "title": "polign 0.4.0",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "by2kb 0.3.0",
+                    "title": "gosce-llm-orchestration-agent-opentelemetry-instrumentation-fastapi 0.1.0",
                     "source": "Pypi.org"
                 }
             ]
