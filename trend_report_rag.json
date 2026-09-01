@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-08-31T03:34:03.034454",
+    "report_generated_time": "2026-09-01T03:31:50.240281",
     "niche": "RAG & Vector Databases",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 36,
-                    "increase_pct": "-32.1%",
+                    "recent_commits": 25,
+                    "increase_pct": "-51.9%",
                     "score_contribution": 0
                 },
                 {
@@ -27,8 +27,8 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 5,
-                    "increase_pct": "-66.7%",
+                    "recent_commits": 7,
+                    "increase_pct": "-12.5%",
                     "score_contribution": 0
                 }
             ]
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "polign 0.4.0",
+                    "title": "langchaint 0.19.4",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "gosce-llm-orchestration-agent-opentelemetry-instrumentation-fastapi 0.1.0",
+                    "title": "synapse-cli-agent 0.1.44",
                     "source": "Pypi.org"
                 }
             ]

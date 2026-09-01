@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-08-31T03:34:36.923066",
+    "report_generated_time": "2026-09-01T03:32:23.364302",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 4.25,
+    "final_score": 2.91,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 5.0,
+            "normalized_score": 1.17,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 29,
-                    "increase_pct": "314.3%",
-                    "score_contribution": 10.0
+                    "recent_commits": 22,
+                    "increase_pct": "46.7%",
+                    "score_contribution": 2.33
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -31,11 +31,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Dear creators, stop using these: 10 social media clich\u00e9s that audiences are tired of seeing",
-                    "source": "The Times of India"
+                    "title": "Cronos halts network after Tectonic exploit involving estimated $75M",
+                    "source": "Cointelegraph"
                 },
                 {
-                    "title": "Egypt, Kuwait urge return to US-Iran negotiations, de-escalation",
+                    "title": "Yen breaches 160 against dollar, raising intervention concerns",
                     "source": "Crypto Briefing"
                 }
             ]
