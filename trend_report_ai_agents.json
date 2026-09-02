@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-01T03:31:46.499915",
+    "report_generated_time": "2026-09-02T02:49:59.379434",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 2.54,
+    "final_score": 2.67,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,7 +11,7 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.1,
+            "normalized_score": 0.49,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -22,14 +22,14 @@
                 {
                     "repo_name": "crewAIInc/crewAI",
                     "recent_commits": 25,
-                    "increase_pct": "-7.4%",
+                    "increase_pct": "-19.4%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 69,
-                    "increase_pct": "6.2%",
-                    "score_contribution": 0.31
+                    "recent_commits": 79,
+                    "increase_pct": "29.5%",
+                    "score_contribution": 1.48
                 }
             ]
         },
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Trump says Iran's Kharg is being 'blown to smithereens', but gives no details",
-                    "source": "Yahoo Entertainment"
+                    "title": "Tailcat: Tailscale Without Tailscale, by Tailscale",
+                    "source": "Tailscale.com"
                 },
                 {
-                    "title": "John Ternus to lead Apple into the age of AI",
-                    "source": "Digital Journal"
+                    "title": "Apple sues OpenAI, alleging employee accessed circuit plans after jumping ship",
+                    "source": "Crypto Briefing"
                 }
             ]
         }

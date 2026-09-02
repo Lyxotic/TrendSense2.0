@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-09-01T03:31:50.240281",
+    "report_generated_time": "2026-09-02T02:50:02.999279",
     "niche": "RAG & Vector Databases",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 25,
-                    "increase_pct": "-51.9%",
+                    "recent_commits": 26,
+                    "increase_pct": "-31.6%",
                     "score_contribution": 0
                 },
                 {
@@ -28,7 +28,7 @@
                 {
                     "repo_name": "chroma-core/chroma",
                     "recent_commits": 7,
-                    "increase_pct": "-12.5%",
+                    "increase_pct": "0.0%",
                     "score_contribution": 0
                 }
             ]
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "langchaint 0.19.4",
-                    "source": "Pypi.org"
+                    "title": "awesome-ai-security \u2014 Updated!",
+                    "source": "Kitploit.com"
                 },
                 {
-                    "title": "synapse-cli-agent 0.1.44",
+                    "title": "ws-rag-26 added to PyPI",
                     "source": "Pypi.org"
                 }
             ]

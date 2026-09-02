@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-01T03:32:23.364302",
+    "report_generated_time": "2026-09-02T02:50:06.054284",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 2.91,
+    "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 1.17,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 22,
-                    "increase_pct": "46.7%",
-                    "score_contribution": 2.33
+                    "recent_commits": 19,
+                    "increase_pct": "-9.5%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Cronos halts network after Tectonic exploit involving estimated $75M",
-                    "source": "Cointelegraph"
+                    "title": "Apple sues OpenAI, alleging employee accessed circuit plans after jumping ship",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Yen breaches 160 against dollar, raising intervention concerns",
-                    "source": "Crypto Briefing"
+                    "title": "Coinbase's India return: How a bespoke rupee on-ramp changes the game for foreign exchanges",
+                    "source": "The Times of India"
                 }
             ]
         }
