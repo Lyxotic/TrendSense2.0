@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-09-02T02:50:06.054284",
+    "report_generated_time": "2026-09-03T02:54:34.497345",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 19,
-                    "increase_pct": "-9.5%",
+                    "recent_commits": 20,
+                    "increase_pct": "-13.0%",
                     "score_contribution": 0
                 },
                 {
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Apple sues OpenAI, alleging employee accessed circuit plans after jumping ship",
-                    "source": "Crypto Briefing"
+                    "title": "Leaked compliance records shatter anonymity of 291 crypto users by matching names directly to wallet activity",
+                    "source": "CryptoSlate"
                 },
                 {
-                    "title": "Coinbase's India return: How a bespoke rupee on-ramp changes the game for foreign exchanges",
-                    "source": "The Times of India"
+                    "title": "Gold falls to $4,344 amid Middle East tensions, bond selloff",
+                    "source": "Crypto Briefing"
                 }
             ]
         }

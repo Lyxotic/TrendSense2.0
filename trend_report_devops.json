@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-09-02T02:50:09.977784",
+    "report_generated_time": "2026-09-03T02:54:53.692009",
     "niche": "Cloud Native & DevOps",
     "final_score": 4.25,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,14 +15,14 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 204,
-                    "increase_pct": "397.6%",
+                    "recent_commits": 212,
+                    "increase_pct": "247.5%",
                     "score_contribution": 10.0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 14,
-                    "increase_pct": "-53.3%",
+                    "recent_commits": 24,
+                    "increase_pct": "-7.7%",
                     "score_contribution": 0
                 }
             ]
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "What is the loudest bird?",
+                    "title": "Do monkeys only eat meat?",
                     "source": "Lifesciencesworld.com"
                 },
                 {
-                    "title": "igrep-tme 0.1.137",
-                    "source": "Pypi.org"
+                    "title": "Life Is Mostly Annoying Little Things",
+                    "source": "Psychology Today"
                 }
             ]
         }
