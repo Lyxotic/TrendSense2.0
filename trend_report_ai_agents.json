@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-03T02:53:57.170707",
+    "report_generated_time": "2026-09-04T02:53:08.249311",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 3.01,
+    "final_score": 3.05,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,7 +11,7 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 1.46,
+            "normalized_score": 1.57,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -21,15 +21,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 26,
-                    "increase_pct": "-3.7%",
+                    "recent_commits": 24,
+                    "increase_pct": "-11.1%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 92,
-                    "increase_pct": "87.8%",
-                    "score_contribution": 4.39
+                    "recent_commits": 99,
+                    "increase_pct": "94.1%",
+                    "score_contribution": 4.71
                 }
             ]
         },
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Incore Bank\u2019s AI Hits 99% Accuracy on KYC Checks",
-                    "source": "Biztoc.com"
+                    "title": "Broadcom raises AI chip forecast as Big Tech keeps writing bigger checks",
+                    "source": "The Times of India"
                 },
                 {
-                    "title": "The Case for Buying Comfort Systems USA Stock More Than 20% Below Its All-Time High",
-                    "source": "Biztoc.com"
+                    "title": "Enigma",
+                    "source": "Kitploit.com"
                 }
             ]
         }

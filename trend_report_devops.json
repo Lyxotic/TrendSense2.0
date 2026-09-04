@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-03T02:54:53.692009",
+    "report_generated_time": "2026-09-04T02:53:37.252773",
     "niche": "Cloud Native & DevOps",
-    "final_score": 4.25,
+    "final_score": 2.79,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,19 +11,19 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 5.0,
+            "normalized_score": 0.83,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 212,
-                    "increase_pct": "247.5%",
-                    "score_contribution": 10.0
+                    "recent_commits": 145,
+                    "increase_pct": "-8.8%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 24,
-                    "increase_pct": "-7.7%",
-                    "score_contribution": 0
+                    "recent_commits": 20,
+                    "increase_pct": "33.3%",
+                    "score_contribution": 1.67
                 }
             ]
         },
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Do monkeys only eat meat?",
-                    "source": "Lifesciencesworld.com"
+                    "title": "US journalist gets 2 years in prison for acting as illegal agent for China",
+                    "source": "Business Standard"
                 },
                 {
-                    "title": "Life Is Mostly Annoying Little Things",
-                    "source": "Psychology Today"
+                    "title": "How much sugar do I add to 2 cups of water for hummingbirds?",
+                    "source": "Lifesciencesworld.com"
                 }
             ]
         }

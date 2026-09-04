@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-09-03T02:54:34.497345",
+    "report_generated_time": "2026-09-04T02:53:32.664523",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 20,
-                    "increase_pct": "-13.0%",
+                    "recent_commits": 15,
+                    "increase_pct": "-48.3%",
                     "score_contribution": 0
                 },
                 {
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Leaked compliance records shatter anonymity of 291 crypto users by matching names directly to wallet activity",
+                    "title": "How stablecoins are quietly becoming the Fed\u2019s debt buyer of last resort",
                     "source": "CryptoSlate"
                 },
                 {
-                    "title": "Gold falls to $4,344 amid Middle East tensions, bond selloff",
-                    "source": "Crypto Briefing"
+                    "title": "awesome-web3-security \u2014 Updated!",
+                    "source": "Kitploit.com"
                 }
             ]
         }
