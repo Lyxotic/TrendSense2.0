@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-04T02:53:29.216299",
+    "report_generated_time": "2026-09-05T02:55:46.272954",
     "niche": "RAG & Vector Databases",
-    "final_score": 4.83,
+    "final_score": 4.28,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 6.67,
+            "normalized_score": 5.1,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 39,
-                    "increase_pct": "-2.5%",
-                    "score_contribution": 0
+                    "recent_commits": 44,
+                    "increase_pct": "25.7%",
+                    "score_contribution": 1.29
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -27,9 +27,9 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 12,
-                    "increase_pct": "200.0%",
-                    "score_contribution": 10.0
+                    "recent_commits": 9,
+                    "increase_pct": "80.0%",
+                    "score_contribution": 4.0
                 }
             ]
         },
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "tenet-langchain 0.5.0",
+                    "title": "wickra-exchange added to PyPI",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "trulens-providers-langchain 2.14.0",
-                    "source": "Pypi.org"
+                    "title": "Senior Machine Learning Engineer \u2013 Remote \u2013 NLP / LLM",
+                    "source": "Nlppeople.com"
                 }
             ]
         }

@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-04T02:53:08.249311",
+    "report_generated_time": "2026-09-05T02:55:11.379318",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 3.05,
+    "final_score": 2.78,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,7 +11,7 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 1.57,
+            "normalized_score": 0.79,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -21,15 +21,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 24,
-                    "increase_pct": "-11.1%",
-                    "score_contribution": 0
+                    "recent_commits": 28,
+                    "increase_pct": "7.7%",
+                    "score_contribution": 0.38
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 99,
-                    "increase_pct": "94.1%",
-                    "score_contribution": 4.71
+                    "recent_commits": 95,
+                    "increase_pct": "39.7%",
+                    "score_contribution": 1.99
                 }
             ]
         },
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Broadcom raises AI chip forecast as Big Tech keeps writing bigger checks",
-                    "source": "The Times of India"
+                    "title": "Tesla\u2019s Make-or-Break Cybercab Had a Quiet Debut",
+                    "source": "Wired"
                 },
                 {
-                    "title": "Enigma",
-                    "source": "Kitploit.com"
+                    "title": "OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
+                    "source": "The Times of India"
                 }
             ]
         }
