@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-09-05T02:56:19.397980",
+    "report_generated_time": "2026-09-06T02:55:03.258229",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "bramble v1.24.0-chromium",
-                    "source": "Kitploit.com"
+                    "title": "For Many Individual Traders, Prediction Markets Are Hot\u2014and Crypto Is Not",
+                    "source": "Biztoc.com"
                 },
                 {
-                    "title": "Bottomline Taps Chainlink to Bring 600 Banks On-Chain",
-                    "source": "Biztoc.com"
+                    "title": "Spot memory prices surge to four times contract prices as AI demand overwhelms supply",
+                    "source": "Crypto Briefing"
                 }
             ]
         }

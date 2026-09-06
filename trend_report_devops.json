@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-09-05T02:56:54.223249",
+    "report_generated_time": "2026-09-06T02:55:37.134955",
     "niche": "Cloud Native & DevOps",
     "final_score": 2.66,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,7 +15,7 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 164,
+                    "recent_commits": 162,
                     "increase_pct": "-0.6%",
                     "score_contribution": 0
                 },
@@ -31,11 +31,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Does my chinchilla need a wheel?",
-                    "source": "Lifesciencesworld.com"
+                    "title": "Will UCLA defensive back Scooter Jackson be in action for Week 1?",
+                    "source": "USA Today"
                 },
                 {
-                    "title": "bramble v1.24.0-chromium",
+                    "title": "mboxshell v0.7.3",
                     "source": "Kitploit.com"
                 }
             ]
