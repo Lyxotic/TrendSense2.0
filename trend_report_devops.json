@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-09-06T02:55:37.134955",
+    "report_generated_time": "2026-09-07T02:52:33.088602",
     "niche": "Cloud Native & DevOps",
     "final_score": 2.66,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 162,
-                    "increase_pct": "-0.6%",
+                    "recent_commits": 157,
+                    "increase_pct": "-6.0%",
                     "score_contribution": 0
                 },
                 {
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Will UCLA defensive back Scooter Jackson be in action for Week 1?",
-                    "source": "USA Today"
+                    "title": "What is the best habitat for hedgehogs?",
+                    "source": "Lifesciencesworld.com"
                 },
                 {
-                    "title": "mboxshell v0.7.3",
-                    "source": "Kitploit.com"
+                    "title": "NDSU Called Out Amid Blowout vs. Fordham",
+                    "source": "Heavy.com"
                 }
             ]
         }

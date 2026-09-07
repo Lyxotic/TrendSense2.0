@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-06T02:54:30.150578",
+    "report_generated_time": "2026-09-07T02:51:43.349649",
     "niche": "RAG & Vector Databases",
-    "final_score": 4.47,
+    "final_score": 4.21,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 5.64,
+            "normalized_score": 4.89,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 43,
-                    "increase_pct": "13.2%",
-                    "score_contribution": 0.66
+                    "recent_commits": 48,
+                    "increase_pct": "33.3%",
+                    "score_contribution": 1.67
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -27,9 +27,9 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 9,
-                    "increase_pct": "125.0%",
-                    "score_contribution": 6.25
+                    "recent_commits": 8,
+                    "increase_pct": "60.0%",
+                    "score_contribution": 3.0
                 }
             ]
         },
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "cdzzy-agenttest added to PyPI",
+                    "title": "langchain-anyapi 0.2.0",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "langchain-hubris 0.1.1",
+                    "title": "agt-agent 0.25.0",
                     "source": "Pypi.org"
                 }
             ]

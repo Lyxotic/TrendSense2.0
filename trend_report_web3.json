@@ -1,14 +1,75 @@
 {
-    "report_generated_time": "2026-09-06T02:55:03.258229",
+    "report_generated_time": "2026-09-07T02:51:58.950623",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 2.5,
+    "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 0,
-            "data": []
+            "normalized_score": 10,
+            "data": [
+                {
+                    "title": "Blockchain-Enabled Secure Logging for Fiscal Electronic Mechanisms: Evaluation of the Greek eSEND and myDATA Tax Systems",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2609.04356v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "A Black Box for Agentic Processes: Blockchain-Anchored Evidence for AI Agent Communication, Human Oversight, and GRC Audits",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2609.04017v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Barnacle: Adaptive Multi-Leader Scheduling for DAG-Based Consensus",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2609.03978v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Employing the Structural Power to Achieve Supply-Demand Balanced Payment Channel Networks",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2609.03600v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Otter: A Provably MEV-Resilient Automated Market Maker via Surplus Redistribution",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2609.03474v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Lantern: Finding Committable Transactions via Back-Propagation on DAGs",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2609.03315v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Population-Calibrated Graph Screening at 835-Million-Address Scale, with Label-Free Transfer to New Chains",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2609.03036v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Tempting the Agent: The Economics of Reputation without Persistent Identity in AI Agent Markets",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2609.02992v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Automated Vulnerability Injection in Smart Contracts Using Large Language Models",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2609.02624v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "A Survey of Decentralized Physical Infrastructure Network,Research Directions, and Open Challenges",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2609.02125v1",
+                    "published": "Last 7 Days"
+                }
+            ]
         },
         "developer": {
             "normalized_score": 0.0,
@@ -31,11 +92,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "For Many Individual Traders, Prediction Markets Are Hot\u2014and Crypto Is Not",
-                    "source": "Biztoc.com"
+                    "title": "US August job gains surpass forecasts, impacting Fed rate hike expectations",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Spot memory prices surge to four times contract prices as AI demand overwhelms supply",
+                    "title": "Bitcoin-gold correlation hits six-year high as NASDAQ LINK weakens",
                     "source": "Crypto Briefing"
                 }
             ]
