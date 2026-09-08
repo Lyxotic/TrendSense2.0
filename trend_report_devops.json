@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-07T02:52:33.088602",
+    "report_generated_time": "2026-09-08T03:01:53.852135",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.66,
+    "final_score": 2.72,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,19 +11,19 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.47,
+            "normalized_score": 0.62,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 157,
-                    "increase_pct": "-6.0%",
+                    "recent_commits": 153,
+                    "increase_pct": "-19.5%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 19,
-                    "increase_pct": "18.8%",
-                    "score_contribution": 0.94
+                    "recent_commits": 20,
+                    "increase_pct": "25.0%",
+                    "score_contribution": 1.25
                 }
             ]
         },
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "What is the best habitat for hedgehogs?",
-                    "source": "Lifesciencesworld.com"
+                    "title": "merced-ai 0.6.0",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "NDSU Called Out Amid Blowout vs. Fordham",
-                    "source": "Heavy.com"
+                    "title": "Sasha Vujacic on Luka Doncic's minicamp: 'He's finally a Laker'",
+                    "source": "USA Today"
                 }
             ]
         }

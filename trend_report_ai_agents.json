@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-07T02:51:08.607880",
+    "report_generated_time": "2026-09-08T03:00:51.959877",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 2.72,
+    "final_score": 2.69,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,7 +11,7 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.62,
+            "normalized_score": 0.54,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -21,15 +21,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 28,
-                    "increase_pct": "12.0%",
-                    "score_contribution": 0.6
+                    "recent_commits": 26,
+                    "increase_pct": "4.0%",
+                    "score_contribution": 0.2
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
                     "recent_commits": 90,
-                    "increase_pct": "25.0%",
-                    "score_contribution": 1.25
+                    "increase_pct": "28.6%",
+                    "score_contribution": 1.43
                 }
             ]
         },
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "My Adventure in AI-Assisted \u201cWriting\u201d and Detection",
-                    "source": "Opiniojuris.org"
+                    "title": "Europe cannot afford to lose the race for biomedical innovation",
+                    "source": "POLITICO.eu"
                 },
                 {
-                    "title": "Roborock Reports 27.6% Revenue Growth in H1 2026, Reinforcing Global Market Leadership",
-                    "source": "BusinessLine"
+                    "title": "DJI Launches the Osmo 360 II: Flagship 360-Degree Camera With a New 1-Inch HDR Sensor and User-Replaceable Lens",
+                    "source": "Fstoppers"
                 }
             ]
         }
