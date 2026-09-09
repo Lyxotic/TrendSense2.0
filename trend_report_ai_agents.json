@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-08T03:00:51.959877",
+    "report_generated_time": "2026-09-09T03:01:54.707234",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 2.69,
+    "final_score": 2.57,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,7 +11,7 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.54,
+            "normalized_score": 0.2,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -21,15 +21,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 26,
-                    "increase_pct": "4.0%",
-                    "score_contribution": 0.2
+                    "recent_commits": 27,
+                    "increase_pct": "8.0%",
+                    "score_contribution": 0.4
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 90,
-                    "increase_pct": "28.6%",
-                    "score_contribution": 1.43
+                    "recent_commits": 82,
+                    "increase_pct": "3.8%",
+                    "score_contribution": 0.19
                 }
             ]
         },
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Europe cannot afford to lose the race for biomedical innovation",
-                    "source": "POLITICO.eu"
+                    "title": "ByteDance joins AI elite in race to build next generation of world models",
+                    "source": "Business Standard"
                 },
                 {
-                    "title": "DJI Launches the Osmo 360 II: Flagship 360-Degree Camera With a New 1-Inch HDR Sensor and User-Replaceable Lens",
-                    "source": "Fstoppers"
+                    "title": "EU probing OpenAI agents' takeover of German site",
+                    "source": "The Times of India"
                 }
             ]
         }

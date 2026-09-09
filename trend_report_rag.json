@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-08T03:01:08.765110",
+    "report_generated_time": "2026-09-09T03:02:00.678647",
     "niche": "RAG & Vector Databases",
-    "final_score": 4.2,
+    "final_score": 4.23,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 4.87,
+            "normalized_score": 4.94,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 48,
-                    "increase_pct": "92.0%",
-                    "score_contribution": 4.6
+                    "recent_commits": 51,
+                    "increase_pct": "96.2%",
+                    "score_contribution": 4.81
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -27,8 +27,8 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 6,
-                    "increase_pct": "-14.3%",
+                    "recent_commits": 7,
+                    "increase_pct": "0.0%",
                     "score_contribution": 0
                 }
             ]
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "agt-agent 0.26.1",
+                    "title": "langchain-opsen 0.1.4",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "Machine Learning and Generative AI Engineer, Digital Transformation",
-                    "source": "Nlppeople.com"
+                    "title": "GSoC 2026 Final term: AI Chatbot to Guide User Workflow",
+                    "source": "Jenkins.io"
                 }
             ]
         }

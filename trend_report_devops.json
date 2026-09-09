@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-08T03:01:53.852135",
+    "report_generated_time": "2026-09-09T03:02:09.969550",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.72,
+    "final_score": 2.94,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,19 +11,19 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.62,
+            "normalized_score": 1.25,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 153,
-                    "increase_pct": "-19.5%",
+                    "recent_commits": 144,
+                    "increase_pct": "-37.1%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 20,
-                    "increase_pct": "25.0%",
-                    "score_contribution": 1.25
+                    "recent_commits": 21,
+                    "increase_pct": "50.0%",
+                    "score_contribution": 2.5
                 }
             ]
         },
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "merced-ai 0.6.0",
-                    "source": "Pypi.org"
+                    "title": "Pierre native Kienholz posts impressive college debut",
+                    "source": "KELOLAND.com"
                 },
                 {
-                    "title": "Sasha Vujacic on Luka Doncic's minicamp: 'He's finally a Laker'",
-                    "source": "USA Today"
+                    "title": "stackql-mcp-server 0.11.669",
+                    "source": "Pypi.org"
                 }
             ]
         }
