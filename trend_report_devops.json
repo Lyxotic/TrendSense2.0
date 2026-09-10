@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-09T03:02:09.969550",
+    "report_generated_time": "2026-09-10T03:03:40.641442",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.94,
+    "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,19 +11,19 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 1.25,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 144,
-                    "increase_pct": "-37.1%",
+                    "recent_commits": 180,
+                    "increase_pct": "-22.7%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 21,
-                    "increase_pct": "50.0%",
-                    "score_contribution": 2.5
+                    "recent_commits": 19,
+                    "increase_pct": "-20.8%",
+                    "score_contribution": 0
                 }
             ]
         },
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Pierre native Kienholz posts impressive college debut",
-                    "source": "KELOLAND.com"
+                    "title": "Peeta \u2013 Turn conversations into tasks, plans, and reminders across your life",
+                    "source": "Betalist.com"
                 },
                 {
-                    "title": "stackql-mcp-server 0.11.669",
-                    "source": "Pypi.org"
+                    "title": "US claims Chinese AI companies\u2019 core AI strategy is distilling American models",
+                    "source": "Theregister.com"
                 }
             ]
         }

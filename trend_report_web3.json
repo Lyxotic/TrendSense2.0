@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-09-09T03:02:04.282530",
+    "report_generated_time": "2026-09-10T03:03:04.686351",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 18,
-                    "increase_pct": "-5.3%",
+                    "recent_commits": 19,
+                    "increase_pct": "-5.0%",
                     "score_contribution": 0
                 },
                 {
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Iran plans Gulf exclusion zone, threatens US with missile escalation",
-                    "source": "Crypto Briefing"
+                    "title": "National Summit on Local News Preservation, Tetris, Google, More: Tuesday Evening ResearchBuzz, September 8, 2026",
+                    "source": "Researchbuzz.me"
                 },
                 {
-                    "title": "China records $119B trade surplus in August as streak above $100B continues",
-                    "source": "Crypto Briefing"
+                    "title": null,
+                    "source": "hackernoon.com"
                 }
             ]
         }
