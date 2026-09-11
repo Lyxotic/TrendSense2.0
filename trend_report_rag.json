@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-10T03:03:00.558100",
+    "report_generated_time": "2026-09-11T02:58:26.050687",
     "niche": "RAG & Vector Databases",
-    "final_score": 3.67,
+    "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,24 +11,24 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 3.33,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 26,
-                    "increase_pct": "-50.0%",
+                    "recent_commits": 27,
+                    "increase_pct": "-30.8%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "qdrant/qdrant",
-                    "recent_commits": 220,
-                    "increase_pct": "22000.0%",
-                    "score_contribution": 10.0
+                    "recent_commits": 0,
+                    "increase_pct": "-100.0%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "chroma-core/chroma",
                     "recent_commits": 4,
-                    "increase_pct": "-63.6%",
+                    "increase_pct": "-66.7%",
                     "score_contribution": 0
                 }
             ]
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "reporadar-papers added to PyPI",
+                    "title": "3tears-models 0.37.0",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "montycat 1.2.4",
-                    "source": "Pypi.org"
+                    "title": "Build a compliance assistant with AutoRAG and Red Hat OpenShift AI",
+                    "source": "Redhat.com"
                 }
             ]
         }
