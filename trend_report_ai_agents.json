@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-11T02:57:50.744577",
+    "report_generated_time": "2026-09-12T03:04:59.138811",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 2.77,
+    "final_score": 2.62,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,7 +11,7 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.76,
+            "normalized_score": 0.36,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -21,14 +21,14 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 35,
-                    "increase_pct": "45.8%",
-                    "score_contribution": 2.29
+                    "recent_commits": 34,
+                    "increase_pct": "21.4%",
+                    "score_contribution": 1.07
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 53,
-                    "increase_pct": "-46.5%",
+                    "recent_commits": 34,
+                    "increase_pct": "-64.2%",
                     "score_contribution": 0
                 }
             ]
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "There Is No Off Switch: How Surveillance Followed Us Home and Almost Everywhere",
-                    "source": "Freerepublic.com"
+                    "title": "AI could possibly end humanity but how are humans supposed to process that?",
+                    "source": "Business Standard"
                 },
                 {
-                    "title": "tessera-agent-memory added to PyPI",
-                    "source": "Pypi.org"
+                    "title": "Anthropic says it blocked misuse of its AI that could have supported biological weapons",
+                    "source": "The Times of India"
                 }
             ]
         }

@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-11T02:59:05.631279",
+    "report_generated_time": "2026-09-12T03:05:19.198477",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.57,
+    "final_score": 2.55,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,18 +11,18 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.19,
+            "normalized_score": 0.14,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 184,
-                    "increase_pct": "7.6%",
-                    "score_contribution": 0.38
+                    "recent_commits": 195,
+                    "increase_pct": "5.4%",
+                    "score_contribution": 0.27
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 17,
-                    "increase_pct": "-15.0%",
+                    "recent_commits": 19,
+                    "increase_pct": "0.0%",
                     "score_contribution": 0
                 }
             ]
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "\u2018He\u2019s The Reason I Fell In Love With Muay Thai\u2019 \u2013 Nadaka Honors His Mentor Ahead Of ONE SAMURAI 3",
-                    "source": "Onefc.com"
+                    "title": "Goatheads add international experience to blueline",
+                    "source": "Albuquerque Journal"
                 },
                 {
-                    "title": "Artemis II moonshot commander and pilot are hanging up their astronaut suits at NASA - NBC News",
-                    "source": "Slashdot.org"
+                    "title": "\u2018Inheriting The Warrior Spirit\u2019 \u2013 The Ancient Rituals And Sacred Beliefs Driving Yuya Wakamatsu\u2019s MMA Career",
+                    "source": "Onefc.com"
                 }
             ]
         }
