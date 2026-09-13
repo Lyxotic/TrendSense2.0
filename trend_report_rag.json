@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-09-12T03:05:07.553277",
+    "report_generated_time": "2026-09-13T03:07:26.526269",
     "niche": "RAG & Vector Databases",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 25,
-                    "increase_pct": "-43.2%",
+                    "recent_commits": 23,
+                    "increase_pct": "-46.5%",
                     "score_contribution": 0
                 },
                 {
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "orcakit-harness-agent 1.0.8",
+                    "title": "langchaint 0.22.0",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "uipath-langchain 0.16.18",
+                    "title": "confidence-escalation 0.2.0",
                     "source": "Pypi.org"
                 }
             ]

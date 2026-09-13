@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-09-12T03:04:59.138811",
+    "report_generated_time": "2026-09-13T03:06:51.120302",
     "niche": "AI Agents & Multi-Agent Systems",
     "final_score": 2.62,
     "alert_status": "PRE_TREND_ALERT",
@@ -28,7 +28,7 @@
                 {
                     "repo_name": "pydantic/pydantic-ai",
                     "recent_commits": 34,
-                    "increase_pct": "-64.2%",
+                    "increase_pct": "-61.8%",
                     "score_contribution": 0
                 }
             ]
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "AI could possibly end humanity but how are humans supposed to process that?",
+                    "title": "US, India join hands to strengthen security of undersea cable networks",
                     "source": "Business Standard"
                 },
                 {
-                    "title": "Anthropic says it blocked misuse of its AI that could have supported biological weapons",
-                    "source": "The Times of India"
+                    "title": "kanidm v1.11.2",
+                    "source": "Kitploit.com"
                 }
             ]
         }
