@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-09-13T03:07:26.526269",
+    "report_generated_time": "2026-09-14T03:19:34.919318",
     "niche": "RAG & Vector Databases",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 23,
-                    "increase_pct": "-46.5%",
+                    "recent_commits": 19,
+                    "increase_pct": "-60.4%",
                     "score_contribution": 0
                 },
                 {
@@ -28,7 +28,7 @@
                 {
                     "repo_name": "chroma-core/chroma",
                     "recent_commits": 5,
-                    "increase_pct": "-44.4%",
+                    "increase_pct": "-37.5%",
                     "score_contribution": 0
                 }
             ]
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "langchaint 0.22.0",
+                    "title": "3tears-models 0.39.0",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "confidence-escalation 0.2.0",
+                    "title": "langchain-dynamic-tools-middleware 0.2.1",
                     "source": "Pypi.org"
                 }
             ]

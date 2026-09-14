@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-13T03:08:05.019447",
+    "report_generated_time": "2026-09-14T03:19:42.207906",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.59,
+    "final_score": 2.62,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.27,
+            "normalized_score": 0.35,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
                     "recent_commits": 205,
-                    "increase_pct": "10.8%",
-                    "score_contribution": 0.54
+                    "increase_pct": "13.9%",
+                    "score_contribution": 0.69
                 },
                 {
                     "repo_name": "docker/compose",
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Atlanta\u2019s Ben Shelton advances to first-ever major final",
-                    "source": "Yahoo Entertainment"
+                    "title": "How long do golden Chinese algae eaters live?",
+                    "source": "Lifesciencesworld.com"
                 },
                 {
-                    "title": "New Mexico Open brings stars, record purse",
-                    "source": "Albuquerque Journal"
+                    "title": "Do hummingbirds drink fruit juice?",
+                    "source": "Lifesciencesworld.com"
                 }
             ]
         }
