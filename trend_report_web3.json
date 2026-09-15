@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-14T03:19:37.888624",
+    "report_generated_time": "2026-09-15T03:22:09.190832",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 2.67,
+    "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.5,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 18,
-                    "increase_pct": "20.0%",
-                    "score_contribution": 1.0
+                    "recent_commits": 14,
+                    "increase_pct": "-12.5%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "darknet-mcp-server",
-                    "source": "Kitploit.com"
+                    "title": "Trump agrees to new bipartisan ethics provision in massive crypto bill, Republican senators say",
+                    "source": "Biztoc.com"
                 },
                 {
-                    "title": "Attack on Strait of Hormuz shipping raises fears for oil supplies",
-                    "source": "Crypto Briefing"
+                    "title": "Trump agrees to new bipartisan ethics provision in massive crypto bill, GOP aide says - apnews.com",
+                    "source": "Slashdot.org"
                 }
             ]
         }
