@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-15T03:22:30.901568",
+    "report_generated_time": "2026-09-16T03:18:44.654985",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.71,
+    "final_score": 2.84,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,19 +11,19 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.61,
+            "normalized_score": 0.97,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 219,
-                    "increase_pct": "24.4%",
-                    "score_contribution": 1.22
+                    "recent_commits": 200,
+                    "increase_pct": "19.8%",
+                    "score_contribution": 0.99
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 20,
-                    "increase_pct": "0.0%",
-                    "score_contribution": 0
+                    "recent_commits": 25,
+                    "increase_pct": "19.0%",
+                    "score_contribution": 0.95
                 }
             ]
         },
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Is a blue jay an omen?",
-                    "source": "Lifesciencesworld.com"
+                    "title": "leji 1.5.0",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "\u2018The Last Photograph\u2019 Review: DC\u2019s Zack Snyder Comes Back Down To Earth With A Violent But Surprisingly Human Action Drama \u2013 Toronto Film Festival",
-                    "source": "Deadline"
+                    "title": "The Road Ahead: How Creators Are Combining OpenAI's GPT-6 Astra with Tripo AI for 3D Generation",
+                    "source": "PRNewswire"
                 }
             ]
         }

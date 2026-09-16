@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-09-15T03:22:09.190832",
+    "report_generated_time": "2026-09-16T03:18:40.419243",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 14,
-                    "increase_pct": "-12.5%",
+                    "recent_commits": 16,
+                    "increase_pct": "-11.1%",
                     "score_contribution": 0
                 },
                 {
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Trump agrees to new bipartisan ethics provision in massive crypto bill, Republican senators say",
-                    "source": "Biztoc.com"
+                    "title": "Anthropic co-founder calls for 'common sense' regulations on AI after Trump slams 'sick conspiracies'",
+                    "source": "Dailymail.com"
                 },
                 {
-                    "title": "Trump agrees to new bipartisan ethics provision in massive crypto bill, GOP aide says - apnews.com",
-                    "source": "Slashdot.org"
+                    "title": "CoinEx to cease operations and shut down exchange by December 22",
+                    "source": "Crypto Briefing"
                 }
             ]
         }
