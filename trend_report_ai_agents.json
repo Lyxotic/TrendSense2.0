@@ -1,78 +1,17 @@
 {
-    "report_generated_time": "2026-09-16T03:18:02.989988",
+    "report_generated_time": "2026-09-17T03:23:22.042679",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.67,
+    "final_score": 2.59,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 10,
-            "data": [
-                {
-                    "title": "Agentic Societies Need a Social Harness",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.17527v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Decomposition Buys Integrity, Not Yield",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.17464v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "FlashVector: Agent for Hierarchical Model Serving Stack Optimization",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.17391v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2609.17320v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Mo' Models, Mo' Problems: How to best select model pools when designing Multi-Agent Systems",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2609.17306v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "After the Party: Governing What a Viral Agent-Skill Ecosystem Left Behind",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.17274v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of 2D CFET",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.17123v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "ToMAS: A Pilot Failure-Grounded Theory-of-Mind Benchmark from Multi-Agent LLM Failures",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2609.16986v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Toward Secure AI-Powered Penetration Testing Agents: Security Threats, Guardrails, and Architectural Perspectives",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.16694v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "little m: An AI Agent for Industrial Process Optimization",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.16680v1",
-                    "published": "Last 7 Days"
-                }
-            ]
+            "normalized_score": 0,
+            "data": []
         },
         "developer": {
-            "normalized_score": 0.49,
+            "normalized_score": 0.25,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,14 +21,14 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 35,
-                    "increase_pct": "29.6%",
-                    "score_contribution": 1.48
+                    "recent_commits": 38,
+                    "increase_pct": "15.2%",
+                    "score_contribution": 0.76
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 25,
-                    "increase_pct": "-70.6%",
+                    "recent_commits": 49,
+                    "increase_pct": "-29.0%",
                     "score_contribution": 0
                 }
             ]
@@ -98,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Panasonic Energy eyes JPY1 trillion yen AI storage revenue by 2028",
-                    "source": "Digitimes"
+                    "title": "\u201cWe don\u2019t need any new laws\u201d: Jensen Huang splits with Amodei at Dreamforce",
+                    "source": "The Next Web"
                 },
                 {
-                    "title": "Ossoff Claims Trump Won\u2019t Regulate AI Because of Don Jr\u2019s Business Ventures: \u2018The President of the United States Is Compromised\u2019",
-                    "source": "Mediaite"
+                    "title": "Meta's Mark Zuckerberg says AI labs have enough incentive to build safely",
+                    "source": "The Times of India"
                 }
             ]
         }

@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-16T03:18:44.654985",
+    "report_generated_time": "2026-09-17T03:24:00.294073",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.84,
+    "final_score": 3.38,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,19 +11,19 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.97,
+            "normalized_score": 2.5,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 200,
-                    "increase_pct": "19.8%",
-                    "score_contribution": 0.99
+                    "recent_commits": 181,
+                    "increase_pct": "-11.7%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 25,
-                    "increase_pct": "19.0%",
-                    "score_contribution": 0.95
+                    "recent_commits": 38,
+                    "increase_pct": "100.0%",
+                    "score_contribution": 5.0
                 }
             ]
         },
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "leji 1.5.0",
-                    "source": "Pypi.org"
+                    "title": "Are sugar gliders fun to play with?",
+                    "source": "Lifesciencesworld.com"
                 },
                 {
-                    "title": "The Road Ahead: How Creators Are Combining OpenAI's GPT-6 Astra with Tripo AI for 3D Generation",
-                    "source": "PRNewswire"
+                    "title": "Carolina Hurricanes Sign Captain Jordan Staal To One-Year Extension",
+                    "source": "The Hockey News"
                 }
             ]
         }
