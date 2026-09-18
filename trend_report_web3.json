@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-09-17T03:23:40.720146",
+    "report_generated_time": "2026-09-18T03:11:03.831444",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 13,
-                    "increase_pct": "-31.6%",
+                    "recent_commits": 15,
+                    "increase_pct": "-21.1%",
                     "score_contribution": 0
                 },
                 {
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "\u2018Nothing truly structural\u2019: Analysts downplay Clarity Act defeat as bitcoin, major crypto stocks dip",
-                    "source": "Biztoc.com"
+                    "title": "BEYOND Expo Upgrades to BEYOND as Asia\u2019s Most Dynamic Tech Festival, Returning to Macao on 26\u201329 May 2027",
+                    "source": "TechNode"
                 },
                 {
-                    "title": "House opposes Iran conflict escalation ahead of midterms",
-                    "source": "Crypto Briefing"
+                    "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
+                    "source": "Cointelegraph"
                 }
             ]
         }

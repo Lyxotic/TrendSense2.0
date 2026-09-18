@@ -1,96 +1,35 @@
 {
-    "report_generated_time": "2026-09-17T03:23:37.698267",
+    "report_generated_time": "2026-09-18T03:10:30.750771",
     "niche": "RAG & Vector Databases",
-    "final_score": 7.67,
-    "alert_status": "TRENDING_NOW",
+    "final_score": 3.63,
+    "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 10,
-            "data": [
-                {
-                    "title": "Exploring LLMs and RAG for Plausible and Explainable Material Prediction of Vehicle Components",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.18437v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Knowledge-Graph Based Augmentation versus Retrieval Augmented Generation for Cultural-Related Question Answering",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.18317v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Quanta: A Self-Contained Python Library for Hybrid Retrieval over Quantised Embeddings, Lexical Indexes, and Knowledge Graphs",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.18248v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "WFM: Wiki Foundation Model for Complex Agentic Reasoning",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2609.18182v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "When Is Graph Structure Worth Its Cost? The Case for Structure Pricing in Retrieval-Augmented Generation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.18099v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Contiguity, Not Importance: Budgeted Repair of Stale KV Caches After Document Edits",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2609.17983v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "One Size Does Not Fit All! Dynamic Retriever and Generator Selection for RAG",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.17709v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "ORDER: Task-Conditioned Routing for Retrieval-Augmented Generation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.17012v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "InceptionRAG: Stealthy Poisoning Attack Against Retrieval-Augmented Generation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.16818v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "RECTIFY: An Interactive Workbench for Post-Evaluation RAG Diagnosis, Repair, and Verification",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.16764v1",
-                    "published": "Last 7 Days"
-                }
-            ]
+            "normalized_score": 0,
+            "data": []
         },
         "developer": {
-            "normalized_score": 3.33,
+            "normalized_score": 3.23,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 15,
-                    "increase_pct": "-42.3%",
-                    "score_contribution": 0
+                    "recent_commits": 32,
+                    "increase_pct": "18.5%",
+                    "score_contribution": 0.93
                 },
                 {
                     "repo_name": "qdrant/qdrant",
                     "recent_commits": 0,
-                    "increase_pct": "-100.0%",
+                    "increase_pct": "0.0%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 12,
-                    "increase_pct": "200.0%",
-                    "score_contribution": 10.0
+                    "recent_commits": 11,
+                    "increase_pct": "175.0%",
+                    "score_contribution": 8.75
                 }
             ]
         },
@@ -98,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Show HN: Graft \u2013 local-first persistent memory for coding agents",
-                    "source": "Github.com"
+                    "title": "How to Use AI Agents to Prepare 3D Scenes for Simulation",
+                    "source": "Nvidia.com"
                 },
                 {
-                    "title": "lfx-bundles 1.1.26",
-                    "source": "Pypi.org"
+                    "title": "Cohere and Aleph Alpha agree to merge in reported $20B deal",
+                    "source": "SiliconANGLE News"
                 }
             ]
         }
