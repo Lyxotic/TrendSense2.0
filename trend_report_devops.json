@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-18T03:11:08.052095",
+    "report_generated_time": "2026-09-19T03:06:37.423313",
     "niche": "Cloud Native & DevOps",
-    "final_score": 3.84,
+    "final_score": 3.51,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,19 +11,19 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 3.82,
+            "normalized_score": 2.89,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 171,
-                    "increase_pct": "-20.5%",
+                    "recent_commits": 161,
+                    "increase_pct": "-26.5%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 43,
-                    "increase_pct": "152.9%",
-                    "score_contribution": 7.65
+                    "recent_commits": 41,
+                    "increase_pct": "115.8%",
+                    "score_contribution": 5.79
                 }
             ]
         },
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "basecradle-harness 0.123.0",
-                    "source": "Pypi.org"
+                    "title": "Show HN: Concat: the open-source CapCut replacement.",
+                    "source": "Github.com"
                 },
                 {
-                    "title": "teptris 0.2.10",
-                    "source": "Pypi.org"
+                    "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+                    "source": "Linguisticdiscovery.com"
                 }
             ]
         }

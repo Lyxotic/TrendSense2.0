@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-09-18T03:11:03.831444",
+    "report_generated_time": "2026-09-19T03:06:06.398029",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -16,7 +16,7 @@
                 {
                     "repo_name": "ethereum/go-ethereum",
                     "recent_commits": 15,
-                    "increase_pct": "-21.1%",
+                    "increase_pct": "-16.7%",
                     "score_contribution": 0
                 },
                 {
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "BEYOND Expo Upgrades to BEYOND as Asia\u2019s Most Dynamic Tech Festival, Returning to Macao on 26\u201329 May 2027",
-                    "source": "TechNode"
+                    "title": "Diego Kochen included in USMNT squad for friendly against Peru",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
-                    "source": "Cointelegraph"
+                    "title": "dtcpay Welcomes SBI Group as Strategic Investor, Extending Series A to US$25M",
+                    "source": "BusinessLine"
                 }
             ]
         }
