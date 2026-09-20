@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-19T03:05:33.085439",
+    "report_generated_time": "2026-09-20T03:22:32.961452",
     "niche": "RAG & Vector Databases",
-    "final_score": 3.95,
+    "final_score": 4.09,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 4.13,
+            "normalized_score": 4.54,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 57,
-                    "increase_pct": "128.0%",
-                    "score_contribution": 6.4
+                    "recent_commits": 58,
+                    "increase_pct": "152.2%",
+                    "score_contribution": 7.61
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "synapse-cli-agent 0.1.45",
+                    "title": "akasha-terminal 1.8.3",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "lc-agent-app 0.8",
+                    "title": "akasha-terminal 1.8.2",
                     "source": "Pypi.org"
                 }
             ]

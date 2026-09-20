@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-09-19T03:06:37.423313",
+    "report_generated_time": "2026-09-20T03:22:40.245371",
     "niche": "Cloud Native & DevOps",
     "final_score": 3.51,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 161,
-                    "increase_pct": "-26.5%",
+                    "recent_commits": 148,
+                    "increase_pct": "-35.4%",
                     "score_contribution": 0
                 },
                 {
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Show HN: Concat: the open-source CapCut replacement.",
-                    "source": "Github.com"
+                    "title": "threadline-review added to PyPI",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "Pre-Greek: The lost language hidden within Ancient Greek",
-                    "source": "Linguisticdiscovery.com"
+                    "title": "algenta 1.0.13",
+                    "source": "Pypi.org"
                 }
             ]
         }
