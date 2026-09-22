@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-21T03:16:54.463622",
+    "report_generated_time": "2026-09-22T03:16:43.522173",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 3.57,
+    "final_score": 3.67,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,7 +11,7 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 3.06,
+            "normalized_score": 3.33,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -21,15 +21,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 37,
-                    "increase_pct": "8.8%",
-                    "score_contribution": 0.44
+                    "recent_commits": 35,
+                    "increase_pct": "-2.8%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 88,
-                    "increase_pct": "175.0%",
-                    "score_contribution": 8.75
+                    "recent_commits": 100,
+                    "increase_pct": "284.6%",
+                    "score_contribution": 10.0
                 }
             ]
         },
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "AI \u2018warning shots\u2019 focus Beijing on national security risks",
-                    "source": "Digital Journal"
+                    "title": "oac-reference-node 0.1.0rc6",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "Customer-Losing Flock Now Offers Buyouts to Avoid Laying Off Employees",
-                    "source": "Slashdot.org"
+                    "title": "The Agent Liability Precedent: Three Published Incidents Converge Into an Enterprise Compliance Tipping Point",
+                    "source": "Forkast.news"
                 }
             ]
         }
