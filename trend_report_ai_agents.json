@@ -1,17 +1,78 @@
 {
-    "report_generated_time": "2026-09-23T03:16:46.902496",
+    "report_generated_time": "2026-09-24T03:06:35.153967",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 3.67,
-    "alert_status": "PRE_TREND_ALERT",
+    "final_score": 7.17,
+    "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 0,
-            "data": []
+            "normalized_score": 10,
+            "data": [
+                {
+                    "title": "LEAP-CBF: A Safety Filter for Uncertain Systems with Least-Effort Adversarial Potentials",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2609.28364v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Shutdown Sabotage Propensities in Multi-Agent Systems",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2609.28274v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "PASTABench: Proactive Assessment of Sequential Trajectories for Agent Safety",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2609.28197v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Compliant with Local Controls, Collectively Discriminatory. A Governance Architecture for Multi-Agent AI in Regulated Finance",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2609.27994v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Evolutionary Stability Does Not Guarantee Learning Accessibility: A Multi-Agent Reinforcement Learning Perspective on Cooperation Emergence",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2609.27664v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Multi-Agent AI Architecture for Regulated Insurers: A generic AI framework under Solvency II and the AI Act in Austria and Germany",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2609.27636v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Distributed Stochastic Approximation Algorithms and Heavy-Tailed Age of Information",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2609.27499v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Issuer-Sovereign Agentic Payments",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2609.27452v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Specifying and Maintaining Agentic Workflows: An Empirical Study of GitHub Agentic Workflows",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2609.27263v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Resource-Efficient Distributed Recursive Gaussian Processes",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2609.26979v1",
+                    "published": "Last 7 Days"
+                }
+            ]
         },
         "developer": {
-            "normalized_score": 3.33,
+            "normalized_score": 1.91,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -21,15 +82,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 31,
-                    "increase_pct": "-11.4%",
+                    "recent_commits": 18,
+                    "increase_pct": "-52.6%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 102,
-                    "increase_pct": "308.0%",
-                    "score_contribution": 10.0
+                    "recent_commits": 103,
+                    "increase_pct": "114.6%",
+                    "score_contribution": 5.73
                 }
             ]
         },
@@ -37,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "MediaTek unveils Dimensity CX C10 Max for premium Googlebook devices",
-                    "source": "Digitimes"
+                    "title": "62 Fantastic Examples Of Some Of The World\u2019s Best Infrastructure (New Pics)",
+                    "source": "Boredpanda.com"
                 },
                 {
-                    "title": "Bernie Sanders: \"People Are Sick and Tired of the Status Quo. People Want Change.\"",
-                    "source": "Thenation.com"
+                    "title": "Will Trump's AI rebrand as 'super intelligence' catch on?",
+                    "source": "BBC News"
                 }
             ]
         }
