@@ -1,90 +1,29 @@
 {
-    "report_generated_time": "2026-09-24T03:06:50.423221",
+    "report_generated_time": "2026-09-25T03:25:35.002786",
     "niche": "Cloud Native & DevOps",
-    "final_score": 6.87,
+    "final_score": 2.64,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 10,
-            "data": [
-                {
-                    "title": "FDE-Bench: Evaluating LLM Agents for Deployment Environment Configuration",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.27571v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Backstitch: Restoring Request Causality Across a Production Microservice Fleet",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.27538v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Does Graph Structure Earn Its Place in Microservice Root-Cause Analysis? A Controlled Study on RCAEval, and What the Benchmark Was Really Measuring",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.27069v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Improving Service Availability in KubeEdge-Based Architectures Using Lightweight Intrusion Detection",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.27052v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Kubernetes Misconfigurations in the Wild: Taxonomy, Evolution, and Automated Repair with Large Language Models",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.27030v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Confidence-Guided Cross-Modal Knowledge Transfer for Multimodal Anomaly Detection in Microservice Systems",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2609.25856v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Who Pays for the KV Cache? Attributing Shared AI Inference Spend Across Kubernetes and LLM Provider Bills",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.24991v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "A Federated Artificial Intelligence Framework for Optimizing Pancreatic Cancer Treatment - Strategy Update",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.24718v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Benchmarking Post-Quantum Cryptography in Lightweight Virtualization Environments on Embedded Hardware",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.23902v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "TriFleetRCA: On-Premise LLM Root Cause Analysis for Kubernetes",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.23766v1",
-                    "published": "Last 7 Days"
-                }
-            ]
+            "normalized_score": 0,
+            "data": []
         },
         "developer": {
-            "normalized_score": 1.05,
+            "normalized_score": 0.41,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 163,
-                    "increase_pct": "-20.1%",
+                    "recent_commits": 176,
+                    "increase_pct": "-4.9%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 54,
-                    "increase_pct": "42.1%",
-                    "score_contribution": 2.11
+                    "recent_commits": 50,
+                    "increase_pct": "16.3%",
+                    "score_contribution": 0.81
                 }
             ]
         },
@@ -92,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Karaoke and money games? 4 things we learned at the Presidents Cup",
-                    "source": "Golf.com"
+                    "title": "gathervis added to PyPI",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "Reap and Visa Collaborate to Launch Stablecoin Card Programs Across 100+ Markets",
-                    "source": "BusinessLine"
+                    "title": "What is difference between a bison and a buffalo?",
+                    "source": "Lifesciencesworld.com"
                 }
             ]
         }

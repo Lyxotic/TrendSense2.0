@@ -1,84 +1,23 @@
 {
-    "report_generated_time": "2026-09-24T03:06:44.569001",
+    "report_generated_time": "2026-09-25T03:25:00.223392",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.7,
+    "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 10,
-            "data": [
-                {
-                    "title": "No Place to Hide: An Analysis on Protected Order Flow Sandwich Attacks",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.28115v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "EVAGE: Autonomous MEV Generation and Adaptation via Multi-Agent Harness",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2609.27424v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Solidity Meets LLMs: A Transformer-Based Approach to Smart Contract Vulnerability Detection",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.27091v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Universal Fractal Natural Language Decision Map: Real-Time Edge Triage Across Heterogeneous Domains",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.25498v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Mitigating Front-Running Attacks through Fair and Resilient Transaction Dissemination",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.24713v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Domain Specific Post Quantum Signatures for Blockchains",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.24689v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "The Same Ledger, Different Verdicts: How Measurement Specification Determines On-Chain Concentration",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.24176v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "ETH-TraceBench: A Large-Scale Event-Stream Benchmark for Ethereum DeFi under Temporal, Protocol, and Contract Shift",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.23659v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "The Anatomy of Address Poisoning on Ethereum: Funding Mechanisms, Scam Signatures, and Laundering via Tornado Cash",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.23405v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Stochastic consensus dynamics for decentralized decision systems",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2609.22454v1",
-                    "published": "Last 7 Days"
-                }
-            ]
+            "normalized_score": 0,
+            "data": []
         },
         "developer": {
-            "normalized_score": 0.58,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 16,
-                    "increase_pct": "23.1%",
-                    "score_contribution": 1.15
+                    "recent_commits": 14,
+                    "increase_pct": "0.0%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,11 +31,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Reap and Visa Collaborate to Launch Stablecoin Card Programs Across 100+ Markets",
-                    "source": "BusinessLine"
+                    "title": "Fortitude raises credit facility to $50M to fuel Zcash mining expansion",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Canada pledges $100M aid for Palestine as UK, France push for UN action",
+                    "title": "Goldman Sachs warns next-gen AI servers could trigger localized blackouts",
                     "source": "Crypto Briefing"
                 }
             ]
