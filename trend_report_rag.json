@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-09-27T03:38:35.254161",
+    "report_generated_time": "2026-09-28T03:36:36.314505",
     "niche": "RAG & Vector Databases",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 46,
-                    "increase_pct": "-20.7%",
+                    "recent_commits": 44,
+                    "increase_pct": "-27.9%",
                     "score_contribution": 0
                 },
                 {
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "langchain-codex-plus 0.0.10",
+                    "title": "maxey0 added to PyPI",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "langchain-codex-plus 0.0.9",
+                    "title": "cci-sdk added to PyPI",
                     "source": "Pypi.org"
                 }
             ]

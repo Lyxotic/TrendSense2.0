@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-09-27T03:39:43.624198",
+    "report_generated_time": "2026-09-28T03:37:44.512433",
     "niche": "Cloud Native & DevOps",
     "final_score": 2.71,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 174,
-                    "increase_pct": "-1.7%",
+                    "recent_commits": 173,
+                    "increase_pct": "-2.3%",
                     "score_contribution": 0
                 },
                 {
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "12 Years Later, I Still Can't Forgive Naruto For Abruptly Switching Genres",
-                    "source": "Screen Rant"
+                    "title": "BYU\u2019s new hometown kid Dean Rueckert looks to follow in the footsteps of his past Cougar heroes",
+                    "source": "Deseret News"
                 },
                 {
-                    "title": "Is rainbow trout pink or white?",
-                    "source": "Lifesciencesworld.com"
+                    "title": "PTE Request for OptSens |\u2026",
+                    "source": "Wordpress.org"
                 }
             ]
         }
