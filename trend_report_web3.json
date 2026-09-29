@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-09-28T03:37:09.609954",
+    "report_generated_time": "2026-09-29T04:11:47.391582",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 13,
-                    "increase_pct": "-13.3%",
+                    "recent_commits": 17,
+                    "increase_pct": "-5.6%",
                     "score_contribution": 0
                 },
                 {
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "alethech 0.3.2",
-                    "source": "Pypi.org"
+                    "title": "Jupiter Ultra users face fewer sandwich attacks than others, three-year study finds",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "alethech 0.3.1",
-                    "source": "Pypi.org"
+                    "title": "Bitcoin, NASDAQ futures fall as Trump hints at more Iran strikes",
+                    "source": "Crypto Briefing"
                 }
             ]
         }
