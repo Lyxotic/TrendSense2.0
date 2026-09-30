@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-29T04:12:07.808801",
+    "report_generated_time": "2026-09-30T03:57:49.384909",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.62,
+    "final_score": 2.63,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,18 +11,18 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.36,
+            "normalized_score": 0.38,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 200,
-                    "increase_pct": "14.3%",
-                    "score_contribution": 0.71
+                    "recent_commits": 210,
+                    "increase_pct": "15.4%",
+                    "score_contribution": 0.77
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 31,
-                    "increase_pct": "-45.6%",
+                    "recent_commits": 28,
+                    "increase_pct": "-54.8%",
                     "score_contribution": 0
                 }
             ]
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Leica Cine Compact 1 Review: Red-Dot Optics in a Pint-Size Projector",
-                    "source": "PCMag.com"
+                    "title": "tracepress added to PyPI",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "Snapdragon X Series Powers New Googlebooks: the First Laptops Designed for Gemini Intelligence",
-                    "source": "Antaranews.com"
+                    "title": "How do you get hummingbirds to show up?",
+                    "source": "Lifesciencesworld.com"
                 }
             ]
         }
