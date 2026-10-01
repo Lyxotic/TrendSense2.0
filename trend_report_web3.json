@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-09-30T03:57:13.515014",
+    "report_generated_time": "2026-10-01T04:06:57.509829",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 2.61,
+    "final_score": 2.72,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.31,
+            "normalized_score": 0.62,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 18,
-                    "increase_pct": "12.5%",
-                    "score_contribution": 0.62
+                    "recent_commits": 20,
+                    "increase_pct": "25.0%",
+                    "score_contribution": 1.25
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Goldman Sachs projects $1.2T in AI infrastructure capex by 2027 as energy becomes key bottleneck",
+                    "title": "Aptos lands native Tether USDT support on Taiwan\u2019s MAX exchange for TWD conversions",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "bca-mcp 0.5.3",
-                    "source": "Pypi.org"
+                    "title": "Binance Pay Enables Payments at PayPay Merchants via HIVEX\u00ae in Japan",
+                    "source": "BusinessLine"
                 }
             ]
         }
