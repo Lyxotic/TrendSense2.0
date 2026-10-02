@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-01T04:07:31.887677",
+    "report_generated_time": "2026-10-02T04:01:18.262706",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.53,
+    "final_score": 2.51,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,18 +11,18 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.09,
+            "normalized_score": 0.04,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 195,
-                    "increase_pct": "3.7%",
-                    "score_contribution": 0.19
+                    "recent_commits": 191,
+                    "increase_pct": "1.6%",
+                    "score_contribution": 0.08
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 23,
-                    "increase_pct": "-57.4%",
+                    "recent_commits": 28,
+                    "increase_pct": "-44.0%",
                     "score_contribution": 0
                 }
             ]
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "The Weight review: Ethan Hawke does the heavy lifting in this 1970s-style genre movie",
-                    "source": "The Irish Times"
+                    "title": "IBM Introduces Self-Hosted Deployment for IBM Bob to Help Enterprises Advance AI Sovereignty and Governance",
+                    "source": "PRNewswire"
                 },
                 {
-                    "title": "pictograph 1.69.88",
-                    "source": "Pypi.org"
+                    "title": "Steelers to trade Joey Porter Jr. to Cowboys, per report",
+                    "source": "CBS Sports"
                 }
             ]
         }

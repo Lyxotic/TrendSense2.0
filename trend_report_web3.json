@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-01T04:06:57.509829",
+    "report_generated_time": "2026-10-02T04:01:13.650280",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 2.72,
+    "final_score": 2.84,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.62,
+            "normalized_score": 0.96,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 20,
-                    "increase_pct": "25.0%",
-                    "score_contribution": 1.25
+                    "recent_commits": 18,
+                    "increase_pct": "38.5%",
+                    "score_contribution": 1.92
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Aptos lands native Tether USDT support on Taiwan\u2019s MAX exchange for TWD conversions",
+                    "title": "Dragonfly\u2019s Tom Schmidt sees synthetic dollars growing alongside tokenized assets",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Binance Pay Enables Payments at PayPay Merchants via HIVEX\u00ae in Japan",
-                    "source": "BusinessLine"
+                    "title": "Solana Co. chairman says China will find a way to manage crypto",
+                    "source": "Crypto Briefing"
                 }
             ]
         }
