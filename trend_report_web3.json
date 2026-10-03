@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-10-02T04:01:13.650280",
+    "report_generated_time": "2026-10-03T03:46:46.180059",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 2.84,
     "alert_status": "PRE_TREND_ALERT",
@@ -31,11 +31,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Dragonfly\u2019s Tom Schmidt sees synthetic dollars growing alongside tokenized assets",
+                    "title": "Fed\u2019s Lisa Cook warns AI spending could fuel inflation into 2027",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Solana Co. chairman says China will find a way to manage crypto",
+                    "title": "US officials question Nvidia\u2019s oversight as restricted chips reach China",
                     "source": "Crypto Briefing"
                 }
             ]
