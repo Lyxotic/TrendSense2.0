@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-03T03:47:20.105629",
+    "report_generated_time": "2026-10-04T04:17:46.127448",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.54,
+    "final_score": 2.52,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.12,
+            "normalized_score": 0.05,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 197,
-                    "increase_pct": "4.8%",
-                    "score_contribution": 0.24
+                    "recent_commits": 194,
+                    "increase_pct": "2.1%",
+                    "score_contribution": 0.11
                 },
                 {
                     "repo_name": "docker/compose",
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "3-point shooting costly as Indiana Fever season ends in loss to Aces, A'ja Wilson",
-                    "source": "The Indianapolis Star"
+                    "title": "Import and push txt based highlights in a book jailbroken kindle",
+                    "source": "Mobileread.com"
                 },
                 {
-                    "title": "Can I make a possum my pet?",
-                    "source": "Lifesciencesworld.com"
+                    "title": "Why these two players will make or break Braves-Dodgers NLDS matchup",
+                    "source": "ClutchPoints"
                 }
             ]
         }
