@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-04T04:17:46.127448",
+    "report_generated_time": "2026-10-05T04:01:34.684819",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.52,
+    "final_score": 2.51,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.05,
+            "normalized_score": 0.03,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 194,
-                    "increase_pct": "2.1%",
-                    "score_contribution": 0.11
+                    "recent_commits": 193,
+                    "increase_pct": "1.0%",
+                    "score_contribution": 0.05
                 },
                 {
                     "repo_name": "docker/compose",
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Import and push txt based highlights in a book jailbroken kindle",
-                    "source": "Mobileread.com"
+                    "title": "The UK has handed out thousands of hijabs to Muslim boat people",
+                    "source": "Americanthinker.com"
                 },
                 {
-                    "title": "Why these two players will make or break Braves-Dodgers NLDS matchup",
-                    "source": "ClutchPoints"
+                    "title": "Northern State football downs Bemidji State",
+                    "source": "KELOLAND.com"
                 }
             ]
         }

@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-10-04T04:17:25.371166",
+    "report_generated_time": "2026-10-05T04:01:13.731155",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 2.84,
     "alert_status": "PRE_TREND_ALERT",
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Microsoft's X Account Hacked, Posts Clippy Crypto Memes",
-                    "source": "PCMag.com"
+                    "title": "Keralam renames IT dept to reflect state's next-Gen tech ambitions",
+                    "source": "BusinessLine"
                 },
                 {
-                    "title": "From gold consumer to global powerhouse: How India refines, designs, and dominates",
-                    "source": "BusinessLine"
+                    "title": "alethech 0.9.2",
+                    "source": "Pypi.org"
                 }
             ]
         }

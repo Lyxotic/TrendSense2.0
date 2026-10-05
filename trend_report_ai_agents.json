@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-04T04:16:46.507846",
+    "report_generated_time": "2026-10-05T04:00:33.929423",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 3.01,
+    "final_score": 3.08,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,7 +11,7 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 1.46,
+            "normalized_score": 1.65,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -27,9 +27,9 @@
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 302,
-                    "increase_pct": "54.1%",
-                    "score_contribution": 2.7
+                    "recent_commits": 318,
+                    "increase_pct": "65.6%",
+                    "score_contribution": 3.28
                 }
             ]
         },
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Scientists Rethink How to Bring Mental Health Care to New Mothers at Home",
-                    "source": "Scienmag.com"
+                    "title": "At the intersection of climate and diversity",
+                    "source": "Americanthinker.com"
                 },
                 {
-                    "title": "Skip the Wait. Microsoft's 26H2 Update Fixes the Parts You Hate Most About Windows 11",
+                    "title": "Amid AI Agent Fears, Apple Restricts Full Disk Access",
                     "source": "PCMag.com"
                 }
             ]
