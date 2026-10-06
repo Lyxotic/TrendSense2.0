@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-05T04:01:34.684819",
+    "report_generated_time": "2026-10-06T04:51:07.794102",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.51,
+    "final_score": 2.75,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,19 +11,19 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.03,
+            "normalized_score": 0.73,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 193,
-                    "increase_pct": "1.0%",
-                    "score_contribution": 0.05
+                    "recent_commits": 163,
+                    "increase_pct": "-24.5%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
                     "recent_commits": 40,
-                    "increase_pct": "-21.6%",
-                    "score_contribution": 0
+                    "increase_pct": "29.0%",
+                    "score_contribution": 1.45
                 }
             ]
         },
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "The UK has handed out thousands of hijabs to Muslim boat people",
-                    "source": "Americanthinker.com"
+                    "title": "Aleph Alpha Kolibri: What Germany\u2019s \u2018Sovereign\u2019 Open-Weight AI Model Means for You",
+                    "source": "Online-tech-tips.com"
                 },
                 {
-                    "title": "Northern State football downs Bemidji State",
-                    "source": "KELOLAND.com"
+                    "title": "Should chinchillas be alone or in pairs?",
+                    "source": "Lifesciencesworld.com"
                 }
             ]
         }

@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-05T04:01:13.731155",
+    "report_generated_time": "2026-10-06T04:50:47.824061",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 2.84,
+    "final_score": 2.55,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.96,
+            "normalized_score": 0.15,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
                     "recent_commits": 18,
-                    "increase_pct": "38.5%",
-                    "score_contribution": 1.92
+                    "increase_pct": "5.9%",
+                    "score_contribution": 0.29
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Keralam renames IT dept to reflect state's next-Gen tech ambitions",
-                    "source": "BusinessLine"
+                    "title": "OKXICE files for round-the-clock tokenized trading in U.S. stocks",
+                    "source": "CoinDesk"
                 },
                 {
-                    "title": "alethech 0.9.2",
-                    "source": "Pypi.org"
+                    "title": "Lotus Tech to Join WasabiCard's TOKEN2049 Singapore Side Event, Spotlighting Real-World Stablecoin Applications",
+                    "source": "PRNewswire"
                 }
             ]
         }
