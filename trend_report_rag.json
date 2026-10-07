@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-06T04:50:14.686315",
+    "report_generated_time": "2026-10-07T04:16:09.317316",
     "niche": "RAG & Vector Databases",
-    "final_score": 4.04,
+    "final_score": 4.45,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 4.41,
+            "normalized_score": 5.58,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 53,
-                    "increase_pct": "35.9%",
-                    "score_contribution": 1.79
+                    "recent_commits": 80,
+                    "increase_pct": "122.2%",
+                    "score_contribution": 6.11
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -28,8 +28,8 @@
                 {
                     "repo_name": "chroma-core/chroma",
                     "recent_commits": 9,
-                    "increase_pct": "28.6%",
-                    "score_contribution": 1.43
+                    "increase_pct": "12.5%",
+                    "score_contribution": 0.62
                 }
             ]
         },
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "aforo-agent-metering added to PyPI",
+                    "title": "wickra-genome 0.2.0",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "openrag 0.8.0.dev6",
+                    "title": "langchain-geniffy 0.1.0",
                     "source": "Pypi.org"
                 }
             ]
