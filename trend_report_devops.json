@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-07T04:17:03.488548",
+    "report_generated_time": "2026-10-08T04:28:57.022889",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.88,
+    "final_score": 3.3,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,19 +11,19 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 1.07,
+            "normalized_score": 2.28,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 162,
-                    "increase_pct": "-28.6%",
+                    "recent_commits": 194,
+                    "increase_pct": "-8.9%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 40,
-                    "increase_pct": "42.9%",
-                    "score_contribution": 2.14
+                    "recent_commits": 44,
+                    "increase_pct": "91.3%",
+                    "score_contribution": 4.57
                 }
             ]
         },
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Why do chinchillas puff up?",
+                    "title": "How popular are pet ferrets?",
                     "source": "Lifesciencesworld.com"
                 },
                 {
-                    "title": "This Linux project runs Bloodborne's PS4 code directly on your CPU, and you can try it too",
-                    "source": "XDA Developers"
+                    "title": "grip-browser 0.8.9",
+                    "source": "Pypi.org"
                 }
             ]
         }
