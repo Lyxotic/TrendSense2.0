@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-08T04:28:25.106246",
+    "report_generated_time": "2026-10-09T04:33:08.799270",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 2.72,
+    "final_score": 3.23,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.62,
+            "normalized_score": 2.08,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 25,
-                    "increase_pct": "25.0%",
-                    "score_contribution": 1.25
+                    "recent_commits": 33,
+                    "increase_pct": "83.3%",
+                    "score_contribution": 4.17
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -31,11 +31,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Bitcoin briefly slides below $84,000 as crypto long liquidations reach $487 million",
-                    "source": "Biztoc.com"
+                    "title": "Crypto must cement adoption to withstand US policy shifts: Canton CEO",
+                    "source": "Cointelegraph"
                 },
                 {
-                    "title": "Ray Dalio warns AI bubble is nearing its bursting point as rates rise",
+                    "title": "Ethereum\u2019s Glamsterdam test hits 200M gas limit on Sepolia testnet",
                     "source": "Crypto Briefing"
                 }
             ]

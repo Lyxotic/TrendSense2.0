@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-08T04:28:57.022889",
+    "report_generated_time": "2026-10-09T04:33:14.276595",
     "niche": "Cloud Native & DevOps",
-    "final_score": 3.3,
+    "final_score": 2.78,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,19 +11,19 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 2.28,
+            "normalized_score": 0.8,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 194,
-                    "increase_pct": "-8.9%",
+                    "recent_commits": 203,
+                    "increase_pct": "-5.1%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 44,
-                    "increase_pct": "91.3%",
-                    "score_contribution": 4.57
+                    "recent_commits": 37,
+                    "increase_pct": "32.1%",
+                    "score_contribution": 1.61
                 }
             ]
         },
@@ -31,11 +31,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "How popular are pet ferrets?",
-                    "source": "Lifesciencesworld.com"
+                    "title": "unity-rs 0.5.4",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "grip-browser 0.8.9",
+                    "title": "flexaudio 0.4.0",
                     "source": "Pypi.org"
                 }
             ]
