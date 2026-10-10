@@ -1,78 +1,17 @@
 {
-    "report_generated_time": "2026-10-09T04:32:14.137071",
+    "report_generated_time": "2026-10-10T04:18:00.137292",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.56,
+    "final_score": 2.9,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 10,
-            "data": [
-                {
-                    "title": "Mental-Models for Multi-Agent Systems",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2610.12453v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2610.12436v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competition",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.12341v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "DataSense-Bench: The First Step Toward an AI Scientist",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.12190v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Recursive Self-Improvement through Multi-Agent Self-Supervision",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2610.12176v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Automated Disinformation and Malicious AI Swarms: Risks for Democracy and Development in Africa",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.11930v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Forms of LLM-Integrated Applications from LLM-Chats to Autonomous AI Agent System",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.11899v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "SubDGuide: A Modeler-Inspired Agentic Workflow for Mesh-to-SubD Reconstruction",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2610.11721v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Error-Propagation Modeling for Failure Attribution in LLM-Based Multi-Agent Systems",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2610.11600v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "GROB: A Multi-Agent Architecture for Public-Trace Investigation of Candidate Agentic Activity",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2610.11467v1",
-                    "published": "Last 7 Days"
-                }
-            ]
+            "normalized_score": 0,
+            "data": []
         },
         "developer": {
-            "normalized_score": 0.19,
+            "normalized_score": 1.15,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,14 +21,14 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 20,
-                    "increase_pct": "11.1%",
-                    "score_contribution": 0.56
+                    "recent_commits": 27,
+                    "increase_pct": "68.8%",
+                    "score_contribution": 3.44
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 200,
-                    "increase_pct": "-26.7%",
+                    "recent_commits": 191,
+                    "increase_pct": "-37.6%",
                     "score_contribution": 0
                 }
             ]
@@ -98,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Does Frame Generation Actually Help the Switch 2? It Depends on the Game",
-                    "source": "PCMag.com"
+                    "title": "TCS stock jumps nearly 4% after Q2 results, IT stocks rally up to 3.8% despite US visa curbs",
+                    "source": "Moneycontrol"
                 },
                 {
-                    "title": "Best AI Visibility & GEO Agency (2026): Nicely Network Awarded by Software Experts",
-                    "source": "PRNewswire"
+                    "title": "AI Can Now Show Up on Your Video Calls Looking Disturbingly Human",
+                    "source": "PCMag.com"
                 }
             ]
         }
