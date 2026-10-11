@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-10-10T04:18:20.896598",
+    "report_generated_time": "2026-10-11T03:57:27.331452",
     "niche": "RAG & Vector Databases",
     "final_score": 3.67,
     "alert_status": "PRE_TREND_ALERT",
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "openrag 0.8.0.dev10",
+                    "title": "langchain-arcmira 0.1.5",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "nb-langchain-agentskills 0.7.0",
+                    "title": "agt-agent 0.34.3",
                     "source": "Pypi.org"
                 }
             ]
