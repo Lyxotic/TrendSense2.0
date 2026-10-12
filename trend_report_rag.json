@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-10-11T03:57:27.331452",
+    "report_generated_time": "2026-10-12T04:17:39.337251",
     "niche": "RAG & Vector Databases",
     "final_score": 3.67,
     "alert_status": "PRE_TREND_ALERT",
@@ -16,7 +16,7 @@
                 {
                     "repo_name": "langchain-ai/langchain",
                     "recent_commits": 51,
-                    "increase_pct": "-12.1%",
+                    "increase_pct": "-10.5%",
                     "score_contribution": 0
                 },
                 {
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "langchain-arcmira 0.1.5",
+                    "title": "openrag 0.8.0.dev12",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "agt-agent 0.34.3",
+                    "title": "shipwatch added to PyPI",
                     "source": "Pypi.org"
                 }
             ]

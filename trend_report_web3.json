@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-10-11T03:58:00.762244",
+    "report_generated_time": "2026-10-12T04:17:42.948262",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 3.38,
     "alert_status": "PRE_TREND_ALERT",
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "mcp-bytesmith 0.4.1",
-                    "source": "Pypi.org"
+                    "title": "Drone attack disrupts data centre in eastern Moscow, Russia says",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-                    "source": "CoinDesk"
+                    "title": "tonutils 2.5.0",
+                    "source": "Pypi.org"
                 }
             ]
         }

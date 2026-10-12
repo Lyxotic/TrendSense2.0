@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-11T03:57:06.184210",
+    "report_generated_time": "2026-10-12T04:17:33.510250",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 2.9,
+    "final_score": 3.05,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,7 +11,7 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 1.15,
+            "normalized_score": 1.56,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -21,14 +21,14 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 27,
-                    "increase_pct": "68.8%",
-                    "score_contribution": 3.44
+                    "recent_commits": 31,
+                    "increase_pct": "93.8%",
+                    "score_contribution": 4.69
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 189,
-                    "increase_pct": "-37.4%",
+                    "recent_commits": 171,
+                    "increase_pct": "-46.2%",
                     "score_contribution": 0
                 }
             ]
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "How do dairy farmers impregnate cows?",
-                    "source": "Lifesciencesworld.com"
+                    "title": "AnX Robotica Highlights Documented ProScan AI Workflow Performance from Submission to FDA",
+                    "source": "PRNewswire"
                 },
                 {
-                    "title": "Anthropic cites new AI misbehavior, some on government sites",
-                    "source": "Biztoc.com"
+                    "title": "failure-pattern-memory added to PyPI",
+                    "source": "Pypi.org"
                 }
             ]
         }

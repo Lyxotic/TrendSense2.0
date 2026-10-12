@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-10-11T03:58:06.418798",
+    "report_generated_time": "2026-10-12T04:17:48.455976",
     "niche": "Cloud Native & DevOps",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 208,
-                    "increase_pct": "-3.3%",
+                    "recent_commits": 207,
+                    "increase_pct": "-2.4%",
                     "score_contribution": 0
                 },
                 {
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "ASUS ProArt P16 delivers a lighter luxury mobile workstation",
-                    "source": "The Gadgeteer"
+                    "title": "Can betta live in a vase?",
+                    "source": "Lifesciencesworld.com"
                 },
                 {
-                    "title": "Can you keep a wild baby possum?",
-                    "source": "Lifesciencesworld.com"
+                    "title": "kogwistar 0.6.7",
+                    "source": "Pypi.org"
                 }
             ]
         }
