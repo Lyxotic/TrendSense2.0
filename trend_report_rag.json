@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-12T04:17:39.337251",
+    "report_generated_time": "2026-10-13T05:26:42.018021",
     "niche": "RAG & Vector Databases",
-    "final_score": 3.67,
+    "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,24 +11,24 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 3.33,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 51,
-                    "increase_pct": "-10.5%",
+                    "recent_commits": 53,
+                    "increase_pct": "0.0%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "qdrant/qdrant",
-                    "recent_commits": 218,
-                    "increase_pct": "21800.0%",
-                    "score_contribution": 10.0
+                    "recent_commits": 0,
+                    "increase_pct": "-100.0%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "chroma-core/chroma",
                     "recent_commits": 9,
-                    "increase_pct": "-18.2%",
+                    "increase_pct": "0.0%",
                     "score_contribution": 0
                 }
             ]
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "openrag 0.8.0.dev12",
+                    "title": "openrag 0.8.0.dev13",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "shipwatch added to PyPI",
+                    "title": "langchain-turn-window added to PyPI",
                     "source": "Pypi.org"
                 }
             ]

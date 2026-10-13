@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-12T04:17:48.455976",
+    "report_generated_time": "2026-10-13T05:27:49.780328",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.5,
+    "final_score": 2.92,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,19 +11,19 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 1.2,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 207,
-                    "increase_pct": "-2.4%",
-                    "score_contribution": 0
+                    "recent_commits": 224,
+                    "increase_pct": "23.1%",
+                    "score_contribution": 1.15
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 30,
-                    "increase_pct": "-25.0%",
-                    "score_contribution": 0
+                    "recent_commits": 50,
+                    "increase_pct": "25.0%",
+                    "score_contribution": 1.25
                 }
             ]
         },
@@ -31,11 +31,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Can betta live in a vase?",
-                    "source": "Lifesciencesworld.com"
+                    "title": "Legendary MSU Men\u2019s Track and Cross Country coach Jim Bibbs passes away at age 97",
+                    "source": "WLNS"
                 },
                 {
-                    "title": "kogwistar 0.6.7",
+                    "title": "sqlbuild-cli 0.156.0",
                     "source": "Pypi.org"
                 }
             ]
