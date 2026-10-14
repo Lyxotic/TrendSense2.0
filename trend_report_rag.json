@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-13T05:26:42.018021",
+    "report_generated_time": "2026-10-14T03:30:32.543098",
     "niche": "RAG & Vector Databases",
-    "final_score": 2.5,
+    "final_score": 2.56,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,12 +11,12 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 0.19,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 53,
-                    "increase_pct": "0.0%",
+                    "recent_commits": 21,
+                    "increase_pct": "-73.8%",
                     "score_contribution": 0
                 },
                 {
@@ -27,9 +27,9 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 9,
-                    "increase_pct": "0.0%",
-                    "score_contribution": 0
+                    "recent_commits": 10,
+                    "increase_pct": "11.1%",
+                    "score_contribution": 0.56
                 }
             ]
         },
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "openrag 0.8.0.dev13",
+                    "title": "langchain-bitdeer-ai 0.1.1",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "langchain-turn-window added to PyPI",
+                    "title": "langchain-bitdeer-ai added to PyPI",
                     "source": "Pypi.org"
                 }
             ]

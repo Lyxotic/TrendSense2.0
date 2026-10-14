@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-10-13T05:26:22.168834",
+    "report_generated_time": "2026-10-14T03:30:10.686914",
     "niche": "AI Agents & Multi-Agent Systems",
     "final_score": 3.67,
     "alert_status": "PRE_TREND_ALERT",
@@ -21,14 +21,14 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 39,
-                    "increase_pct": "200.0%",
+                    "recent_commits": 41,
+                    "increase_pct": "241.7%",
                     "score_contribution": 10.0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 159,
-                    "increase_pct": "-50.2%",
+                    "recent_commits": 151,
+                    "increase_pct": "-42.8%",
                     "score_contribution": 0
                 }
             ]
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Green Lantern Corps #21 Preview: Jess Faces Space Lawyers",
-                    "source": "Bleeding Cool News"
+                    "title": "IMF warns AI risks could push more global banks to fail",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Malaysia\u2019s tech, automotive and finance industries react to Belanjawan MADANI",
-                    "source": "SoyaCincau.com"
+                    "title": "\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9MOSFET\u3092\u7528\u3044\u305fMHz\u7d1a\u306e\u96fb\u529b\u5909\u63db\u3092\u4e16\u754c\u3067\u521d\u3081\u3066\u5b9f\u8a3c",
+                    "source": "Prtimes.jp"
                 }
             ]
         }
