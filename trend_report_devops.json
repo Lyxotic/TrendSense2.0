@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-14T03:30:42.705414",
+    "report_generated_time": "2026-10-15T03:10:43.241321",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.91,
+    "final_score": 2.55,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,19 +11,19 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 1.18,
+            "normalized_score": 0.13,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 221,
-                    "increase_pct": "27.0%",
-                    "score_contribution": 1.35
+                    "recent_commits": 219,
+                    "increase_pct": "5.3%",
+                    "score_contribution": 0.26
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 48,
-                    "increase_pct": "20.0%",
-                    "score_contribution": 1.0
+                    "recent_commits": 41,
+                    "increase_pct": "-6.8%",
+                    "score_contribution": 0
                 }
             ]
         },
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Who is the translator for Jos\u00e9 Ram\u00edrez? Meet Agustin Rivero",
-                    "source": "Akron Beacon Journal"
+                    "title": "Isotopes win MiLB Golden Bobblehead for Native American Heritage Night",
+                    "source": "Albuquerque Journal"
                 },
                 {
-                    "title": "Why were bald eagles hunted?",
-                    "source": "Lifesciencesworld.com"
+                    "title": "subtask-mcp added to PyPI",
+                    "source": "Pypi.org"
                 }
             ]
         }
