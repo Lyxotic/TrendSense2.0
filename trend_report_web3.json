@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-10-18T03:00:37.607625",
+    "report_generated_time": "2026-10-19T03:13:49.264032",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 17,
-                    "increase_pct": "-52.8%",
+                    "recent_commits": 20,
+                    "increase_pct": "-44.4%",
                     "score_contribution": 0
                 },
                 {
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Anthropic offers Blackstone double-digit yield in $60 billion chip financing push",
-                    "source": "Crypto Briefing"
+                    "title": "emerald-exchange 2.2.0",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "Qatar\u2019s government revenue plunges 42% in first half as Iran war knocks out gas exports",
-                    "source": "Crypto Briefing"
+                    "title": "Made in India isn\u2019t enough. It has to be made by India",
+                    "source": "The Times of India"
                 }
             ]
         }
