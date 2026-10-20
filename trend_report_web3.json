@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-10-19T03:13:49.264032",
+    "report_generated_time": "2026-10-20T03:22:39.994859",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 20,
-                    "increase_pct": "-44.4%",
+                    "recent_commits": 18,
+                    "increase_pct": "-48.6%",
                     "score_contribution": 0
                 },
                 {
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "emerald-exchange 2.2.0",
+                    "title": "fxfunds-blockchain-technology added to PyPI",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "Made in India isn\u2019t enough. It has to be made by India",
-                    "source": "The Times of India"
+                    "title": "Saudi Arabia escalates military campaign in Yemen against Houthi forces",
+                    "source": "Crypto Briefing"
                 }
             ]
         }

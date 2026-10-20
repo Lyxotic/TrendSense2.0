@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-10-19T03:13:45.902677",
+    "report_generated_time": "2026-10-20T03:22:06.363163",
     "niche": "RAG & Vector Databases",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,14 +15,14 @@
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 22,
-                    "increase_pct": "-56.9%",
+                    "recent_commits": 18,
+                    "increase_pct": "-66.0%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "qdrant/qdrant",
                     "recent_commits": 0,
-                    "increase_pct": "-100.0%",
+                    "increase_pct": "0.0%",
                     "score_contribution": 0
                 },
                 {
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "dea-agents added to PyPI",
+                    "title": "flyteplugins-agents-langchain 2.12.0",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "langchain-pexafy 0.1.4",
+                    "title": "flyteplugins-agents-deepagents 2.12.0",
                     "source": "Pypi.org"
                 }
             ]
