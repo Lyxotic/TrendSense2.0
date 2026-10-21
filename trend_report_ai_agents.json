@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-20T03:21:46.468215",
+    "report_generated_time": "2026-10-21T03:16:41.077385",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 3.5,
+    "final_score": 3.69,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,7 +11,7 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 2.85,
+            "normalized_score": 3.4,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -21,15 +21,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 30,
-                    "increase_pct": "-23.1%",
+                    "recent_commits": 39,
+                    "increase_pct": "-4.9%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 272,
-                    "increase_pct": "71.1%",
-                    "score_contribution": 3.55
+                    "recent_commits": 308,
+                    "increase_pct": "104.0%",
+                    "score_contribution": 5.2
                 }
             ]
         },
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Whole-farm modelling puts labour alongside soil health in nutrient decisions",
-                    "source": "Agrionline.co.za"
+                    "title": "Fanless Core Ultra industrial PC gains external EMC protection",
+                    "source": "Linuxgizmos.com"
                 },
                 {
-                    "title": "Cyberattacks on critical financial infra could disrupt payments, credit and market confidence, IMF warns",
-                    "source": "The Times of India"
+                    "title": "China's tech-driven commerce plan pushes AI into phones, PCs, and robots",
+                    "source": "Digitimes"
                 }
             ]
         }

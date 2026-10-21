@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-20T03:23:01.531788",
+    "report_generated_time": "2026-10-21T03:17:55.357365",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.97,
+    "final_score": 2.94,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,19 +11,19 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 1.35,
+            "normalized_score": 1.25,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 212,
-                    "increase_pct": "-16.2%",
+                    "recent_commits": 213,
+                    "increase_pct": "-15.1%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 77,
-                    "increase_pct": "54.0%",
-                    "score_contribution": 2.7
+                    "recent_commits": 72,
+                    "increase_pct": "50.0%",
+                    "score_contribution": 2.5
                 }
             ]
         },
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "What is owning a sugar glider like?",
-                    "source": "Lifesciencesworld.com"
+                    "title": "Alaska's staggering prices may cost Trump as gas spikes at $26 per gallon and basic paper plates at $54",
+                    "source": "Dailymail.com"
                 },
                 {
-                    "title": "How long does it take to attract hummingbirds?",
-                    "source": "Lifesciencesworld.com"
+                    "title": "Editors\u2019 Prepping Progress",
+                    "source": "Survivalblog.com"
                 }
             ]
         }

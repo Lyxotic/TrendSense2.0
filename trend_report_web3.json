@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-10-20T03:22:39.994859",
+    "report_generated_time": "2026-10-21T03:17:34.128120",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 18,
-                    "increase_pct": "-48.6%",
+                    "recent_commits": 21,
+                    "increase_pct": "-16.0%",
                     "score_contribution": 0
                 },
                 {
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "fxfunds-blockchain-technology added to PyPI",
-                    "source": "Pypi.org"
+                    "title": "Ethereum sets October 26 for Glamsterdam upgrade on Hoodi testnet",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Saudi Arabia escalates military campaign in Yemen against Houthi forces",
-                    "source": "Crypto Briefing"
+                    "title": "ARMBIAN: Github Highlights",
+                    "source": "Armbian.com"
                 }
             ]
         }

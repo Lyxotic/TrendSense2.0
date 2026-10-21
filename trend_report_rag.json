@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-20T03:22:06.363163",
+    "report_generated_time": "2026-10-21T03:17:00.759903",
     "niche": "RAG & Vector Databases",
-    "final_score": 2.5,
+    "final_score": 2.86,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 1.03,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 18,
-                    "increase_pct": "-66.0%",
-                    "score_contribution": 0
+                    "recent_commits": 34,
+                    "increase_pct": "61.9%",
+                    "score_contribution": 3.1
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -27,8 +27,8 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 3,
-                    "increase_pct": "-66.7%",
+                    "recent_commits": 1,
+                    "increase_pct": "-90.0%",
                     "score_contribution": 0
                 }
             ]
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "flyteplugins-agents-langchain 2.12.0",
+                    "title": "vipera-ai added to PyPI",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "flyteplugins-agents-deepagents 2.12.0",
+                    "title": "langchain-azure-ai 1.2.11",
                     "source": "Pypi.org"
                 }
             ]
