@@ -1,23 +1,84 @@
 {
-    "report_generated_time": "2026-10-21T03:17:34.128120",
+    "report_generated_time": "2026-10-22T03:15:53.270077",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 2.5,
+    "final_score": 6.94,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 0,
-            "data": []
+            "normalized_score": 10,
+            "data": [
+                {
+                    "title": "Semantic-Aware Update Admission and Adaptive Byzantine Redundancy for Secure Computation Offloading in COIN-Enabled Metaverse Systems",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.29592v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "How Not to Be Censored: Inclusion Safety in Client-Led Consensus",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.29497v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "ZKPU: Zero-Knowledge Processing Unit for Heterogeneous Workloads",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.27530v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Proof-of-Machine-Learning-Inference: Mining Knowledge, Not Hashes",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.26713v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Fortress: Fork Resistant Transparency logs Relying on Social graph Structure",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.26327v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Peer-Relative Trust-Guided Update Screening for Robust Semi-Decentralized Federated Learning under Label-Flipping Attacks",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2610.25714v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "On Pearl Blockchain's Proof of Useful Work: Systematization and Flexibility",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.25347v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Blockchain Participation Games with Upfront Contribution Commitment",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.24697v2",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Empirical Analysis of TEE-Enabled Rollup Designs",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.24284v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Towards an Intelligent Decision Engine for Smart Contract Deployment",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.24198v1",
+                    "published": "Last 7 Days"
+                }
+            ]
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 1.25,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 21,
-                    "increase_pct": "-16.0%",
-                    "score_contribution": 0
+                    "recent_commits": 27,
+                    "increase_pct": "50.0%",
+                    "score_contribution": 2.5
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -31,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Ethereum sets October 26 for Glamsterdam upgrade on Hoodi testnet",
+                    "title": "Anthropic\u2019s first-half revenue outpaces its compute bill, according to draft IPO filing",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "ARMBIAN: Github Highlights",
-                    "source": "Armbian.com"
+                    "title": "Zept\u682a\u5f0f\u4f1a\u793e\u3001\u30b9\u30c6\u30fc\u30d6\u30eb\u30b3\u30a4\u30f3\u6c7a\u6e08\u306e\u8acb\u6c42\u30fb\u5165\u91d1\u7ba1\u7406\u3092\u4e00\u5143\u5316\u3059\u308b\u300cJP Stablecoin Invoice\uff08JSI\uff09\u300d\u3092\u958b\u767a",
+                    "source": "Prtimes.jp"
                 }
             ]
         }

@@ -1,34 +1,95 @@
 {
-    "report_generated_time": "2026-10-21T03:17:00.759903",
+    "report_generated_time": "2026-10-22T03:15:21.047707",
     "niche": "RAG & Vector Databases",
-    "final_score": 2.86,
-    "alert_status": "PRE_TREND_ALERT",
+    "final_score": 8.83,
+    "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 0,
-            "data": []
+            "normalized_score": 10,
+            "data": [
+                {
+                    "title": "Graph Topology Meets Energy-Driven Pathfinding: Preserving Contextual Consistency in Retrieval-Augmented Generation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.29933v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "DynaCI: Generating GitHub Actions Workflows via Dynamic Analysis",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.29890v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "MAPS: Macro-Adaptive Parallel Reasoning for Regulating Search Momentum in Retrieval-Augmented Generation",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2610.29792v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Retrieval Augmented Generation Compositionality",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.29722v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Learning Marginal Viewpoint Utility for Budgeted Evidence Selection in RAG",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.29234v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "C$^2$U in RAG: Compositional Concept Unlearning in Retrieval-Augmented Generation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.29223v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Context-Aware Prompt Injection Detection via Small Language Models in RAG Pipelines: nokast-secureRAG",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.28364v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "DeclineCraft: A RAG Abstention Benchmark for Jointly Measuring Combined Retrieval and Parametric Knowledge",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.28340v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "A Multimodal Engineering GraphRAG Framework for Post-Wind-Event Building Assessment and Recovery Inference",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2610.28216v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "GARRET: Generative Feedback for Region Retrieval in Visual Documents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.27829v1",
+                    "published": "Last 7 Days"
+                }
+            ]
         },
         "developer": {
-            "normalized_score": 1.03,
+            "normalized_score": 6.67,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 34,
-                    "increase_pct": "61.9%",
-                    "score_contribution": 3.1
+                    "recent_commits": 68,
+                    "increase_pct": "209.1%",
+                    "score_contribution": 10.0
                 },
                 {
                     "repo_name": "qdrant/qdrant",
-                    "recent_commits": 0,
-                    "increase_pct": "0.0%",
-                    "score_contribution": 0
+                    "recent_commits": 172,
+                    "increase_pct": "17200.0%",
+                    "score_contribution": 10.0
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 1,
-                    "increase_pct": "-90.0%",
+                    "recent_commits": 4,
+                    "increase_pct": "-60.0%",
                     "score_contribution": 0
                 }
             ]
@@ -37,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "vipera-ai added to PyPI",
+                    "title": "lfx-bundles 1.2.2",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "langchain-azure-ai 1.2.11",
+                    "title": "lfx-bundles 1.1.39",
                     "source": "Pypi.org"
                 }
             ]

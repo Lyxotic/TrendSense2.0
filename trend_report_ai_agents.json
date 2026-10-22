@@ -1,17 +1,78 @@
 {
-    "report_generated_time": "2026-10-21T03:16:41.077385",
+    "report_generated_time": "2026-10-22T03:15:08.061075",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 3.69,
-    "alert_status": "PRE_TREND_ALERT",
+    "final_score": 7.84,
+    "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 0,
-            "data": []
+            "normalized_score": 10,
+            "data": [
+                {
+                    "title": "Parallel AI Agent Collaboration as Graph-Structured Distributed Block Optimization",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2610.30074v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Privacy Preference Controls for Agentic Systems",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.29929v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Prompt Injection Through Forensic Evidence: A Taxonomy and Proof of Concept of Anti-Forensic Attacks on LLM-Assisted Digital Investigations",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.29747v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Memory-Centric Continual Learning for AI Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.29357v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Workflow-Aware Communication and Computation Scheduling for Mobile Edge AI Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.29337v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Beyond Task Relevance: Interaction-Aware Semantic Communication for Wireless Agent Collaboration",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2610.29299v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Credit Where Credit Is Due: Contrastive Attribution Topology Search for Multi-Agent Systems",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2610.29292v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Design and Tuning of Multi-Agent Systems Using Bayesian Evolutionary Optimization",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2610.29276v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Correlated Failures of AI Approval Monitors",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.29178v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Resonance and Depth: Composing Timbral Identity and Spatial Form in an Artist-in-the-Loop Co-Creative Multi-Agent Percussive Performance",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2610.29026v1",
+                    "published": "Last 7 Days"
+                }
+            ]
         },
         "developer": {
-            "normalized_score": 3.4,
+            "normalized_score": 3.84,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -21,15 +82,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 39,
-                    "increase_pct": "-4.9%",
+                    "recent_commits": 38,
+                    "increase_pct": "-7.3%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 308,
-                    "increase_pct": "104.0%",
-                    "score_contribution": 5.2
+                    "recent_commits": 366,
+                    "increase_pct": "130.2%",
+                    "score_contribution": 6.51
                 }
             ]
         },
@@ -37,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Fanless Core Ultra industrial PC gains external EMC protection",
-                    "source": "Linuxgizmos.com"
+                    "title": "Boston AI transport startup ASI valued at $3 billion in VC deal",
+                    "source": "The Boston Globe"
                 },
                 {
-                    "title": "China's tech-driven commerce plan pushes AI into phones, PCs, and robots",
+                    "title": "SpaceX pushes AI scaling into industrial realm as power equipment becomes limiting factor",
                     "source": "Digitimes"
                 }
             ]
