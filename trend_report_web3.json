@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-22T03:15:53.270077",
+    "report_generated_time": "2026-10-23T03:20:46.616504",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.94,
+    "final_score": 6.81,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -9,6 +9,24 @@
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "ChainSEED: A Scalable, High-Fidelity Blockchain Emulator",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.31188v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "DLT Terms 100: a learner's glossary based on ISO 22739:2024",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.30596v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Cambium: Participant-Built Commitment Roots for Shared Digital Infrastructure",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2610.30409v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Semantic-Aware Update Admission and Adaptive Byzantine Redundancy for Secure Computation Offloading in COIN-Enabled Metaverse Systems",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -19,6 +37,12 @@
                     "title": "How Not to Be Censored: Inclusion Safety in Client-Led Consensus",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2610.29497v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "When EVM Defaults Break: Three SDK Patterns for UTXO-Family Wallets",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.30183v1",
                     "published": "Last 7 Days"
                 },
                 {
@@ -44,41 +68,17 @@
                     "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
                     "link": "https://arxiv.org/pdf/2610.25714v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "On Pearl Blockchain's Proof of Useful Work: Systematization and Flexibility",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.25347v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Blockchain Participation Games with Upfront Contribution Commitment",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.24697v2",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Empirical Analysis of TEE-Enabled Rollup Designs",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.24284v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Towards an Intelligent Decision Engine for Smart Contract Deployment",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.24198v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 1.25,
+            "normalized_score": 0.88,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 27,
-                    "increase_pct": "50.0%",
-                    "score_contribution": 2.5
+                    "recent_commits": 23,
+                    "increase_pct": "35.3%",
+                    "score_contribution": 1.76
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Anthropic\u2019s first-half revenue outpaces its compute bill, according to draft IPO filing",
+                    "title": "Apple to appeal Australian court ruling on iOS app store access",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Zept\u682a\u5f0f\u4f1a\u793e\u3001\u30b9\u30c6\u30fc\u30d6\u30eb\u30b3\u30a4\u30f3\u6c7a\u6e08\u306e\u8acb\u6c42\u30fb\u5165\u91d1\u7ba1\u7406\u3092\u4e00\u5143\u5316\u3059\u308b\u300cJP Stablecoin Invoice\uff08JSI\uff09\u300d\u3092\u958b\u767a",
-                    "source": "Prtimes.jp"
+                    "title": "October 2026 Crypto Stocks To Watch",
+                    "source": "Biztoc.com"
                 }
             ]
         }

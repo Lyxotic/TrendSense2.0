@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-22T03:15:08.061075",
+    "report_generated_time": "2026-10-23T03:20:38.778741",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 7.84,
+    "final_score": 7.86,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -10,69 +10,69 @@
             "normalized_score": 10,
             "data": [
                 {
-                    "title": "Parallel AI Agent Collaboration as Graph-Structured Distributed Block Optimization",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2610.30074v1",
+                    "title": "SCOPE: Scene-graph Construction Optimized by Plan Error-correction for Robot Long-term Planning Datasets",
+                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
+                    "link": "https://arxiv.org/pdf/2610.31518v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Privacy Preference Controls for Agentic Systems",
+                    "title": "Muffin - A Shared Memory Buffer for Asynchronous AI Agents",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.29929v1",
+                    "link": "https://arxiv.org/pdf/2610.31355v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Prompt Injection Through Forensic Evidence: A Taxonomy and Proof of Concept of Anti-Forensic Attacks on LLM-Assisted Digital Investigations",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.29747v1",
+                    "title": "Automating quantum circuit optimization with AI agents",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2610.31352v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Memory-Centric Continual Learning for AI Agents",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.29357v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Workflow-Aware Communication and Computation Scheduling for Mobile Edge AI Agents",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.29337v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Beyond Task Relevance: Interaction-Aware Semantic Communication for Wireless Agent Collaboration",
+                    "title": "Automating Feature Flag Cleanup at Scale with Multi-Agent LLM Systems: An Industrial Experience at DoorDash",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2610.29299v1",
+                    "link": "https://arxiv.org/pdf/2610.31351v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Credit Where Credit Is Due: Contrastive Attribution Topology Search for Multi-Agent Systems",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2610.29292v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Design and Tuning of Multi-Agent Systems Using Bayesian Evolutionary Optimization",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2610.29276v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Correlated Failures of AI Approval Monitors",
+                    "title": "Can AI Co-Design Structures? An AI Agent for Early-Stage Structural Design",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.29178v1",
+                    "link": "https://arxiv.org/pdf/2610.31113v1",
                     "published": "Last 7 Days"
                 },
                 {
-                    "title": "Resonance and Depth: Composing Timbral Identity and Spatial Form in an Artist-in-the-Loop Co-Creative Multi-Agent Percussive Performance",
+                    "title": "Who Is the Influencer? Consensus Dynamics in Multi-Agent Systems",
                     "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2610.29026v1",
+                    "link": "https://arxiv.org/pdf/2610.31105v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "nnInteractive Agent: General-Purpose AI Agents as 3D Image Annotators",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.31080v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "CANNBot-CAKE: Collaborative Agentic Kernel Evolution for Ascend NPU",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.31034v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "REGATTA: A Cross-Domain Measurement Framework and Fault-Injection Harness for Enterprise AI Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.30924v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Harnessing Language Models as Optimization Modeling Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.30917v1",
                     "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 3.84,
+            "normalized_score": 3.88,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,15 +82,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 38,
-                    "increase_pct": "-7.3%",
+                    "recent_commits": 35,
+                    "increase_pct": "-12.5%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 366,
-                    "increase_pct": "130.2%",
-                    "score_contribution": 6.51
+                    "recent_commits": 433,
+                    "increase_pct": "132.8%",
+                    "score_contribution": 6.64
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Boston AI transport startup ASI valued at $3 billion in VC deal",
-                    "source": "The Boston Globe"
+                    "title": "Hackers Already Trying to Exploit Serious PHP Flaw",
+                    "source": "PCMag.com"
                 },
                 {
-                    "title": "SpaceX pushes AI scaling into industrial realm as power equipment becomes limiting factor",
-                    "source": "Digitimes"
+                    "title": "Democrats warn of Russian misinformation in US midterms",
+                    "source": "RTE"
                 }
             ]
         }

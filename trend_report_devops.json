@@ -1,14 +1,26 @@
 {
-    "report_generated_time": "2026-10-22T03:16:11.400981",
+    "report_generated_time": "2026-10-23T03:20:51.848304",
     "niche": "Cloud Native & DevOps",
-    "final_score": 7.23,
-    "alert_status": "TRENDING_NOW",
+    "final_score": 6.5,
+    "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
             "normalized_score": 10,
             "data": [
+                {
+                    "title": "Procrustes-Bering-Sheaft: Automated Model Discovery and Virtual Crash Tests for Microservices",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.31444v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "A Consolidated Deployment Edition of a Microservice Core-Banking Platform: Composing Services by Reference into Three Hosts",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2610.30212v1",
+                    "published": "Last 7 Days"
+                },
                 {
                     "title": "Benchmarking Coding Agents for System-Level Performance Optimization",
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
@@ -56,35 +68,23 @@
                     "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
                     "link": "https://arxiv.org/pdf/2610.26340v1",
                     "published": "Last 7 Days"
-                },
-                {
-                    "title": "Holistic Buoyancy-Driven Cloud Native Resource Management",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.26160v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "ScaleRAN: A Runtime for Elastic GPU Resource Management in AI-RAN",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.23072v1",
-                    "published": "Last 7 Days"
                 }
             ]
         },
         "developer": {
-            "normalized_score": 2.07,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 207,
-                    "increase_pct": "-12.3%",
+                    "recent_commits": 224,
+                    "increase_pct": "-7.1%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 75,
-                    "increase_pct": "82.9%",
-                    "score_contribution": 4.15
+                    "recent_commits": 33,
+                    "increase_pct": "-59.8%",
+                    "score_contribution": 0
                 }
             ]
         },
@@ -92,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Scientists discover ghostly, eyeless creature hidden in Chinese cave",
-                    "source": "Science Daily"
+                    "title": "her-sync 0.9.0",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "Transplants claim Duke City Marathon titles",
-                    "source": "Albuquerque Journal"
+                    "title": "Are there jackals in the US?",
+                    "source": "Lifesciencesworld.com"
                 }
             ]
         }
