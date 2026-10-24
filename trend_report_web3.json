@@ -1,84 +1,23 @@
 {
-    "report_generated_time": "2026-10-23T03:20:46.616504",
+    "report_generated_time": "2026-10-24T03:15:36.020171",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.81,
+    "final_score": 2.91,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 10,
-            "data": [
-                {
-                    "title": "ChainSEED: A Scalable, High-Fidelity Blockchain Emulator",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.31188v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "DLT Terms 100: a learner's glossary based on ISO 22739:2024",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.30596v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Cambium: Participant-Built Commitment Roots for Shared Digital Infrastructure",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2610.30409v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Semantic-Aware Update Admission and Adaptive Byzantine Redundancy for Secure Computation Offloading in COIN-Enabled Metaverse Systems",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.29592v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "How Not to Be Censored: Inclusion Safety in Client-Led Consensus",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.29497v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "When EVM Defaults Break: Three SDK Patterns for UTXO-Family Wallets",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.30183v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "ZKPU: Zero-Knowledge Processing Unit for Heterogeneous Workloads",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.27530v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Proof-of-Machine-Learning-Inference: Mining Knowledge, Not Hashes",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.26713v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Fortress: Fork Resistant Transparency logs Relying on Social graph Structure",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.26327v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Peer-Relative Trust-Guided Update Screening for Robust Semi-Decentralized Federated Learning under Label-Flipping Attacks",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2610.25714v1",
-                    "published": "Last 7 Days"
-                }
-            ]
+            "normalized_score": 0,
+            "data": []
         },
         "developer": {
-            "normalized_score": 0.88,
+            "normalized_score": 1.18,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 23,
-                    "increase_pct": "35.3%",
-                    "score_contribution": 1.76
+                    "recent_commits": 25,
+                    "increase_pct": "47.1%",
+                    "score_contribution": 2.35
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -92,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Apple to appeal Australian court ruling on iOS app store access",
-                    "source": "Crypto Briefing"
+                    "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+                    "source": "CoinDesk"
                 },
                 {
-                    "title": "October 2026 Crypto Stocks To Watch",
-                    "source": "Biztoc.com"
+                    "title": "verdettoqr-threat 0.1.2",
+                    "source": "Pypi.org"
                 }
             ]
         }

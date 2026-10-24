@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-23T03:20:38.778741",
+    "report_generated_time": "2026-10-24T03:14:56.360131",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 7.86,
+    "final_score": 7.31,
     "alert_status": "TRENDING_NOW",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -72,25 +72,25 @@
             ]
         },
         "developer": {
-            "normalized_score": 3.88,
+            "normalized_score": 2.3,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
-                    "recent_commits": 1,
-                    "increase_pct": "100.0%",
-                    "score_contribution": 5.0
-                },
-                {
-                    "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 35,
-                    "increase_pct": "-12.5%",
+                    "recent_commits": 0,
+                    "increase_pct": "-100.0%",
                     "score_contribution": 0
                 },
                 {
+                    "repo_name": "crewAIInc/crewAI",
+                    "recent_commits": 60,
+                    "increase_pct": "76.5%",
+                    "score_contribution": 3.82
+                },
+                {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 433,
-                    "increase_pct": "132.8%",
-                    "score_contribution": 6.64
+                    "recent_commits": 391,
+                    "increase_pct": "61.6%",
+                    "score_contribution": 3.08
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Hackers Already Trying to Exploit Serious PHP Flaw",
-                    "source": "PCMag.com"
+                    "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
+                    "source": "The Times of India"
                 },
                 {
-                    "title": "Democrats warn of Russian misinformation in US midterms",
-                    "source": "RTE"
+                    "title": "Microsoft develops AI tool that can diagnose 'sequentially' like doctor",
+                    "source": "Business Standard"
                 }
             ]
         }

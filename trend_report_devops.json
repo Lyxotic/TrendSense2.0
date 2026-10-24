@@ -1,89 +1,28 @@
 {
-    "report_generated_time": "2026-10-23T03:20:51.848304",
+    "report_generated_time": "2026-10-24T03:15:58.103899",
     "niche": "Cloud Native & DevOps",
-    "final_score": 6.5,
+    "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 10,
-            "data": [
-                {
-                    "title": "Procrustes-Bering-Sheaft: Automated Model Discovery and Virtual Crash Tests for Microservices",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.31444v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "A Consolidated Deployment Edition of a Microservice Core-Banking Platform: Composing Services by Reference into Three Hosts",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.30212v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Benchmarking Coding Agents for System-Level Performance Optimization",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.29695v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "RegoMender: A Multi-agent Framework for Automated Rego Policy Repair",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2610.29456v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Semantic Observability for Autonomous Systems Diagnostics",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.28611v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Budgeted Admission from Timestamped Capacity Records in Shared Clusters",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.28392v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Orchestrating Key Scarcity: Global Capacity Allocation in Hybrid QKD-PQC Networks",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.27332v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "ReuF2F: Benchmarking Coding Agents on Formalized Undergraduate Research Problems",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.27046v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Connection Escrow: Holding AI-Agent Pod Egress in the Kernel Until an Isolated Verifier Rules",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.26501v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "A Generic On-Board AI Processing Chain for Earth Observation: From Application Development to Embedded Deployment and Mission-Level Orchestration",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.26340v1",
-                    "published": "Last 7 Days"
-                }
-            ]
+            "normalized_score": 0,
+            "data": []
         },
         "developer": {
             "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 224,
-                    "increase_pct": "-7.1%",
+                    "recent_commits": 222,
+                    "increase_pct": "-10.1%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 33,
-                    "increase_pct": "-59.8%",
+                    "recent_commits": 12,
+                    "increase_pct": "-87.6%",
                     "score_contribution": 0
                 }
             ]
@@ -92,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "her-sync 0.9.0",
-                    "source": "Pypi.org"
+                    "title": "Big Ten Basketball Preview Part 4: The Contenders",
+                    "source": "Thechampaignroom.com"
                 },
                 {
-                    "title": "Are there jackals in the US?",
-                    "source": "Lifesciencesworld.com"
+                    "title": "Eastman asks for, gets his rematch with Achesa",
+                    "source": "Albuquerque Journal"
                 }
             ]
         }
