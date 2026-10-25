@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-10-24T03:15:36.020171",
+    "report_generated_time": "2026-10-25T03:10:55.387030",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 2.91,
     "alert_status": "PRE_TREND_ALERT",
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-                    "source": "CoinDesk"
+                    "title": "3.3M users gain HSBC RedCoin, yet 1 strict rule blocks them",
+                    "source": "CryptoSlate"
                 },
                 {
-                    "title": "verdettoqr-threat 0.1.2",
-                    "source": "Pypi.org"
+                    "title": "UK commits approximately \u00a3600 million to AI security, with a biosecurity lab at the center",
+                    "source": "Crypto Briefing"
                 }
             ]
         }

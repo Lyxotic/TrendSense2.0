@@ -1,78 +1,17 @@
 {
-    "report_generated_time": "2026-10-24T03:14:56.360131",
+    "report_generated_time": "2026-10-25T03:10:15.367909",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 7.31,
-    "alert_status": "TRENDING_NOW",
+    "final_score": 3.3,
+    "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 10,
-            "data": [
-                {
-                    "title": "SCOPE: Scene-graph Construction Optimized by Plan Error-correction for Robot Long-term Planning Datasets",
-                    "summary": "Focuses on 'Chain-of-Thought' for agents, allowing them to plan their actions and self-correct errors before responding.",
-                    "link": "https://arxiv.org/pdf/2610.31518v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Muffin - A Shared Memory Buffer for Asynchronous AI Agents",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.31355v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Automating quantum circuit optimization with AI agents",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2610.31352v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Automating Feature Flag Cleanup at Scale with Multi-Agent LLM Systems: An Industrial Experience at DoorDash",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2610.31351v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Can AI Co-Design Structures? An AI Agent for Early-Stage Structural Design",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.31113v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Who Is the Influencer? Consensus Dynamics in Multi-Agent Systems",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2610.31105v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "nnInteractive Agent: General-Purpose AI Agents as 3D Image Annotators",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.31080v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "CANNBot-CAKE: Collaborative Agentic Kernel Evolution for Ascend NPU",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.31034v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "REGATTA: A Cross-Domain Measurement Framework and Fault-Injection Harness for Enterprise AI Agents",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.30924v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Harnessing Language Models as Optimization Modeling Agents",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.30917v1",
-                    "published": "Last 7 Days"
-                }
-            ]
+            "normalized_score": 0,
+            "data": []
         },
         "developer": {
-            "normalized_score": 2.3,
+            "normalized_score": 2.27,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -88,9 +27,9 @@
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 391,
-                    "increase_pct": "61.6%",
-                    "score_contribution": 3.08
+                    "recent_commits": 395,
+                    "increase_pct": "59.9%",
+                    "score_contribution": 3.0
                 }
             ]
         },
@@ -98,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
-                    "source": "The Times of India"
+                    "title": "OpenAI Says It's Cutting Off Internet Access For Frontier Model Training",
+                    "source": "Slashdot.org"
                 },
                 {
-                    "title": "Microsoft develops AI tool that can diagnose 'sequentially' like doctor",
-                    "source": "Business Standard"
+                    "title": "UK commits approximately \u00a3600 million to AI security, with a biosecurity lab at the center",
+                    "source": "Crypto Briefing"
                 }
             ]
         }

@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-24T03:15:02.013376",
+    "report_generated_time": "2026-10-25T03:10:21.386060",
     "niche": "RAG & Vector Databases",
-    "final_score": 5.42,
+    "final_score": 4.83,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,12 +11,12 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 8.33,
+            "normalized_score": 6.67,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 72,
-                    "increase_pct": "227.3%",
+                    "recent_commits": 80,
+                    "increase_pct": "263.6%",
                     "score_contribution": 10.0
                 },
                 {
@@ -27,9 +27,9 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 4,
-                    "increase_pct": "100.0%",
-                    "score_contribution": 5.0
+                    "recent_commits": 3,
+                    "increase_pct": "0.0%",
+                    "score_contribution": 0
                 }
             ]
         },
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "crosswatch added to PyPI",
+                    "title": "livekit-plugins-langchain 1.8.9",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "langchain-sra-riskgate 0.3.1",
+                    "title": "langchain-botsrated 0.1.2",
                     "source": "Pypi.org"
                 }
             ]
