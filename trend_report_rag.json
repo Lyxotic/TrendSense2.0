@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-10-25T03:10:21.386060",
+    "report_generated_time": "2026-10-26T03:10:05.253755",
     "niche": "RAG & Vector Databases",
     "final_score": 4.83,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 80,
-                    "increase_pct": "263.6%",
+                    "recent_commits": 88,
+                    "increase_pct": "300.0%",
                     "score_contribution": 10.0
                 },
                 {
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "livekit-plugins-langchain 1.8.9",
+                    "title": "VecturaDB 1.0.0rc2",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "langchain-botsrated 0.1.2",
-                    "source": "Pypi.org"
+                    "title": "Show HN: ADRs for AI \u2013 Deliberation records for human\u2013AI work, versioned in Git",
+                    "source": "Adrs.systems"
                 }
             ]
         }

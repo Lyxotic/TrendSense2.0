@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-10-25T03:11:32.127077",
+    "report_generated_time": "2026-10-26T03:11:02.573078",
     "niche": "Cloud Native & DevOps",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 221,
-                    "increase_pct": "-9.8%",
+                    "recent_commits": 222,
+                    "increase_pct": "-7.9%",
                     "score_contribution": 0
                 },
                 {
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "ras-commander-fast-hdf 0.1.1",
+                    "title": "sqlbuild-cli 0.178.0",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "Pelicans' Missi injures left knee against Jazz",
-                    "source": "Yahoo Entertainment"
+                    "title": "knn-inspect 0.17.0",
+                    "source": "Pypi.org"
                 }
             ]
         }
