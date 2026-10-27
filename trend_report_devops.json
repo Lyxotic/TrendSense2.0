@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-10-26T03:11:02.573078",
+    "report_generated_time": "2026-10-27T03:40:59.603632",
     "niche": "Cloud Native & DevOps",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,14 +15,14 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 222,
-                    "increase_pct": "-7.9%",
+                    "recent_commits": 234,
+                    "increase_pct": "-0.8%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 12,
-                    "increase_pct": "-87.6%",
+                    "recent_commits": 41,
+                    "increase_pct": "-46.8%",
                     "score_contribution": 0
                 }
             ]
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "sqlbuild-cli 0.178.0",
+                    "title": "3tears-models 0.78.0",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "knn-inspect 0.17.0",
-                    "source": "Pypi.org"
+                    "title": "Young rabbi is charged with murder after man is found dead at gas station in Los Angeles",
+                    "source": "Dailymail.com"
                 }
             ]
         }

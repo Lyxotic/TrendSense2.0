@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-26T03:10:25.877028",
+    "report_generated_time": "2026-10-27T03:40:38.804623",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 2.59,
+    "final_score": 2.94,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.25,
+            "normalized_score": 1.25,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 22,
-                    "increase_pct": "10.0%",
-                    "score_contribution": 0.5
+                    "recent_commits": 27,
+                    "increase_pct": "50.0%",
+                    "score_contribution": 2.5
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -31,11 +31,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "WhiteBIT\u2019s W Group Backs SwapGlobal\u2019s Push Into Pre-IPO Derivatives",
-                    "source": "newsBTC"
+                    "title": "Keystone says website breach exposed hardware wallet buyers\u2019 addresses",
+                    "source": "Cointelegraph"
                 },
                 {
-                    "title": "Circle CEO Jeremy Allaire says Democrats won\u2019t reverse the GENIUS Act",
+                    "title": "Saudi-led coalition destroys two missile launchers in Yemen\u2019s Sanaa, one targeted Riyadh",
                     "source": "Crypto Briefing"
                 }
             ]
