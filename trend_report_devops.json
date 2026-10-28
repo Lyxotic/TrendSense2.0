@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-27T03:40:59.603632",
+    "report_generated_time": "2026-10-28T03:57:17.634646",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.5,
+    "final_score": 2.54,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,18 +11,18 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 0.12,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 234,
-                    "increase_pct": "-0.8%",
-                    "score_contribution": 0
+                    "recent_commits": 252,
+                    "increase_pct": "5.0%",
+                    "score_contribution": 0.25
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 41,
-                    "increase_pct": "-46.8%",
+                    "recent_commits": 55,
+                    "increase_pct": "-23.6%",
                     "score_contribution": 0
                 }
             ]
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "3tears-models 0.78.0",
-                    "source": "Pypi.org"
+                    "title": "What are some fun facts about yellow mongoose for kids?",
+                    "source": "Lifesciencesworld.com"
                 },
                 {
-                    "title": "Young rabbi is charged with murder after man is found dead at gas station in Los Angeles",
-                    "source": "Dailymail.com"
+                    "title": "Can I own a bobcat in California?",
+                    "source": "Lifesciencesworld.com"
                 }
             ]
         }
