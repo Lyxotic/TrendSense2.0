@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-10-29T04:20:44.585599",
+    "report_generated_time": "2026-10-30T04:20:58.227236",
     "niche": "RAG & Vector Databases",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 48,
-                    "increase_pct": "-29.4%",
+                    "recent_commits": 43,
+                    "increase_pct": "-43.4%",
                     "score_contribution": 0
                 },
                 {
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "langchain-cockroachdb 0.5.1",
+                    "title": "langchain-wan27 added to PyPI",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "logosdb 1.1.0",
+                    "title": "langchain-openentity 0.2.1",
                     "source": "Pypi.org"
                 }
             ]

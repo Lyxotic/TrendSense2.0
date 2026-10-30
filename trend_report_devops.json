@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-29T04:21:24.601726",
+    "report_generated_time": "2026-10-30T04:21:38.812358",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.74,
+    "final_score": 3.7,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,19 +11,19 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.68,
+            "normalized_score": 3.43,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 298,
-                    "increase_pct": "27.4%",
-                    "score_contribution": 1.37
+                    "recent_commits": 283,
+                    "increase_pct": "10.1%",
+                    "score_contribution": 0.51
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 52,
-                    "increase_pct": "-30.7%",
-                    "score_contribution": 0
+                    "recent_commits": 75,
+                    "increase_pct": "127.3%",
+                    "score_contribution": 6.36
                 }
             ]
         },
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Oracle NetSuite Sees India As Key Market For AI-Driven SME Expansion",
-                    "source": "Rediff.com"
+                    "title": "Milwaukee Brewers win first World Series title in franchise history",
+                    "source": "Wisconsin Examiner"
                 },
                 {
-                    "title": "What is possums real name?",
-                    "source": "Lifesciencesworld.com"
+                    "title": "Hometown of \u2018Addams Family\u2019 creator becomes ghoulish Halloween destination",
+                    "source": "Abcnews.com"
                 }
             ]
         }

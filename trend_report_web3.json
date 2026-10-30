@@ -1,75 +1,14 @@
 {
-    "report_generated_time": "2026-10-29T04:21:01.983652",
+    "report_generated_time": "2026-10-30T04:21:17.331464",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 6.5,
+    "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 10,
-            "data": [
-                {
-                    "title": "An EVM-Cosmos Bridge for Atomic, Semantic-Preserving Transfer of Environmental Tokens",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.37663v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "UniPCH: A Unified Framework for Cross-Chain Payments via Payment Channel Hubs",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.36866v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Whether Is Not When: Separating Occurrence from Timing in Polymarket Prices",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.36639v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Tight Characterizations of AMM Mechanism Design under Weak Efficiency",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.36635v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Sybil-Proofness of Generalized Adaptive Clinching and Implications for Blockchain Mechanism Design",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.36629v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Does Ecosystem Activity Validate TVL?",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.36274v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Fuji: The Shape, Composition, and Spread of Demand Bursts on Robinhood Chain",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.35738v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Merkle-Tree-Based Verifiable Public Data Auditing for Cloud Object Storage Using Smart Contracts",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.36001v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "A Multi-Asset Dataset and Tail-Risk Framework for DeFi Yield Trading Derivatives",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.34930v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Officially corrected errors persist in AI training data: preregistered measurements on EU law, Internet standards and retracted science",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2610.34379v1",
-                    "published": "Last 7 Days"
-                }
-            ]
+            "normalized_score": 0,
+            "data": []
         },
         "developer": {
             "normalized_score": 0.0,
@@ -77,7 +16,7 @@
                 {
                     "repo_name": "ethereum/go-ethereum",
                     "recent_commits": 17,
-                    "increase_pct": "-34.6%",
+                    "increase_pct": "-26.1%",
                     "score_contribution": 0
                 },
                 {
@@ -92,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Jack Dorsey warns Bitcoin fails if reduced to digital gold",
+                    "title": "Anthropic could begin marketing its IPO the week of Nov. 9",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "wickra-exchange 0.2.1",
-                    "source": "Pypi.org"
+                    "title": "Stealth Bear Market Hits Crypto Stocks as Coinbase, Circle, Robinhood Fall 40-56%",
+                    "source": "Biztoc.com"
                 }
             ]
         }

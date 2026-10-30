@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-29T04:20:23.381275",
+    "report_generated_time": "2026-10-30T04:20:53.141748",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 3.35,
+    "final_score": 3.34,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,7 +11,7 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 2.43,
+            "normalized_score": 2.39,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -21,15 +21,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 85,
-                    "increase_pct": "123.7%",
-                    "score_contribution": 6.18
+                    "recent_commits": 90,
+                    "increase_pct": "143.2%",
+                    "score_contribution": 7.16
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 450,
-                    "increase_pct": "22.3%",
-                    "score_contribution": 1.11
+                    "recent_commits": 410,
+                    "increase_pct": "-4.7%",
+                    "score_contribution": 0
                 }
             ]
         },
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "How Fashion Should Think About\u00a0AI",
-                    "source": "WWD"
+                    "title": "At Long Last: Hands on With Apple's First Touch-Screen MacBook Pro",
+                    "source": "PCMag.com"
                 },
                 {
-                    "title": "Institutional bloat: the hidden cost of living",
-                    "source": "Americanthinker.com"
+                    "title": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say",
+                    "source": "The Times of India"
                 }
             ]
         }
