@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-10-30T04:20:53.141748",
+    "report_generated_time": "2026-10-31T04:00:25.346575",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 3.34,
+    "final_score": 3.13,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,25 +11,25 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 2.39,
+            "normalized_score": 1.81,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
                     "recent_commits": 1,
-                    "increase_pct": "0.0%",
-                    "score_contribution": 0
+                    "increase_pct": "100.0%",
+                    "score_contribution": 5.0
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 90,
-                    "increase_pct": "143.2%",
-                    "score_contribution": 7.16
+                    "recent_commits": 65,
+                    "increase_pct": "8.3%",
+                    "score_contribution": 0.42
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 410,
-                    "increase_pct": "-4.7%",
-                    "score_contribution": 0
+                    "recent_commits": 393,
+                    "increase_pct": "0.5%",
+                    "score_contribution": 0.03
                 }
             ]
         },
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "At Long Last: Hands on With Apple's First Touch-Screen MacBook Pro",
-                    "source": "PCMag.com"
+                    "title": "Sandisk sees 60\u201390GB of NAND per CPU in AI agent workloads",
+                    "source": "Digitimes"
                 },
                 {
-                    "title": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say",
-                    "source": "The Times of India"
+                    "title": "AI Built a Photoshop Clone in a Day. I Asked Experts What Happens Next",
+                    "source": "PCMag.com"
                 }
             ]
         }

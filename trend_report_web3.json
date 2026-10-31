@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-10-30T04:21:17.331464",
+    "report_generated_time": "2026-10-31T04:01:03.346782",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 17,
-                    "increase_pct": "-26.1%",
+                    "recent_commits": 13,
+                    "increase_pct": "-48.0%",
                     "score_contribution": 0
                 },
                 {
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Anthropic could begin marketing its IPO the week of Nov. 9",
-                    "source": "Crypto Briefing"
+                    "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
+                    "source": "Biztoc.com"
                 },
                 {
-                    "title": "Stealth Bear Market Hits Crypto Stocks as Coinbase, Circle, Robinhood Fall 40-56%",
-                    "source": "Biztoc.com"
+                    "title": "Kamino Opens Solana Lending Market for Backpack Tokenized Equity Collateral",
+                    "source": "newsBTC"
                 }
             ]
         }
