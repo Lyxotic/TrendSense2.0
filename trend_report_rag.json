@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-11-01T04:20:55.931831",
+    "report_generated_time": "2026-11-02T04:22:32.719910",
     "niche": "RAG & Vector Databases",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 36,
-                    "increase_pct": "-55.0%",
+                    "recent_commits": 35,
+                    "increase_pct": "-60.2%",
                     "score_contribution": 0
                 },
                 {
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "openrag 0.8.1.dev3",
+                    "title": "dex-agents-langgraph added to PyPI",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "agentraas 0.16.0",
+                    "title": "langchain-memtether added to PyPI",
                     "source": "Pypi.org"
                 }
             ]

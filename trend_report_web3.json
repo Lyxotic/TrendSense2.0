@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-11-01T04:21:14.602093",
+    "report_generated_time": "2026-11-02T04:22:35.749936",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 13,
-                    "increase_pct": "-48.0%",
+                    "recent_commits": 15,
+                    "increase_pct": "-31.8%",
                     "score_contribution": 0
                 },
                 {
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Record crypto heist swipes $6.3 billion from Binance",
-                    "source": "Biztoc.com"
+                    "title": "FBI blames North Korea for stealing $6.3B from Binance in biggest crypto heist in history",
+                    "source": "New York Post"
                 },
                 {
-                    "title": "Ambarella reportedly enters exclusive sale talks with NXP Semiconductors",
-                    "source": "Crypto Briefing"
+                    "title": "sbp4ai-client 0.5.7",
+                    "source": "Pypi.org"
                 }
             ]
         }

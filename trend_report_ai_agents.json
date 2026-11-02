@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-01T04:20:21.787631",
+    "report_generated_time": "2026-11-02T04:22:13.333267",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 3.14,
+    "final_score": 3.27,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,7 +11,7 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 1.83,
+            "normalized_score": 2.21,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -21,15 +21,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 66,
-                    "increase_pct": "10.0%",
-                    "score_contribution": 0.5
+                    "recent_commits": 78,
+                    "increase_pct": "32.2%",
+                    "score_contribution": 1.61
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 393,
-                    "increase_pct": "-0.8%",
-                    "score_contribution": 0
+                    "recent_commits": 397,
+                    "increase_pct": "0.3%",
+                    "score_contribution": 0.01
                 }
             ]
         },
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Top 10&10 | RIL hits a Q2 high, Jio adds to the cheer; market gains 2nd straight session",
-                    "source": "CNBCTV18"
+                    "title": "Context Labs AI Distillery\u2122 Lets Enterprises Run Sovereign AI on Data They Own",
+                    "source": "PR Newswire UK"
                 },
                 {
-                    "title": "Sam Altman Suggests Running AI Locally Is a Waste of Memory",
-                    "source": "PCMag.com"
+                    "title": "Where to invest $5,000 in ASX ETFs this November",
+                    "source": "Motley Fool Australia"
                 }
             ]
         }
