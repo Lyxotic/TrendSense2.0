@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-02T04:22:40.742873",
+    "report_generated_time": "2026-11-03T05:19:12.609887",
     "niche": "Cloud Native & DevOps",
-    "final_score": 4.42,
+    "final_score": 2.8,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,19 +11,19 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 5.47,
+            "normalized_score": 0.86,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 307,
-                    "increase_pct": "19.0%",
-                    "score_contribution": 0.95
+                    "recent_commits": 306,
+                    "increase_pct": "12.5%",
+                    "score_contribution": 0.62
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 77,
-                    "increase_pct": "541.7%",
-                    "score_contribution": 10.0
+                    "recent_commits": 50,
+                    "increase_pct": "22.0%",
+                    "score_contribution": 1.1
                 }
             ]
         },
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "rmink 2.17.0",
+                    "title": "vagrant-moses 0.11.0",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "navigera 0.7.0",
-                    "source": "Pypi.org"
+                    "title": "New Brunswick Miramichi Rivers & Bogs Real-World Terrains 10 km by Matei Ioan Alexandru",
+                    "source": "Unity.com"
                 }
             ]
         }

@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-11-02T04:22:32.719910",
+    "report_generated_time": "2026-11-03T05:18:48.870696",
     "niche": "RAG & Vector Databases",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 35,
-                    "increase_pct": "-60.2%",
+                    "recent_commits": 40,
+                    "increase_pct": "-57.0%",
                     "score_contribution": 0
                 },
                 {
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "dex-agents-langgraph added to PyPI",
+                    "title": "language-model-common 4.2.4",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "langchain-memtether added to PyPI",
+                    "title": "language-model-common 4.2.3",
                     "source": "Pypi.org"
                 }
             ]
