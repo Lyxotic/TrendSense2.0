@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-11-03T05:18:48.870696",
+    "report_generated_time": "2026-11-04T04:49:10.779577",
     "niche": "RAG & Vector Databases",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 40,
-                    "increase_pct": "-57.0%",
+                    "recent_commits": 42,
+                    "increase_pct": "-48.1%",
                     "score_contribution": 0
                 },
                 {
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "language-model-common 4.2.4",
+                    "title": "langchain-x402-cleanweb 0.1.0",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "language-model-common 4.2.3",
+                    "title": "langchain-x402-cleanweb added to PyPI",
                     "source": "Pypi.org"
                 }
             ]

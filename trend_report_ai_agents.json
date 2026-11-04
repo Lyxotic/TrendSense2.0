@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-03T05:18:44.699832",
+    "report_generated_time": "2026-11-04T04:48:35.988820",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 3.09,
+    "final_score": 3.08,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,7 +11,7 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 1.69,
+            "normalized_score": 1.67,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -21,14 +21,14 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 63,
-                    "increase_pct": "1.6%",
-                    "score_contribution": 0.08
+                    "recent_commits": 38,
+                    "increase_pct": "-52.5%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 327,
-                    "increase_pct": "-28.1%",
+                    "recent_commits": 285,
+                    "increase_pct": "-42.0%",
                     "score_contribution": 0
                 }
             ]
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Apple's new CEO Ternus to face first earnings test as memory costs surge",
-                    "source": "CNA"
+                    "title": "From SBI to Binance, how financial institutions are becoming cyberattack targets",
+                    "source": "The Times of India"
                 },
                 {
-                    "title": "Apple's new CEO John Ternus to face first earnings test as memory costs surge",
-                    "source": "The Times of India"
+                    "title": "answer-check-mcp added to PyPI",
+                    "source": "Pypi.org"
                 }
             ]
         }
