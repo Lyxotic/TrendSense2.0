@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-04T04:49:10.779577",
+    "report_generated_time": "2026-11-05T05:03:38.383574",
     "niche": "RAG & Vector Databases",
-    "final_score": 2.5,
+    "final_score": 2.55,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,24 +11,24 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 0.14,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 42,
-                    "increase_pct": "-48.1%",
-                    "score_contribution": 0
+                    "recent_commits": 50,
+                    "increase_pct": "8.7%",
+                    "score_contribution": 0.43
                 },
                 {
                     "repo_name": "qdrant/qdrant",
                     "recent_commits": 0,
-                    "increase_pct": "-100.0%",
+                    "increase_pct": "0.0%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "chroma-core/chroma",
                     "recent_commits": 0,
-                    "increase_pct": "-100.0%",
+                    "increase_pct": "0.0%",
                     "score_contribution": 0
                 }
             ]
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "langchain-x402-cleanweb 0.1.0",
+                    "title": "flexible-graphrag-mcp 0.9.1",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "langchain-x402-cleanweb added to PyPI",
+                    "title": "flexible-graphrag 0.9.1",
                     "source": "Pypi.org"
                 }
             ]
