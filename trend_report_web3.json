@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-11-05T05:03:57.598874",
+    "report_generated_time": "2026-11-06T05:03:39.484293",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -16,7 +16,7 @@
                 {
                     "repo_name": "ethereum/go-ethereum",
                     "recent_commits": 15,
-                    "increase_pct": "-11.8%",
+                    "increase_pct": "-6.2%",
                     "score_contribution": 0
                 },
                 {
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Trump promised every adult $5,000 if Republicans kept control of Congress. Thanks to Democrats, taxpayers won\u2019t have to pay up and blow up the debt",
-                    "source": "Fortune"
+                    "title": "North Korean Ad Fraudsters Pwn Binance; Don\u2019t Bother Predicting Your Ad Revenue",
+                    "source": "AdExchanger"
                 },
                 {
-                    "title": "Hyperliquid rise rattles crypto industry, draws White House attention",
-                    "source": "Crypto Briefing"
+                    "title": "Trump Media Bitcoin Move: Custody Shuffle or Forced Sale?",
+                    "source": "Dcforecasts.com"
                 }
             ]
         }

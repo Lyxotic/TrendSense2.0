@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-11-05T05:03:34.330105",
+    "report_generated_time": "2026-11-06T05:03:02.921042",
     "niche": "AI Agents & Multi-Agent Systems",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -21,14 +21,14 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 31,
-                    "increase_pct": "-63.5%",
+                    "recent_commits": 33,
+                    "increase_pct": "-63.3%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 305,
-                    "increase_pct": "-32.4%",
+                    "recent_commits": 263,
+                    "increase_pct": "-35.4%",
                     "score_contribution": 0
                 }
             ]
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "IndiaAI Mission's three indigenous AI models target offline mobile access, secure use in critical sectors",
-                    "source": "The Times of India"
+                    "title": "Media Briefing: Publishers\u2019 revenue growth defies traffic declines, but tougher comparisons loom",
+                    "source": "Digiday"
                 },
                 {
-                    "title": "NIST publishes cybersecurity guide for businesses too small to have IT staff",
+                    "title": "Most consumers aren\u2019t ready to let AI agents shop unsupervised",
                     "source": "Help Net Security"
                 }
             ]
