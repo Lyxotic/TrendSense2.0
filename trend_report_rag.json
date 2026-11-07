@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-11-06T05:03:06.516481",
+    "report_generated_time": "2026-11-07T04:37:23.554202",
     "niche": "RAG & Vector Databases",
     "final_score": 2.61,
     "alert_status": "PRE_TREND_ALERT",
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "super-document-processor added to PyPI",
+                    "title": "langchain-scrapeless 0.1.4",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "Bonree Advances AI-Native Observability and Global Expansion, Reinforcing Its Leadership in China's APMO Market",
-                    "source": "Antaranews.com"
+                    "title": "openscript-sdk added to PyPI",
+                    "source": "Pypi.org"
                 }
             ]
         }

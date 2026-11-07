@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-06T05:03:45.124052",
+    "report_generated_time": "2026-11-07T04:38:04.074254",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.57,
+    "final_score": 2.6,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,18 +11,18 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.21,
+            "normalized_score": 0.29,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 343,
-                    "increase_pct": "8.5%",
-                    "score_contribution": 0.43
+                    "recent_commits": 391,
+                    "increase_pct": "11.7%",
+                    "score_contribution": 0.59
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 41,
-                    "increase_pct": "-46.1%",
+                    "recent_commits": 40,
+                    "increase_pct": "-48.1%",
                     "score_contribution": 0
                 }
             ]
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "vikela added to PyPI",
-                    "source": "Pypi.org"
+                    "title": "Baltimore Ravens plan to load up on Derrick Henry fades away vs. Jaguars",
+                    "source": "The Florida Times-Union"
                 },
                 {
-                    "title": "Breathing Fresh Life Into a\u00a0Brand",
-                    "source": "WWD"
+                    "title": "UAlbany men's basketball holds off Manhattan for first 2-0 start under Dwayne Killings",
+                    "source": "Albany Times Union"
                 }
             ]
         }
