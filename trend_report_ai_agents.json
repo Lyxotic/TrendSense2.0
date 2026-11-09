@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-11-08T04:24:52.588688",
+    "report_generated_time": "2026-11-09T04:38:04.568629",
     "niche": "AI Agents & Multi-Agent Systems",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -21,14 +21,14 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 48,
-                    "increase_pct": "-27.3%",
+                    "recent_commits": 46,
+                    "increase_pct": "-41.0%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 249,
-                    "increase_pct": "-36.6%",
+                    "recent_commits": 246,
+                    "increase_pct": "-38.0%",
                     "score_contribution": 0
                 }
             ]
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Dollar jumps after strong US payrolls report",
-                    "source": "The Times of India"
+                    "title": "Hate Chromium? Well, There\u2019s a Linux Desktop Based on it Now",
+                    "source": "Itsfoss.com"
                 },
                 {
-                    "title": "The Globalists Just Came Out of Hiding for a Secretive Summit in China",
-                    "source": "Lewrockwell.com"
+                    "title": "Shizuku-Duplex: Japanese Full-Duplex Model for Natural Conversation",
+                    "source": "Shizuku.ai"
                 }
             ]
         }

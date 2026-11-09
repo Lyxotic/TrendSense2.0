@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-08T04:25:30.340892",
+    "report_generated_time": "2026-11-09T04:38:27.777844",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 2.57,
+    "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.19,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 14,
-                    "increase_pct": "7.7%",
-                    "score_contribution": 0.38
+                    "recent_commits": 12,
+                    "increase_pct": "-20.0%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "TSMC reportedly weighs 3D DRAM production at Nvidia\u2019s request",
-                    "source": "Crypto Briefing"
+                    "title": "finzdata-kimi added to PyPI",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "Bitcoin steadies after record hack fallout, US midterms turbulence",
-                    "source": "The Straits Times"
+                    "title": "finzdata-huggingface added to PyPI",
+                    "source": "Pypi.org"
                 }
             ]
         }
