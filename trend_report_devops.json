@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-09T04:38:49.874111",
+    "report_generated_time": "2026-11-10T05:56:02.794573",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.6,
+    "final_score": 2.61,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,18 +11,18 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.28,
+            "normalized_score": 0.32,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 401,
-                    "increase_pct": "11.1%",
-                    "score_contribution": 0.55
+                    "recent_commits": 409,
+                    "increase_pct": "13.0%",
+                    "score_contribution": 0.65
                 },
                 {
                     "repo_name": "docker/compose",
                     "recent_commits": 40,
-                    "increase_pct": "-48.1%",
+                    "increase_pct": "-20.0%",
                     "score_contribution": 0
                 }
             ]
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "St. Cloud State surrenders five points to Omaha as McLaughlin carted off ice",
-                    "source": "St. Cloud Times"
+                    "title": "What are some fun facts about blue gouramis?",
+                    "source": "Lifesciencesworld.com"
                 },
                 {
-                    "title": "No. 24 Florida stifled by Oklahoma as Florida loses for fourth time in five games",
-                    "source": "Orlando Sentinel"
+                    "title": "ti2dac 0.1.0",
+                    "source": "Pypi.org"
                 }
             ]
         }

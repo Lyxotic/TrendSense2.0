@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-09T04:38:08.782656",
+    "report_generated_time": "2026-11-10T05:54:50.922597",
     "niche": "RAG & Vector Databases",
-    "final_score": 3.22,
+    "final_score": 3.08,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 2.05,
+            "normalized_score": 1.67,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 43,
-                    "increase_pct": "22.9%",
-                    "score_contribution": 1.14
+                    "recent_commits": 38,
+                    "increase_pct": "-5.0%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "openrag 0.8.1.dev11",
+                    "title": "licos-agent-runtime 0.6.36",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "prompt-optimizer-tool added to PyPI",
-                    "source": "Pypi.org"
+                    "title": "TREC 2026",
+                    "source": "Nist.gov"
                 }
             ]
         }

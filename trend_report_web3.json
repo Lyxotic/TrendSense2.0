@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-11-09T04:38:27.777844",
+    "report_generated_time": "2026-11-10T05:55:24.535478",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 12,
-                    "increase_pct": "-20.0%",
+                    "recent_commits": 14,
+                    "increase_pct": "-17.6%",
                     "score_contribution": 0
                 },
                 {
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "finzdata-kimi added to PyPI",
-                    "source": "Pypi.org"
+                    "title": "Linus Torvalds sees signs the AI-driven patch flood may have peaked",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "finzdata-huggingface added to PyPI",
-                    "source": "Pypi.org"
+                    "title": "Whale opens 10x short on 30,000 NVDA perps on Hyperliquid",
+                    "source": "Crypto Briefing"
                 }
             ]
         }
