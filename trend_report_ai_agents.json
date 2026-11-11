@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-10T05:54:46.339648",
+    "report_generated_time": "2026-11-11T04:41:07.626556",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 2.5,
+    "final_score": 2.61,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,7 +11,7 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 0.31,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -21,14 +21,14 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 49,
-                    "increase_pct": "-22.2%",
-                    "score_contribution": 0
+                    "recent_commits": 51,
+                    "increase_pct": "18.6%",
+                    "score_contribution": 0.93
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 234,
-                    "increase_pct": "-28.2%",
+                    "recent_commits": 202,
+                    "increase_pct": "-29.1%",
                     "score_contribution": 0
                 }
             ]
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "GPT\u20116 Cyber: Advancing the frontier of aligned cybersecurity agents",
-                    "source": "Openai.com"
+                    "title": "Foxconn extends vertical integration across 5 battery layers",
+                    "source": "Digitimes"
                 },
                 {
-                    "title": "The Confessions of an AI Fraud Kingpin",
-                    "source": "404media.co"
+                    "title": "Huawei Releases Industry O&M Solutions",
+                    "source": "Antaranews.com"
                 }
             ]
         }

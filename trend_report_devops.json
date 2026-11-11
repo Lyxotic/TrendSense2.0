@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-10T05:56:02.794573",
+    "report_generated_time": "2026-11-11T04:41:21.302450",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.61,
+    "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,18 +11,18 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.32,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 409,
-                    "increase_pct": "13.0%",
-                    "score_contribution": 0.65
+                    "recent_commits": 363,
+                    "increase_pct": "-6.0%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 40,
-                    "increase_pct": "-20.0%",
+                    "recent_commits": 35,
+                    "increase_pct": "-14.6%",
                     "score_contribution": 0
                 }
             ]
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "What are some fun facts about blue gouramis?",
+                    "title": "Is there a bird that represents death?",
                     "source": "Lifesciencesworld.com"
                 },
                 {
-                    "title": "ti2dac 0.1.0",
-                    "source": "Pypi.org"
+                    "title": "What kills birds in my yard?",
+                    "source": "Lifesciencesworld.com"
                 }
             ]
         }

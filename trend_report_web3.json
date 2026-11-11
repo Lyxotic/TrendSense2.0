@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-10T05:55:24.535478",
+    "report_generated_time": "2026-11-11T04:41:14.984152",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 2.5,
+    "final_score": 2.56,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 0.17,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 14,
-                    "increase_pct": "-17.6%",
-                    "score_contribution": 0
+                    "recent_commits": 16,
+                    "increase_pct": "6.7%",
+                    "score_contribution": 0.33
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -31,11 +31,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Linus Torvalds sees signs the AI-driven patch flood may have peaked",
-                    "source": "Crypto Briefing"
+                    "title": "AI agents break safety rules by remembering harmless user context",
+                    "source": "CryptoSlate"
                 },
                 {
-                    "title": "Whale opens 10x short on 30,000 NVDA perps on Hyperliquid",
+                    "title": "Rep. Massie introduces impeachment articles against Defense Secretary Hegseth",
                     "source": "Crypto Briefing"
                 }
             ]
