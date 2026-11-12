@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-11-11T04:41:11.801591",
+    "report_generated_time": "2026-11-12T05:43:25.638958",
     "niche": "RAG & Vector Databases",
     "final_score": 3.08,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 35,
-                    "increase_pct": "-16.7%",
+                    "recent_commits": 31,
+                    "increase_pct": "-38.0%",
                     "score_contribution": 0
                 },
                 {
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "somm-langchain 0.24.0",
+                    "title": "langchain-reelspan 0.1.0",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "somm-langchain 0.23.0",
+                    "title": "langchain-reelspan added to PyPI",
                     "source": "Pypi.org"
                 }
             ]

@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-11-11T04:41:21.302450",
+    "report_generated_time": "2026-11-12T05:44:06.840644",
     "niche": "Cloud Native & DevOps",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,14 +15,14 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 363,
-                    "increase_pct": "-6.0%",
+                    "recent_commits": 326,
+                    "increase_pct": "-11.9%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 35,
-                    "increase_pct": "-14.6%",
+                    "recent_commits": 22,
+                    "increase_pct": "-60.0%",
                     "score_contribution": 0
                 }
             ]
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Is there a bird that represents death?",
-                    "source": "Lifesciencesworld.com"
+                    "title": "quantwave 0.10.0",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "What kills birds in my yard?",
-                    "source": "Lifesciencesworld.com"
+                    "title": "pyqcd 0.2.9",
+                    "source": "Pypi.org"
                 }
             ]
         }
