@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-12T05:43:21.477014",
+    "report_generated_time": "2026-11-13T05:00:19.697146",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 3.21,
+    "final_score": 3.35,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,24 +11,24 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 2.03,
+            "normalized_score": 2.42,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
-                    "recent_commits": 0,
-                    "increase_pct": "0.0%",
-                    "score_contribution": 0
+                    "recent_commits": 1,
+                    "increase_pct": "100.0%",
+                    "score_contribution": 5.0
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 51,
-                    "increase_pct": "121.7%",
-                    "score_contribution": 6.09
+                    "recent_commits": 48,
+                    "increase_pct": "45.5%",
+                    "score_contribution": 2.27
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 205,
-                    "increase_pct": "-31.9%",
+                    "recent_commits": 227,
+                    "increase_pct": "-13.7%",
                     "score_contribution": 0
                 }
             ]
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
-                    "source": "The Times of India"
+                    "title": "New Senate bill would continue data center construction",
+                    "source": "Americanthinker.com"
                 },
                 {
-                    "title": "U.S., China should \u2018harbor no illusions\u2019 as they cooperate, compete on AI, Bessent says",
-                    "source": "CNBC"
+                    "title": "New research could lead to faster, trustworthy AI models for climate prediction",
+                    "source": "Mit.edu"
                 }
             ]
         }
