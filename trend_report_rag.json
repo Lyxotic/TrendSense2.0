@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-13T05:00:40.044655",
+    "report_generated_time": "2026-11-14T04:54:19.338013",
     "niche": "RAG & Vector Databases",
-    "final_score": 4.25,
+    "final_score": 3.67,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,25 +11,25 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 5.0,
+            "normalized_score": 3.33,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 25,
-                    "increase_pct": "-51.0%",
+                    "recent_commits": 48,
+                    "increase_pct": "-5.9%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "qdrant/qdrant",
-                    "recent_commits": 118,
-                    "increase_pct": "11800.0%",
+                    "recent_commits": 123,
+                    "increase_pct": "12300.0%",
                     "score_contribution": 10.0
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 1,
-                    "increase_pct": "100.0%",
-                    "score_contribution": 5.0
+                    "recent_commits": 0,
+                    "increase_pct": "-100.0%",
+                    "score_contribution": 0
                 }
             ]
         },
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "nasute added to PyPI",
+                    "title": "fasterrag 0.1.0b1",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "keelson-finance added to PyPI",
+                    "title": "fasterrag added to PyPI",
                     "source": "Pypi.org"
                 }
             ]

@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-11-13T05:00:50.692494",
+    "report_generated_time": "2026-11-14T04:55:00.544836",
     "niche": "Cloud Native & DevOps",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,14 +15,14 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 303,
+                    "recent_commits": 315,
                     "increase_pct": "-24.1%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 17,
-                    "increase_pct": "-58.5%",
+                    "recent_commits": 22,
+                    "increase_pct": "-45.0%",
                     "score_contribution": 0
                 }
             ]
@@ -31,11 +31,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Google\u2019s Veterans Day Doodle",
-                    "source": "Americanthinker.com"
+                    "title": "Rosal\u00eda\u2019s \u2018Lux\u2019 wins album of the year at the 2026 Latin Grammy Awards",
+                    "source": "Abcnews.com"
                 },
                 {
-                    "title": "sqlquack-cli 0.6.0",
+                    "title": "crowdypy 0.32.0",
                     "source": "Pypi.org"
                 }
             ]
