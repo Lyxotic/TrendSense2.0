@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-14T04:53:44.738123",
+    "report_generated_time": "2026-11-15T04:46:49.986134",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 3.2,
+    "final_score": 3.11,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,7 +11,7 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 2.0,
+            "normalized_score": 1.74,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -21,15 +21,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 48,
-                    "increase_pct": "20.0%",
-                    "score_contribution": 1.0
+                    "recent_commits": 39,
+                    "increase_pct": "-18.8%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 238,
-                    "increase_pct": "-1.7%",
-                    "score_contribution": 0
+                    "recent_commits": 260,
+                    "increase_pct": "4.4%",
+                    "score_contribution": 0.22
                 }
             ]
         },
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Some Singapore government systems affected by Microsoft outage: GovTech",
-                    "source": "CNA"
+                    "title": "Bitcoin is either the best or worst asset class every year. ZebPay CEO Rahul Pagidipati explains why",
+                    "source": "The Times of India"
                 },
                 {
-                    "title": "Five thoughts from Cisco\u2019s first quarter of fiscal 2027",
-                    "source": "SiliconANGLE News"
+                    "title": "Can agriculture move from reactive management to predictive operations?",
+                    "source": "BusinessLine"
                 }
             ]
         }

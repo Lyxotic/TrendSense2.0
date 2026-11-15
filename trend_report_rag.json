@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-11-14T04:54:19.338013",
+    "report_generated_time": "2026-11-15T04:46:54.458382",
     "niche": "RAG & Vector Databases",
     "final_score": 3.67,
     "alert_status": "PRE_TREND_ALERT",
@@ -16,7 +16,7 @@
                 {
                     "repo_name": "langchain-ai/langchain",
                     "recent_commits": 48,
-                    "increase_pct": "-5.9%",
+                    "increase_pct": "-4.0%",
                     "score_contribution": 0
                 },
                 {
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "fasterrag 0.1.0b1",
+                    "title": "llms-ink 0.2.0",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "fasterrag added to PyPI",
+                    "title": "walletbrake added to PyPI",
                     "source": "Pypi.org"
                 }
             ]

@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-11-14T04:54:38.345857",
+    "report_generated_time": "2026-11-15T04:47:23.496701",
     "niche": "Web3 & Decentralized Infrastructure",
     "final_score": 2.88,
     "alert_status": "PRE_TREND_ALERT",
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "FBI says US has seized $1.2 billion worth of cryptocurrency stolen from Binance - ABC News - Breaking News, Latest News and Videos",
-                    "source": "Slashdot.org"
+                    "title": "Coinbase AI trading tool pauses bots, but leaves orders open",
+                    "source": "CryptoSlate"
                 },
                 {
-                    "title": "US disrupts North Korea's $400 million crypto scam, FBI says",
-                    "source": "Biztoc.com"
+                    "title": "Bitcoin\u2019s billion-dollar wipeouts are becoming a familiar sight",
+                    "source": "The Times of India"
                 }
             ]
         }
