@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-15T04:46:49.986134",
+    "report_generated_time": "2026-11-16T04:43:32.332449",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 3.11,
+    "final_score": 3.15,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,7 +11,7 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 1.74,
+            "normalized_score": 1.85,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -22,14 +22,14 @@
                 {
                     "repo_name": "crewAIInc/crewAI",
                     "recent_commits": 39,
-                    "increase_pct": "-18.8%",
+                    "increase_pct": "-15.2%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 260,
-                    "increase_pct": "4.4%",
-                    "score_contribution": 0.22
+                    "recent_commits": 273,
+                    "increase_pct": "11.0%",
+                    "score_contribution": 0.55
                 }
             ]
         },
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Bitcoin is either the best or worst asset class every year. ZebPay CEO Rahul Pagidipati explains why",
-                    "source": "The Times of India"
+                    "title": "Call for Papers on Human-AI Relationships",
+                    "source": "Socialpsychology.org"
                 },
                 {
-                    "title": "Can agriculture move from reactive management to predictive operations?",
-                    "source": "BusinessLine"
+                    "title": "How did \u2018wire replacements\u2019 ground planes across the entire US?",
+                    "source": "The Conversation Africa"
                 }
             ]
         }
