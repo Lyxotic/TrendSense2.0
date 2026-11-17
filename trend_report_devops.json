@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-16T04:44:03.129426",
+    "report_generated_time": "2026-11-17T06:30:46.029791",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.5,
+    "final_score": 2.74,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,19 +11,19 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 0.69,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 294,
-                    "increase_pct": "-31.0%",
+                    "recent_commits": 375,
+                    "increase_pct": "-14.8%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 22,
-                    "increase_pct": "-45.0%",
-                    "score_contribution": 0
+                    "recent_commits": 51,
+                    "increase_pct": "27.5%",
+                    "score_contribution": 1.38
                 }
             ]
         },
@@ -31,11 +31,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Richard Sterban, member of the celebrated country and gospel group The Oak Ridge Boys, dies at 83",
-                    "source": "Abcnews.com"
+                    "title": "Beavers could return to river separating counties",
+                    "source": "BBC News"
                 },
                 {
-                    "title": "bitti 0.3.3",
+                    "title": "arbi-serve 0.3.27",
                     "source": "Pypi.org"
                 }
             ]

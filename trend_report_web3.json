@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-16T04:43:41.181207",
+    "report_generated_time": "2026-11-17T06:30:38.190507",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 3.3,
+    "final_score": 2.62,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 2.29,
+            "normalized_score": 0.36,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 23,
-                    "increase_pct": "91.7%",
-                    "score_contribution": 4.58
+                    "recent_commits": 16,
+                    "increase_pct": "14.3%",
+                    "score_contribution": 0.71
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "EU Regulators Recruit Industry to Write Asset Tokenization Rules, With a Nov. 27 Deadline",
+                    "title": "Avenir Cut Its IBIT Holdings by Half, Yet Bitcoin ETFs Are Still 70% of Its Book",
                     "source": "Dcforecasts.com"
                 },
                 {
-                    "title": "Solana\u2019s \u201cretired\u201d validators still vote with 15% of active stake",
-                    "source": "CryptoSlate"
+                    "title": "Alibaba unveils Qwen4-Max, claims it beats rival models on coding",
+                    "source": "Crypto Briefing"
                 }
             ]
         }
