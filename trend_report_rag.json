@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-18T05:52:53.166075",
+    "report_generated_time": "2026-11-19T05:53:45.061750",
     "niche": "RAG & Vector Databases",
-    "final_score": 4.1,
+    "final_score": 4.34,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 4.57,
+            "normalized_score": 5.27,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
-                    "recent_commits": 61,
-                    "increase_pct": "74.3%",
-                    "score_contribution": 3.71
+                    "recent_commits": 67,
+                    "increase_pct": "116.1%",
+                    "score_contribution": 5.81
                 },
                 {
                     "repo_name": "qdrant/qdrant",
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "langchain-ahn 0.2.6",
+                    "title": "langchain-maritime 0.1.0",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "langchain-taguru 0.10.0",
+                    "title": "langchain-maritime added to PyPI",
                     "source": "Pypi.org"
                 }
             ]
