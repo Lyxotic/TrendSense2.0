@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-19T05:53:10.217273",
+    "report_generated_time": "2026-11-20T05:41:40.490127",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 3.55,
+    "final_score": 2.87,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,25 +11,25 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 3.01,
+            "normalized_score": 1.06,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
-                    "recent_commits": 1,
-                    "increase_pct": "100.0%",
-                    "score_contribution": 5.0
-                },
-                {
-                    "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 44,
-                    "increase_pct": "-13.7%",
+                    "recent_commits": 0,
+                    "increase_pct": "-100.0%",
                     "score_contribution": 0
                 },
                 {
+                    "repo_name": "crewAIInc/crewAI",
+                    "recent_commits": 53,
+                    "increase_pct": "10.4%",
+                    "score_contribution": 0.52
+                },
+                {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 372,
-                    "increase_pct": "80.6%",
-                    "score_contribution": 4.03
+                    "recent_commits": 349,
+                    "increase_pct": "53.1%",
+                    "score_contribution": 2.65
                 }
             ]
         },
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "FBI flash alert says Artex tool automating cyberattacks at \u2018machine speed\u2019",
-                    "source": "Therecord.media"
+                    "title": "Intelligence failure and the need for criminal justice reform",
+                    "source": "Peoplesreview.com.np"
                 },
                 {
-                    "title": "Announcing the Public Launch of SolveIt \u2013 fast.ai",
-                    "source": "Fast.ai"
+                    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is 'unpatchable'",
+                    "source": "Biztoc.com"
                 }
             ]
         }

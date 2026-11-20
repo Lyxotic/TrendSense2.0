@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-19T05:54:24.913101",
+    "report_generated_time": "2026-11-20T05:42:23.894079",
     "niche": "Cloud Native & DevOps",
-    "final_score": 3.95,
+    "final_score": 4.2,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,19 +11,19 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 4.14,
+            "normalized_score": 4.85,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 416,
-                    "increase_pct": "11.2%",
-                    "score_contribution": 0.56
+                    "recent_commits": 361,
+                    "increase_pct": "-1.6%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 56,
-                    "increase_pct": "154.5%",
-                    "score_contribution": 7.73
+                    "recent_commits": 50,
+                    "increase_pct": "194.1%",
+                    "score_contribution": 9.71
                 }
             ]
         },
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Can secretary birds eat venomous snakes?",
-                    "source": "Lifesciencesworld.com"
+                    "title": "Gotham\u2019s Jordynn Dudley wins Rookie of the Year after injury-abbreviated season",
+                    "source": "New York Post"
                 },
                 {
-                    "title": "crowdypy 0.34.0rc1",
-                    "source": "Pypi.org"
+                    "title": "Somali Uber driver fighting for his life after passenger strangled and ran him over with his own car",
+                    "source": "Dailymail.com"
                 }
             ]
         }
