@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-20T05:42:17.969549",
+    "report_generated_time": "2026-11-21T05:36:29.079614",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 2.5,
+    "final_score": 2.59,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 0.25,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 17,
-                    "increase_pct": "-15.0%",
-                    "score_contribution": 0
+                    "recent_commits": 22,
+                    "increase_pct": "10.0%",
+                    "score_contribution": 0.5
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Ripple CEO: Utility-driven crypto assets to outperform speculative tokens",
-                    "source": "Crypto Briefing"
+                    "title": "Aave V3 Health Factor Preview \u2013 Aave Docs",
+                    "source": "Aave.com"
                 },
                 {
-                    "title": "omega-cra-evol 0.13.0",
-                    "source": "Pypi.org"
+                    "title": "Ethereum\u2019s Glamsterdam Upgrade Slips Into 2027 After Audit Flags 200 Contract Risks",
+                    "source": "Dcforecasts.com"
                 }
             ]
         }

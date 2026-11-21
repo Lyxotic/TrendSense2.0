@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-20T05:41:40.490127",
+    "report_generated_time": "2026-11-21T05:35:50.630407",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 2.87,
+    "final_score": 2.83,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,7 +11,7 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 1.06,
+            "normalized_score": 0.95,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -21,15 +21,15 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 53,
-                    "increase_pct": "10.4%",
-                    "score_contribution": 0.52
+                    "recent_commits": 57,
+                    "increase_pct": "18.8%",
+                    "score_contribution": 0.94
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 349,
-                    "increase_pct": "53.1%",
-                    "score_contribution": 2.65
+                    "recent_commits": 328,
+                    "increase_pct": "38.4%",
+                    "score_contribution": 1.92
                 }
             ]
         },
@@ -37,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Intelligence failure and the need for criminal justice reform",
-                    "source": "Peoplesreview.com.np"
+                    "title": "Indian English accent gets lower ratings than US, UK speech in AI interviews and tests; US study raises questions about hiring and tests",
+                    "source": "The Times of India"
                 },
                 {
-                    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is 'unpatchable'",
-                    "source": "Biztoc.com"
+                    "title": "AI agent API security hasn\u2019t caught up with agents already running in production",
+                    "source": "Help Net Security"
                 }
             ]
         }

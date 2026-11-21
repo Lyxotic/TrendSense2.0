@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-20T05:42:23.894079",
+    "report_generated_time": "2026-11-21T05:36:35.818052",
     "niche": "Cloud Native & DevOps",
-    "final_score": 4.2,
+    "final_score": 3.43,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,19 +11,19 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 4.85,
+            "normalized_score": 2.64,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 361,
-                    "increase_pct": "-1.6%",
-                    "score_contribution": 0
+                    "recent_commits": 346,
+                    "increase_pct": "1.2%",
+                    "score_contribution": 0.06
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 50,
-                    "increase_pct": "194.1%",
-                    "score_contribution": 9.71
+                    "recent_commits": 45,
+                    "increase_pct": "104.5%",
+                    "score_contribution": 5.23
                 }
             ]
         },
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Gotham\u2019s Jordynn Dudley wins Rookie of the Year after injury-abbreviated season",
-                    "source": "New York Post"
+                    "title": "Can sugar gliders eat canned pears?",
+                    "source": "Lifesciencesworld.com"
                 },
                 {
-                    "title": "Somali Uber driver fighting for his life after passenger strangled and ran him over with his own car",
-                    "source": "Dailymail.com"
+                    "title": "faster-mac-use 0.4.4",
+                    "source": "Pypi.org"
                 }
             ]
         }
