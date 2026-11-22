@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-21T05:36:35.818052",
+    "report_generated_time": "2026-11-22T05:02:41.461777",
     "niche": "Cloud Native & DevOps",
-    "final_score": 3.43,
+    "final_score": 3.41,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 2.64,
+            "normalized_score": 2.61,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 346,
-                    "increase_pct": "1.2%",
-                    "score_contribution": 0.06
+                    "recent_commits": 333,
+                    "increase_pct": "-3.2%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Can sugar gliders eat canned pears?",
-                    "source": "Lifesciencesworld.com"
+                    "title": "Trump-hating Lachman arsonist finally gets convicted, but what about the satraps who refused to allow firefighters to stomp out his blaze?",
+                    "source": "Americanthinker.com"
                 },
                 {
-                    "title": "faster-mac-use 0.4.4",
-                    "source": "Pypi.org"
+                    "title": "65\" Hisense U7 Mini-LED ULED 4K UHD 165Hz Smart TV $800 + Free S&H",
+                    "source": "Slickdeals.net"
                 }
             ]
         }

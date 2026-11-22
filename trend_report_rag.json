@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-11-21T05:35:55.652201",
+    "report_generated_time": "2026-11-22T05:02:00.877133",
     "niche": "RAG & Vector Databases",
     "final_score": 2.6,
     "alert_status": "PRE_TREND_ALERT",
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "traceAI-langchain 0.2.4",
+                    "title": "openrag 0.8.2.dev2",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "ctxprune 0.4.1",
+                    "title": "langchain-houyidb 0.2.0b9",
                     "source": "Pypi.org"
                 }
             ]
