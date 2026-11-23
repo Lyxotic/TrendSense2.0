@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-11-22T05:02:41.461777",
+    "report_generated_time": "2026-11-23T05:45:06.142710",
     "niche": "Cloud Native & DevOps",
     "final_score": 3.41,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,8 +15,8 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 333,
-                    "increase_pct": "-3.2%",
+                    "recent_commits": 320,
+                    "increase_pct": "-1.5%",
                     "score_contribution": 0
                 },
                 {
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Trump-hating Lachman arsonist finally gets convicted, but what about the satraps who refused to allow firefighters to stomp out his blaze?",
-                    "source": "Americanthinker.com"
+                    "title": "vagrant-moses 0.21.0",
+                    "source": "Pypi.org"
                 },
                 {
-                    "title": "65\" Hisense U7 Mini-LED ULED 4K UHD 165Hz Smart TV $800 + Free S&H",
-                    "source": "Slickdeals.net"
+                    "title": "What is the dove release wedding tradition?",
+                    "source": "Lifesciencesworld.com"
                 }
             ]
         }

@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-22T05:02:34.508356",
+    "report_generated_time": "2026-11-23T05:44:44.030466",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 2.59,
+    "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.25,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 22,
-                    "increase_pct": "10.0%",
-                    "score_contribution": 0.5
+                    "recent_commits": 21,
+                    "increase_pct": "-8.7%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Bitcoin Hashprice Hits a Record Low of $26 Just Before a 9% Difficulty Hike",
-                    "source": "Dcforecasts.com"
+                    "title": "Thai cyber police raid Chiang Mai exchange shop tied to 2.7 million USDT wallet",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Best BBA with Digital Marketing in Kannur",
-                    "source": "Ibismschool.com"
+                    "title": "Kraken flags disruption in Cyber-Optimism funding gateway, deposits may be delayed",
+                    "source": "Crypto Briefing"
                 }
             ]
         }
