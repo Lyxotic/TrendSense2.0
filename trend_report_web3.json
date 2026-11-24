@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-23T05:44:44.030466",
+    "report_generated_time": "2026-11-24T08:22:26.446487",
     "niche": "Web3 & Decentralized Infrastructure",
-    "final_score": 2.5,
+    "final_score": 2.79,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Web3 & Decentralized Infrastructure is underway.",
     "human_summary": "Developers and researchers are actively expanding the Web3 & Decentralized Infrastructure ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,13 +11,13 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.0,
+            "normalized_score": 0.83,
             "data": [
                 {
                     "repo_name": "ethereum/go-ethereum",
-                    "recent_commits": 21,
-                    "increase_pct": "-8.7%",
-                    "score_contribution": 0
+                    "recent_commits": 20,
+                    "increase_pct": "33.3%",
+                    "score_contribution": 1.67
                 },
                 {
                     "repo_name": "solana-labs/solana",
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Thai cyber police raid Chiang Mai exchange shop tied to 2.7 million USDT wallet",
+                    "title": "Trump defends crypto push at $TRUMP dinner as token dips below $1",
                     "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Kraken flags disruption in Cyber-Optimism funding gateway, deposits may be delayed",
-                    "source": "Crypto Briefing"
+                    "title": "Trump to host private dinner for largest owners of his meme coin - Al Jazeera",
+                    "source": "Slashdot.org"
                 }
             ]
         }
