@@ -1,5 +1,5 @@
 {
-    "report_generated_time": "2026-11-24T08:22:33.170912",
+    "report_generated_time": "2026-11-25T06:59:23.485679",
     "niche": "Cloud Native & DevOps",
     "final_score": 2.5,
     "alert_status": "PRE_TREND_ALERT",
@@ -15,14 +15,14 @@
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 154,
-                    "increase_pct": "-64.7%",
+                    "recent_commits": 128,
+                    "increase_pct": "-70.2%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 13,
-                    "increase_pct": "-75.5%",
+                    "recent_commits": 10,
+                    "increase_pct": "-82.5%",
                     "score_contribution": 0
                 }
             ]
@@ -31,12 +31,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "dex-connector-postgresql 0.1.0",
-                    "source": "Pypi.org"
+                    "title": "Lauren Whittaker Elected to North Shore Showcase All-Tournament Team",
+                    "source": "The Slipper Still Fits"
                 },
                 {
-                    "title": "dex-connector-postgresql added to PyPI",
-                    "source": "Pypi.org"
+                    "title": "Will a possum attack a cat?",
+                    "source": "Lifesciencesworld.com"
                 }
             ]
         }

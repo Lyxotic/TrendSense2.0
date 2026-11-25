@@ -1,78 +1,17 @@
 {
-    "report_generated_time": "2026-11-24T08:21:31.898114",
+    "report_generated_time": "2026-11-25T06:58:09.480047",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 6.73,
+    "final_score": 2.81,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 10,
-            "data": [
-                {
-                    "title": "MAASAI: A Tool-Augmented Multi-Agent System for Astronomical Data Analysis",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2611.31088v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "From Local Errors to System Failures: Modeling and Benchmarking Error Propagation in Multi-Agent LLM Systems",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2611.31063v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "AI-Assisted Auto-formalization for Trustworthy Scientific Computing: Case Studies and Lessons Learned",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2611.31033v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "ComputeWise: Measuring and Fixing GPU Waste by AI Research Agents",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2611.31027v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "TrialAgentBench: Evaluating AI Agents for Clinical-Trial Analysis and Long-Horizon Drug-Development Decisions",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2611.30916v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Deviant Machines: Innovation, Containment, and the Prevention of Autonomous Misalignment",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2611.30848v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "AvatarAnyone: Agentic Reconstruction of Mesh-Based Layered Avatars from YouTube Video",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2611.30777v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "SchemaCaps: When a Compatible Tool Update Silently Widens an AI Agent's Authority",
-                    "summary": "A breakthrough in teaching AI how to autonomously use external tools like web search, code executors, and databases.",
-                    "link": "https://arxiv.org/pdf/2611.30750v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Handoff at Frontier AI Companies",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2611.30711v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Interrogation Protocols for AI Control",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2611.30583v1",
-                    "published": "Last 7 Days"
-                }
-            ]
+            "normalized_score": 0,
+            "data": []
         },
         "developer": {
-            "normalized_score": 0.67,
+            "normalized_score": 0.88,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -82,14 +21,14 @@
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 56,
-                    "increase_pct": "40.0%",
-                    "score_contribution": 2.0
+                    "recent_commits": 61,
+                    "increase_pct": "52.5%",
+                    "score_contribution": 2.62
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 274,
-                    "increase_pct": "-7.7%",
+                    "recent_commits": 289,
+                    "increase_pct": "-16.0%",
                     "score_contribution": 0
                 }
             ]
@@ -98,12 +37,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "vivo X500 Pro Max vs OPPO Find X10 Pro Max: Two Camera Bets on the Same Chip",
-                    "source": "The Gadgeteer"
+                    "title": "GLM-5.4 AI model: The Best Proven Upgrade for Developers",
+                    "source": "Blogdoandroid.com"
                 },
                 {
-                    "title": "Why Apple wants to make AI agents a native part of the Mac experience",
-                    "source": "Business Standard"
+                    "title": "Microsoft AI CEO Mustafa Suleyman says that he is really, really nervous; calls last three months a watershed moment; as AI tools have developed this new capability that can ...",
+                    "source": "The Times of India"
                 }
             ]
         }
