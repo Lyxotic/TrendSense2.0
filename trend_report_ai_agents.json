@@ -1,7 +1,7 @@
 {
-    "report_generated_time": "2026-11-25T06:58:09.480047",
+    "report_generated_time": "2026-11-26T06:48:49.180780",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 2.81,
+    "final_score": 2.71,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
@@ -11,7 +11,7 @@
             "data": []
         },
         "developer": {
-            "normalized_score": 0.88,
+            "normalized_score": 0.59,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
@@ -22,13 +22,13 @@
                 {
                     "repo_name": "crewAIInc/crewAI",
                     "recent_commits": 61,
-                    "increase_pct": "52.5%",
-                    "score_contribution": 2.62
+                    "increase_pct": "35.6%",
+                    "score_contribution": 1.78
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 289,
-                    "increase_pct": "-16.0%",
+                    "recent_commits": 232,
+                    "increase_pct": "-38.0%",
                     "score_contribution": 0
                 }
             ]
@@ -37,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "GLM-5.4 AI model: The Best Proven Upgrade for Developers",
-                    "source": "Blogdoandroid.com"
+                    "title": "Digital arrest: Why your bank has to compensate cyber fraud losses",
+                    "source": "Livemint"
                 },
                 {
-                    "title": "Microsoft AI CEO Mustafa Suleyman says that he is really, really nervous; calls last three months a watershed moment; as AI tools have developed this new capability that can ...",
+                    "title": "How Ukraine is using AI to track and destroy Russian forces",
                     "source": "The Times of India"
                 }
             ]
