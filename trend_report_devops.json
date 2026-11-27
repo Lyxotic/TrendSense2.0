@@ -1,28 +1,89 @@
 {
-    "report_generated_time": "2026-11-26T06:49:02.111754",
+    "report_generated_time": "2026-11-27T06:41:34.535522",
     "niche": "Cloud Native & DevOps",
-    "final_score": 2.5,
+    "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in Cloud Native & DevOps is underway.",
     "human_summary": "Developers and researchers are actively expanding the Cloud Native & DevOps ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 0,
-            "data": []
+            "normalized_score": 10,
+            "data": [
+                {
+                    "title": "When Online Adaptation of Resilience Policies Hurts: Safe Exploration and Measurement Pitfalls in Resilience4j",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2611.32015v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Toward Database-Native Genomics: A Vision for Declarative Genomic Analysis",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2611.31893v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Stress2Twin: Profile-Driven Network Digital Twins for Guarded Edge Computing Resource Management",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2611.30699v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Verifiable Logical-Physical Contracts for Refactored On-Die Power Control Circuitry",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2611.30631v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Placing the Control Plane: Cloud-Native Federated Learning Across Batch-Scheduled HPC",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2611.30381v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Multi-Agent Coordinated Method-Level Refactoring of Rust Code",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2611.29321v2",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Adaptive Warm-State Retention for Serverless Cold-Start Mitigation: Treating Keep-Alive Time as an Online Control Parameter",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2611.28306v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "ScaleBench: An Extensible and Reproducible Experimental Platform for Kubernetes Autoscaling Research",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2611.24398v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Collecting Infrastructure-Level Measures for Energy Analysis in Modern Computing Infrastructures",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2611.22160v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Integrating AI Coding Agents Into Scientific Research",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2611.23334v1",
+                    "published": "Last 7 Days"
+                }
+            ]
         },
         "developer": {
             "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "kubernetes/kubernetes",
-                    "recent_commits": 100,
-                    "increase_pct": "-76.6%",
+                    "recent_commits": 83,
+                    "increase_pct": "-77.4%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "docker/compose",
-                    "recent_commits": 11,
-                    "increase_pct": "-80.4%",
+                    "recent_commits": 12,
+                    "increase_pct": "-76.0%",
                     "score_contribution": 0
                 }
             ]
@@ -31,12 +92,12 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "ts-pack-cli 1.27.3",
-                    "source": "Pypi.org"
+                    "title": "Venice AI faces privacy allegations as VVV drops over 15%",
+                    "source": "Crypto Briefing"
                 },
                 {
-                    "title": "Are black-footed ferrets critically endangered?",
-                    "source": "Lifesciencesworld.com"
+                    "title": "paacs-mesh 1.2.0rc4",
+                    "source": "Pypi.org"
                 }
             ]
         }

@@ -1,34 +1,95 @@
 {
-    "report_generated_time": "2026-11-26T06:48:49.180780",
+    "report_generated_time": "2026-11-27T06:41:13.289390",
     "niche": "AI Agents & Multi-Agent Systems",
-    "final_score": 2.71,
+    "final_score": 6.5,
     "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in AI Agents & Multi-Agent Systems is underway.",
     "human_summary": "Developers and researchers are actively expanding the AI Agents & Multi-Agent Systems ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 0,
-            "data": []
+            "normalized_score": 10,
+            "data": [
+                {
+                    "title": "Attack Policy Selection can Mislead Monitor Evaluators",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2611.34934v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "AutoRSP: An AI Agent for Radar Sensing Pipeline Design",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2611.34754v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "REE: A Scientific Research Entrance Exam for AI Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2611.34646v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Evaluating More with Less: Black-Box Test Selection for AI Agents",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2611.34617v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Routing and Cache Retention for Multi-Turn LLM Inference: Theory and Implementation",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2611.34584v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "Kant-Q: A Q-Learning Algorithm for Kantian Equilibrium in Symmetric Markov Games",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2611.34536v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "AgentLens: Graph-guided Security Auditing for LLM-based Agents",
+                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
+                    "link": "https://arxiv.org/pdf/2611.34380v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "SmartLens: Turning AI Agent Changes into Learning, Review, and Risk Signals in the IDE",
+                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
+                    "link": "https://arxiv.org/pdf/2611.34377v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "MeterRouter: Budget-Aware Dynamic Routing for Multi-Agent Systems",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2611.34327v1",
+                    "published": "Last 7 Days"
+                },
+                {
+                    "title": "StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation",
+                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
+                    "link": "https://arxiv.org/pdf/2611.34290v1",
+                    "published": "Last 7 Days"
+                }
+            ]
         },
         "developer": {
-            "normalized_score": 0.59,
+            "normalized_score": 0.0,
             "data": [
                 {
                     "repo_name": "microsoft/autogen",
                     "recent_commits": 0,
-                    "increase_pct": "-100.0%",
+                    "increase_pct": "0.0%",
                     "score_contribution": 0
                 },
                 {
                     "repo_name": "crewAIInc/crewAI",
-                    "recent_commits": 61,
-                    "increase_pct": "35.6%",
-                    "score_contribution": 1.78
+                    "recent_commits": 44,
+                    "increase_pct": "-12.0%",
+                    "score_contribution": 0
                 },
                 {
                     "repo_name": "pydantic/pydantic-ai",
-                    "recent_commits": 232,
-                    "increase_pct": "-38.0%",
+                    "recent_commits": 272,
+                    "increase_pct": "-22.1%",
                     "score_contribution": 0
                 }
             ]
@@ -37,11 +98,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "Digital arrest: Why your bank has to compensate cyber fraud losses",
-                    "source": "Livemint"
+                    "title": "\u2018South Park\u2019 Lampoons \u2018GTA VI,\u2019 AI and Chinese Spies in Latest Episode",
+                    "source": "TheWrap"
                 },
                 {
-                    "title": "How Ukraine is using AI to track and destroy Russian forces",
+                    "title": "Ten women in a Chhattisgarh village trained as rooftop solar installers and helped bring solar power to more than 150 homes; these 'Solar Didis' have reportedly earned over Rs 2.5 lakh from their work",
                     "source": "The Times of India"
                 }
             ]
