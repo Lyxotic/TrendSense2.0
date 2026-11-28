@@ -1,83 +1,22 @@
 {
-    "report_generated_time": "2026-11-27T06:41:19.227530",
+    "report_generated_time": "2026-11-28T06:16:05.408868",
     "niche": "RAG & Vector Databases",
-    "final_score": 7.08,
-    "alert_status": "TRENDING_NOW",
+    "final_score": 3.67,
+    "alert_status": "PRE_TREND_ALERT",
     "alert_message": "Topic is showing momentum. The shift in RAG & Vector Databases is underway.",
     "human_summary": "Developers and researchers are actively expanding the RAG & Vector Databases ecosystem. Keep an eye on the latest framework updates and academic publications.",
     "signals": {
         "academic": {
-            "normalized_score": 10,
-            "data": [
-                {
-                    "title": "MINE: A Training-Free Defense against Indirect Prompt Injection via Mutual Information and Embedding Variance",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2611.34188v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Privacy-Aware Adaptive Client Selection for Federated Retrieval-Augmented Generation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2611.33890v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2611.33497v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Efficient Video Retrieval Augmented Generation via Token Allocation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2611.32938v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Validating Multi-Model AI-Generated Acceptance Criteria in Requirements Engineering",
-                    "summary": "Presents a new method for AI agents to navigate and interact with complex website interfaces and desktop software.",
-                    "link": "https://arxiv.org/pdf/2611.32374v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Unjamming Deferrals: Supporting Students Through JAMN Bot, a Mobile RAG-Grounded Policy Assistant",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2611.32266v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Rethinking Document Indexing for LLM-based Analysis",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2611.31679v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "BRAG: Bayesian Retrieval Augmented Generation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2611.31656v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "From Local Errors to System Failures: Modeling and Benchmarking Error Propagation in Multi-Agent LLM Systems",
-                    "summary": "This research explores how multiple specialized AI agents can work together to solve problems that are too complex for a single model.",
-                    "link": "https://arxiv.org/pdf/2611.31063v1",
-                    "published": "Last 7 Days"
-                },
-                {
-                    "title": "Automatic Occupational Coding through Retrieval-Augmented Generation",
-                    "summary": "An important advancement in open-source framework logic that improves the reliability and efficiency of AI-driven automation.",
-                    "link": "https://arxiv.org/pdf/2611.31051v1",
-                    "published": "Last 7 Days"
-                }
-            ]
+            "normalized_score": 0,
+            "data": []
         },
         "developer": {
-            "normalized_score": 1.67,
+            "normalized_score": 3.33,
             "data": [
                 {
                     "repo_name": "langchain-ai/langchain",
                     "recent_commits": 34,
-                    "increase_pct": "-57.5%",
+                    "increase_pct": "-39.3%",
                     "score_contribution": 0
                 },
                 {
@@ -88,9 +27,9 @@
                 },
                 {
                     "repo_name": "chroma-core/chroma",
-                    "recent_commits": 1,
-                    "increase_pct": "100.0%",
-                    "score_contribution": 5.0
+                    "recent_commits": 2,
+                    "increase_pct": "200.0%",
+                    "score_contribution": 10.0
                 }
             ]
         },
@@ -98,11 +37,11 @@
             "normalized_score": 10.0,
             "data": [
                 {
-                    "title": "langchain-bf16 0.1.0",
+                    "title": "scrapercity 1.0.55",
                     "source": "Pypi.org"
                 },
                 {
-                    "title": "langchain-bf16 added to PyPI",
+                    "title": "feraterra-sdk 4.9.4",
                     "source": "Pypi.org"
                 }
             ]
